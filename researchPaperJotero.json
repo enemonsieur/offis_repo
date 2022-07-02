@@ -1,0 +1,1872 @@
+{
+  "collections": {
+    "A4LQA8JN": {
+      "collections": [],
+      "items": [],
+      "key": "A4LQA8JN",
+      "name": "OFFIS_work",
+      "parent": ""
+    },
+    "B3ZHZ5UA": {
+      "collections": [],
+      "items": [
+        124
+      ],
+      "key": "B3ZHZ5UA",
+      "name": "Visual NP",
+      "parent": ""
+    },
+    "NELM3556": {
+      "collections": [],
+      "items": [
+        58,
+        59,
+        96,
+        98,
+        109,
+        111,
+        113,
+        121,
+        126
+      ],
+      "key": "NELM3556",
+      "name": "Stress measurement",
+      "parent": ""
+    },
+    "ZPLRV3KN": {
+      "collections": [],
+      "items": [
+        7,
+        9,
+        11,
+        13,
+        14,
+        21,
+        34,
+        42,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "key": "ZPLRV3KN",
+      "name": "Technostress and Workload",
+      "parent": ""
+    }
+  },
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "options": {
+      "exportNotes": true
+    },
+    "preferences": {
+      "DOIandURL": "both",
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoAbbrevStyle": "",
+      "autoExport": "immediate",
+      "autoExportDelay": 5,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "autoPinDelay": 0,
+      "automaticTags": true,
+      "auxImport": false,
+      "baseAttachmentPath": "",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": false,
+      "biblatexExtractEprint": true,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cache": true,
+      "cacheFlushInterval": 5,
+      "charmap": "",
+      "citeCommand": "cite",
+      "citekeyFold": true,
+      "citekeyFormat": "auth.lower + shorttitle(3,3) + year",
+      "citekeyFormatBackup": "",
+      "citekeySearch": true,
+      "csquotes": "",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportTitleCase": true,
+      "extraMergeCSL": false,
+      "extraMergeCitekeys": false,
+      "extraMergeTeX": false,
+      "git": "config",
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importNoteToExtra": "",
+      "importSentenceCase": "on+guess",
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "jieba": false,
+      "keyConflictPolicy": "keep",
+      "keyScope": "library",
+      "kuroshiro": false,
+      "language": "langid",
+      "mapMath": "",
+      "mapText": "",
+      "mapUnicode": "conservative",
+      "parseParticles": true,
+      "patchDates": "",
+      "platform": "win",
+      "postscript": "",
+      "postscriptOverride": "",
+      "preferencesOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "latex",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": false,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "retainCache": false,
+      "scrubDatabase": false,
+      "separatorList": "and",
+      "separatorNames": "and",
+      "skipFields": "",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "startupProgress": "popup",
+      "strings": "",
+      "stringsOverride": "",
+      "testing": false,
+      "verbatimFields": "url,doi,file,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/, /^bdsk-url-[0-9]+$/",
+      "warnBulkModify": 10,
+      "warnTitleCased": false,
+      "worker": true
+    }
+  },
+  "items": [
+    {
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T10:28:39Z",
+          "dateModified": "2022-06-28T10:28:46Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\X69DEKJC\\Helton - Validation of a Short Stress State Questionnaire.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Helton - Validation of a Short Stress State Questionnaire.pdf",
+          "uri": "http://zotero.org/users/9698946/items/X69DEKJC"
+        }
+      ],
+      "citationKey": "heltonValidationShortStressa",
+      "citekey": "heltonValidationShortStressa",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "William",
+          "lastName": "Helton"
+        }
+      ],
+      "dateAdded": "2022-06-28T10:28:46Z",
+      "dateModified": "2022-06-28T10:28:46Z",
+      "itemID": 115,
+      "itemKey": "2MFPNA9Y",
+      "itemType": "journalArticle",
+      "key": "2MFPNA9Y",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "5",
+      "publicationTitle": "th ANNUAL MEETING",
+      "relations": [],
+      "select": "zotero://select/library/items/2MFPNA9Y",
+      "tags": [],
+      "title": "Validation of a Short Stress State Questionnaire",
+      "uri": "http://zotero.org/users/9698946/items/2MFPNA9Y",
+      "version": 279
+    },
+    {
+      "DOI": "10.1080/00140139308967972",
+      "ISSN": "0014-0139, 1366-5847",
+      "accessDate": "2022-06-23T14:36:29Z",
+      "attachments": [],
+      "citationKey": "gaillardComparingConceptsMental1993",
+      "citekey": "gaillardComparingConceptsMental1993",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "A. W. K.",
+          "lastName": "Gaillard"
+        }
+      ],
+      "date": "09/1993",
+      "dateAdded": "2022-06-23T14:36:29Z",
+      "dateModified": "2022-06-23T14:39:13Z",
+      "issue": "9",
+      "itemID": 53,
+      "itemKey": "7DPWSWNN",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Ergonomics",
+      "key": "7DPWSWNN",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "991-1005",
+      "publicationTitle": "Ergonomics",
+      "relations": [],
+      "select": "zotero://select/library/items/7DPWSWNN",
+      "tags": [
+        {
+          "tag": "Unread"
+        }
+      ],
+      "title": "Comparing the concepts of mental load and stress",
+      "uri": "http://zotero.org/users/9698946/items/7DPWSWNN",
+      "url": "http://www.tandfonline.com/doi/abs/10.1080/00140139308967972",
+      "version": 115,
+      "volume": "36"
+    },
+    {
+      "abstractNote": "Abstract\nWe investigate the effect of conditions that create technostress, on technology-enabled innovation, technology-enabled performance and overall performance. We further look at the role of technology self-efficacy, organizational mechanisms that inhibit technostress and technology competence as possible mitigations to the effects of technostress creators. Our findings show a negative association between technostress creators and performance. We find that, while traditional effort-based mechanisms such as building technology competence reduce the impact of technostress creators on technology-enabled innovation and performance, more empowering mechanisms such as developing technology self-efficacy and information systems (IS) literacy enhancement and involvement in IS initiatives are required to counter the decrease in overall performance because of technostress creators. Noting that the professional sales context offers increasingly high expectations for technology-enabled performance in an inherently interpersonal-oriented and relationship-oriented environment with regard to overall performance, and high failure rates for IS acceptance/use, the study uses survey data collected from 237 institutional sales professionals.",
+      "attachments": [],
+      "citationKey": "monideepatarafdarellenbolman.pullinst.s.ragu-nathanTechnostressNegativeEffect",
+      "citekey": "monideepatarafdarellenbolman.pullinst.s.ragu-nathanTechnostressNegativeEffect",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "",
+          "lastName": "Monideepa Tarafdar,Ellen Bolman. Pullins,T. S. Ragu-Nathan"
+        }
+      ],
+      "dateAdded": "2022-06-23T10:34:20Z",
+      "dateModified": "2022-06-23T10:35:13Z",
+      "itemID": 5,
+      "itemKey": "8TIY4XQN",
+      "itemType": "journalArticle",
+      "key": "8TIY4XQN",
+      "libraryID": 1,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/library/items/8TIY4XQN",
+      "tags": [],
+      "title": "Technostress: negative effect on performance and possible mitigations",
+      "uri": "http://zotero.org/users/9698946/items/8TIY4XQN",
+      "url": "https://doi.org/10.1111/isj.12042",
+      "version": 16
+    },
+    {
+      "DOI": "10.1016/j.paid.2020.110083",
+      "ISSN": "01918869",
+      "abstractNote": "Individuals performing cognitive tasks experience a range of subjective states including stress, excitement, and fatigue. This article reviews research based on a multidimensional assessment of state dimensions in the performance context, the Dundee Stress State Questionnaire (DSSQ). Various types of evidence for validity support diﬀerentiating task engagement, distress, and worry dimensions as indices of the dynamic transaction between the performer and the task environment. The article aims to illustrate diﬀerent uses of the scale in theory-based and applied studies of individual diﬀerences in performance. One usage is investigating relationships between personality traits, resilience, and stress reactivity. Subjective states reﬂect cognitive stress processes (appraisal and coping), which may be biased by traits. A second usage is testing theories of stress eﬀects on attention and performance; research ﬁndings link task engagement to resources for sustained and focused attention, and distress to impairments in working memory and executive control. A third usage is testing states as mediators of personality-performance associations. Individual diﬀerences in human performance may reﬂect biological, cognitive, and self-regulative processes, so that interpretation of subjective state scores requires an explicit theoretical orientation. Practical applications of the multidimensional model include support for stress mitigation, training, personnel selection and team performance.",
+      "accessDate": "2022-06-28T11:00:35Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-28T11:00:18Z",
+          "dateModified": "2022-06-28T11:00:36Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\4P93HAG4\\Matthews - 2021 - Stress states, personality and cognitive functioni.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Matthews - 2021 - Stress states, personality and cognitive functioni.pdf",
+          "uri": "http://zotero.org/users/9698946/items/4P93HAG4"
+        }
+      ],
+      "citationKey": "matthewsStressStatesPersonality2021",
+      "citekey": "matthewsStressStatesPersonality2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gerald",
+          "lastName": "Matthews"
+        }
+      ],
+      "date": "02/2021",
+      "dateAdded": "2022-06-28T11:00:35Z",
+      "dateModified": "2022-06-28T11:00:35Z",
+      "itemID": 121,
+      "itemKey": "9UHXIT3V",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Personality and Individual Differences",
+      "key": "9UHXIT3V",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "110083",
+      "publicationTitle": "Personality and Individual Differences",
+      "relations": [],
+      "select": "zotero://select/library/items/9UHXIT3V",
+      "shortTitle": "Stress states, personality and cognitive functioning",
+      "tags": [],
+      "title": "Stress states, personality and cognitive functioning: A review of research with the Dundee Stress State Questionnaire",
+      "uri": "http://zotero.org/users/9698946/items/9UHXIT3V",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0191886920302725",
+      "version": 286,
+      "volume": "169"
+    },
+    {
+      "DOI": "10.1027/1015-5759/a000200",
+      "ISSN": "1015-5759, 2151-2426",
+      "abstractNote": "Conscious appraisals of stress, or stress states, are an important aspect of human performance. This article presents evidence supporting the validity and measurement characteristics of a short multidimensional self-report measure of stress state, the Short Stress State Questionnaire (SSSQ; Helton, 2004 ). The SSSQ measures task engagement, distress, and worry. A confirmatory factor analysis of the SSSQ using data pooled from multiple samples suggests the SSSQ does have a three factor structure and post-task changes are not due to changes in factor structure, but to mean level changes (state changes). In addition, the SSSQ demonstrates sensitivity to task stressors in line with hypotheses. Different task conditions elicited unique patterns of stress state on the three factors of the SSSQ in line with prior predictions. The 24-item SSSQ is a valid measure of stress state which may be useful to researchers interested in conscious appraisals of task-related stress.",
+      "accessDate": "2022-06-23T15:12:15Z",
+      "attachments": [],
+      "citationKey": "heltonShortStressState2015",
+      "citekey": "heltonShortStressState2015",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "William S.",
+          "lastName": "Helton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katharina",
+          "lastName": "Näswall"
+        }
+      ],
+      "date": "2015-06-01",
+      "dateAdded": "2022-06-23T15:12:15Z",
+      "dateModified": "2022-06-23T15:12:15Z",
+      "issue": "1",
+      "itemID": 58,
+      "itemKey": "AHWYS6XG",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "European Journal of Psychological Assessment",
+      "key": "AHWYS6XG",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "20-30",
+      "publicationTitle": "European Journal of Psychological Assessment",
+      "relations": [],
+      "select": "zotero://select/library/items/AHWYS6XG",
+      "shortTitle": "Short Stress State Questionnaire",
+      "tags": [],
+      "title": "Short Stress State Questionnaire: Factor Structure and State Change Assessment",
+      "uri": "http://zotero.org/users/9698946/items/AHWYS6XG",
+      "url": "https://econtent.hogrefe.com/doi/10.1027/1015-5759/a000200",
+      "version": 123,
+      "volume": "31"
+    },
+    {
+      "attachments": [],
+      "citationKey": "zotero-56",
+      "citekey": "zotero-56",
+      "creators": [],
+      "dateAdded": "2022-06-23T15:01:57Z",
+      "dateModified": "2022-06-23T15:01:57Z",
+      "itemID": 56,
+      "itemKey": "E8XVD2N6",
+      "itemType": "newspaperArticle",
+      "key": "E8XVD2N6",
+      "libraryID": 1,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/library/items/E8XVD2N6",
+      "tags": [],
+      "uri": "http://zotero.org/users/9698946/items/E8XVD2N6",
+      "version": 119
+    },
+    {
+      "attachments": [],
+      "citationKey": "ImpactWorkloadTechnology",
+      "citekey": "ImpactWorkloadTechnology",
+      "creators": [],
+      "dateAdded": "2022-06-23T10:38:16Z",
+      "dateModified": "2022-06-23T10:38:34Z",
+      "itemID": 7,
+      "itemKey": "FDVENISH",
+      "itemType": "journalArticle",
+      "key": "FDVENISH",
+      "libraryID": 1,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/library/items/FDVENISH",
+      "tags": [],
+      "title": "The Impact of Workload and Technology Competence on Technostress and Performance of Employees",
+      "uri": "http://zotero.org/users/9698946/items/FDVENISH",
+      "url": "https://ideas.repec.org/a/aii/ijcmss/v5y2014i2p01-07.html#:~:text=From%20the%20research%20it%20can,intervening%20variable%20in%20the%20relationship.",
+      "version": 108
+    },
+    {
+      "DOI": "10.2753/MIS0742-1222240109",
+      "ISSN": "0742-1222, 1557-928X",
+      "accessDate": "2022-06-23T14:40:34Z",
+      "attachments": [],
+      "citationKey": "tarafdarImpactTechnostressRole2007",
+      "citekey": "tarafdarImpactTechnostressRole2007",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Monideepa",
+          "lastName": "Tarafdar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Qiang",
+          "lastName": "Tu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bhanu S.",
+          "lastName": "Ragu-Nathan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "T. S.",
+          "lastName": "Ragu-Nathan"
+        }
+      ],
+      "date": "07/2007",
+      "dateAdded": "2022-06-23T14:40:34Z",
+      "dateModified": "2022-06-23T14:40:34Z",
+      "issue": "1",
+      "itemID": 54,
+      "itemKey": "G4FR83C2",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Journal of Management Information Systems",
+      "key": "G4FR83C2",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "301-328",
+      "publicationTitle": "Journal of Management Information Systems",
+      "relations": [],
+      "select": "zotero://select/library/items/G4FR83C2",
+      "tags": [],
+      "title": "The Impact of Technostress on Role Stress and Productivity",
+      "uri": "http://zotero.org/users/9698946/items/G4FR83C2",
+      "url": "https://www.tandfonline.com/doi/full/10.2753/MIS0742-1222240109",
+      "version": 116,
+      "volume": "24"
+    },
+    {
+      "DOI": "10.3389/fncom.2021.684423",
+      "ISSN": "1662-5188",
+      "abstractNote": "Recent studies have addressed stress level classiﬁcation via electroencephalography (EEG) and machine learning. These works typically use EEG-based features, like power spectral density (PSD), to develop stress classiﬁers. Nonetheless, these classiﬁers are usually limited to the discrimination of two (stress and no stress) or three (low, medium, and high) stress levels. In this study we propose an alternative for quantitative stress assessment based on EEG and regression algorithms. To this aim, we conducted a group of 23 participants (mean age 22.65 ± 5.48) over a stress-relax experience while monitoring their EEG. First, we stressed the participants via the Montreal imaging stress task (MIST), and then we led them through a 360-degree virtual reality (VR) relaxation experience. Throughout the session, the participants reported their self-perceived stress level (SPSL) via surveys. Subsequently, we extracted spectral features from the EEG of the participants and we developed individual models based on regression algorithms to predict their SPSL. We evaluated stress regression performance in terms of the mean squared percentage error (MSPE) and the correlation coefﬁcient (R2). The results yielded from this evaluation (MSPE = 10.62 ± 2.12, R2 = 0.92 ± 0.02) suggest that our approach predicted the stress level of the participants with remarkable performance. These results may have a positive impact in diverse areas that could beneﬁt from stress level quantitative prediction. These areas include research ﬁelds like neuromarketing, and training of professionals such as surgeons, industrial workers, or ﬁreﬁghters, that often face stressful situations.",
+      "accessDate": "2022-06-27T07:21:26Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-27T07:21:23Z",
+          "dateModified": "2022-06-27T07:21:26Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\JZ2ZRQQZ\\Perez-Valero et al. - 2021 - Quantitative Assessment of Stress Through EEG Duri.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Perez-Valero et al. - 2021 - Quantitative Assessment of Stress Through EEG Duri.pdf",
+          "uri": "http://zotero.org/users/9698946/items/JZ2ZRQQZ"
+        }
+      ],
+      "citationKey": "perez-valeroQuantitativeAssessmentStress2021",
+      "citekey": "perez-valeroQuantitativeAssessmentStress2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Eduardo",
+          "lastName": "Perez-Valero"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Miguel A.",
+          "lastName": "Vaquero-Blasco"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Miguel A.",
+          "lastName": "Lopez-Gordo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christian",
+          "lastName": "Morillas"
+        }
+      ],
+      "date": "2021-7-14",
+      "dateAdded": "2022-06-27T07:21:26Z",
+      "dateModified": "2022-06-27T07:21:26Z",
+      "itemID": 113,
+      "itemKey": "G6FEVQEB",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Front. Comput. Neurosci.",
+      "key": "G6FEVQEB",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "684423",
+      "publicationTitle": "Frontiers in Computational Neuroscience",
+      "relations": [],
+      "select": "zotero://select/library/items/G6FEVQEB",
+      "tags": [],
+      "title": "Quantitative Assessment of Stress Through EEG During a Virtual Reality Stress-Relax Session",
+      "uri": "http://zotero.org/users/9698946/items/G6FEVQEB",
+      "url": "https://www.frontiersin.org/articles/10.3389/fncom.2021.684423/full",
+      "version": 274,
+      "volume": "15"
+    },
+    {
+      "DOI": "10.1145/3329189.3329235",
+      "ISBN": "978-1-4503-6126-2",
+      "accessDate": "2022-06-23T15:15:05Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-23T15:15:06Z",
+          "dateModified": "2022-06-23T15:15:06Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\LDM2Q5ZA\\Alsuraykh et al. - 2019 - How Stress and Mental Workload are Connected.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Full Text",
+          "uri": "http://zotero.org/users/9698946/items/LDM2Q5ZA"
+        }
+      ],
+      "citationKey": "alsuraykhHowStressMental2019",
+      "citekey": "alsuraykhHowStressMental2019",
+      "conferenceName": "PervasiveHealth'19: The 13th International Conference on Pervasive Computing Technologies for Healthcare",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Norah H.",
+          "lastName": "Alsuraykh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Max L.",
+          "lastName": "Wilson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paul",
+          "lastName": "Tennent"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sarah",
+          "lastName": "Sharples"
+        }
+      ],
+      "date": "2019-05-20",
+      "dateAdded": "2022-06-23T15:15:05Z",
+      "dateModified": "2022-06-23T15:15:05Z",
+      "itemID": 59,
+      "itemKey": "G8IGGK34",
+      "itemType": "conferencePaper",
+      "key": "G8IGGK34",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "371-376",
+      "place": "Trento Italy",
+      "publicationTitle": "Proceedings of the 13th EAI International Conference on Pervasive Computing Technologies for Healthcare",
+      "publisher": "ACM",
+      "relations": [],
+      "select": "zotero://select/library/items/G8IGGK34",
+      "tags": [],
+      "title": "How Stress and Mental Workload are Connected",
+      "uri": "http://zotero.org/users/9698946/items/G8IGGK34",
+      "url": "https://dl.acm.org/doi/10.1145/3329189.3329235",
+      "version": 124
+    },
+    {
+      "DOI": "10.1016/0003-6870(95)00029-C",
+      "ISSN": "00036870",
+      "accessDate": "2022-06-23T13:18:42Z",
+      "attachments": [],
+      "citationKey": "nachreinerStandardsErgonomicsPrinciples1995",
+      "citekey": "nachreinerStandardsErgonomicsPrinciples1995",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Friedhelm",
+          "lastName": "Nachreiner"
+        }
+      ],
+      "date": "08/1995",
+      "dateAdded": "2022-06-23T13:18:42Z",
+      "dateModified": "2022-06-23T13:18:42Z",
+      "issue": "4",
+      "itemID": 33,
+      "itemKey": "GFVCXW6S",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Applied Ergonomics",
+      "key": "GFVCXW6S",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "259-263",
+      "publicationTitle": "Applied Ergonomics",
+      "relations": [],
+      "select": "zotero://select/library/items/GFVCXW6S",
+      "tags": [],
+      "title": "Standards for ergonomics principles relating to the design of work systems and to mental workload",
+      "uri": "http://zotero.org/users/9698946/items/GFVCXW6S",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/000368709500029C",
+      "version": 62,
+      "volume": "26"
+    },
+    {
+      "DOI": "10.1111/isj.12042",
+      "ISSN": "13501917",
+      "accessDate": "2022-06-23T12:29:29Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-23T12:29:30Z",
+          "dateModified": "2022-06-23T12:29:30Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\I7AL9KU9\\Tarafdar et al. - 2015 - Technostress negative effect on performance and p.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Accepted Version",
+          "uri": "http://zotero.org/users/9698946/items/I7AL9KU9"
+        }
+      ],
+      "citationKey": "tarafdarTechnostressNegativeEffect2015",
+      "citekey": "tarafdarTechnostressNegativeEffect2015",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Monideepa",
+          "lastName": "Tarafdar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ellen Bolman.",
+          "lastName": "Pullins"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "T. S.",
+          "lastName": "Ragu-Nathan"
+        }
+      ],
+      "date": "03/2015",
+      "dateAdded": "2022-06-23T12:29:29Z",
+      "dateModified": "2022-06-23T12:29:29Z",
+      "issue": "2",
+      "itemID": 11,
+      "itemKey": "GNSGZIQ6",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Info Systems J",
+      "key": "GNSGZIQ6",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "103-132",
+      "publicationTitle": "Information Systems Journal",
+      "relations": [],
+      "select": "zotero://select/library/items/GNSGZIQ6",
+      "shortTitle": "Technostress",
+      "tags": [],
+      "title": "Technostress: negative effect on performance and possible mitigations: Effect of technostress on performance",
+      "uri": "http://zotero.org/users/9698946/items/GNSGZIQ6",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/isj.12042",
+      "version": 108,
+      "volume": "25"
+    },
+    {
+      "DOI": "10.1016/j.preteyeres.2015.09.003",
+      "ISSN": "13509462",
+      "abstractNote": "The Argus® II Retinal Prosthesis System (Second Sight Medical Products) is the ﬁrst prosthetic vision device to obtain regulatory approval in both Europe and the USA. As such it has entered the commercial market as a treatment for patients with profound vision loss from end-stage outer retinal disease, predominantly retinitis pigmentosa. To date, over 100 devices have been implanted worldwide, representing the largest group of patients currently treated with visual prostheses.",
+      "accessDate": "2022-06-29T06:36:44Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-29T06:36:40Z",
+          "dateModified": "2022-06-29T06:36:45Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\GIURVM7Q\\Luo and da Cruz - 2016 - The Argus® II Retinal Prosthesis System.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Luo and da Cruz - 2016 - The Argus® II Retinal Prosthesis System.pdf",
+          "uri": "http://zotero.org/users/9698946/items/GIURVM7Q"
+        }
+      ],
+      "citationKey": "luoArgusIIRetinal2016",
+      "citekey": "luoArgusIIRetinal2016",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yvonne Hsu-Lin",
+          "lastName": "Luo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lyndon",
+          "lastName": "da Cruz"
+        }
+      ],
+      "date": "01/2016",
+      "dateAdded": "2022-06-29T06:36:44Z",
+      "dateModified": "2022-06-29T06:36:44Z",
+      "itemID": 124,
+      "itemKey": "HJUD66YQ",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Progress in Retinal and Eye Research",
+      "key": "HJUD66YQ",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "89-107",
+      "publicationTitle": "Progress in Retinal and Eye Research",
+      "relations": [],
+      "select": "zotero://select/library/items/HJUD66YQ",
+      "tags": [],
+      "title": "The Argus® II Retinal Prosthesis System",
+      "uri": "http://zotero.org/users/9698946/items/HJUD66YQ",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1350946215000701",
+      "version": 305,
+      "volume": "50"
+    },
+    {
+      "abstractNote": "Stress is a physiological and psychological pressure perceived by an individual that placing himself/herself in a risk, both physically and mentally. The research objective of this research is to find out whether the level of technology competence and workload has an impact on employee performance through technostress as an intervening variable. The respondents of this study were 138 people whom work at Production and Engineering department of a multinational company using automation technology equipment in operation. A technique of data collection was done by using questionaire and interviews. Data was analysed using the SEM (Structural Equation Modelling) approach. From the research it can be concluded that the workload and competence level of automation technology had significant impact to technostress. Further, the study also shows a significant relationships between workload and employee performance which the Technostress acts as an intervening variable in the relationship.",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-23T14:25:48Z",
+          "dateModified": "2022-06-23T14:26:09Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\UBAGPBJ8\\Suharti and Susanto - 2014 - THE IMPACT OF WORKLOAD AND TECHNOLOGY COMPETENCE O.pdf",
+          "relations": [],
+          "tags": [
+            {
+              "tag": "Unread"
+            }
+          ],
+          "title": "Suharti and Susanto - 2014 - THE IMPACT OF WORKLOAD AND TECHNOLOGY COMPETENCE O.pdf",
+          "uri": "http://zotero.org/users/9698946/items/UBAGPBJ8"
+        }
+      ],
+      "citationKey": "suhartiIMPACTWORKLOADTECHNOLOGY2014a",
+      "citekey": "suhartiIMPACTWORKLOADTECHNOLOGY2014a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lieli",
+          "lastName": "Suharti"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Agung",
+          "lastName": "Susanto"
+        }
+      ],
+      "date": "2014",
+      "dateAdded": "2022-06-23T14:25:49Z",
+      "dateModified": "2022-06-23T14:25:49Z",
+      "issue": "2",
+      "itemID": 52,
+      "itemKey": "HT4RJVS5",
+      "itemType": "journalArticle",
+      "key": "HT4RJVS5",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "7",
+      "publicationTitle": "Management Studies",
+      "relations": [],
+      "select": "zotero://select/library/items/HT4RJVS5",
+      "tags": [],
+      "title": "THE IMPACT OF WORKLOAD AND TECHNOLOGY COMPETENCE ON TECHNOSTRESS AND PERFORMANCE OF EMPLOYEES",
+      "uri": "http://zotero.org/users/9698946/items/HT4RJVS5",
+      "version": 109
+    },
+    {
+      "attachments": [],
+      "citationKey": "zotero-57",
+      "citekey": "zotero-57",
+      "creators": [],
+      "dateAdded": "2022-06-23T15:11:57Z",
+      "dateModified": "2022-06-23T15:11:57Z",
+      "itemID": 57,
+      "itemKey": "IU7ND6A5",
+      "itemType": "journalArticle",
+      "key": "IU7ND6A5",
+      "libraryID": 1,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/library/items/IU7ND6A5",
+      "tags": [],
+      "uri": "http://zotero.org/users/9698946/items/IU7ND6A5",
+      "version": 120
+    },
+    {
+      "DOI": "10.2753/MIS0742-1222270311",
+      "ISSN": "0742-1222, 1557-928X",
+      "accessDate": "2022-06-23T12:32:03Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-23T12:33:38Z",
+          "dateModified": "2022-06-23T12:33:38Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\W9VAUXE8\\Tarafdar et al. - 2010 - Impact of Technostress on End-User Satisfaction an.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Tarafdar et al. - 2010 - Impact of Technostress on End-User Satisfaction an.pdf",
+          "uri": "http://zotero.org/users/9698946/items/W9VAUXE8"
+        }
+      ],
+      "citationKey": "tarafdarImpactTechnostressEndUser2010",
+      "citekey": "tarafdarImpactTechnostressEndUser2010",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Monideepa",
+          "lastName": "Tarafdar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Qiang",
+          "lastName": "Tu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "T. S.",
+          "lastName": "Ragu-Nathan"
+        }
+      ],
+      "date": "12/2010",
+      "dateAdded": "2022-06-23T12:32:03Z",
+      "dateModified": "2022-06-23T12:32:03Z",
+      "issue": "3",
+      "itemID": 14,
+      "itemKey": "IY8NDD7G",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Journal of Management Information Systems",
+      "key": "IY8NDD7G",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "303-334",
+      "publicationTitle": "Journal of Management Information Systems",
+      "relations": [],
+      "select": "zotero://select/library/items/IY8NDD7G",
+      "tags": [],
+      "title": "Impact of Technostress on End-User Satisfaction and Performance",
+      "uri": "http://zotero.org/users/9698946/items/IY8NDD7G",
+      "url": "https://www.tandfonline.com/doi/full/10.2753/MIS0742-1222270311",
+      "version": 108,
+      "volume": "27"
+    },
+    {
+      "attachments": [],
+      "citationKey": "SchellhammerStefanHaines",
+      "citekey": "SchellhammerStefanHaines",
+      "creators": [],
+      "dateAdded": "2022-06-23T10:26:38Z",
+      "dateModified": "2022-06-23T10:27:27Z",
+      "itemID": 1,
+      "itemKey": "JBL2CAN3",
+      "itemType": "journalArticle",
+      "key": "JBL2CAN3",
+      "libraryID": 1,
+      "notes": [
+        {
+          "dateAdded": "2022-06-23T10:32:48Z",
+          "dateModified": "2022-06-23T10:32:48Z",
+          "itemType": "note",
+          "key": "EWIZWCPT",
+          "note": "",
+          "parentItem": "JBL2CAN3",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/users/9698946/items/EWIZWCPT",
+          "version": 3
+        }
+      ],
+      "relations": [],
+      "select": "zotero://select/library/items/JBL2CAN3",
+      "tags": [],
+      "title": "Schellhammer, Stefan; Haines, Russell; Klein, Stefan (2013)",
+      "uri": "http://zotero.org/users/9698946/items/JBL2CAN3",
+      "version": 20
+    },
+    {
+      "ISBN": "978-3-030-49043-0 978-3-030-49044-7",
+      "accessDate": "2022-06-23T14:17:23Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-23T14:17:20Z",
+          "dateModified": "2022-06-23T14:17:23Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\L64R423M\\Harris and Li - 2020 - Engineering Psychology and Cognitive Ergonomics. M.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Harris and Li - 2020 - Engineering Psychology and Cognitive Ergonomics. M.pdf",
+          "uri": "http://zotero.org/users/9698946/items/L64R423M"
+        }
+      ],
+      "citationKey": "harrisEngineeringPsychologyCognitive2020a",
+      "citekey": "harrisEngineeringPsychologyCognitive2020a",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Don",
+          "lastName": "Harris"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Wen-Chin",
+          "lastName": "Li"
+        }
+      ],
+      "date": "2020",
+      "dateAdded": "2022-06-23T14:17:23Z",
+      "dateModified": "2022-06-23T14:17:23Z",
+      "extra": "DOI: 10.1007/978-3-030-49044-7",
+      "itemID": 42,
+      "itemKey": "JY8XHJD2",
+      "itemType": "book",
+      "key": "JY8XHJD2",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "relations": [],
+      "select": "zotero://select/library/items/JY8XHJD2",
+      "series": "Lecture Notes in Computer Science",
+      "shortTitle": "Engineering Psychology and Cognitive Ergonomics. Mental Workload, Human Physiology, and Human Energy",
+      "tags": [],
+      "title": "Engineering Psychology and Cognitive Ergonomics. Mental Workload, Human Physiology, and Human Energy: 17th International Conference, EPCE 2020, Held as Part of the 22nd HCI International Conference, HCII 2020, Copenhagen, Denmark, July 19–24, 2020, Proceedings, Part I",
+      "uri": "http://zotero.org/users/9698946/items/JY8XHJD2",
+      "url": "http://link.springer.com/10.1007/978-3-030-49044-7",
+      "version": 108,
+      "volume": "12186"
+    },
+    {
+      "attachments": [],
+      "citationKey": "OrganizationalStressReview",
+      "citekey": "OrganizationalStressReview",
+      "creators": [],
+      "dateAdded": "2022-06-23T10:32:54Z",
+      "dateModified": "2022-06-23T10:33:12Z",
+      "itemID": 4,
+      "itemKey": "KARTIV7U",
+      "itemType": "bookSection",
+      "key": "KARTIV7U",
+      "libraryID": 1,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/library/items/KARTIV7U",
+      "tags": [],
+      "title": "Organizational stress: A review and critique of theory, research, and applications",
+      "uri": "http://zotero.org/users/9698946/items/KARTIV7U",
+      "url": "https://books.google.com/books?hl=fr&lr=&id=HTM5DQAAQBAJ&oi=fnd&pg=PP1&dq=%5B%5BCooper,+Dewe,+O%27Driscoll+(2001)&ots=pVlUDnNCGs&sig=s1NPjtaSutFJjTBI3QqmUDzvXzU",
+      "version": 21
+    },
+    {
+      "DOI": "10.3389/fpsyg.2021.655148",
+      "abstractNote": "The radical changes deriving from the COVID-19 emergency have heavily upset some of the most familiar routines of daily work life. Abruptly, many workers have been forced to face the difficulties switching to remote working. Basing on the theoretical framework of the Job Demands-Resources model, the purpose of this paper was to explore the effect of work-overload (workload and techno-overload), on behavioral stress, meant as an outcome linked to the health impairment process. Furthermore, the aim of the study was to explore the mediating role of job crafting, considered as a second-order construct consisting of two dimensions (increasing structural resources and increasing challenging demands) in the abovementioned relation. Participants were 530 workers experiencing remote working or work-from-home during the first COVID-19 lockdown in Italy (March-May 2020). Hypotheses were explored by using three different latent variables, measured reflexively through indicators on a 5-point scale, extracted from validated questionnaires. Data analysis was performed through Structural Equation Modeling; to test the mediation, bootstrap validation was computed (n = 2000). Results showed that the mediation of job crafting was partial. More specifically, the direct effect between work-overload and behavioral stress was positive; moreover, the indirect, negative effect through the mediation of job crafting was also significant. Therefore, results showed that job crafting can play a crucial role as a protective factor supporting the activation and adjustment of suitable resources; these resources can be useful to deal with the negative effects of work-overload, particularly under the condition of heavy remote working and use of technologies, on individual outcomes. Starting from the current global scenario of the pandemic that has not yet ceased its effects, the study suggested decisive theoretical and practical implications. Findings extended the current occupational health psychology literature, especially in the mainstream of the topic “work and COVID-19” in the Italian context. Moreover, the results can be useful for companies focused on the management of change and the building of a collaborative workplace at the individual and collective levels; implementing job crafting interventions, for instance, could enhance workers’ personal and organizational resources, useful to coping with the changes occurring in their professional life.",
+      "attachments": [],
+      "citationKey": "ingusciWorkloadTechnoOverload2021",
+      "citekey": "ingusciWorkloadTechnoOverload2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Emanuela",
+          "lastName": "Ingusci"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fulvio",
+          "lastName": "Signore"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maria Luisa",
+          "lastName": "Giancaspro"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amelia",
+          "lastName": "Manuti"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Monica",
+          "lastName": "Molino"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "V.",
+          "lastName": "Russo"
+        },
+        {
+          "creatorType": "author",
+          "name": "Margherita Zito"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Margherita",
+          "lastName": "Zito"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Margherita",
+          "lastName": "Zito"
+        },
+        {
+          "creatorType": "author",
+          "name": "Margherita Zito"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claudio Giovanni",
+          "lastName": "Cortese"
+        }
+      ],
+      "date": "2021-04-12",
+      "dateAdded": "2022-06-23T11:36:33Z",
+      "dateModified": "2022-06-23T11:36:33Z",
+      "extra": "DOI: 10.3389/fpsyg.2021.655148\nMAG ID: 3154524271\nPMCID: 8072041\nPMID: 33912116\nS2ID: cfa1f81de9e7c33325194fbd2ddaf325a18b43ef",
+      "itemID": 8,
+      "itemKey": "KEXES4CU",
+      "itemType": "journalArticle",
+      "key": "KEXES4CU",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "655148-655148",
+      "publicationTitle": "Frontiers in Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/KEXES4CU",
+      "tags": [],
+      "title": "Workload, Techno Overload, and Behavioral Stress During COVID-19 Emergency: The Role of Job Crafting in Remote Workers",
+      "uri": "http://zotero.org/users/9698946/items/KEXES4CU",
+      "version": 11,
+      "volume": "12"
+    },
+    {
+      "DOI": "10.3389/fpsyg.2021.655148",
+      "ISSN": "1664-1078",
+      "abstractNote": "The radical changes deriving from the COVID-19 emergency have heavily upset some of the most familiar routines of daily work life. Abruptly, many workers have been forced to face the difficulties that come with switching to remote working. Basing on the theoretical framework proposed by the Job Demands-Resources model, the purpose of this paper was to explore the effect of work overload (workload and techno overload), on behavioral stress, meant as an outcome linked to the health impairment process. Furthermore, the aim of the study was to explore the mediating role of job crafting, considered as a second-order construct consisting of two dimensions (increasing structural resources and increasing challenging demands) in the abovementioned relation. Participants were 530 workers experiencing remote working or work-from-home during the first COVID-19 lockdown in Italy (March–May 2020). Hypotheses were explored by using three different latent variables, measured reflexively through indicators on a 5-point scale, extracted from validated questionnaires. Data analysis was performed through Structural Equation Modeling; to test the mediation, bootstrap validation was computed (\n              n\n              = 2,000). Results showed that the mediation of job crafting was partial. More specifically, the direct effect between work overload and behavioral stress was positive; moreover, the indirect, negative effect through the mediation of job crafting was also significant. Therefore, results showed that job crafting can play a crucial role as a protective factor supporting the activation and adjustment of suitable resources; these resources can be useful to deal with the negative effects of work overload, particularly under the condition of heavy remote working and use of technologies, on individual outcomes. Starting from the current global scenario of the pandemic that has not yet ceased its effects, the study suggested decisive theoretical and practical implications. Accordingly, findings extended the current trends in occupational health psychology research, with special reference to the mainstream topic “work and COVID-19” in the Italian context. Finally, results can give suggestions to companies engaged in managing change, recommending that they build a collaborative workplace at the individual and collective level to implement job crafting interventions and enrich the personal and organizational resources of workers, which is useful cope with the current demands.",
+      "accessDate": "2022-06-23T12:36:22Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-23T12:36:24Z",
+          "dateModified": "2022-06-23T12:36:24Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\T9MKNC5I\\Ingusci et al. - 2021 - Workload, Techno Overload, and Behavioral Stress D.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Full Text",
+          "uri": "http://zotero.org/users/9698946/items/T9MKNC5I"
+        }
+      ],
+      "citationKey": "ingusciWorkloadTechnoOverload2021b",
+      "citekey": "ingusciWorkloadTechnoOverload2021b",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Emanuela",
+          "lastName": "Ingusci"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fulvio",
+          "lastName": "Signore"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maria Luisa",
+          "lastName": "Giancaspro"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amelia",
+          "lastName": "Manuti"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Monica",
+          "lastName": "Molino"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vincenzo",
+          "lastName": "Russo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Margherita",
+          "lastName": "Zito"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claudio Giovanni",
+          "lastName": "Cortese"
+        }
+      ],
+      "date": "2021-4-12",
+      "dateAdded": "2022-06-23T12:36:22Z",
+      "dateModified": "2022-06-23T12:36:22Z",
+      "itemID": 19,
+      "itemKey": "L68WE2SX",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Front. Psychol.",
+      "key": "L68WE2SX",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "655148",
+      "publicationTitle": "Frontiers in Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/L68WE2SX",
+      "shortTitle": "Workload, Techno Overload, and Behavioral Stress During COVID-19 Emergency",
+      "tags": [],
+      "title": "Workload, Techno Overload, and Behavioral Stress During COVID-19 Emergency: The Role of Job Crafting in Remote Workers",
+      "uri": "http://zotero.org/users/9698946/items/L68WE2SX",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655148/full",
+      "version": 33,
+      "volume": "12"
+    },
+    {
+      "DOI": "10.3389/fpsyg.2018.02569",
+      "ISSN": "1664-1078",
+      "accessDate": "2022-06-23T14:06:50Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-23T14:06:52Z",
+          "dateModified": "2022-06-23T14:06:52Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\6LCWREAB\\Brivio et al. - 2018 - Preventing Technostress Through Positive Technolog.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Full Text",
+          "uri": "http://zotero.org/users/9698946/items/6LCWREAB"
+        }
+      ],
+      "citationKey": "brivioPreventingTechnostressPositive2018",
+      "citekey": "brivioPreventingTechnostressPositive2018",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Eleonora",
+          "lastName": "Brivio"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fulvio",
+          "lastName": "Gaudioso"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ilaria",
+          "lastName": "Vergine"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cassandra Rosa",
+          "lastName": "Mirizzi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claudio",
+          "lastName": "Reina"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anna",
+          "lastName": "Stellari"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Carlo",
+          "lastName": "Galimberti"
+        }
+      ],
+      "date": "2018-12-17",
+      "dateAdded": "2022-06-23T14:06:50Z",
+      "dateModified": "2022-06-23T14:06:50Z",
+      "itemID": 34,
+      "itemKey": "L7I8UN3M",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Front. Psychol.",
+      "key": "L7I8UN3M",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "2569",
+      "publicationTitle": "Frontiers in Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/L7I8UN3M",
+      "tags": [],
+      "title": "Preventing Technostress Through Positive Technology",
+      "uri": "http://zotero.org/users/9698946/items/L7I8UN3M",
+      "url": "https://www.frontiersin.org/article/10.3389/fpsyg.2018.02569/full",
+      "version": 108,
+      "volume": "9"
+    },
+    {
+      "abstractNote": "Stress is a physiological and psychological pressure perceived by an individual that placing himself/herself in a risk, both physically and mentally. The research objective of this research is to find out whether the level of technology competence and workload has an impact on employee performance through technostress as an intervening variable. The respondents of this study were 138 people whom work at Production and Engineering department of a multinational company using automation technology equipment in operation. A technique of data collection was done by using questionaire and interviews. Data was analysed using the SEM (Structural Equation Modelling) approach. From the research it can be concluded that the workload and competence level of automation technology had significant impact to technostress. Further, the study also shows a significant relationships between workload and employee performance which the Technostress acts as an intervening variable in the relationship.",
+      "attachments": [],
+      "citationKey": "ImpactTechnostressEndUser",
+      "citekey": "ImpactTechnostressEndUser",
+      "creators": [],
+      "dateAdded": "2022-06-23T10:29:25Z",
+      "dateModified": "2022-06-23T10:38:50Z",
+      "itemID": 2,
+      "itemKey": "NK3MB4Y7",
+      "itemType": "journalArticle",
+      "key": "NK3MB4Y7",
+      "libraryID": 1,
+      "notes": [],
+      "relations": [],
+      "select": "zotero://select/library/items/NK3MB4Y7",
+      "tags": [],
+      "title": "Impact of Technostress on End-User Satisfaction and Performance",
+      "uri": "http://zotero.org/users/9698946/items/NK3MB4Y7",
+      "version": 23
+    },
+    {
+      "attachments": [
+        {
+          "dateAdded": "2022-06-30T15:11:10Z",
+          "dateModified": "2022-06-30T15:11:12Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\5FAJN6J5\\Helton et al. - Assessing Daily Stress with the Short Stress State.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Helton et al. - Assessing Daily Stress with the Short Stress State.pdf",
+          "uri": "http://zotero.org/users/9698946/items/5FAJN6J5"
+        }
+      ],
+      "citationKey": "heltonAssessingDailyStress",
+      "citekey": "heltonAssessingDailyStress",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "William",
+          "lastName": "Helton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Diana",
+          "lastName": "Fields"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joseph",
+          "lastName": "Thoreson"
+        }
+      ],
+      "dateAdded": "2022-06-30T15:11:12Z",
+      "dateModified": "2022-06-30T15:11:12Z",
+      "itemID": 126,
+      "itemKey": "QBWJK9SU",
+      "itemType": "journalArticle",
+      "key": "QBWJK9SU",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "libraryID": 1,
+      "notes": [
+        {
+          "dateAdded": "2022-06-30T15:11:21Z",
+          "dateModified": "2022-06-30T15:11:27Z",
+          "itemType": "note",
+          "key": "AL6MBJYI",
+          "note": "<div data-schema-version=\"8\"><p>Not read yet</p>\n<p></p>\n</div>",
+          "parentItem": "QBWJK9SU",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/users/9698946/items/AL6MBJYI",
+          "version": 338
+        }
+      ],
+      "pages": "5",
+      "publicationTitle": "th ANNUAL MEETING",
+      "relations": [],
+      "select": "zotero://select/library/items/QBWJK9SU",
+      "tags": [],
+      "title": "Assessing Daily Stress with the Short Stress State Questionnaire (SSSQ): Relationships with Cognitive Slips-Failures",
+      "uri": "http://zotero.org/users/9698946/items/QBWJK9SU",
+      "version": 335
+    },
+    {
+      "attachments": [
+        {
+          "dateAdded": "2022-06-27T07:12:26Z",
+          "dateModified": "2022-06-27T07:12:28Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\472FNUSU\\Helton - Validation of a Short Stress State Questionnaire.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Helton - Validation of a Short Stress State Questionnaire.pdf",
+          "uri": "http://zotero.org/users/9698946/items/472FNUSU"
+        }
+      ],
+      "citationKey": "heltonValidationShortStress",
+      "citekey": "heltonValidationShortStress",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "William S",
+          "lastName": "Helton"
+        }
+      ],
+      "dateAdded": "2022-06-27T07:12:28Z",
+      "dateModified": "2022-06-27T07:12:28Z",
+      "itemID": 109,
+      "itemKey": "QV7S69KM",
+      "itemType": "journalArticle",
+      "key": "QV7S69KM",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "5",
+      "publicationTitle": "th ANNUAL MEETING",
+      "relations": [],
+      "select": "zotero://select/library/items/QV7S69KM",
+      "tags": [],
+      "title": "Validation of a Short Stress State Questionnaire",
+      "uri": "http://zotero.org/users/9698946/items/QV7S69KM",
+      "version": 268
+    },
+    {
+      "DOI": "10.3390/ijerph16234602",
+      "ISSN": "1660-4601",
+      "abstractNote": "Permanent connection to the work world as a result of new technologies raises the possibility of workday extensions and excessive workloads. The present study addresses the relationship between technology and psychological detachment from work resulting from work overload. Participants were 313 professionals from the health sector who responded to three instruments used in similar studies. Through PLS-SEM, regression and dependence analyses were developed, and through the bootstrapping method, significance of factor loadings, path coefficients and variances were examined. Results of the study corroborate a negative effect of technology use on psychological detachment from work and a positive correlation between technology and work overload. Additionally, there is a significant indirect effect of technology on psychological detachment from work as a result of work overload. Findings extend the literature related to the stressor-detachment model, and support the idea that workers who are often connected to their jobs by technological tools are less likely to reach adequate psychological detachment levels. Implications for the academic community and practitioners are discussed.",
+      "accessDate": "2022-06-23T12:45:55Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-23T12:45:56Z",
+          "dateModified": "2022-06-23T12:45:56Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\PTYIHCDZ\\Sandoval-Reyes et al. - 2019 - Relationship Amongst Technology Use, Work Overload.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Full Text",
+          "uri": "http://zotero.org/users/9698946/items/PTYIHCDZ"
+        }
+      ],
+      "citationKey": "sandoval-reyesRelationshipAmongstTechnology2019",
+      "citekey": "sandoval-reyesRelationshipAmongstTechnology2019",
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "Sandoval-Reyes"
+        },
+        {
+          "creatorType": "author",
+          "name": "Acosta-Prado"
+        },
+        {
+          "creatorType": "author",
+          "name": "Sanchís-Pedregosa"
+        }
+      ],
+      "date": "2019-11-20",
+      "dateAdded": "2022-06-23T12:45:55Z",
+      "dateModified": "2022-06-23T12:45:55Z",
+      "issue": "23",
+      "itemID": 21,
+      "itemKey": "QVSYEUW5",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "IJERPH",
+      "key": "QVSYEUW5",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "4602",
+      "publicationTitle": "International Journal of Environmental Research and Public Health",
+      "relations": [],
+      "select": "zotero://select/library/items/QVSYEUW5",
+      "tags": [],
+      "title": "Relationship Amongst Technology Use, Work Overload, and Psychological Detachment from Work",
+      "uri": "http://zotero.org/users/9698946/items/QVSYEUW5",
+      "url": "https://www.mdpi.com/1660-4601/16/23/4602",
+      "version": 108,
+      "volume": "16"
+    },
+    {
+      "DOI": "10.1109/HICSS.2013.365",
+      "ISBN": "978-1-4673-5933-7 978-0-7695-4892-0",
+      "accessDate": "2022-06-23T12:30:16Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-23T12:33:21Z",
+          "dateModified": "2022-06-23T12:33:21Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\PGADQ6QG\\Schellhammer et al. - 2013 - Investigating Technostress in situ Understanding .pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Schellhammer et al. - 2013 - Investigating Technostress in situ Understanding .pdf",
+          "uri": "http://zotero.org/users/9698946/items/PGADQ6QG"
+        }
+      ],
+      "citationKey": "schellhammerInvestigatingTechnostressSitu2013",
+      "citekey": "schellhammerInvestigatingTechnostressSitu2013",
+      "conferenceName": "2013 46th Hawaii International Conference on System Sciences (HICSS)",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Stefan",
+          "lastName": "Schellhammer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Russell",
+          "lastName": "Haines"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stefan",
+          "lastName": "Klein"
+        }
+      ],
+      "date": "01/2013",
+      "dateAdded": "2022-06-23T12:30:16Z",
+      "dateModified": "2022-06-23T12:30:16Z",
+      "itemID": 13,
+      "itemKey": "RDTTPZ9S",
+      "itemType": "conferencePaper",
+      "key": "RDTTPZ9S",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "430-439",
+      "place": "Wailea, HI, USA",
+      "publicationTitle": "2013 46th Hawaii International Conference on System Sciences",
+      "publisher": "IEEE",
+      "relations": [],
+      "select": "zotero://select/library/items/RDTTPZ9S",
+      "shortTitle": "Investigating Technostress in situ",
+      "tags": [],
+      "title": "Investigating Technostress in situ: Understanding the Day and the Life of a Knowledge Worker Using Heart Rate Variability",
+      "uri": "http://zotero.org/users/9698946/items/RDTTPZ9S",
+      "url": "http://ieeexplore.ieee.org/document/6479886/",
+      "version": 108
+    },
+    {
+      "DOI": "10.1016/j.cmpb.2020.105482",
+      "ISSN": "01692607",
+      "abstractNote": "Background and Objective: In recent years, stress and mental health have been considered as important worldwide concerns. Stress detection using physiological signals such as electrocardiogram (ECG), skin conductance (SC), electromyogram (EMG) and electroencephalogram (EEG) is a traditional approach. However, the effect of stress on the EMG signal of different muscles and the eﬃcacy of combination of the EMG and other biological signals for stress detection have not been taken into account yet. This paper presents a comprehensive review of the EMG signal of the right and left trapezius and right and left erector spinae muscles for multi-level stress recognition. Also, the ECG signal was employed to evaluate the eﬃcacy of EMG signals for stress detection.\nMethods: Both EMG and ECG signals were acquired simultaneously from 34 healthy students (23 females and 11 males, aged 20-37 years). Mental arithmetic, Stroop color-word test, time pressure, and stressful environment were employed to induce stress in the laboratory.\nResults: The accuracies of stress recognition in two, three and four levels were 100%, 97.6%, and 96.2%, respectively, obtained from the distinct combination of feature selection and machine learning algorithms.\nConclusions: The comparison of stress detection accuracies resulted from EMG and ECG indicators demonstrated the strong ability and the effectiveness of EMG signal for multi-level stress detection.",
+      "accessDate": "2022-06-24T08:21:09Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-24T08:21:05Z",
+          "dateModified": "2022-06-24T08:21:10Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\FQJCIT5X\\Pourmohammadi and Maleki - 2020 - Stress detection using ECG and EMG signals A comp.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Pourmohammadi and Maleki - 2020 - Stress detection using ECG and EMG signals A comp.pdf",
+          "uri": "http://zotero.org/users/9698946/items/FQJCIT5X"
+        }
+      ],
+      "citationKey": "pourmohammadiStressDetectionUsing2020",
+      "citekey": "pourmohammadiStressDetectionUsing2020",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Sara",
+          "lastName": "Pourmohammadi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ali",
+          "lastName": "Maleki"
+        }
+      ],
+      "date": "09/2020",
+      "dateAdded": "2022-06-24T08:21:09Z",
+      "dateModified": "2022-06-24T08:21:09Z",
+      "itemID": 98,
+      "itemKey": "REPXZNY4",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Computer Methods and Programs in Biomedicine",
+      "key": "REPXZNY4",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "105482",
+      "publicationTitle": "Computer Methods and Programs in Biomedicine",
+      "relations": [],
+      "select": "zotero://select/library/items/REPXZNY4",
+      "shortTitle": "Stress detection using ECG and EMG signals",
+      "tags": [],
+      "title": "Stress detection using ECG and EMG signals: A comprehensive study",
+      "uri": "http://zotero.org/users/9698946/items/REPXZNY4",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0169260719320528",
+      "version": 214,
+      "volume": "193"
+    },
+    {
+      "DOI": "10.3389/fpsyg.2021.655148",
+      "ISSN": "1664-1078",
+      "abstractNote": "The radical changes deriving from the COVID-19 emergency have heavily upset some of the most familiar routines of daily work life. Abruptly, many workers have been forced to face the difficulties that come with switching to remote working. Basing on the theoretical framework proposed by the Job Demands-Resources model, the purpose of this paper was to explore the effect of work overload (workload and techno overload), on behavioral stress, meant as an outcome linked to the health impairment process. Furthermore, the aim of the study was to explore the mediating role of job crafting, considered as a second-order construct consisting of two dimensions (increasing structural resources and increasing challenging demands) in the abovementioned relation. Participants were 530 workers experiencing remote working or work-from-home during the first COVID-19 lockdown in Italy (March–May 2020). Hypotheses were explored by using three different latent variables, measured reflexively through indicators on a 5-point scale, extracted from validated questionnaires. Data analysis was performed through Structural Equation Modeling; to test the mediation, bootstrap validation was computed (\n              n\n              = 2,000). Results showed that the mediation of job crafting was partial. More specifically, the direct effect between work overload and behavioral stress was positive; moreover, the indirect, negative effect through the mediation of job crafting was also significant. Therefore, results showed that job crafting can play a crucial role as a protective factor supporting the activation and adjustment of suitable resources; these resources can be useful to deal with the negative effects of work overload, particularly under the condition of heavy remote working and use of technologies, on individual outcomes. Starting from the current global scenario of the pandemic that has not yet ceased its effects, the study suggested decisive theoretical and practical implications. Accordingly, findings extended the current trends in occupational health psychology research, with special reference to the mainstream topic “work and COVID-19” in the Italian context. Finally, results can give suggestions to companies engaged in managing change, recommending that they build a collaborative workplace at the individual and collective level to implement job crafting interventions and enrich the personal and organizational resources of workers, which is useful cope with the current demands.",
+      "accessDate": "2022-06-23T12:28:40Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-23T12:28:42Z",
+          "dateModified": "2022-06-23T12:28:42Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\TYGMXPZW\\Ingusci et al. - 2021 - Workload, Techno Overload, and Behavioral Stress D.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Full Text",
+          "uri": "http://zotero.org/users/9698946/items/TYGMXPZW"
+        }
+      ],
+      "citationKey": "ingusciWorkloadTechnoOverload2021a",
+      "citekey": "ingusciWorkloadTechnoOverload2021a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Emanuela",
+          "lastName": "Ingusci"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fulvio",
+          "lastName": "Signore"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Maria Luisa",
+          "lastName": "Giancaspro"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amelia",
+          "lastName": "Manuti"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Monica",
+          "lastName": "Molino"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vincenzo",
+          "lastName": "Russo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Margherita",
+          "lastName": "Zito"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claudio Giovanni",
+          "lastName": "Cortese"
+        }
+      ],
+      "date": "2021-4-12",
+      "dateAdded": "2022-06-23T12:28:40Z",
+      "dateModified": "2022-06-23T12:28:40Z",
+      "itemID": 9,
+      "itemKey": "TZXSBEGT",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Front. Psychol.",
+      "key": "TZXSBEGT",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "655148",
+      "publicationTitle": "Frontiers in Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/TZXSBEGT",
+      "shortTitle": "Workload, Techno Overload, and Behavioral Stress During COVID-19 Emergency",
+      "tags": [],
+      "title": "Workload, Techno Overload, and Behavioral Stress During COVID-19 Emergency: The Role of Job Crafting in Remote Workers",
+      "uri": "http://zotero.org/users/9698946/items/TZXSBEGT",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655148/full",
+      "version": 108,
+      "volume": "12"
+    },
+    {
+      "ISBN": "978-3-030-49043-0 978-3-030-49044-7",
+      "accessDate": "2022-06-23T14:16:54Z",
+      "attachments": [],
+      "citationKey": "harrisEngineeringPsychologyCognitive2020",
+      "citekey": "harrisEngineeringPsychologyCognitive2020",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Don",
+          "lastName": "Harris"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Wen-Chin",
+          "lastName": "Li"
+        }
+      ],
+      "date": "2020",
+      "dateAdded": "2022-06-23T14:16:54Z",
+      "dateModified": "2022-06-23T14:16:54Z",
+      "extra": "DOI: 10.1007/978-3-030-49044-7",
+      "itemID": 40,
+      "itemKey": "VXGMLJVH",
+      "itemType": "book",
+      "key": "VXGMLJVH",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "relations": [],
+      "select": "zotero://select/library/items/VXGMLJVH",
+      "series": "Lecture Notes in Computer Science",
+      "shortTitle": "Engineering Psychology and Cognitive Ergonomics. Mental Workload, Human Physiology, and Human Energy",
+      "tags": [],
+      "title": "Engineering Psychology and Cognitive Ergonomics. Mental Workload, Human Physiology, and Human Energy: 17th International Conference, EPCE 2020, Held as Part of the 22nd HCI International Conference, HCII 2020, Copenhagen, Denmark, July 19–24, 2020, Proceedings, Part I",
+      "uri": "http://zotero.org/users/9698946/items/VXGMLJVH",
+      "url": "http://link.springer.com/10.1007/978-3-030-49044-7",
+      "version": 80,
+      "volume": "12186"
+    },
+    {
+      "DOI": "10.1007/s00420-018-1352-1",
+      "ISSN": "0340-0131, 1432-1246",
+      "accessDate": "2022-06-23T14:41:29Z",
+      "attachments": [],
+      "citationKey": "latorreDefinitionSymptomsRisk2019",
+      "citekey": "latorreDefinitionSymptomsRisk2019",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Giuseppe",
+          "lastName": "La Torre"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alessia",
+          "lastName": "Esposito"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Iliana",
+          "lastName": "Sciarra"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marta",
+          "lastName": "Chiappetta"
+        }
+      ],
+      "date": "1/2019",
+      "dateAdded": "2022-06-23T14:41:29Z",
+      "dateModified": "2022-06-23T14:41:39Z",
+      "issue": "1",
+      "itemID": 55,
+      "itemKey": "YE8Y7UBS",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Int Arch Occup Environ Health",
+      "key": "YE8Y7UBS",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "13-35",
+      "publicationTitle": "International Archives of Occupational and Environmental Health",
+      "relations": [],
+      "select": "zotero://select/library/items/YE8Y7UBS",
+      "shortTitle": "Definition, symptoms and risk of techno-stress",
+      "tags": [
+        {
+          "tag": "Unread"
+        }
+      ],
+      "title": "Definition, symptoms and risk of techno-stress: a systematic review",
+      "uri": "http://zotero.org/users/9698946/items/YE8Y7UBS",
+      "url": "http://link.springer.com/10.1007/s00420-018-1352-1",
+      "version": 118,
+      "volume": "92"
+    },
+    {
+      "abstractNote": "Stress is a physiological and psychological pressure perceived by an individual that placing himself/herself in a risk, both physically and mentally. The research objective of this research is to find out whether the level of technology competence and workload has an impact on employee performance through technostress as an intervening variable. The respondents of this study were 138 people whom work at Production and Engineering department of a multinational company using automation technology equipment in operation. A technique of data collection was done by using questionaire and interviews. Data was analysed using the SEM (Structural Equation Modelling) approach. From the research it can be concluded that the workload and competence level of automation technology had significant impact to technostress. Further, the study also shows a significant relationships between workload and employee performance which the Technostress acts as an intervening variable in the relationship.",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-23T12:35:43Z",
+          "dateModified": "2022-06-23T12:35:45Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\YVJHT536\\Suharti and Susanto - 2014 - THE IMPACT OF WORKLOAD AND TECHNOLOGY COMPETENCE O.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Suharti and Susanto - 2014 - THE IMPACT OF WORKLOAD AND TECHNOLOGY COMPETENCE O.pdf",
+          "uri": "http://zotero.org/users/9698946/items/YVJHT536"
+        }
+      ],
+      "citationKey": "suhartiIMPACTWORKLOADTECHNOLOGY2014",
+      "citekey": "suhartiIMPACTWORKLOADTECHNOLOGY2014",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lieli",
+          "lastName": "Suharti"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Agung",
+          "lastName": "Susanto"
+        }
+      ],
+      "date": "2014",
+      "dateAdded": "2022-06-23T12:35:44Z",
+      "dateModified": "2022-06-23T12:35:45Z",
+      "issue": "2",
+      "itemID": 18,
+      "itemKey": "YWESQSRN",
+      "itemType": "journalArticle",
+      "key": "YWESQSRN",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "7",
+      "publicationTitle": "Management Studies",
+      "relations": [],
+      "select": "zotero://select/library/items/YWESQSRN",
+      "tags": [],
+      "title": "THE IMPACT OF WORKLOAD AND TECHNOLOGY COMPETENCE ON TECHNOSTRESS AND PERFORMANCE OF EMPLOYEES",
+      "uri": "http://zotero.org/users/9698946/items/YWESQSRN",
+      "version": 113
+    },
+    {
+      "DOI": "10.1203/PDR.0b013e318123fbcc",
+      "ISSN": "0031-3998, 1530-0447",
+      "accessDate": "2022-06-27T07:15:12Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-27T07:15:09Z",
+          "dateModified": "2022-06-27T07:15:12Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\IDBJWDPQ\\Kemper et al. - 2007 - Heart Rate Variability Impact of Differences in O.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Kemper et al. - 2007 - Heart Rate Variability Impact of Differences in O.pdf",
+          "uri": "http://zotero.org/users/9698946/items/IDBJWDPQ"
+        }
+      ],
+      "citationKey": "kemperHeartRateVariability2007",
+      "citekey": "kemperHeartRateVariability2007",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kathi J",
+          "lastName": "Kemper"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Craig",
+          "lastName": "Hamilton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mike",
+          "lastName": "Atkinson"
+        }
+      ],
+      "date": "9/2007",
+      "dateAdded": "2022-06-27T07:15:12Z",
+      "dateModified": "2022-06-27T07:15:12Z",
+      "issue": "3",
+      "itemID": 111,
+      "itemKey": "ZK4WUXAL",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Pediatr Res",
+      "key": "ZK4WUXAL",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "337-342",
+      "publicationTitle": "Pediatric Research",
+      "relations": [],
+      "select": "zotero://select/library/items/ZK4WUXAL",
+      "shortTitle": "Heart Rate Variability",
+      "tags": [],
+      "title": "Heart Rate Variability: Impact of Differences in Outlier Identification and Management Strategies on Common Measures in Three Clinical Populations",
+      "uri": "http://zotero.org/users/9698946/items/ZK4WUXAL",
+      "url": "http://www.nature.com/doifinder/10.1203/PDR.0b013e318123fbcc",
+      "version": 271,
+      "volume": "62"
+    },
+    {
+      "DOI": "10.1142/S0219519413500383",
+      "ISSN": "0219-5194, 1793-6810",
+      "abstractNote": "This paper introduces a method for resolving the problem of human stress detection through short-term (less than 5 min) electrocardiogram (ECG) and heart rate variability (HRV) signals. The explored methodology helps to improve the stress detection rate and reliability through multiple evidences originated in same sensor. In this work, stress-inducing protocol, data acquisition, preprocessing, feature extraction and classification are the major steps involved to detect the stress. In total, 60 subjects (30 males and 30 females) participated in the Stroop color word-based stress-inducing task and ECG signal was acquired simultaneously. The wavelet denoising algorithm was applied to remove high frequency, baseline wander and power line noises. Discrete wavelet transform (DWT)-based heart rate (HR) detection algorithm is used for deriving HRV signal from the preprocessed ECG signal. The ectopic beat removal method is employed to eliminate the ectopic beat and noise peaks in the HRV signal. In order to detect the stress, the issue of uneven sampling with the HRV signal has been successfully rectified using the Lomb-Scargle periodogram (LSP). The application of LSP in short-term HRV signals (32 s), uneven sampling issue, and power spectral information issue has been rectified and the trustworthiness of the short-term HRV signal has been proved by hypothesis as well as experimental results. Theoretical analysis suggested that a minimum 25 s of online or offline ECG data is required to analyze the autonomous nervous system (ANS) activity related to stress. In addition to the HRV signal, ECG-based stress assessment has been proposed to detect the stress through optimum features using fast Fourier transform (FFT). Various features extracted from the ECG and HRV signal have been classified into normal and stress using PNN and kNN classifiers with different smoothing factor and k values. The experimental results indicate that the proposed methodology for short-term ECG and HRV signal can achieve the overall average classification accuracy of 91.66% and 94.66% in the subject-independent mode.",
+      "accessDate": "2022-06-24T06:58:15Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-06-24T06:58:12Z",
+          "dateModified": "2022-06-24T06:58:15Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\I4IPTFXH\\Karthikeyan et al. - 2013 - DETECTION OF HUMAN STRESS USING SHORT-TERM ECG AND.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Karthikeyan et al. - 2013 - DETECTION OF HUMAN STRESS USING SHORT-TERM ECG AND.pdf",
+          "uri": "http://zotero.org/users/9698946/items/I4IPTFXH"
+        }
+      ],
+      "citationKey": "karthikeyanDETECTIONHUMANSTRESS2013",
+      "citekey": "karthikeyanDETECTIONHUMANSTRESS2013",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "P.",
+          "lastName": "Karthikeyan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M.",
+          "lastName": "Murugappan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S.",
+          "lastName": "Yaacob"
+        }
+      ],
+      "date": "04/2013",
+      "dateAdded": "2022-06-24T06:58:15Z",
+      "dateModified": "2022-06-24T06:58:15Z",
+      "issue": "02",
+      "itemID": 96,
+      "itemKey": "ZQQCU8DA",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "J. Mech. Med. Biol.",
+      "key": "ZQQCU8DA",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "1350038",
+      "publicationTitle": "Journal of Mechanics in Medicine and Biology",
+      "relations": [],
+      "select": "zotero://select/library/items/ZQQCU8DA",
+      "tags": [],
+      "title": "DETECTION OF HUMAN STRESS USING SHORT-TERM ECG AND HRV SIGNALS",
+      "uri": "http://zotero.org/users/9698946/items/ZQQCU8DA",
+      "url": "https://www.worldscientific.com/doi/abs/10.1142/S0219519413500383",
+      "version": 202,
+      "volume": "13"
+    }
+  ],
+  "version": {
+    "bbt": "6.7.15",
+    "zotero": "6.0.9"
+  }
+}

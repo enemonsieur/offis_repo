@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "e0a90c13ea7b9bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ed433eeff26c6d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PROJECTS/VIsual NP/Visual Neurop.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c16efa84f4f1d4b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e756b21c662140d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a964cfb5b2f8a24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5245d75518b9d87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 453
+  },
+  "right": {
+    "id": "554efaf4754e9155",
+    "type": "split",
+    "children": [
+      {
+        "id": "95d44caa547a5af6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b76154007fdc04e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PROJECTS/VIsual NP/Visual Neurop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "602e87a4d66aa833",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3ed433eeff26c6d6",
+  "lastOpenFiles": [
+    "PROJECTS/VIsual NP/Visual Neurop.md",
+    "PROJECTS/Learning Machine Learning/220627_1 differences between type of stress.md",
+    "PROJECTS/Learning Machine Learning/220627_1 difference stress technostress workload.md",
+    "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
+    "Excalidraw/Drawing 2022-07-01 10.38.25.excalidraw.md",
+    "PROJECTS/fMRI data analysis/talk 5 - Preprocessing of fMRI data.md",
+    "PROJECTS/fMRI data analysis/talk 3 BOLD Signal.md",
+    "PROJECTS/VIsual NP/Type of Retinal P.md",
+    "PROJECTS/VIsual NP/Argus II.md",
+    "PROJECTS/OFFIS/220627_1 differences between type of stress.md"
+  ]
+}
