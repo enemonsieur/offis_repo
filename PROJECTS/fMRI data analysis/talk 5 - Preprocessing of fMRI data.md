@@ -59,11 +59,10 @@ what for?
 ### Smoothing
 **why would we smooth?** 
 It increases overlapping of brain areas btwn subjects.
-		Thus diminishing the chances we misrepresent a gyrus to the Erinal cortex which increases stat.
-	To revmove noise, increase SNR: It makes noises/errors more normally distributed
-	because within data many signals vary
-	We use a gaussian fxn to blur out and smooth outh the BOLD signal so tha tthe strongest bolds appear and the noise (that doesnt occurs often ) fade out.
-	We use 8mm in the gaussian smoothing fxn
+		Thus diminishing the chances we misrepresent a gyrus to the Erinal cortex which increases stat. significance
+To revmove noise, increase SNR: It makes noises/errors more normally distributed because within data many signals vary
+We use a gaussian fxn to blur out and smooth outh the BOLD signal so tha tthe strongest bolds appear and the noise (that doesnt occurs often ) fade out.
+We use 8mm in the gaussian smoothing fxn
 What's the effect of smoothing on resolution?
 	Decreases it?
 
