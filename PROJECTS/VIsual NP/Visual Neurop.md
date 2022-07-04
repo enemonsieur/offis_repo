@@ -135,9 +135,6 @@ Rating:: ==Give a rating==
 
 ## Citation
 
-```latex
-
-```
 
 ## Abstract
 
@@ -155,18 +152,15 @@ Rating:: ==Give a rating==
 
 - ***
 
-{{VALUE:note}}
-````````markdown
+
 ---
 tags: in/paper state/process
 aliases:
   - { { VALUE:title } }
 cssclass: null
 abstract: >
-  {{VALUE:abstract}}
----
-
-# {{VALUE:title}}
+{{VALUE:abstract}}
+-- {{VALUE:title}}
 
 ---
 
@@ -185,9 +179,6 @@ Rating:: ==Give a rating==
 
 ## Citation
 
-```latex
-
-```
 
 ## Abstract
 
@@ -205,110 +196,8 @@ Rating:: ==Give a rating==
 
 - ***
 
-{{VALUE:note}}
-````````markdown
----
-tags: in/paper state/process
-aliases:
-  - { { VALUE:title } }
-cssclass: null
-abstract: >
-  {{VALUE:abstract}}
----
 
-# {{VALUE:title}}
-
----
-
-Type:: [[&]]
-Title:: {{VALUE:title}}
-Author:: {{VALUE:author}}
-Year:: {{VALUE:year}}
-Tags::
-DOI:: {{VALUE:doi}}
-Citekey:: {{VALUE:id}}
-ZoteroURI:: [Open in Zotero: {{VALUE:title}}]({{VALUE:zoteroSelectURI}})
-ReviewedDate:: [[2022-06-23 - Thu Jun 23]]
-Rating:: ==Give a rating==
-
----
-
-## Citation
-
-```latex
-
-```
-
-## Abstract
-
-{{VALUE:abstract}}
-
-## Summary of key points
-
--
-
-## Other Comments
-
--
-
-## Interesting Cited References
-
-- ***
-
-{{VALUE:note}}
-````````markdown
----
-tags: in/paper state/process
-aliases:
-  - { { VALUE:title } }
-cssclass: null
-abstract: >
-  {{VALUE:abstract}}
----
-
-# {{VALUE:title}}
-
----
-
-Type:: [[&]]
-Title:: {{VALUE:title}}
-Author:: {{VALUE:author}}
-Year:: {{VALUE:year}}
-Tags::
-DOI:: {{VALUE:doi}}
-Citekey:: {{VALUE:id}}
-ZoteroURI:: [Open in Zotero: {{VALUE:title}}]({{VALUE:zoteroSelectURI}})
-ReviewedDate:: [[2022-06-23 - Thu Jun 23]]
-Rating:: ==Give a rating==
-
----
-
-## Citation
-
-```latex
-
-```
-
-## Abstract
-
-{{VALUE:abstract}}
-
-## Summary of key points
-
--
-
-## Other Comments
-
--
-
-## Interesting Cited References
-
-- ***
-
-{{VALUE:note}}
-is currently no other clinical treatment for RP.
-        
-        AMD is a leading cause of vision loss in older adults; in Western countries it accounts for almost 50% of all severe visual impairment and blindness (Finger et al. 2011). The disease process gradually destroys the high resolution foveal region of the retina via a proliferation of blood vessels while typically leaving peripheral vision intact. At present it is possible to treat some forms of AMD using anti-vascular endothelial growth factors (anti-VEGF) (Lai and Landa 2015) to reduce the formation of new blood vessels; however, it is not yet possible to reverse the progression of the pathology.
+is currently no other clinical treatment for RP.      AMD is a leading cause of vision loss in older adults; in Western countries it accounts for almost 50% of all severe visual impairment and blindness (Finger et al. 2011). The disease process gradually destroys the high resolution foveal region of the retina via a proliferation of blood vessels while typically leaving peripheral vision intact. At present it is possible to treat some forms of AMD using anti-vascular endothelial growth factors (anti-VEGF) (Lai and Landa 2015) to reduce the formation of new blood vessels; however, it is not yet possible to reverse the progression of the pathology.
         
 -   **Retinal prostheses: Clinical results and future challenges Les prothèses rétiniennes : résultats cliniques et défis futurs**
     
@@ -381,24 +270,7 @@ is currently no other clinical treatment for RP.
           
           , reading complex texts and autonomous locomotion
           
-          [[34]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0170>)
-          
-          ,
-          
-          [[35]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0175>)
-          
-          ,
-          
-          [[36]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0180>)
-          
-          ,
-          
-          [[37]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0185>)
-          
-          ,
-          
-          [[38]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0190>)
-          
+        
           . Therefore, the clinical results from Retina implant AG suggest that patients equipped with their implants do not perceive 1500 independent pixels despite 1500 electrodes. These different clinical trials have generated very important knowledge for future development of retinal prostheses:
           
           - 
@@ -442,11 +314,9 @@ is currently no other clinical treatment for RP.
               . If newer models reproduce quite successfully the properties of ganglion cells, they cannot yet satisfactorily predict responses to complex natural stimuli [[56]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0280>)
               . Recently, we have addressed this issue through an innovative approach based on a new asynchronous dynamic visual sensor whose function mimics [photoreceptor](<https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/photoreceptors>)
                and retinal cell responses [[57]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0285>)
-              .
-              
-          - 
-    ```
     
+              
+
 -   Two types of retinal implant ad their differences
     
     R[etinal implan](https://www.frontiersin.org/articles/10.3389/fnins.2015.00290/full)ts can be classified on the basis of two distinctive criteria, their position with respect to the retina or their functional principle. Two kind of retinal implants have been proposed on the basis of the first criterion: epi-retinal and sub-retinal. In the epi-retinal configuration, the prosthesis interfaces directly the ganglion cell layer, whereas in the sub-retinal configuration the implant is positioned behind the retina in place of photoreceptors. Based on the second criterion, retinal prostheses can be identified as micro-photodiode arrays (MPDAs) or micro-electrode arrays (MEAs). MEA-based devices consist of an implanted electrode array physically connected to a multichannel stimulator. Images are collected by a digital camera and processed by an image-processing unit, which in turn develops and generates a specific stimulation pattern wirelessly transmitted to the implanted chip #retinaltype 
@@ -502,3 +372,6 @@ This form vision could improve a visually impaired patient’s ability to orient
 ## Retinal prostheses using electrical stimulation
 
 A large group of retinal prostheses elicit vision in blind patients by using electrical current pulses to depolarize and activate neurons in the retinal network. Retinal implants using electrical stimulation are classified according to the location of their stimulating electrodes in the eye. The prosthesis electrodes can be placed at the inner retinal surface or inner limiting membrane (ILM) (epiretinal), or in the subretinal space (subretinal), or in the sclera behind the choroidal vasculature (termed “suprachoroidal or episcleral”), or on/in the optic nerve (optic nerve) ([Figure 3](https://www.ncbi.nlm.nih.gov/books/NBK493746/figure/RetinalProthesis.F3/?report=objectonly)). Each implant electrode location has different advantages and disadvantages for stimulating the retinal circuitry ([Figure 4](https://www.ncbi.nlm.nih.gov/books/NBK493746/figure/RetinalProthesis.F4/?report=objectonly)).
+
+### Fine Tuning the RP 
+The devices stimulate not only the right nerve cells, but a number of the neighbouring cells as well. #retinalcochlea 

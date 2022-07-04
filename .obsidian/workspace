@@ -41,7 +41,7 @@
               "type": "search",
               "state": {
                 "query": "tag:#retinalcochlea",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
