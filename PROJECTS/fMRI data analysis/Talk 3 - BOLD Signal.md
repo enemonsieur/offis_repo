@@ -33,7 +33,7 @@ What are the 3 phases of the typical Hemodynamic Response (HDR)?
 Why is it hard to use very small voxels size? #unclear 
 	Because 
 	- the BOLD r depends on the amount of HbdO contain in a voxel. If we have an even smaller voxel, we will measure an even smaller BOLDr which risks to be confound simply to noise. Remember that the BOLDr change can be 5% to 1% of its baseline, and that in some places ex: frontal lobe. 
-	- Increased image R increases the acquisition
+	- Increased image R increases the acquisition rate by * 2 to 4. This will blur the BOLD images
 
 How does repetition times influence the temporal resolution?
 How does TR (repetition time?) influences brain slices and signal strength #unclear 

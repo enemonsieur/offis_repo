@@ -41,7 +41,7 @@ How do we convolve a signal time point ? (Think one point with an intensity) int
 	3. Let's say there's 3  intermediate input. THey all get assign a HDR funcion. So we have 3 HDR function, seperate by different time frame
 	4. In the end, we just sum all of those intermediate response to have the shaep of the final response
 
-fWhy do the X design matrix stay consistent through out different voxels, why is that, that different Voxel still have the same X design matrix? Does the B values of the X matrix don't change at all with different voxels? What kind of values are contained in the X-design matrix and especially in the Beta dimension
+Why do the X design matrix stay consistent through out different voxels, why is that, that different Voxel still have the same X design matrix? Does the B values of the X matrix don't change at all with different voxels? What kind of values are contained in the X-design matrix and especially in the Beta dimension
 WHat's a block design
 	Stimuli are rpesnetend after each other ex: 20 times at a particular condition (A) #unnecessary 
 

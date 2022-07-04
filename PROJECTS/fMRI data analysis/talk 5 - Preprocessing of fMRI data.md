@@ -2,7 +2,9 @@
 What are the 5 steps of data #preprocessing
 	1 - Realignment 2 - Coregistration 3 - Segmentation 4 - Normalization 5 - Smoothing
 
-
+### DICOM import
+What  is a NIftI image?
+What are the 2 
 ### #realignment
 In which cases do we use #realignment
 	because heads movements can change the aligments of T2 images from each others
