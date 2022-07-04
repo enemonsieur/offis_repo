@@ -57,7 +57,7 @@ Workload can be accurately measure by physiological factors because workload exp
 
 
 
-## DEFINTION TECHNOSTRESS
+# Definition Technostress
 [...] the inability of the individual to adapt to a type of technology in a healthy manner, and that can manifest itself in the event of the difficulty in accepting computer technologies and in the event of excessive identification with these technologies. 
 
 Here are some of the **causes of technostress**: [[@harrisEngineeringPsychologyCognitive2020]]
@@ -90,7 +90,7 @@ Causes of technostress [[@ragu-nathanConsequencesTechnostressEnd2008]] :
 3. The information about the new technology may not be suitable for the abilities of the worker: [[@sellbergTechnostressOfficeDistributed2014]]
 
 
-## Additional notes to ignore
+# Additional notes to ignore
 #### Task-technology fit model (TTF)
 This model explains the performance of a worker, depending on how the technology used matches its abilities *(more inside*)
 	 is a theoretical model that focuses on the prediction of performance, encompassing the analysis of matching aspects of a determined technology with the characteristics of a determined task expected to be performed by this type of technology. More specifically, TTF is the correspondence between task requirements, individual abilities and the functionality and features of technology #measure #stressmodel #stressfactors #technostress 

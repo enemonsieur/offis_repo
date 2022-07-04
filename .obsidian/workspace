@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
+            "file": "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
+                "file": "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +100,8 @@
   },
   "active": "74409468ed04813f",
   "lastOpenFiles": [
-    "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
     "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
+    "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
     "PROJECTS/OFFIS/220627_1 differences between type of stress 1.md",
     "zotero/files/41/Harris and Li - 2020 - Engineering Psychology and Cognitive Ergonomics. M.pdf",
     "Ragu-Nathan,.md",
