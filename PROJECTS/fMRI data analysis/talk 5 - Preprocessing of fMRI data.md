@@ -43,10 +43,11 @@ What happen if we directly map the T2 images with the template? #unclear
 ### segmentation
 #segmentation
 	**why would anyone segment datas?**
-		*to better align brains from differents people*
+		*to better align brains from differents people*'s data
 		helps normalizing? the anatomical image #t1 
 	how does segmentation works?
-		they classify voexls in differents tissues types like fat... #boldresponse 
+		they classify voexls in differents tissues types like grey and white matters.
+		
 
 ### normalization
  #lineartransformation
@@ -57,12 +58,14 @@ what for?
 
 ### Smoothing
 **why would we smooth?** 
-		To revmove noise, increase SNR
-		because within data many signals vary`??
-		spatial overlap??
+It increases overlapping of brain areas btwn subjects.
+		Thus diminishing the chances we misrepresent a gyrus to the Erinal cortex which increases stat.
+	To revmove noise, increase SNR: It makes noises/errors more normally distributed
+	because within data many signals vary
 	We use a gaussian fxn to blur out and smooth outh the BOLD signal so tha tthe strongest bolds appear and the noise (that doesnt occurs often ) fade out.
 	We use 8mm in the gaussian smoothing fxn
-
+What's the effect of smoothing on resolution?
+	Decreases it?
 
 [[fMRI data analysis]]
 
