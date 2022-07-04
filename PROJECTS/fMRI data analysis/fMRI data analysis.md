@@ -1,3 +1,3 @@
 
-[[talk 5 - Preprocessing of fMRI data]]
+[[Talk 5 - Preprocessing of fMRI data]]
 

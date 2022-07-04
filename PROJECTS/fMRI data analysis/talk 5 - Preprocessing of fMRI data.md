@@ -31,7 +31,7 @@ What happen if we directly map the T2 images with the template? #unclear
 	
 
 
-[[talk5 - preprocessing#coregistation]]
+[[Talk5 - preprocessing#coregistation]]
 
 
 
