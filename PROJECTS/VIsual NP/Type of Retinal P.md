@@ -24,7 +24,7 @@ Subretinal prostheses place electrode arrays in the subretinal space between the
 This places the stimulus electrodes in close proximity to activate the remaining bipolar and amacrine cells of the blind patient, which theoretically could excite the remaining retinal circuitry in a more natural fashion than epiretinal prostheses
 
  the fundamental reorganization of the degenerated retina, the inability to stimulate at the scale of the target cells, and the need to fine-tune stimulation by recording from the implanted electrodes.
- . We will examine 3 shortcomings of current retinal implants: the fundamental reorganization of the degenerated retina, the inability to stimulate at the scale of the target cells, and the need to fine-tune stimulation by recording from the implanted electrodes. #retinalcochlea 
+ **. We will examine 3 shortcomings of current retinal implants: the fundamental reorganization of the degenerated retina, the inability to stimulate at the scale of the target cells, and the need to fine-tune stimulation by recording from the implanted electrodes. #retinalcochlea** 
 
 
 AVANTAGE OF subretinal e-protheses
