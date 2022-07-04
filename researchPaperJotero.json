@@ -1,5 +1,15 @@
 {
   "collections": {
+    "9KT4RITS": {
+      "collections": [],
+      "items": [
+        162,
+        165
+      ],
+      "key": "9KT4RITS",
+      "name": "EEG ECG Eye Tracking",
+      "parent": ""
+    },
     "A4LQA8JN": {
       "collections": [],
       "items": [],
@@ -10,7 +20,8 @@
     "B3ZHZ5UA": {
       "collections": [],
       "items": [
-        124
+        124,
+        148
       ],
       "key": "B3ZHZ5UA",
       "name": "Visual NP",
@@ -27,7 +38,14 @@
         111,
         113,
         121,
-        126
+        126,
+        148,
+        158,
+        159,
+        162,
+        164,
+        168,
+        191
       ],
       "key": "NELM3556",
       "name": "Stress measurement",
@@ -45,12 +63,14 @@
         34,
         42,
         52,
-        53,
         54,
         55,
         56,
         57,
-        58
+        58,
+        171,
+        176,
+        187
       ],
       "key": "ZPLRV3KN",
       "name": "Technostress and Workload",
@@ -233,7 +253,7 @@
       "title": "Comparing the concepts of mental load and stress",
       "uri": "http://zotero.org/users/9698946/items/7DPWSWNN",
       "url": "http://www.tandfonline.com/doi/abs/10.1080/00140139308967972",
-      "version": 115,
+      "version": 432,
       "volume": "36"
     },
     {
@@ -263,6 +283,87 @@
       "uri": "http://zotero.org/users/9698946/items/8TIY4XQN",
       "url": "https://doi.org/10.1111/isj.12042",
       "version": 16
+    },
+    {
+      "DOI": "10.1080/19488300.2011.609524",
+      "ISSN": "1948-8300, 1948-8319",
+      "abstractNote": "High workload of nurses in Intensive Care Units (ICUs) has been identiﬁed as a major patient safety and worker stress problem. However, relatively little attention has been dedicated to the measurement of workload in healthcare. The objectives of this study are to describe and examine several methods to measure workload of ICU nurses. We then focus on the measurement of ICU nurses’ workload using a subjective rating instrument: the NASA TLX. We conducted secondary data analysis on data from two, multi-site, cross-sectional questionnaire studies to examine several instruments to measure ICU nurses’ workload. The combined database contains the data from 757 ICU nurses in eight hospitals and 21 ICUs. Results show that the different methods to measure workload of ICU nurses, such as patient-based and operator-based workload, are only moderately correlated, or not correlated at all. Results show further that among the operator-based instruments, the NASA TLX is the most reliable and valid questionnaire to measure workload and that NASA TLX can be used in a healthcare setting. Managers of hospitals and ICUs can beneﬁt from the results of this research as it provides benchmark data on workload experienced by nurses in a variety of ICUs.",
+      "accessDate": "2022-07-03T09:16:14Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-03T09:16:10Z",
+          "dateModified": "2022-07-03T09:16:14Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\HVWMJPDN\\Hoonakker et al. - 2011 - Measuring workload of ICU nurses with a questionna.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Hoonakker et al. - 2011 - Measuring workload of ICU nurses with a questionna.pdf",
+          "uri": "http://zotero.org/users/9698946/items/HVWMJPDN"
+        }
+      ],
+      "citationKey": "hoonakkerMeasuringWorkloadICU2011",
+      "citekey": "hoonakkerMeasuringWorkloadICU2011",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Peter",
+          "lastName": "Hoonakker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pascale",
+          "lastName": "Carayon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ayse P.",
+          "lastName": "Gurses"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roger",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adjhaporn",
+          "lastName": "Khunlertkit"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kerry",
+          "lastName": "McGuire"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James M.",
+          "lastName": "Walker"
+        }
+      ],
+      "date": "04/2011",
+      "dateAdded": "2022-07-03T09:16:14Z",
+      "dateModified": "2022-07-03T09:16:14Z",
+      "issue": "2",
+      "itemID": 158,
+      "itemKey": "9CPRZB6P",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "IIE Transactions on Healthcare Systems Engineering",
+      "key": "9CPRZB6P",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "131-143",
+      "publicationTitle": "IIE Transactions on Healthcare Systems Engineering",
+      "relations": [],
+      "select": "zotero://select/library/items/9CPRZB6P",
+      "shortTitle": "Measuring workload of ICU nurses with a questionnaire survey",
+      "tags": [],
+      "title": "Measuring workload of ICU nurses with a questionnaire survey: the NASA Task Load Index (TLX)",
+      "uri": "http://zotero.org/users/9698946/items/9CPRZB6P",
+      "url": "http://www.tandfonline.com/doi/abs/10.1080/19488300.2011.609524",
+      "version": 396,
+      "volume": "1"
     },
     {
       "DOI": "10.1016/j.paid.2020.110083",
@@ -360,6 +461,117 @@
       "volume": "31"
     },
     {
+      "attachments": [
+        {
+          "dateAdded": "2022-07-03T09:43:26Z",
+          "dateModified": "2022-07-03T09:43:28Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\G2MYKZWU\\Helton and Holmstrom - Cognitive Slips-Failures and Daily Stress Further.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Helton and Holmstrom - Cognitive Slips-Failures and Daily Stress Further.pdf",
+          "uri": "http://zotero.org/users/9698946/items/G2MYKZWU"
+        }
+      ],
+      "citationKey": "heltonCognitiveSlipsFailuresDaily",
+      "citekey": "heltonCognitiveSlipsFailuresDaily",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "William S",
+          "lastName": "Helton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Richard",
+          "lastName": "Holmstrom"
+        }
+      ],
+      "dateAdded": "2022-07-03T09:43:28Z",
+      "dateModified": "2022-07-03T09:43:28Z",
+      "itemID": 168,
+      "itemKey": "BCESRUA3",
+      "itemType": "journalArticle",
+      "key": "BCESRUA3",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "5",
+      "publicationTitle": "th ANNUAL MEETING",
+      "relations": [],
+      "select": "zotero://select/library/items/BCESRUA3",
+      "tags": [],
+      "title": "Cognitive Slips-Failures and Daily Stress: Further Investigations with the Short Stress State Questionnaire",
+      "uri": "http://zotero.org/users/9698946/items/BCESRUA3",
+      "version": 411
+    },
+    {
+      "DOI": "10.1016/j.ijmedinf.2015.03.003",
+      "ISSN": "13865056",
+      "abstractNote": "Objective: Healthcare institutions worldwide are moving to electronic health records (EHRs). These transitions are particularly numerous in the US where healthcare systems are purchasing and implementing commercial EHRs to fulﬁll federal requirements. Despite the central role of EHRs to workﬂow, the cognitive impact of these transitions on the workforce has not been widely studied. This study assesses the changes in cognitive workload among pediatric nurses during data entry and retrieval tasks during transition from a hybrid electronic and paper information system to a commercial EHR. Materials and methods: Baseline demographics and computer attitude and skills scores were obtained from 74 pediatric nurses in two wards. They also completed an established and validated instrument, the NASA-TLX, that is designed to measure cognitive workload; this instrument was used to evaluate cognitive workload of data entry and retrieval. The NASATLX was administered at baseline (pre-implementation), 1, 5 and 10 shifts and 4 months post-implementation of the new EHR.\nResults: Most nurse participants experienced signiﬁcant increases of cognitive workload at 1 and 5 shifts after “go-live”. These increases abated at differing rates predicted by participants’ computer attitudes scores (p = 0.01).\nConclusions: There is substantially increased cognitive workload for nurses during the early phases (1–5 shifts) of EHR transitions. Health systems should anticipate variability across workers adapting to “meaningful use” EHRs. “One-size-ﬁts-all” training strategies may not be suitable and longer periods of technical support may be necessary for some workers.",
+      "accessDate": "2022-07-04T08:08:40Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-04T08:08:37Z",
+          "dateModified": "2022-07-04T08:08:41Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\77ZI5B82\\Colligan et al. - 2015 - Cognitive workload changes for nurses transitionin.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Colligan et al. - 2015 - Cognitive workload changes for nurses transitionin.pdf",
+          "uri": "http://zotero.org/users/9698946/items/77ZI5B82"
+        }
+      ],
+      "citationKey": "colliganCognitiveWorkloadChanges2015a",
+      "citekey": "colliganCognitiveWorkloadChanges2015a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lacey",
+          "lastName": "Colligan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Henry W.W.",
+          "lastName": "Potts"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Chelsea T.",
+          "lastName": "Finn"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert A.",
+          "lastName": "Sinkin"
+        }
+      ],
+      "date": "07/2015",
+      "dateAdded": "2022-07-04T08:08:40Z",
+      "dateModified": "2022-07-04T08:08:41Z",
+      "issue": "7",
+      "itemID": 191,
+      "itemKey": "CX5TQEXB",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "International Journal of Medical Informatics",
+      "key": "CX5TQEXB",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "469-476",
+      "publicationTitle": "International Journal of Medical Informatics",
+      "relations": [],
+      "select": "zotero://select/library/items/CX5TQEXB",
+      "tags": [],
+      "title": "Cognitive workload changes for nurses transitioning from a legacy system with paper documentation to a commercial electronic health record",
+      "uri": "http://zotero.org/users/9698946/items/CX5TQEXB",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1386505615000635",
+      "version": 463,
+      "volume": "84"
+    },
+    {
       "attachments": [],
       "citationKey": "zotero-56",
       "citekey": "zotero-56",
@@ -398,6 +610,66 @@
       "uri": "http://zotero.org/users/9698946/items/FDVENISH",
       "url": "https://ideas.repec.org/a/aii/ijcmss/v5y2014i2p01-07.html#:~:text=From%20the%20research%20it%20can,intervening%20variable%20in%20the%20relationship.",
       "version": 108
+    },
+    {
+      "DOI": "10.3390/s19091991",
+      "ISSN": "1424-8220",
+      "abstractNote": "Suffering from continuous stress can lead to serious psychological and even physical disorders. Objective stress assessment methods using noninvasive physiological responses such as heart rate variability (HRV) and electroencephalograms (EEG) have therefore been proposed for effective stress management. In this study, a novel wearable device that can measure electrocardiograms (ECG) and EEG simultaneously was designed to enable continuous stress monitoring in daily life. The developed system is easily worn by hanging from both ears, is lightweight (i.e., 42.5 g), and exhibits an excellent noise performance of 0.12 μVrms. Significant time and frequency features of HRV and EEG were found in two different stressors, namely the Stroop color word and mental arithmetic tests, using 14 young subjects. Stressor situations were classified using various HRV and EEG feature selections and a support vector machine technique. The five-fold cross-validation results obtained when using both EEG and HRV features showed the best performance with an accuracy of 87.5%, which demonstrated the requirement for simultaneous HRV and EEG measurements.",
+      "accessDate": "2022-07-03T09:34:17Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-03T09:34:19Z",
+          "dateModified": "2022-07-03T09:34:20Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\S4ZPV3VS\\Ahn et al_2019_A Novel Wearable EEG and ECG Recording System for Stress Assessment.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Ahn et al_2019_A Novel Wearable EEG and ECG Recording System for Stress Assessment.pdf",
+          "uri": "http://zotero.org/users/9698946/items/S4ZPV3VS"
+        }
+      ],
+      "citationKey": "ahnNovelWearableEEG2019",
+      "citekey": "ahnNovelWearableEEG2019",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Joong Woo",
+          "lastName": "Ahn"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yunseo",
+          "lastName": "Ku"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hee Chan",
+          "lastName": "Kim"
+        }
+      ],
+      "date": "2019-04-28",
+      "dateAdded": "2022-07-03T09:34:17Z",
+      "dateModified": "2022-07-03T09:34:17Z",
+      "issue": "9",
+      "itemID": 162,
+      "itemKey": "FX6KDG54",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Sensors",
+      "key": "FX6KDG54",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "1991",
+      "publicationTitle": "Sensors",
+      "relations": [],
+      "select": "zotero://select/library/items/FX6KDG54",
+      "tags": [],
+      "title": "A Novel Wearable EEG and ECG Recording System for Stress Assessment",
+      "uri": "http://zotero.org/users/9698946/items/FX6KDG54",
+      "url": "https://www.mdpi.com/1424-8220/19/9/1991",
+      "version": 404,
+      "volume": "19"
     },
     {
       "DOI": "10.2753/MIS0742-1222240109",
@@ -451,6 +723,55 @@
       "url": "https://www.tandfonline.com/doi/full/10.2753/MIS0742-1222240109",
       "version": 116,
       "volume": "24"
+    },
+    {
+      "DOI": "10.1080/00140139308967972",
+      "ISSN": "0014-0139, 1366-5847",
+      "accessDate": "2022-07-03T11:13:18Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-03T11:13:16Z",
+          "dateModified": "2022-07-03T11:13:19Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\M89ZW3QW\\Gaillard - 1993 - Comparing the concepts of mental load and stress.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Gaillard - 1993 - Comparing the concepts of mental load and stress.pdf",
+          "uri": "http://zotero.org/users/9698946/items/M89ZW3QW"
+        }
+      ],
+      "citationKey": "gaillardComparingConceptsMental1993a",
+      "citekey": "gaillardComparingConceptsMental1993a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "A. W. K.",
+          "lastName": "Gaillard"
+        }
+      ],
+      "date": "09/1993",
+      "dateAdded": "2022-07-03T11:13:18Z",
+      "dateModified": "2022-07-03T11:13:18Z",
+      "issue": "9",
+      "itemID": 176,
+      "itemKey": "G4JVXNX7",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Ergonomics",
+      "key": "G4JVXNX7",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "991-1005",
+      "publicationTitle": "Ergonomics",
+      "relations": [],
+      "select": "zotero://select/library/items/G4JVXNX7",
+      "tags": [],
+      "title": "Comparing the concepts of mental load and stress",
+      "uri": "http://zotero.org/users/9698946/items/G4JVXNX7",
+      "url": "http://www.tandfonline.com/doi/abs/10.1080/00140139308967972",
+      "version": 430,
+      "volume": "36"
     },
     {
       "DOI": "10.3389/fncom.2021.684423",
@@ -786,6 +1107,86 @@
       "version": 109
     },
     {
+      "DOI": "10.1080/19488300.2011.609524",
+      "ISSN": "1948-8300, 1948-8319",
+      "accessDate": "2022-07-03T09:33:17Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-03T09:33:20Z",
+          "dateModified": "2022-07-03T09:33:20Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\3QQRFPF3\\Hoonakker et al_2011_Measuring workload of ICU nurses with a questionnaire survey.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Hoonakker et al_2011_Measuring workload of ICU nurses with a questionnaire survey.pdf",
+          "uri": "http://zotero.org/users/9698946/items/3QQRFPF3"
+        }
+      ],
+      "citationKey": "hoonakkerMeasuringWorkloadICU2011a",
+      "citekey": "hoonakkerMeasuringWorkloadICU2011a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Peter",
+          "lastName": "Hoonakker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pascale",
+          "lastName": "Carayon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ayse P.",
+          "lastName": "Gurses"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roger",
+          "lastName": "Brown"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adjhaporn",
+          "lastName": "Khunlertkit"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kerry",
+          "lastName": "McGuire"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James M.",
+          "lastName": "Walker"
+        }
+      ],
+      "date": "04/2011",
+      "dateAdded": "2022-07-03T09:33:17Z",
+      "dateModified": "2022-07-03T09:33:17Z",
+      "issue": "2",
+      "itemID": 160,
+      "itemKey": "IFAKLP73",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "IIE Transactions on Healthcare Systems Engineering",
+      "key": "IFAKLP73",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "131-143",
+      "publicationTitle": "IIE Transactions on Healthcare Systems Engineering",
+      "relations": [],
+      "select": "zotero://select/library/items/IFAKLP73",
+      "shortTitle": "Measuring workload of ICU nurses with a questionnaire survey",
+      "tags": [],
+      "title": "Measuring workload of ICU nurses with a questionnaire survey: the NASA Task Load Index (TLX)",
+      "uri": "http://zotero.org/users/9698946/items/IFAKLP73",
+      "url": "http://www.tandfonline.com/doi/abs/10.1080/19488300.2011.609524",
+      "version": 403,
+      "volume": "1"
+    },
+    {
       "attachments": [],
       "citationKey": "zotero-57",
       "citekey": "zotero-57",
@@ -895,6 +1296,48 @@
       "title": "Schellhammer, Stefan; Haines, Russell; Klein, Stefan (2013)",
       "uri": "http://zotero.org/users/9698946/items/JBL2CAN3",
       "version": 20
+    },
+    {
+      "ISBN": "978-1-4757-0886-8 978-1-4757-0884-4",
+      "accessDate": "2022-07-03T11:09:09Z",
+      "attachments": [],
+      "citationKey": "sandersRemarksMentalLoad1979",
+      "citekey": "sandersRemarksMentalLoad1979",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Neville",
+          "lastName": "Moray"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A. F.",
+          "lastName": "Sanders"
+        }
+      ],
+      "date": "1979",
+      "dateAdded": "2022-07-03T11:09:09Z",
+      "dateModified": "2022-07-03T11:09:09Z",
+      "extra": "DOI: 10.1007/978-1-4757-0884-4_5",
+      "itemID": 169,
+      "itemKey": "JT8HQ6VA",
+      "itemType": "bookSection",
+      "key": "JT8HQ6VA",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "41-77",
+      "place": "Boston, MA",
+      "publicationTitle": "Mental Workload",
+      "publisher": "Springer US",
+      "relations": [],
+      "select": "zotero://select/library/items/JT8HQ6VA",
+      "tags": [],
+      "title": "Some Remarks on Mental Load",
+      "uri": "http://zotero.org/users/9698946/items/JT8HQ6VA",
+      "url": "http://link.springer.com/10.1007/978-1-4757-0884-4_5",
+      "version": 416
     },
     {
       "ISBN": "978-3-030-49043-0 978-3-030-49044-7",
@@ -1214,6 +1657,203 @@
       "volume": "9"
     },
     {
+      "DOI": "10.1287/isre.1070.0165",
+      "ISSN": "1047-7047, 1526-5536",
+      "abstractNote": "The research reported in this paper studies the phenomenon of technostress, that is, stress experienced by end users of Information and Communication Technologies (ICTs), and examines its influence on their job satisfaction, commitment to the organization, and intention to stay. Drawing from the Transaction-Based Model of stress and prior research on the effects of ICTs on end users, we first conceptually build a nomological net for technostress to understand the influence of technostress on three variables relating to end users of ICTs: job satisfaction, and organizational and continuance commitment. Because there are no prior instruments to measure constructs related to technostress, we develop and empirically validate two second order constructs: technostress creators (i.e., factors that create stress from the use of ICTs) and technostress inhibitors (i.e., organizational mechanisms that reduce stress from the use of ICTs). We test our conceptual model using data from the responses of 608 end users of ICTs from multiple organizations to a survey questionnaire. Our results, based on structural equation modeling (SEM), show that technostress creators decrease job satisfaction, leading to decreased organizational and continuance commitment, while Technostress inhibitors increase job satisfaction and organizational and continuance commitment. We also find that age, gender, education, and computer confidence influence technostress. The implications of these results and future research directions are discussed.",
+      "accessDate": "2022-07-04T07:34:24Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-04T07:35:15Z",
+          "dateModified": "2022-07-04T07:35:16Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\ZHG8KWKY\\Ragu-Nathan et al_2008_The Consequences of Technostress for End Users in Organizations.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Ragu-Nathan et al_2008_The Consequences of Technostress for End Users in Organizations.pdf",
+          "uri": "http://zotero.org/users/9698946/items/ZHG8KWKY"
+        }
+      ],
+      "citationKey": "ragu-nathanConsequencesTechnostressEnd2008",
+      "citekey": "ragu-nathanConsequencesTechnostressEnd2008",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "T. S.",
+          "lastName": "Ragu-Nathan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Monideepa",
+          "lastName": "Tarafdar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bhanu S.",
+          "lastName": "Ragu-Nathan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Qiang",
+          "lastName": "Tu"
+        }
+      ],
+      "date": "12/2008",
+      "dateAdded": "2022-07-04T07:34:24Z",
+      "dateModified": "2022-07-04T07:34:24Z",
+      "issue": "4",
+      "itemID": 187,
+      "itemKey": "L85N74E4",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Information Systems Research",
+      "key": "L85N74E4",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "417-433",
+      "publicationTitle": "Information Systems Research",
+      "relations": [],
+      "select": "zotero://select/library/items/L85N74E4",
+      "shortTitle": "The Consequences of Technostress for End Users in Organizations",
+      "tags": [],
+      "title": "The Consequences of Technostress for End Users in Organizations: Conceptual Development and Empirical Validation",
+      "uri": "http://zotero.org/users/9698946/items/L85N74E4",
+      "url": "http://pubsonline.informs.org/doi/10.1287/isre.1070.0165",
+      "version": 458,
+      "volume": "19"
+    },
+    {
+      "DOI": "10.1016/j.ijmedinf.2015.03.003",
+      "ISSN": "13865056",
+      "accessDate": "2022-07-03T09:31:05Z",
+      "attachments": [],
+      "citationKey": "colliganCognitiveWorkloadChanges2015",
+      "citekey": "colliganCognitiveWorkloadChanges2015",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lacey",
+          "lastName": "Colligan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Henry W.W.",
+          "lastName": "Potts"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Chelsea T.",
+          "lastName": "Finn"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert A.",
+          "lastName": "Sinkin"
+        }
+      ],
+      "date": "07/2015",
+      "dateAdded": "2022-07-03T09:31:05Z",
+      "dateModified": "2022-07-03T09:31:05Z",
+      "issue": "7",
+      "itemID": 159,
+      "itemKey": "LAEZFLAL",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "International Journal of Medical Informatics",
+      "key": "LAEZFLAL",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "469-476",
+      "publicationTitle": "International Journal of Medical Informatics",
+      "relations": [],
+      "select": "zotero://select/library/items/LAEZFLAL",
+      "tags": [],
+      "title": "Cognitive workload changes for nurses transitioning from a legacy system with paper documentation to a commercial electronic health record",
+      "uri": "http://zotero.org/users/9698946/items/LAEZFLAL",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1386505615000635",
+      "version": 399,
+      "volume": "84"
+    },
+    {
+      "charset": "",
+      "contentType": "application/pdf",
+      "dateAdded": "2022-07-02T13:48:23Z",
+      "dateModified": "2022-07-02T13:48:23Z",
+      "defaultPath": "files/148/sensors-19-01991.pdf",
+      "filename": "sensors-19-01991.pdf",
+      "itemID": 148,
+      "itemKey": "LMNXZ9E5",
+      "itemType": "attachment",
+      "key": "LMNXZ9E5",
+      "libraryID": 1,
+      "linkMode": "imported_file",
+      "localPath": "C:\\Users\\ene Monsieur\\Zotero\\storage\\LMNXZ9E5\\sensors-19-01991.pdf",
+      "relations": [],
+      "select": "zotero://select/library/items/LMNXZ9E5",
+      "tags": [],
+      "title": "sensors-19-01991.pdf",
+      "uri": "http://zotero.org/users/9698946/items/LMNXZ9E5",
+      "version": 383
+    },
+    {
+      "DOI": "10.1109/EMBC.2017.8037542",
+      "ISBN": "978-1-5090-2809-2",
+      "accessDate": "2022-07-03T09:39:46Z",
+      "attachments": [],
+      "citationKey": "dimitrakopoulosMentalFatigueIndex2017",
+      "citekey": "dimitrakopoulosMentalFatigueIndex2017",
+      "conferenceName": "2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Georgios N.",
+          "lastName": "Dimitrakopoulos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ioannis",
+          "lastName": "Kakkos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nitish V.",
+          "lastName": "Thakor"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anastasios",
+          "lastName": "Bezerianos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yu",
+          "lastName": "Sun"
+        }
+      ],
+      "date": "7/2017",
+      "dateAdded": "2022-07-03T09:39:46Z",
+      "dateModified": "2022-07-03T09:39:46Z",
+      "itemID": 165,
+      "itemKey": "LUC2NDMH",
+      "itemType": "conferencePaper",
+      "key": "LUC2NDMH",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "3220-3223",
+      "place": "Seogwipo",
+      "publicationTitle": "2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+      "publisher": "IEEE",
+      "relations": [],
+      "select": "zotero://select/library/items/LUC2NDMH",
+      "tags": [],
+      "title": "A mental fatigue index based on regression using mulitband EEG features with application in simulated driving",
+      "uri": "http://zotero.org/users/9698946/items/LUC2NDMH",
+      "url": "https://ieeexplore.ieee.org/document/8037542/",
+      "version": 409
+    },
+    {
       "abstractNote": "Stress is a physiological and psychological pressure perceived by an individual that placing himself/herself in a risk, both physically and mentally. The research objective of this research is to find out whether the level of technology competence and workload has an impact on employee performance through technostress as an intervening variable. The respondents of this study were 138 people whom work at Production and Engineering department of a multinational company using automation technology equipment in operation. A technique of data collection was done by using questionaire and interviews. Data was analysed using the SEM (Structural Equation Modelling) approach. From the research it can be concluded that the workload and competence level of automation technology had significant impact to technostress. Further, the study also shows a significant relationships between workload and employee performance which the Technostress acts as an intervening variable in the relationship.",
       "attachments": [],
       "citationKey": "ImpactTechnostressEndUser",
@@ -1397,6 +2037,60 @@
       "volume": "16"
     },
     {
+      "DOI": "10.1016/j.ijpsycho.2012.01.009",
+      "ISSN": "01678760",
+      "accessDate": "2022-07-03T09:37:10Z",
+      "attachments": [],
+      "citationKey": "willmannTimeCourseAutonomic2012",
+      "citekey": "willmannTimeCourseAutonomic2012",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Magali",
+          "lastName": "Willmann"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cécile",
+          "lastName": "Langlet"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jean-Philippe",
+          "lastName": "Hainaut"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benoît",
+          "lastName": "Bolmont"
+        }
+      ],
+      "date": "4/2012",
+      "dateAdded": "2022-07-03T09:37:10Z",
+      "dateModified": "2022-07-03T09:37:10Z",
+      "issue": "1",
+      "itemID": 164,
+      "itemKey": "R8VXXJ76",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "International Journal of Psychophysiology",
+      "key": "R8VXXJ76",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "51-58",
+      "publicationTitle": "International Journal of Psychophysiology",
+      "relations": [],
+      "select": "zotero://select/library/items/R8VXXJ76",
+      "shortTitle": "The time course of autonomic parameters and muscle tension during recovery following a moderate cognitive stressor",
+      "tags": [],
+      "title": "The time course of autonomic parameters and muscle tension during recovery following a moderate cognitive stressor: Dependency on trait anxiety level",
+      "uri": "http://zotero.org/users/9698946/items/R8VXXJ76",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0167876012000116",
+      "version": 407,
+      "volume": "84"
+    },
+    {
       "DOI": "10.1109/HICSS.2013.365",
       "ISBN": "978-1-4673-5933-7 978-0-7695-4892-0",
       "accessDate": "2022-06-23T12:30:16Z",
@@ -1509,6 +2203,95 @@
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0169260719320528",
       "version": 214,
       "volume": "193"
+    },
+    {
+      "DOI": "10.1007/s10111-013-0256-9",
+      "ISSN": "1435-5558, 1435-5566",
+      "accessDate": "2022-07-04T07:38:41Z",
+      "attachments": [],
+      "citationKey": "sellbergTechnostressOfficeDistributed2014",
+      "citekey": "sellbergTechnostressOfficeDistributed2014",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Charlott",
+          "lastName": "Sellberg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tarja",
+          "lastName": "Susi"
+        }
+      ],
+      "date": "5/2014",
+      "dateAdded": "2022-07-04T07:38:41Z",
+      "dateModified": "2022-07-04T07:38:41Z",
+      "issue": "2",
+      "itemID": 189,
+      "itemKey": "RZQQNSB2",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Cogn Tech Work",
+      "key": "RZQQNSB2",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "187-201",
+      "publicationTitle": "Cognition, Technology & Work",
+      "relations": [],
+      "select": "zotero://select/library/items/RZQQNSB2",
+      "shortTitle": "Technostress in the office",
+      "tags": [],
+      "title": "Technostress in the office: a distributed cognition perspective on human–technology interaction",
+      "uri": "http://zotero.org/users/9698946/items/RZQQNSB2",
+      "url": "http://link.springer.com/10.1007/s10111-013-0256-9",
+      "version": 462,
+      "volume": "16"
+    },
+    {
+      "DOI": "10.1027/1015-5759/a000200",
+      "ISSN": "1015-5759, 2151-2426",
+      "abstractNote": "Conscious appraisals of stress, or stress states, are an important aspect of human performance. This article presents evidence supporting the validity and measurement characteristics of a short multidimensional self-report measure of stress state, the Short Stress State Questionnaire (SSSQ; Helton, 2004 ). The SSSQ measures task engagement, distress, and worry. A confirmatory factor analysis of the SSSQ using data pooled from multiple samples suggests the SSSQ does have a three factor structure and post-task changes are not due to changes in factor structure, but to mean level changes (state changes). In addition, the SSSQ demonstrates sensitivity to task stressors in line with hypotheses. Different task conditions elicited unique patterns of stress state on the three factors of the SSSQ in line with prior predictions. The 24-item SSSQ is a valid measure of stress state which may be useful to researchers interested in conscious appraisals of task-related stress.",
+      "accessDate": "2022-07-03T09:40:43Z",
+      "attachments": [],
+      "citationKey": "heltonShortStressState2015a",
+      "citekey": "heltonShortStressState2015a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "William S.",
+          "lastName": "Helton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katharina",
+          "lastName": "Näswall"
+        }
+      ],
+      "date": "2015-06-01",
+      "dateAdded": "2022-07-03T09:40:43Z",
+      "dateModified": "2022-07-03T09:40:43Z",
+      "issue": "1",
+      "itemID": 166,
+      "itemKey": "TGJRPWJP",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "European Journal of Psychological Assessment",
+      "key": "TGJRPWJP",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "20-30",
+      "publicationTitle": "European Journal of Psychological Assessment",
+      "relations": [],
+      "select": "zotero://select/library/items/TGJRPWJP",
+      "shortTitle": "Short Stress State Questionnaire",
+      "tags": [],
+      "title": "Short Stress State Questionnaire: Factor Structure and State Change Assessment",
+      "uri": "http://zotero.org/users/9698946/items/TGJRPWJP",
+      "url": "https://econtent.hogrefe.com/doi/10.1027/1015-5759/a000200",
+      "version": 414,
+      "volume": "31"
     },
     {
       "DOI": "10.3389/fpsyg.2021.655148",
@@ -1743,6 +2526,60 @@
       "title": "THE IMPACT OF WORKLOAD AND TECHNOLOGY COMPETENCE ON TECHNOSTRESS AND PERFORMANCE OF EMPLOYEES",
       "uri": "http://zotero.org/users/9698946/items/YWESQSRN",
       "version": 113
+    },
+    {
+      "ISBN": "978-1-4757-0886-8 978-1-4757-0884-4",
+      "abstractNote": "This paper aims to present an analysis of the concept of mental load from the point of view of human performance theory. In the first section the theoretical status of the concept of mental load is considered. It is concluded that it is based upon common sense, which cannot be supposed to be empirically founded in a simple way. Then an outline is given of the main procedures of measurement. The next section describes a number of theoretical bases which are all related to some kind of limited capacity notion. It is concluded that the original idea of channel capacity in terms of information theory fails to provide a sound theoretical framework. Other capacity concepts in terms of limited capacity processors and in terms of effort are described. Three types of processors are distinguished, which have different consequences for the measurement of mental load.",
+      "accessDate": "2022-07-03T11:09:43Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-03T11:09:41Z",
+          "dateModified": "2022-07-03T11:09:44Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\IDCPXFGA\\Sanders - 1979 - Some Remarks on Mental Load.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Sanders - 1979 - Some Remarks on Mental Load.pdf",
+          "uri": "http://zotero.org/users/9698946/items/IDCPXFGA"
+        }
+      ],
+      "citationKey": "sandersRemarksMentalLoad1979a",
+      "citekey": "sandersRemarksMentalLoad1979a",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Neville",
+          "lastName": "Moray"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A. F.",
+          "lastName": "Sanders"
+        }
+      ],
+      "date": "1979",
+      "dateAdded": "2022-07-03T11:09:43Z",
+      "dateModified": "2022-07-03T11:09:44Z",
+      "extra": "DOI: 10.1007/978-1-4757-0884-4_5",
+      "itemID": 171,
+      "itemKey": "ZK22XYUZ",
+      "itemType": "bookSection",
+      "key": "ZK22XYUZ",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "41-77",
+      "place": "Boston, MA",
+      "publicationTitle": "Mental Workload",
+      "publisher": "Springer US",
+      "relations": [],
+      "select": "zotero://select/library/items/ZK22XYUZ",
+      "tags": [],
+      "title": "Some Remarks on Mental Load",
+      "uri": "http://zotero.org/users/9698946/items/ZK22XYUZ",
+      "url": "http://link.springer.com/10.1007/978-1-4757-0884-4_5",
+      "version": 417
     },
     {
       "DOI": "10.1203/PDR.0b013e318123fbcc",

@@ -20,6 +20,7 @@ alias: [technostress differences]
 "Direct Quote" (can be blockquote if it is overly long, like several lines)
 -> (or =>) own words
 **Also, I am unsure how you got that interpretation of the sentence that you quoted? I would want to have another, better fitting source for that claim. I am going to omit it from my example note, just in case.**
+//Ene's answer: I deleted several parts of the quote, completely forgotting that this context was need to interpret my message! I'll remember that. 
 
 #technostress [...] #unnecessary **what is the unnecessary tag for?**
 > people should increase their emotional effort, as well as levels of mental and psychological activation, which can lead to the depletion of resources and affect the process of recovery from work demands [4,5]. It is required that the physical and psychological state of the person remain optimal, ensuring adequate levels of energy, motivation and commitment [6,7].” (Sandoval-Reyes et al., 2019, p. 2) **unnecessary to quote the paper here again if it already is in the title**
@@ -36,7 +37,7 @@ Work overload can come from the desire to make more money or to be recognize.
 >[8] mediated in turn by a desire for incentives, security status and the ability to be promoted [10,11].
 
 
-It is a psychological condition seen as a stressor by workers. This condition can lead to diseases.Eventhough, some studies show people satisfy by their job experience workoeverload.  **Formatting and grammar errors in this sentence**
+It is a psychological condition seen as a stressor by workers. This condition can lead to diseases. Eventhough, some studies show people satisfy by their job experience workoeverload.  **Formatting and grammar errors in this sentence**
 > “Some studies find that work overload is a characteristic of job satisfaction, despite leading to unhealthy patterns  Nonetheless, extensive literature shows that work overload is negatively related to health indicators [12,13]. 
 
 People that are overload often experience "low psychological detachement", and just can't plug out from work. There's a 3 way relationship between W-Overload, P. detachement and technology use.
@@ -133,3 +134,73 @@ This model explains the performance of a worker, depending on how the technology
 	As previously discussed, the appropriation of technologies is not a cause of the variables of technostress or mental workload. However, as observed in the scientific research, both variables can condition the misappropriation or non-use of technology in the context of work. It is crucial to outline is that the appropriation of technology fosters a holistic view of the use of technology, focusing on how people use the technology, why they use it and which institutional factors (norms, values or requirements) within context will influence this use. The following graph attempts to summarize the ideas mentioned above (Fig. [1](https://link.springer.com/chapter/10.1007/978-3-030-49044-7_2#Fig1)).![[497428_1_En_2_Fig1_HTML.webp]
 	
 
+
+## [[Alsuraykh et al. - 2019 - How Stress and Mental Workload are Connected.pdf]]
+“In our research, we have seen both people that enjoy high workload, and people that feel stressed by it, but we do not know whether that experience of stress significantly affects our measurements. Our recent results show that fNIRS measurements are affected by stress (measured by SSSQ).” (Alsuraykh et al., 2019, p. 1) The SSSQ can segregate stress during high mental workload, but used fNIRS
+> NO
+
+“Some have pointed out that an increase in Heart Rate is linked with high mental workload [9] [52] while others show that increase in Heart Rate is also triggered by stress [10] [15] [46], and surprise [40], or indeed just physical movement.” (Alsuraykh et al., 2019, p. 1)
+>NO
+
+“has focused on fNIRS as movement-tolerant brain sensor for use in HCI experiments [27] [33] [37] [44]. For example, it has been used to evaluate the UX of software [34] and used to adapt tasks [1] [56]. While using fNIRS to measure Mental Workload during Air Traffic Control (ATC)” (Alsuraykh et al., 2019, p. 1)
+>NO
+
+
+“The relationship between MWL and stress is much more complicated than: high workload is bad, and indeed that: experienced stress is bad. As there is a lack of clarity in how stress and MWL are related, because they are used to describe often similar phenomena, this paper reviews literature to clarify the relationship between these two concepts, and elaborate on why they are hard to study separately.” (Alsuraykh et al., 2019, p. 1) #workload 
+
+“MWL has been described as “the relationship between primary task performance and the resources demanded by the primary task” [52]. In other words, MWL is the relationship between demands placed upon individuals and their capacity to cope with it.” (Alsuraykh et al., 2019, p. 2) You're getting a high task like coding. How well do you cope with it. Are you "overwehlmed" or do you feel confident etc... handling that.
+
+“Many measures for assessing mental workload have been developed and they are classified into three types: performance-based assessment, subjective workload assessment, and physiological workload assessment [53].” (Alsuraykh et al., 2019, p. 2) What are the 3 criteria that aremeasured to asses MWL and how do they connect  to overall stress?
+>NO workload measurement
+
+
+
+“In order to gain better understanding of the measurement process of MWL, the following MWL framework by [52] might be useful. It comprises three main parts: 1) the physical and cognitive task demands, 2) the operator’s workload and 3) the performance (See Figure 1).” (Alsuraykh et al., 2019, p. 2)
+> NO
+
+
+“hysical and cognitive task demands are a reflection of a task’s features that are imposed on a person. It is necessary to determine the work demands that individuals might face in order to measure Mental Workload. In addition, because the demand could be perceived differently by different individuals, it is essential to measure both the imposed demands and perceived demand.” (Alsuraykh et al., 2019, p. 2)
+>NO
+
+
+“Operator workload can be defined as “equivalent to measures of operator strain or effort” [40]. Several MWL measurements focus only on measuring the operator experience during and after the task using different subjective questionnaires, however, it has used the measures of effort from behaviour indices and the impact of effort physiology” (Alsuraykh et al., 2019, p. 2) Do operator workload actually correlates with stress?
+>NO
+
+
+“According to [28], they indicated that the meaning of the term “stress” has no precise consensus. It has been defined the “Stress” as the lack of balancing between environmental demands and individual capabilities [30]” (Alsuraykh et al., 2019, p. 2) defintion of stress again #stress “in other words, stress could indicate to the coping with the external or internal adverse conditions (stressors), which is the behavioural, psychological and physiological responses [12].” (Alsuraykh et al., 2019, p. 2)
+“However, some researchers have defined the term of stress as non-equivalent degree between demands made upon a person and his/her ability of coping with those certain demands.” (Alsuraykh et al., 2019, p. 2)
+“Commission Directorate-General for Employment and Social Affairs (2003) described it as a “state characterized by high levels of arousal and distress and often feelings of not copin” (Alsuraykh et al., 2019, p. 3)
+“From this point of view, it has been revealed that the psychological stress is the consequence of individuals’ appraisals of their environment as exacting or exceeding their resources and/or hazard their safety [30” (Alsuraykh et al., 2019, p. 3) better definition of stress
+
+“0]. The estimates of demanding or threatening surrounding environments are multifaceted, reflecting emotional (affect), motivational (conation), and cognitive processes. However, across nearly all of these dimensions, the notion of ‘too much workload’ recurs” (Alsuraykh et al., 2019, p. 3)
+>NO
+
+
+“In addition, it has been suggested that one definition of stress is that ‘the demands of an event exceed personal resources and is motivated by the emotional response to harm and threat’ and, in short, is ‘the relationship between the person and the environment’ [30]” (Alsuraykh et al., 2019, p. 3) #stress
+
+
+
+
+“HR [7” (Alsuraykh et al., 2019, p. 3)
+
+“1) primary appraisal which includes the location of a event, such as stressful, and 2) a secondary appraisal appears after an evaluation of the event, such as threat or challenge.” (Alsuraykh et al., 2019, p. 3)
+
+“There is similarity between the Transactional Theory of Stress by [14] and the Framework for MWL by [51]. In MWL framework, the operator workload is influenced by the way that task is perceived by the operator, while there is association between demand and performance. It has been pointed out that the outcome demand created by a combination of physical and cognitive task demands and external and internal influences [42]” (Alsuraykh et al., 2019, p. 3) Looks like stress depends on how the operator defines it. NOt necessarily if its WM is overwehlmed. It's like an embebbed cognitive apraisal related to the incapacity of handling the demands or maintaining performance #stress
+
+“Therefore, if an individual has high capacity to respond to an increased demand, he/she will be less likely to experience a stress response and indeed any stress response could be both” (Alsuraykh et al., 2019, p. 3)
+
+“psychological and physiological. When we consider these models together then, it appears to be the case that stress and MWL are strongly interconnected.” (Alsuraykh et al., 2019, p. 4)
+
+
+
+“Various studies have attempted to measure the stress and MWL, which can be divided into three categories: (1) Self-reporting and subjective ratings using standard questionnaires such as the NASATLX [21] and the SSSQ [22]) ; (2) Behavioral measures, such as primary and secondary-task performance; and (3) physiological measurements, such as including Heart Rate, Skin Temperature to monitor task demand (MW) [8] [20] [50] as well as stress level [9] [14], pupillometry, electromyography, galvanic skin response, and brain activity [51] [53].” (Alsuraykh et al., 2019, p. 4)
+
+“Several experiments have been examined the stress and MWL. For example, it has been found that there are significant correlation stress and mental workload (positive correlation) which means when the subjects have higher mental workload and more negative emotion, they tend to experience more stress [55]” (Alsuraykh et al., 2019, p. 4)
+
+“it has been revealed that there is tight link between mental workload and psychological stress during flight task, where there found a significant positive correlation between HR and mental workload/psychological stress [11” (Alsuraykh et al., 2019, p. 4)
+
+“ough a large number of experiments have showed that MIST was worked efficiently and effectively in terms of inducing stress level, our studies revealed that MIST increased experienced mental workload as well as stres” (Alsuraykh et al., 2019, p. 4)
+
+“Indeed, its mechanism relies heavily on increasing time pressure in task demand, and this thus manipulating what one would expect to increase mental workload.” (Alsuraykh et al., 2019, p. 4)
+
+“Similar to performance, the lack of copying with the perceived demand and perceived capability will impact the cognitive appraisal, which in turn will induce the stress response, that could be psychological and/or physiological [13]” (Alsuraykh et al., 2019, p. 4) How stress measurements influence WML that alsoinfluences stress

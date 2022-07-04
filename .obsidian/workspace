@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3ed433eeff26c6d6",
+        "id": "74409468ed04813f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/VIsual NP/Visual Neurop.md",
+            "file": "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
             "mode": "source",
             "source": false
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "git",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/VIsual NP/Visual Neurop.md",
+                "file": "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3ed433eeff26c6d6",
+  "active": "74409468ed04813f",
   "lastOpenFiles": [
-    "PROJECTS/VIsual NP/Visual Neurop.md",
-    "PROJECTS/Learning Machine Learning/220627_1 differences between type of stress.md",
-    "PROJECTS/Learning Machine Learning/220627_1 difference stress technostress workload.md",
-    "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
-    "Excalidraw/Drawing 2022-07-01 10.38.25.excalidraw.md",
-    "PROJECTS/fMRI data analysis/talk 5 - Preprocessing of fMRI data.md",
-    "PROJECTS/fMRI data analysis/talk 3 BOLD Signal.md",
-    "PROJECTS/VIsual NP/Type of Retinal P.md",
-    "PROJECTS/VIsual NP/Argus II.md",
-    "PROJECTS/OFFIS/220627_1 differences between type of stress.md"
+    "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
+    "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
+    "PROJECTS/OFFIS/220627_1 differences between type of stress 1.md",
+    "zotero/files/41/Harris and Li - 2020 - Engineering Psychology and Cognitive Ergonomics. M.pdf",
+    "Ragu-Nathan,.md",
+    "PROJECTS/OFFIS/220627_1 differences between type of stress.md",
+    "references notes/@harrisEngineeringPsychologyCognitive2020.md",
+    "some remarks on Mental Load.md",
+    "zotero/files/22/Sandoval-Reyes et al. - 2019 - Relationship Amongst Technology Use, Work Overload.pdf",
+    "RESOURCES/_knowledge/220325_5  Stress measurement.md"
   ]
 }

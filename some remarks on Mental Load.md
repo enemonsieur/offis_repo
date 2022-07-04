@@ -1,0 +1,2 @@
+The second conceptualisation of mental load is much wider in that the task environment with its physical components (environmental stressors) and in particular its social and emotional components (leadership, management relations, personal relations) are also included. Emotions, tensions and frustrations all add to mental load. Thus, there can be mental load in the absence of formal task performance. The concept, then, becomes almos equivalent to something as general as stress or strain
+[[@sandersRemarksMentalLoad1979a]]
