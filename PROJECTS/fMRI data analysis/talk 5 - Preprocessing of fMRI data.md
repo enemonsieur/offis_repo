@@ -4,16 +4,19 @@ What are the 5 steps of data #preprocessing
 
 ### DICOM import
 What  is a NIftI image?
-What are the 2 
+What are the 2 datas contained in the NiFItI image?
+
+Why should we discard the first seconds of acquire datas?
+	Before preprocessing an fMRI data set, the fi rst images acquired in a session should be discarded. This is because much of the very large signal change that they contain is due to the time it takes for magnetisation to reach equilibrium. This can be easily seen by looking at the fi rst fe
 ### #realignment
 In which cases do we use #realignment
 	because heads movements can change the aligments of T2 images from each others
 whats the "thing" we need to align T-images?
 	reference image
 how many parameters do we use and what are they
-6 
 what procedure do we use to #realignment the images
-	mmean-squared difference)
+	mean-squared difference
+	motion correction algorithm
 
 
 ### coregistration  #coregistration
