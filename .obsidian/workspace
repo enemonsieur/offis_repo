@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
+            "file": "PROJECTS/fMRI data analysis/talk 3 BOLD Signal.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
+                "file": "PROJECTS/fMRI data analysis/talk 3 BOLD Signal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "74409468ed04813f",
   "lastOpenFiles": [
+    "PROJECTS/fMRI data analysis/talk 3 BOLD Signal.md",
+    "PROJECTS/fMRI data analysis/Talk 2 - From Neuronal to Hemodynamic Activity.md",
+    "PROJECTS/fMRI data analysis/talk5 - preprocessing.md",
+    "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
     "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
     "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
     "PROJECTS/OFFIS/220627_1 differences between type of stress 1.md",
     "zotero/files/41/Harris and Li - 2020 - Engineering Psychology and Cognitive Ergonomics. M.pdf",
     "Ragu-Nathan,.md",
-    "PROJECTS/OFFIS/220627_1 differences between type of stress.md",
-    "references notes/@harrisEngineeringPsychologyCognitive2020.md",
-    "some remarks on Mental Load.md",
-    "zotero/files/22/Sandoval-Reyes et al. - 2019 - Relationship Amongst Technology Use, Work Overload.pdf",
-    "RESOURCES/_knowledge/220325_5  Stress measurement.md"
+    "PROJECTS/OFFIS/220627_1 differences between type of stress.md"
   ]
 }
