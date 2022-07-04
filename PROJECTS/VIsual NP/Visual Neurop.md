@@ -102,98 +102,9 @@ In (Source of the best retinal prosthetics). Millions of dollars, just for that.
         
         Visual Loss
         
-        RP has an incidence of 1 in 4000 with an estimated 1 million patients worldwide (Hartong et al. 2006). There````markdown
----
-tags: in/paper state/process
-aliases:
-  - { { VALUE:title } }
-cssclass: null
-abstract: >
-  {{VALUE:abstract}}
----
-
-# {{VALUE:title}}
-
----
-
-Type:: [[&]]
-Title:: {{VALUE:title}}
-Author:: {{VALUE:author}}
-Year:: {{VALUE:year}}
-Tags::
-DOI:: {{VALUE:doi}}
-Citekey:: {{VALUE:id}}
-ZoteroURI:: [Open in Zotero: {{VALUE:title}}]({{VALUE:zoteroSelectURI}})
-ReviewedDate:: [[2022-06-27 - Mon Jun 27]]
-Rating:: ==Give a rating==
-
----
-
-## Citation
-
-
-## Abstract
-
-{{VALUE:abstract}}
-
-## Summary of key points
-
--
-
-## Other Comments
-
--
-
-## Interesting Cited References
-
-- ***
-
-
----
-tags: in/paper state/process
-aliases:
-  - { { VALUE:title } }
-cssclass: null
-abstract: >
-{{VALUE:abstract}}
--- {{VALUE:title}}
-
----
-
-Type:: [[&]]
-Title:: {{VALUE:title}}
-Author:: {{VALUE:author}}
-Year:: {{VALUE:year}}
-Tags::
-DOI:: {{VALUE:doi}}
-Citekey:: {{VALUE:id}}
-ZoteroURI:: [Open in Zotero: {{VALUE:title}}]({{VALUE:zoteroSelectURI}})
-ReviewedDate:: [[2022-06-23 - Thu Jun 23]]
-Rating:: ==Give a rating==
-
----
-
-## Citation
-
-
-## Abstract
-
-{{VALUE:abstract}}
-
-## Summary of key points
-
--
-
-## Other Comments
-
--
-
-## Interesting Cited References
-
-- ***
-
-
-is currently no other clinical treatment for RP.      AMD is a leading cause of vision loss in older adults; in Western countries it accounts for almost 50% of all severe visual impairment and blindness (Finger et al. 2011). The disease process gradually destroys the high resolution foveal region of the retina via a proliferation of blood vessels while typically leaving peripheral vision intact. At present it is possible to treat some forms of AMD using anti-vascular endothelial growth factors (anti-VEGF) (Lai and Landa 2015) to reduce the formation of new blood vessels; however, it is not yet possible to reverse the progression of the pathology.
+        RP has an incidence of 1 in 4000 with an estimated 1 million patients worldwide (Hartong et al. 2006). 
+        
+There is currently no other clinical treatment for RP.      AMD is a leading cause of vision loss in older adults; in Western countries it accounts for almost 50% of all severe visual impairment and blindness (Finger et al. 2011). The disease process gradually destroys the high resolution foveal region of the retina via a proliferation of blood vessels while typically leaving peripheral vision intact. At present it is possible to treat some forms of AMD using anti-vascular endothelial growth factors (anti-VEGF) (Lai and Landa 2015) to reduce the formation of new blood vessels; however, it is not yet possible to reverse the progression of the pathology.
         
 -   **Retinal prostheses: Clinical results and future challenges Les prothèses rétiniennes : résultats cliniques et défis futurs**
     
@@ -215,30 +126,12 @@ is currently no other clinical treatment for RP.      AMD is a leading cause of 
       - Epiretinal prostheses #partsofprosthetic
           
           Following this key demonstration, clinical trials have subsequently focused on retinal stimulations with retinal prostheses chronically fixed on the vitreal side of the retina. These epiretinal prostheses illustrated in [Fig. 2](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#fig0010>) are composed of the following elements:
-          
-          - 
-              
-              a camera located on eyeglasses for acquiring images of the visual environment;
-              
-              - 
-              
-              a [microprocessor](<https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/microprocessor>) which converts the image into stimulation codes;
-              
-              - 
-              
-              a transmitter located on the eyeglasses which transmits the information by [radio frequency](<https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/radiofrequency>) to the implanted device;
-              
-              - 
-              
-              an implanted device containing the radio frequency receiver (coil-coil interaction), which is connected to an ASIC (chip) converting stimulation codes into electric currents;
-              
-              - 
-              
-              extending from the implanted device, a foil composed with the electrical lines leading to the electrodes at its end, the end being attached to the retina and eye by a tack or nail through the choroid.
-              
-      - how a prosthetics, the Argus 2 works and why it doesn’t work well
-          
-          The Argus II device stimulates retinal cells by currents whose amplitude is a linear function of the pixel light intensity at a frequency of about 20 Hz with a pulse duration of 100 μs to 1 ms applying biphasic stimulations, cathodic first then anodic. This strategy provides exactly the same information to all types of ganglion cells and does not take into account their diversity [[26]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0130>)
+  
+    a camera located on eyeglasses for acquiring images of the visual environment;
+   a [microprocessor](<https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/microprocessor>) which converts the image into stimulation codes;
+   a transmitter located on the eyeglasses which transmits the information by [radio frequency](<https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/radiofrequency>) to the implanted device;    an implanted device containing the radio frequency receiver (coil-coil interaction), which is connected to an ASIC (chip) converting stimulation codes into electric currents;
+    extending from the implanted device, a foil composed with the electrical lines leading to the electrodes at its end, the end being attached to the retina and eye by a tack or nail through the choroid. how a prosthetics, the Argus 2 works and why it doesn’t work well
+  The Argus II device stimulates retinal cells by currents whose amplitude is a linear function of the pixel light intensity at a frequency of about 20 Hz with a pulse duration of 100 μs to 1 ms applying biphasic stimulations, cathodic first then anodic. This strategy provides exactly the same information to all types of ganglion cells and does not take into account their diversity [[26]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0130>)
           . Cells activated at the light onset, ON cells, thus receive the same stimulation as those normally activated at the extinction of the light phase, OFF cells. In addition to this identical stimulation of all retinal ganglion cell types, the epiretinal approach also activates fibres passing by from the periphery toward the optic disc [[18]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0090>)
           , [[27]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0135>)
           . This fibre stimulation corresponds to the activation of retinal ganglion cells peripheral to the implant and thus to the perception of an unwanted peripheral arc of light. These various difficulties associated with epiretinal stimulation could explain the great variability in patient performances using Argus II, only 7 patients out of the 30 implanted were able to reliably perform complex tasks of visual acuity [[21]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0105>)
