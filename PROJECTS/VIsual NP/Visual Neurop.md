@@ -129,8 +129,10 @@ There is currently no other clinical treatment for RP.      AMD is a leading cau
   
     a camera located on eyeglasses for acquiring images of the visual environment;
    a [microprocessor](<https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/microprocessor>) which converts the image into stimulation codes;
-   a transmitter located on the eyeglasses which transmits the information by [radio frequency](<https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/radiofrequency>) to the implanted device;    an implanted device containing the radio frequency receiver (coil-coil interaction), which is connected to an ASIC (chip) converting stimulation codes into electric currents;
-    extending from the implanted device, a foil composed with the electrical lines leading to the electrodes at its end, the end being attached to the retina and eye by a tack or nail through the choroid. how a prosthetics, the Argus 2 works and why it doesn’t work well
+   a transmitter located on the eyeglasses which transmits the information by [radio frequency](<https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/radiofrequency>) to the implanted device;  
+  an implanted device containing the radio frequency receiver (coil-coil interaction), which is connected to an ASIC (chip) converting stimulation codes into electric currents;
+    extending from the implanted device, a foil composed with the electrical lines leading to the electrodes at its end, the end being attached to the retina and eye by a tack or nail through the choroid.   
+how a prosthetics, the Argus 2 works and why it doesn’t work well
   The Argus II device stimulates retinal cells by currents whose amplitude is a linear function of the pixel light intensity at a frequency of about 20 Hz with a pulse duration of 100 μs to 1 ms applying biphasic stimulations, cathodic first then anodic. This strategy provides exactly the same information to all types of ganglion cells and does not take into account their diversity [[26]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0130>)
           . Cells activated at the light onset, ON cells, thus receive the same stimulation as those normally activated at the extinction of the light phase, OFF cells. In addition to this identical stimulation of all retinal ganglion cell types, the epiretinal approach also activates fibres passing by from the periphery toward the optic disc [[18]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0090>)
           , [[27]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0135>)
@@ -138,45 +140,31 @@ There is currently no other clinical treatment for RP.      AMD is a leading cau
           , [[22]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0110>)
           .
           
-      - **Subretinal implants**
-          
-          n this case, electrical stimulations aim at activating retinal bipolar cells (or eventually residual non-photosensitive photoreceptors [[28]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0140>)
+**Subretinal implants**
+
+  n this case, electrical stimulations aim at activating retinal bipolar cells (or eventually residual non-photosensitive photoreceptors [[28]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0140>)
           , which can then transfer visual information to the retinal ganglion cells as in the normal retina. Prof. Chow and the company Optobionics were the first to evaluate this strategy [[29]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0145>)
           Implant contained solar photodiodes which could directly generate current at the stimulation electrodes. The device was thus very simple because it contained no external component or wire to power or transmit visual information. The circular device (diameter of 2 mm) was simply inserted into the subretinal space of blind patients. Unfortunately, the photodiodes did not allow conversion of enough photons to cause the activation of the degenerated retinal tissue.
           
-          To increase the delivered current, Prof. Zrenner and the company Retina Implant AG have introduced an amplifier circuit between the photodiodes and their corresponding electrodes [[30]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0150>)
+  To increase the delivered current, Prof. Zrenner and the company Retina Implant AG have introduced an amplifier circuit between the photodiodes and their corresponding electrodes [[30]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0150>)
           . The chip exactly reproduces the operation of a photoreceptor receiving photons and amplifying this signal to finally deliver a current at the electrode. However, the presence of the amplifier circuit requires the addition of a battery, which is linked to the chip by wires and also inserted in the subretinal space but at the periphery. This whole device is therefore much more complex to install in the eye because the chip is introduced into the subretinal space from the periphery and then pushed to a central position.
           
-      - Why more electrodes don’t results in more pixels (contrast with  auditory cochlear
+ Why more electrodes don’t results in more pixels (contrast with  auditory cochlear
           
-          In a second phase, the chip, which contains 1500 diodes/electrodes, was activated by the ambient light as expected. With this device, patients perceived objects, discriminated simple test patterns and could, in some cases, read letters or even words. The restored visual acuity was 20/1000 in these patients
+In a second phase, the chip, which contains 1500 diodes/electrodes, was activated by the ambient light as expected. With this device, patients perceived objects, discriminated simple test patterns and could, in some cases, read letters or even words. The restored visual acuity was 20/1000 in these patients
           
           [[33]](<https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0165>)
+   . These results were therefore in the same range as those obtained with the epiretinal implant, Argus II, despite a greater number of electrodes. Psychophysical experiments had suggested that implants with 600 independent pixels would provide
+[facial recognition](<https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/facial-recognition>)
           
-          . These results were therefore in the same range as those obtained with the epiretinal implant, Argus II, despite a greater number of electrodes. Psychophysical experiments had suggested that implants with 600 independent pixels would provide
-          
-          [facial recognition](<https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/facial-recognition>)
-          
-          , reading complex texts and autonomous locomotion
-          
-        
-          . Therefore, the clinical results from Retina implant AG suggest that patients equipped with their implants do not perceive 1500 independent pixels despite 1500 electrodes. These different clinical trials have generated very important knowledge for future development of retinal prostheses:
-          
-          - 
+  , reading complex texts and autonomous locomotion
+. Therefore, the clinical results from Retina implant AG suggest that patients equipped with their implants do not perceive 1500 independent pixels despite 1500 electrodes. These different clinical trials have generated very important knowledge for future development of retinal prostheses:
+
               
-              both epiretinal and subretinal stimulations can induce visual perceptions;
-              
-              - 
-              
-              epiretinal stimulations can stimulate by-passing fibres;
-              
-              - 
-              
-              the brain can understand this recovered visual information;
-              
-              - 
-              
-              increasing the pixel number does not only rely on increasing the number of electrodes. In the next paragraphs, we will therefore discuss how to increase the number of electrodes and their individual spatial resolution.
+  both epiretinal and subretinal stimulations can induce visual perceptions;
+  epiretinal stimulations can stimulate by-passing fibres;
+the brain can understand this recovered visual information;
+   increasing the pixel number does not only rely on increasing the number of electrodes. In the next paragraphs, we will therefore discuss how to increase the number of electrodes and their individual spatial resolution.
               
       - **Future challenges**
           
