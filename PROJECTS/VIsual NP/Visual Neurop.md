@@ -28,27 +28,23 @@ Why haven’t the retinal prothestics encountered as much success as the cochlea
 
 This presentation will present briefly how visual neuroprosthesis can restore vision, what challenges are encounter, and the current approaches used to overcome them.
 
-	****Epiretinal prosthetics****
-	
-	**Argus II retinal prosthesis**
-	
-	**IMI GmBH learning implant (now “Pixium IRIS”)**
-	
-	**Epi-Ret3 retinal prosthesis**
-	
-	****Subretinal prosthetics****
-	
-	**Artificial silicon retina**
-	
-	**Alpha-IMS**
-	
-	**Boston Retinal Implant Project**
-	
-	**Stanford Photovoltaic Implant (“Pixium PRIMA”)**
+****Epiretinal prosthetics****
+
+**Argus II retinal prosthesis**
+**IMI GmBH learning implant (now “Pixium IRIS”)**
+
+**Epi-Ret3 retinal prosthesis**
+
+****Subretinal prosthetics****
+**Artificial silicon retina**
+**Alpha-IMS**
+**Boston Retinal Implant Project**
+**Stanford Photovoltaic Implant (“Pixium PRIMA”)**
 
 [](https://www.nature.com/articles/eye201765)[https://www.nature.com/articles/eye201765](https://www.nature.com/articles/eye201765)
 
 Histological examination of postmortem tissue indicated that patients in advanced stages of [retinitis pigmentosa](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/retinitis-pigmentosa)  retain only a third to a quarter of their retinal ganglion cells [[7]](https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0035) .[](https://www.sciencedirect.com/science/article/pii/S163106911400002X)[https://www.sciencedirect.com/science/article/pii/S163106911400002X](https://www.sciencedirect.com/science/article/pii/S163106911400002X)
+=> This is kind of a serious problem, because there's 1/3 of retinal ganglion, and most of them undergoes reorganization #retinalimitations 
 
 ## 3. Future challenges
 
