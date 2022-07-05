@@ -1,5 +1,6 @@
 What is the point of doing a Statistical Analysis of the BOLD RESPONSE?![[Pasted image 20220705084056.png]]
-	Create a generative model: 
+	Create a generative model: Predicts the BOLDr, given the experimental values (light ON, sound OFF)
+How do we design a 
 What are Betas in the  MAtrix format? (with lenght  p)
 X values comes from the design Matrix. BUt what is the design Matrix?
 We perform analysis for each voxels, not of all. So that for every voxel, we have the entire BOLD response measure in Y, of lenght (N). This length correspond to the number of sllices that we had.  which obviously can't be too small. (May be a slide every 0.5s)
