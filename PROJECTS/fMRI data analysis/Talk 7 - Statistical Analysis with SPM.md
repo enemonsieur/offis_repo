@@ -3,6 +3,11 @@ What is the point of doing a Statistical Analysis of the BOLD RESPONSE?![[Pasted
 How do we design a 
 What are Betas in the  MAtrix format? (with lenght  p)
 X values comes from the design Matrix. BUt what is the design Matrix?
+	The Design matrix contains in the 1st column the values of the experimental design
+	![[Pasted image 20220705084850.png]]
+	during the 84 blocks of time, we alternate OFF and ON auditory signal
+	In the second column its for the dummies
+	In the rest of them, it's the values of the different predictors
 We perform analysis for each voxels, not of all. So that for every voxel, we have the entire BOLD response measure in Y, of lenght (N). This length correspond to the number of sllices that we had.  which obviously can't be too small. (May be a slide every 0.5s)
 
 What does X, Y and B represents?
