@@ -7,11 +7,9 @@
         "id": "74409468ed04813f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "PROJECTS/VIsual NP/Visual Neurop.md",
-            "mode": "source",
-            "source": false
+            "file": "Untitled Kanban.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/VIsual NP/Visual Neurop.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +98,7 @@
   },
   "active": "74409468ed04813f",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
     "PROJECTS/VIsual NP/Visual Neurop.md",
     "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
     "PROJECTS/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md",
@@ -108,7 +107,6 @@
     "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
     "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
     "PROJECTS/VIsual NP/Type of Retinal P.md",
-    "PROJECTS/VIsual NP/Argus II.md",
-    "PROJECTS/fMRI data analysis/fMRI data analysis.md"
+    "PROJECTS/VIsual NP/Argus II.md"
   ]
 }
