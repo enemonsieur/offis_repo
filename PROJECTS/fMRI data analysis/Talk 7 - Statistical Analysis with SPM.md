@@ -7,7 +7,7 @@ X values comes from the design Matrix. BUt what is the design Matrix?
 	![[Pasted image 20220705084850.png]]
 	during the 84 blocks of time, we alternate OFF and ON auditory signal
 	In the second column its for the dummies
-	In the rest of them, it's the values of the different predictors
+	In the rest of them, it's the values of the different predictors Betas
 We perform analysis for each voxels, not of all. So that for every voxel, we have the entire BOLD response measure in Y, of lenght (N). This length correspond to the number of sllices that we had.  which obviously can't be too small. (May be a slide every 0.5s)
 
 What does X, Y and B represents?
@@ -20,14 +20,14 @@ What does those regression coeff mean? Betas
 How is HDR to linear time-invariant (LTI)
 
 Why would we convolve the LTI to ?? to predict the output of the voxel-brain aka HDR? #unclear 
+	We can thus improve our prediction by modifying the box car stimulus function of Fig. 6.10a to take into account the shape of the HRF. This is done through convolution, by assuming a linear time-invariant model. This convolution operation is conceptually the same as the one that was used in the smoothing preprocessing step; that was a convolution in space with a Gaussian kernel, whilst here it is a convolution in time with the canonical HRF. The output of this mathematical operation is displayed in Fig
+	![[Pasted image 20220705085447.png]]
 What is autocorrelation? #unclear 
 	It's about the fact the previous measure can predict the next one?
 	can we predict time-(t) by time (t-1)
 How does the epsilon error term relate to autocorrelation?
 	the error is normaly distributed (gaussian)
-Why is serial auto-correlation a problem for modeling the BOLD signal HDR-response: #unclear 
-
-	The error we get fron the model, epsilon, isn't random. It's autocorrelated with the time delay, eith the previous time steps signla.
+	Why is serial auto-correlation a problem for modeling the BOLD signal HDR-response: #unclear The error we get fron the model, epsilon, isn't random. It's autocorrelated with the time delay, eith the previous time steps signla.
 
 
 ### Talk 7: Part 2 Statistical Analysis
