@@ -33,4 +33,4 @@ What is it that parametric design do that Factorial design doesn't
 
 
 
-What are 3 advantages of Blokc
+What are 3 advantages of Block over Even related design?
