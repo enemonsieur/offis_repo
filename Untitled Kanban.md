@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] List 3 differents articles handling stress and EEG/ECG/Eye Track
 - [ ] Annotate 5-10% of them
+- [ ] Extract the Methodology and Gitrepo
 
 
 

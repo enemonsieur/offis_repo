@@ -1,6 +1,6 @@
 What is the point of doing a Statistical Analysis of the BOLD RESPONSE?![[Pasted image 20220705084056.png]]
 	Create a generative model: Predicts the BOLDr, given the experimental values (light ON, sound OFF)
-How do we design a 
+
 What are Betas in the  MAtrix format? (with lenght  p)
 X values comes from the design Matrix. BUt what is the design Matrix?
 	The Design matrix contains in the 1st column the values of the experimental design
