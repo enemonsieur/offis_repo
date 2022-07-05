@@ -1,3 +1,5 @@
+What is the point of doing a Statistical Analysis of the BOLD RESPONSE?![[Pasted image 20220705084056.png]]
+	Create a generative model: 
 What are Betas in the  MAtrix format? (with lenght  p)
 X values comes from the design Matrix. BUt what is the design Matrix?
 We perform analysis for each voxels, not of all. So that for every voxel, we have the entire BOLD response measure in Y, of lenght (N). This length correspond to the number of sllices that we had.  which obviously can't be too small. (May be a slide every 0.5s)
@@ -9,7 +11,7 @@ What does X, Y and B represents?
 What does those regression coeff mean? Betas
 	hat we know is that we need the X(n,p), the part of the BOLD signal that vary because of one particular factor (may be when presented blue or light. Those Xnp when changing because of the weight Beta 
 
-How is Hemody Respons erelated to linear time-invariant (LTI)
+How is HDR to linear time-invariant (LTI)
 
 Why would we convolve the LTI to ?? to predict the output of the voxel-brain aka HDR? #unclear 
 What is autocorrelation? #unclear 
@@ -45,7 +47,7 @@ Why do the X design matrix stay consistent through out different voxels, why is 
 WHat's a block design
 	Stimuli are rpesnetend after each other ex: 20 times at a particular condition (A) #unnecessary 
 
-Why is there (mathematically) a large dependency beteen regressors?
+Why is there (mathematically) a large dependency between regressors?
 	If we change the x2 values, we will change the B2 value (so that the x2 and x1 are uncorrelated aka 90deg), but to predict the y vector we'll have to change the x1 as well. 
 	![[Pasted image 20220701110708.png]]
 questions: Why do we use Identity matrix for the e
