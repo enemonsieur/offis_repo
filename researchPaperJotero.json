@@ -22,7 +22,8 @@
       "items": [
         124,
         148,
-        193
+        193,
+        212
       ],
       "key": "B3ZHZ5UA",
       "name": "Visual NP",
@@ -2480,6 +2481,62 @@
       "url": "http://link.springer.com/10.1007/978-3-030-49044-7",
       "version": 80,
       "volume": "12186"
+    },
+    {
+      "DOI": "10.1586/17469899.2.2.145",
+      "ISSN": "1746-9899, 1746-9902",
+      "abstractNote": "If future success for a clinically useful therapeutic device is linked to the research activity within a field, then there is great promise for a retinal neuroprosthesis. The number of research groups contributing in important ways to the vision prosthesis knowledge base is growing at an exponential rate. However, as detailed previously, there are many technological challenges and biological unknowns that stand in the way of creating such a device. In this editorial, we have touched on a number of critical issues, including parallelization of stimulus encoding and delivery, the neural–electrode interface, device biocompatibility and the plasticity at the visual system in relation to the psychophysics of visual perception. This is by no means a comprehensive list.",
+      "accessDate": "2022-07-05T10:57:17Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-05T10:57:15Z",
+          "dateModified": "2022-07-05T10:57:18Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\D8QFL58U\\Lovell and Suaning - 2007 - Retinal neuroprosthesis science fact or science f.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Lovell and Suaning - 2007 - Retinal neuroprosthesis science fact or science f.pdf",
+          "uri": "http://zotero.org/users/9698946/items/D8QFL58U"
+        }
+      ],
+      "citationKey": "lovellRetinalNeuroprosthesisScience2007",
+      "citekey": "lovellRetinalNeuroprosthesisScience2007",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Nigel H",
+          "lastName": "Lovell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gregg J",
+          "lastName": "Suaning"
+        }
+      ],
+      "date": "04/2007",
+      "dateAdded": "2022-07-05T10:57:17Z",
+      "dateModified": "2022-07-05T10:57:17Z",
+      "issue": "2",
+      "itemID": 212,
+      "itemKey": "X7I5WZCC",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Expert Review of Ophthalmology",
+      "key": "X7I5WZCC",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "145-148",
+      "publicationTitle": "Expert Review of Ophthalmology",
+      "relations": [],
+      "select": "zotero://select/library/items/X7I5WZCC",
+      "shortTitle": "Retinal neuroprosthesis",
+      "tags": [],
+      "title": "Retinal neuroprosthesis: science fact or science fiction?",
+      "uri": "http://zotero.org/users/9698946/items/X7I5WZCC",
+      "url": "http://www.tandfonline.com/doi/full/10.1586/17469899.2.2.145",
+      "version": 518,
+      "volume": "2"
     },
     {
       "DOI": "10.1007/s00420-018-1352-1",
