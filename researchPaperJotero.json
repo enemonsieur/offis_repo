@@ -21,7 +21,8 @@
       "collections": [],
       "items": [
         124,
-        148
+        148,
+        193
       ],
       "key": "B3ZHZ5UA",
       "name": "Visual NP",
@@ -1578,6 +1579,66 @@
       "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.655148/full",
       "version": 33,
       "volume": "12"
+    },
+    {
+      "DOI": "10.1038/eye.2017.65",
+      "ISSN": "0950-222X, 1476-5454",
+      "accessDate": "2022-07-05T10:32:17Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-05T10:32:14Z",
+          "dateModified": "2022-07-05T10:32:17Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\LCQY4PES\\Mills et al. - 2017 - Electronic retinal implants and artificial vision.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Mills et al. - 2017 - Electronic retinal implants and artificial vision.pdf",
+          "uri": "http://zotero.org/users/9698946/items/LCQY4PES"
+        }
+      ],
+      "citationKey": "millsElectronicRetinalImplants2017",
+      "citekey": "millsElectronicRetinalImplants2017",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "J O",
+          "lastName": "Mills"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "A",
+          "lastName": "Jalil"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "P E",
+          "lastName": "Stanga"
+        }
+      ],
+      "date": "10/2017",
+      "dateAdded": "2022-07-05T10:32:17Z",
+      "dateModified": "2022-07-05T10:32:17Z",
+      "issue": "10",
+      "itemID": 193,
+      "itemKey": "L7DK4VVT",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Eye",
+      "key": "L7DK4VVT",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "1383-1398",
+      "publicationTitle": "Eye",
+      "relations": [],
+      "select": "zotero://select/library/items/L7DK4VVT",
+      "shortTitle": "Electronic retinal implants and artificial vision",
+      "tags": [],
+      "title": "Electronic retinal implants and artificial vision: journey and present",
+      "uri": "http://zotero.org/users/9698946/items/L7DK4VVT",
+      "url": "http://www.nature.com/articles/eye201765",
+      "version": 469,
+      "volume": "31"
     },
     {
       "DOI": "10.3389/fpsyg.2018.02569",
