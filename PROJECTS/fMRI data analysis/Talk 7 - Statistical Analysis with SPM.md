@@ -85,3 +85,9 @@ Here's the Aufgabe
 	ATTENTION: The c vector represent the gesamt 4 regressors, not all  condition. this means the above c means, we used a condition with those 4 regressors at the same B1 is the parameter of Light on, tone ON
 	Question 3:
 		The difference of the diffrence between TON LON - TONOFF LON  AND TON LOFF - TON LON has to be diff  from zero. In this case, that gives us the contrastfor the interaction effect.
+
+
+What arethe  3 types of problem created by applying a convolution to predict the HDR?
+	- : Convolution with HRF I think, bc its difficult to model multiple signals. #unclear 
+	- Serial Autocorrelation: related to the e
+	- Correlated regressors: There's some variance shared between the B's regressors so that if the X1 changes, the B1 and B2 will be affected #unclear 
