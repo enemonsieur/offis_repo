@@ -5,7 +5,8 @@
       "items": [
         162,
         165,
-        214
+        214,
+        216
       ],
       "key": "9KT4RITS",
       "name": "EEG ECG Eye Tracking",
@@ -462,6 +463,61 @@
       "url": "https://econtent.hogrefe.com/doi/10.1027/1015-5759/a000200",
       "version": 123,
       "volume": "31"
+    },
+    {
+      "DOI": "10.3390/brainsci11010102",
+      "ISSN": "2076-3425",
+      "abstractNote": "(1) Background: Cognitive aspects and complexity in modern manual mixed model assembly are increasing. To reduce mental workload (MWL), informational assistance systems are introduced. The influence of complexity and used assistance system on MWL should be investigated to further improve the implementation of such assistance systems. (2) Methods: Using a simulated close to real-life assembly task a 2 × 3 design was chosen, with two levels of assembly complexity (within subjects) and three different assistance systems (paper, Augmented Reality (AR)-glasses, tablet–between subjects). MWL was measured using either physiological response (electrocardiogram (ECG) and eye-tracking) or performance indicators. (3) Results: An influence of task complexity on MWL can be shown. Additionally, usability based differences between the used assistance systems become more evident with reference to the results of area of interest analysis. (4) Conclusions: Using a multi-modal measurement approach, it is possible to detect complexity-based differences in MWL. Additional research on validity and alignment is needed to further use these for (neuro-) ergonomic considerations and recommendations.",
+      "accessDate": "2022-07-06T04:28:54Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-06T04:28:52Z",
+          "dateModified": "2022-07-06T04:28:54Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\AEL5V2H7\\Bläsing and Bornewasser - 2021 - Influence of Increasing Task Complexity and Use of.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Bläsing and Bornewasser - 2021 - Influence of Increasing Task Complexity and Use of.pdf",
+          "uri": "http://zotero.org/users/9698946/items/AEL5V2H7"
+        }
+      ],
+      "citationKey": "blasingInfluenceIncreasingTask2021",
+      "citekey": "blasingInfluenceIncreasingTask2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Dominic",
+          "lastName": "Bläsing"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Manfred",
+          "lastName": "Bornewasser"
+        }
+      ],
+      "date": "2021-01-14",
+      "dateAdded": "2022-07-06T04:28:54Z",
+      "dateModified": "2022-07-06T04:28:54Z",
+      "issue": "1",
+      "itemID": 216,
+      "itemKey": "ALC3BLW3",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Brain Sciences",
+      "key": "ALC3BLW3",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "102",
+      "publicationTitle": "Brain Sciences",
+      "relations": [],
+      "select": "zotero://select/library/items/ALC3BLW3",
+      "tags": [],
+      "title": "Influence of Increasing Task Complexity and Use of Informational Assistance Systems on Mental Workload",
+      "uri": "http://zotero.org/users/9698946/items/ALC3BLW3",
+      "url": "https://www.mdpi.com/2076-3425/11/1/102",
+      "version": 530,
+      "volume": "11"
     },
     {
       "attachments": [
@@ -2430,6 +2486,61 @@
       "url": "https://econtent.hogrefe.com/doi/10.1027/1015-5759/a000200",
       "version": 414,
       "volume": "31"
+    },
+    {
+      "DOI": "10.3390/brainsci11010102",
+      "ISSN": "2076-3425",
+      "abstractNote": "(1) Background: Cognitive aspects and complexity in modern manual mixed model assembly are increasing. To reduce mental workload (MWL), informational assistance systems are introduced. The influence of complexity and used assistance system on MWL should be investigated to further improve the implementation of such assistance systems. (2) Methods: Using a simulated close to real-life assembly task a 2 × 3 design was chosen, with two levels of assembly complexity (within subjects) and three different assistance systems (paper, Augmented Reality (AR)-glasses, tablet–between subjects). MWL was measured using either physiological response (electrocardiogram (ECG) and eye-tracking) or performance indicators. (3) Results: An influence of task complexity on MWL can be shown. Additionally, usability based differences between the used assistance systems become more evident with reference to the results of area of interest analysis. (4) Conclusions: Using a multi-modal measurement approach, it is possible to detect complexity-based differences in MWL. Additional research on validity and alignment is needed to further use these for (neuro-) ergonomic considerations and recommendations.",
+      "accessDate": "2022-07-06T04:30:53Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-06T04:30:49Z",
+          "dateModified": "2022-07-06T04:30:54Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\NTUVRU5D\\Bläsing and Bornewasser - 2021 - Influence of Increasing Task Complexity and Use of.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Bläsing and Bornewasser - 2021 - Influence of Increasing Task Complexity and Use of.pdf",
+          "uri": "http://zotero.org/users/9698946/items/NTUVRU5D"
+        }
+      ],
+      "citationKey": "blasingInfluenceIncreasingTask2021a",
+      "citekey": "blasingInfluenceIncreasingTask2021a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Dominic",
+          "lastName": "Bläsing"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Manfred",
+          "lastName": "Bornewasser"
+        }
+      ],
+      "date": "2021-01-14",
+      "dateAdded": "2022-07-06T04:30:53Z",
+      "dateModified": "2022-07-06T04:30:53Z",
+      "issue": "1",
+      "itemID": 218,
+      "itemKey": "TZAV858M",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Brain Sciences",
+      "key": "TZAV858M",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "102",
+      "publicationTitle": "Brain Sciences",
+      "relations": [],
+      "select": "zotero://select/library/items/TZAV858M",
+      "tags": [],
+      "title": "Influence of Increasing Task Complexity and Use of Informational Assistance Systems on Mental Workload",
+      "uri": "http://zotero.org/users/9698946/items/TZAV858M",
+      "url": "https://www.mdpi.com/2076-3425/11/1/102",
+      "version": 536,
+      "volume": "11"
     },
     {
       "DOI": "10.3389/fpsyg.2021.655148",
