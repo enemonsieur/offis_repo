@@ -104,3 +104,8 @@ This model explains the performance of a worker, depending on how the technology
 	
 
 [^1]: link between technology use and work overload in [[Sandoval-Reyes, Acosta-Prado, Sanchís-Pedregosa (2019)]]
+
+### Theories of Stress 
+
+In the scientific literature, stress was introduced as the prototypical response of the organism to threat or attack described by Canon as the Fight or Flight response [1]. The physiological components of stress were more formally described by Selye who proposed the General Adaptation Syndrome (GAS) [2], a general physiological reaction to a wide range of stressors comprising of alarm, resistance and exhaustion stages. More recently, a cognitive-evaluative component was introduced into the stress mechanism to account for both intra- and inter-individual variability in the association between environmental events and induced stress levels [3]. Under this notion, the mapping between stressor and stress response is neither universal (i.e., the same across individuals) nor constant (i.e., the same at different instances for a given person), as it is regulated by cognitive processes of evaluation.
+[external source](https://ieeexplore.ieee.org/abstract/document/8758154?casa_token=_KGNdDLrPTMAAAAA:0VigCnNoWVSHeSLhneQqIF1k9z8ome305MpIaT_qSSdCoWkibYn2CcV9RVNQBQGbqI32v9yXedklsg)
