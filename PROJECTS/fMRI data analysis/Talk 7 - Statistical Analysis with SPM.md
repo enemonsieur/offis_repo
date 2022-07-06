@@ -161,3 +161,11 @@ You ran ttest for each voxels and found f values as well. But now, how to you de
 		Height threshold
 		What's the extend? 
 			It means we need a min of adj voxels with large t values
+		what is the height threshold? 
+What are the problem with these multiple comparions?
+	That by change you can have a lot of significan but random error. 
+	
+What can be solutions to te Multiple comparisons comming from having so much tests run in voxels?
+	Adapt the p value to the M.C = p= 0.5/100 = 0.005
+
+If one voxel shows activation, there's a higher prob that the neighbour also are activated, so we can apply techniques on that. But what techx
