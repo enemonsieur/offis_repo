@@ -148,4 +148,6 @@ What does the f variance measure
 	1 0 0 0 
 	0 1 0 0
 	0 0 1 0 By having this as DMatrix, we tryna see if any of the regressors  are able to reduce the error matrix. 
+	The Ho would be that every B are = 0 , so no change in the basal activity B1... b1 = 0
+	The H1 would be:
 
