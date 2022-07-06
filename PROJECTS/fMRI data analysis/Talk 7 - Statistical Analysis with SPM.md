@@ -108,4 +108,8 @@ What's the point of using contrast to meausre hypothesis?
 Is B1>0 what does this Ho  represents in englis?
 	Is NA increased during on te the experiment?
 If all the Betas except B1 have a c of zero :  If contrast: (+1) . β1 + 0 . β2 = β1, 
-Ho is B1<= 0: If the weight of the first condition, that we're changing (say light) is 
+Ho is B1<= 0: If the weight of the first condition, that we're changing (say light) is inferior or equal to zero, that means NA is not increased. 
+But if It's >0, then there's a signal increased in comparison to the baseline (the baseline is in this case, zero)
+
+If you wanna compare 2 conditions, you put the 1st and 2nd Betas of the conditions with opposite contrasts: -1 and 1. So that you get a Ho of: H0 : β1 - β2 ≤ 0 
+H1 : β1 - β2 > 0
