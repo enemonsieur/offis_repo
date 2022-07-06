@@ -97,4 +97,10 @@ There's another point, a problem created during statistical analysis: Reducing n
 	apply a high pass filter
 
 What kind of questions we can ask to validate our hypothesis?
-	
+	Do one of our conditions increase Neural act incomparison to other
+	-
+
+What's the point of using contrast to meausre hypothesis?
+	We express the hypothesis via an equation, and every condition than we changed, (for example the lights on or off or the song on or OFF), can be assigned a  contrast c:
+	 c1 . β1 + c2 . β2 + . . . + cn . βn
+	The B
