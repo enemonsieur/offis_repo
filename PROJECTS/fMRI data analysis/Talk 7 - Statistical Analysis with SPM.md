@@ -118,7 +118,7 @@ H1 : β1 - β2 > 0*
 FS1 isfemale face FS2 is male face OS1 is object in condition 1 and OS2 is object in condition2
 	![[photo_2022-07-06_15-03-48.jpg]]
 
-#unclear  Really take the time to go through that again. 
+# Really take the time to go through that again. Check the MATLAB Reader #unclear  
 What's the save in the constrast Image
 	LC of the contrasts weights c and the Betas. cT.B
 Why do we need contrasts image
@@ -151,3 +151,13 @@ What does the f variance measure
 	The Ho would be that every B are = 0 , so no change in the basal activity B1... b1 = 0
 	The H1 would be:
 
+How do you build a reduced model?
+	You assume that c'B=0.
+
+You ran ttest for each voxels and found f values as well. But now, how to you define the t values or f values as large?
+	Determine a threshold
+	What arethe 2 types of threshold?
+		Extend
+		Height threshold
+		What's the extend? 
+			It means we need a min of adj voxels with large t values
