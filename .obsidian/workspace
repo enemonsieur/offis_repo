@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md",
+            "file": "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "realign",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md",
+                "file": "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,8 @@
   },
   "active": "74409468ed04813f",
   "lastOpenFiles": [
-    "PROJECTS/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md",
     "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
+    "PROJECTS/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md",
     "PROJECTS/fMRI data analysis/Talk 3 - BOLD Signal.md",
     "PROJECTS/fMRI data analysis/Talk 2 - From Neuronal to Hemodynamic Activity.md",
     "PROJECTS/fMRI data analysis/Talk 8 - Experimental Design.md",
