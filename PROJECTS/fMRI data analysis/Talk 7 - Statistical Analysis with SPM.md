@@ -103,4 +103,9 @@ What kind of questions we can ask to validate our hypothesis?
 What's the point of using contrast to meausre hypothesis?
 	We express the hypothesis via an equation, and every condition than we changed, (for example the lights on or off or the song on or OFF), can be assigned a  contrast c:
 	 c1 . β1 + c2 . β2 + . . . + cn . βn
-	The B
+	There's as much betas as there's distance p on the column
+
+Is B1>0 what does this Ho  represents in englis?
+	Is NA increased during on te the experiment?
+If all the Betas except B1 have a c of zero :  If contrast: (+1) . β1 + 0 . β2 = β1, 
+Ho is B1<= 0: If the weight of the first condition, that we're changing (say light) is 
