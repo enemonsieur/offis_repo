@@ -118,7 +118,7 @@ H1 : β1 - β2 > 0*
 FS1 isfemale face FS2 is male face OS1 is object in condition 1 and OS2 is object in condition2
 	![[photo_2022-07-06_15-03-48.jpg]]
 
-
+#unclear  Really take the time to go through that again. 
 What's the save in the constrast Image
 	LC of the contrasts weights c and the Betas. cT.B
 Why do we need contrasts image
@@ -140,4 +140,6 @@ What is a reduce model?
 What model has a higher variance?
 	The reduce model error is alwyas >= bc you need other parameter to reduce the variance
 	e^2r >= e^2
+
+What does the f variance measure
 
