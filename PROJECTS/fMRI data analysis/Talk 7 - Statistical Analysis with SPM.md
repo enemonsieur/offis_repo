@@ -125,3 +125,19 @@ Why do we need contrasts image
 	Group analysis?
 What is  a full model?
 What is a reduce model?
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	![[photo_2022-07-06_15-17-56.jpg]] 
+What model has a higher variance?
+	The reduce model error is alwyas >= bc you need other parameter to reduce the variance
+	e^2r >= e^2
+
