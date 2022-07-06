@@ -91,3 +91,4 @@ What arethe  3 types of problem created by applying a convolution to predict the
 	- : Convolution with HRF I think, bc its difficult to model multiple signals. #unclear 
 	- Serial Autocorrelation: related to the e
 	- Correlated regressors: There's some variance shared between the B's regressors so that if the X1 changes, the B1 and B2 will be affected #unclear 
+		- It can create multicolinearity. It can help to enlever signales related to movement. We use to do that, an ANCOVA,  where we add Betas related to the 6 movements, and remove the movements, from influencing the X

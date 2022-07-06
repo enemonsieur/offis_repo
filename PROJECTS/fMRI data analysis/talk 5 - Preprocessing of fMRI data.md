@@ -11,6 +11,7 @@ Why should we discard the first seconds of acquire datas?
 ### #realignment
 In which cases do we use #realignment
 	because heads movements can change the aligments of T2 images from each others
+	After that we get the realignment parameters in a text file, with 6 colums 3 for translation , 3 for rotation
 whats the "thing" we need to align T-images?
 	reference image
 how many parameters do we use and what are they
