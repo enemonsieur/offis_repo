@@ -119,3 +119,9 @@ FS1 isfemale face FS2 is male face OS1 is object in condition 1 and OS2 is objec
 	![[photo_2022-07-06_15-03-48.jpg]]
 
 
+What's the save in the constrast Image
+	LC of the contrasts weights c and the Betas. cT.B
+Why do we need contrasts image
+	Group analysis?
+What is  a full model?
+What is a reduce model?
