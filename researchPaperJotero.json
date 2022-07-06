@@ -6,7 +6,8 @@
         162,
         165,
         214,
-        216
+        216,
+        236
       ],
       "key": "9KT4RITS",
       "name": "EEG ECG Eye Tracking",
@@ -2782,6 +2783,65 @@
       "url": "http://link.springer.com/10.1007/s00420-018-1352-1",
       "version": 118,
       "volume": "92"
+    },
+    {
+      "DOI": "10.1016/j.ergon.2021.103193",
+      "ISSN": "01698141",
+      "abstractNote": "Traffic safety is directly related to the mental and physical condition of the driver. Performing regular secondary tasks while driving is an additional activity that dissipates attention and adds to the drivers’ workload. Identi­ fying driver fatigue and workload based on gaze behavior is one way to ensure a safe driving experience. The purpose of this paper is to classify and predict driving perceived workload using a set of eye-tracking metrics (gaze fixation, duration, pointing, and pupil diameter). The ability of eye-tracking metrics to predict driving workload has been investigated. As a result, frustration, performance, and temporal load showed a correlation with gaze metrics. Gaze point, duration, fixation, and pupil diameter significantly influence driving workload. Relevance to industry: Results will supply the specialists in eye-tracking/sensor technologies and traffic safety with new knowledge to improve the design of the driving performance and safety monitoring systems and ef­ ficiency of the driving process.",
+      "accessDate": "2022-07-06T18:53:19Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-06T18:53:16Z",
+          "dateModified": "2022-07-06T18:53:20Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\LGQ3FP67\\Bitkina et al. - 2021 - The ability of eye-tracking metrics to classify an.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Bitkina et al. - 2021 - The ability of eye-tracking metrics to classify an.pdf",
+          "uri": "http://zotero.org/users/9698946/items/LGQ3FP67"
+        }
+      ],
+      "citationKey": "bitkinaAbilityEyetrackingMetrics2021",
+      "citekey": "bitkinaAbilityEyetrackingMetrics2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Olga Vl.",
+          "lastName": "Bitkina"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jaehyun",
+          "lastName": "Park"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hyun K.",
+          "lastName": "Kim"
+        }
+      ],
+      "date": "11/2021",
+      "dateAdded": "2022-07-06T18:53:19Z",
+      "dateModified": "2022-07-06T18:53:19Z",
+      "itemID": 236,
+      "itemKey": "YTD3RSEE",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "International Journal of Industrial Ergonomics",
+      "key": "YTD3RSEE",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "103193",
+      "publicationTitle": "International Journal of Industrial Ergonomics",
+      "relations": [],
+      "select": "zotero://select/library/items/YTD3RSEE",
+      "tags": [],
+      "title": "The ability of eye-tracking metrics to classify and predict the perceived driving workload",
+      "uri": "http://zotero.org/users/9698946/items/YTD3RSEE",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0169814121001116",
+      "version": 564,
+      "volume": "86"
     },
     {
       "abstractNote": "Stress is a physiological and psychological pressure perceived by an individual that placing himself/herself in a risk, both physically and mentally. The research objective of this research is to find out whether the level of technology competence and workload has an impact on employee performance through technostress as an intervening variable. The respondents of this study were 138 people whom work at Production and Engineering department of a multinational company using automation technology equipment in operation. A technique of data collection was done by using questionaire and interviews. Data was analysed using the SEM (Structural Equation Modelling) approach. From the research it can be concluded that the workload and competence level of automation technology had significant impact to technostress. Further, the study also shows a significant relationships between workload and employee performance which the Technostress acts as an intervening variable in the relationship.",
