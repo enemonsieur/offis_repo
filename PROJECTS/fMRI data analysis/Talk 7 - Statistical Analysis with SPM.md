@@ -142,4 +142,10 @@ What model has a higher variance?
 	e^2r >= e^2
 
 What does the f variance measure
+	the f contrast is 2 sides
+	it calculate the diff between the variance estimates
+	We loose the directions
+	1 0 0 0 
+	0 1 0 0
+	0 0 1 0 By having this as DMatrix, we tryna see if any of the regressors  are able to reduce the error matrix. 
 
