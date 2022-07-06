@@ -4,7 +4,8 @@
       "collections": [],
       "items": [
         162,
-        165
+        165,
+        214
       ],
       "key": "9KT4RITS",
       "name": "EEG ECG Eye Tracking",
@@ -572,6 +573,81 @@
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S1386505615000635",
       "version": 463,
       "volume": "84"
+    },
+    {
+      "DOI": "10.1109/TAFFC.2019.2927337",
+      "ISSN": "1949-3045, 2371-9850",
+      "abstractNote": "This review investigates the effects of psychological stress on the human body measured through biosignals. When a potentially threatening stimulus is perceived, a cascade of physiological processes occurs mobilizing the body and nervous system to confront the imminent threat and ensure effective adaptation. Biosignals that can be measured reliably in relation to such stressors include physiological (EEG, ECG, EDA, EMG) and physical measures (respiratory rate, speech, skin temperature, pupil size, eye activity). A fundamental objective in this area of psychophysiological research is to establish reliable biosignal indices that reveal the underlying physiological mechanisms of the stress response. Motivated by the lack of comprehensive guidelines on the relationship between the multitude of biosignal features used in the literature and their corresponding behaviour during stress, in this paper, the impact of stress to multiple bodily responses is surveyed. Emphasis is put on the efﬁciency, robustness and consistency of biosignal data features across the current state of knowledge in stress detection. It is also explored multimodal biosignal analysis and modelling methods for deriving accurate stress correlates. This paper aims to provide a comprehensive review on biosignal patterns caused during stress conditions and reliable practical guidelines towards more efﬁcient detection of stress.",
+      "accessDate": "2022-07-06T04:10:14Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-06T04:10:10Z",
+          "dateModified": "2022-07-06T04:10:14Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\ZRY87ITM\\Giannakakis et al. - 2022 - Review on Psychological Stress Detection Using Bio.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Giannakakis et al. - 2022 - Review on Psychological Stress Detection Using Bio.pdf",
+          "uri": "http://zotero.org/users/9698946/items/ZRY87ITM"
+        }
+      ],
+      "citationKey": "giannakakisReviewPsychologicalStress2022",
+      "citekey": "giannakakisReviewPsychologicalStress2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Giorgos",
+          "lastName": "Giannakakis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dimitris",
+          "lastName": "Grigoriadis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katerina",
+          "lastName": "Giannakaki"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Olympia",
+          "lastName": "Simantiraki"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexandros",
+          "lastName": "Roniotis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Manolis",
+          "lastName": "Tsiknakis"
+        }
+      ],
+      "date": "2022-1-1",
+      "dateAdded": "2022-07-06T04:10:14Z",
+      "dateModified": "2022-07-06T04:10:14Z",
+      "issue": "1",
+      "itemID": 214,
+      "itemKey": "E35KD9V4",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "IEEE Trans. Affective Comput.",
+      "key": "E35KD9V4",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "440-460",
+      "publicationTitle": "IEEE Transactions on Affective Computing",
+      "relations": [],
+      "select": "zotero://select/library/items/E35KD9V4",
+      "tags": [],
+      "title": "Review on Psychological Stress Detection Using Biosignals",
+      "uri": "http://zotero.org/users/9698946/items/E35KD9V4",
+      "url": "https://ieeexplore.ieee.org/document/8758154/",
+      "version": 527,
+      "volume": "13"
     },
     {
       "attachments": [],
