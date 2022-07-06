@@ -168,4 +168,4 @@ What are the problem with these multiple comparions?
 What can be solutions to te Multiple comparisons comming from having so much tests run in voxels?
 	Adapt the p value to the M.C = p= 0.5/100 = 0.005
 
-If one voxel shows activation, there's a higher prob that the neighbour also are activated, so we can apply techniques on that. But what techx
+If one voxel shows activation, there's a higher prob that the neighbour also are activated, so we can apply techniques on that. But what techx or what for
