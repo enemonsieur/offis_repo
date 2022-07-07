@@ -10,6 +10,9 @@ alias: [ECG Eye Tracking EEG]
 
 "In accordance to the guidelines for HR and HRV measurement in occupational science [57] for ECG measurement, a 1-channel Faros eMotion 180◦ Holter ECG with 1000 Hz sampling frequency was used. Eye-tracking data were recorded using SensoMotoric Instruments (SMI) Eye-Tracking Glasses 2 Wireless. Sampling frequency for binocular recording was 60 Hz using the inbuilt infrared sensors." [[@blasingInfluenceIncreasingTask2021]]
 
+The wearable eye-tracker of Tobii Pro Glasses 2 was used to record the driver’s glance and pupil behavior with Corneal reflection and dark pupil techniques (Tobiipro, 2021). [[@bitkinaAbilityEyetrackingMetrics2021]]
+
+
 "The state-trait anxiety inventory (STAI)  questionnaire was utilized to measure the self-reported stress of participants."
 -> To measure stress as reported by participants we use the STAI. Stress is measured before and after the experiment. 
 
@@ -33,3 +36,4 @@ alias: [ECG Eye Tracking EEG]
 # Stress Prediction
 - We classify the predicting features using the SVM
 - ![[@blasingInfluenceIncreasingTask2021]]
+Logistic regression analysis was performed to classify high and low workload levels through eye-tracking metrics using IBM SPSS Statistics Version 25 Software.[[@bitkinaAbilityEyetrackingMetrics2021]]
