@@ -19,5 +19,8 @@ Stroop Task was used to induce stress.
 =>To pick up the signals from the ECG, namly the R peaks, we use a bandpass filter. For the RR interals, we use the Pan-Tompkins peak detection algo.
 - We can divide the filtered ECG signales into 60s frames
 # Features finding
+![[stress detection using ECG and EMG#^00cfb3]]
+=> We extract 3 leads (I II III)*25 features for the ECG. 
+- We remove unnecessary features to improve algo accuracy.
 # Stress Prediction
 
