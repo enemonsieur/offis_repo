@@ -38,7 +38,7 @@ Other types of stress questionnaire are:
 - The DSSQ:  the longer version of SSSQ
 - the MIST: Measure stress by increasing mental workload [[@alsuraykhHowStressMental2019]]
 
-- The Percieve Stress Scale: Overall, the PSS is an easy-to-use questionnaire with established acceptable psychometric properties. However, future studies should evaluate these psychometric properties in greater depth, and validate the scale using diverse populations [[@leeReviewPsychometricEvidence2012]]
+- The Percieve Stress Scale: Overall, the PSS is an easy-to-use questionnaire with established acceptable psychometric properties. However, future studies should evaluate these psychometric properties in greater depth, and validate the scale using diverse populations [[@leeReviewPsychometricEvidence2012]] 
 - The STAI (State trait Anxiety Inventory) [[@pourmohammadiStressDetectionUsing2020]]
 ![[stress detection using ECG and EMG]]
 
