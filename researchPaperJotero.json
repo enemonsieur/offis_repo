@@ -51,7 +51,8 @@
         162,
         164,
         168,
-        191
+        191,
+        246
       ],
       "key": "NELM3556",
       "name": "Stress measurement",
@@ -566,6 +567,56 @@
       "title": "Cognitive Slips-Failures and Daily Stress: Further Investigations with the Short Stress State Questionnaire",
       "uri": "http://zotero.org/users/9698946/items/BCESRUA3",
       "version": 411
+    },
+    {
+      "DOI": "10.1016/j.anr.2012.08.004",
+      "ISSN": "19761317",
+      "abstractNote": "Purpose: The purpose of this study was to review articles related to the psychometric properties of the Perceived Stress Scale (PSS).\nMethods: Systematic literature searches of computerized databases were performed to identify articles on psychometric evaluation of the PSS.\nResults: The search ﬁnally identiﬁed 19 articles. Internal consistency reliability, factorial validity, and hypothesis validity of the PSS were well reported. However, the test-retest reliability and criterion validity were relatively rarely evaluated. In general, the psychometric properties of the 10-item PSS were found to be superior to those of the 14-item PSS, while those of the 4-item scale fared the worst. The psychometric properties of the PSS have been evaluated empirically mostly using populations of college students or workers.\nConclusion: Overall, the PSS is an easy-to-use questionnaire with established acceptable psychometric properties. However, future studies should evaluate these psychometric properties in greater depth, and validate the scale using diverse populations.",
+      "accessDate": "2022-07-07T05:23:48Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-07T05:23:45Z",
+          "dateModified": "2022-07-07T05:23:48Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\PZ22SSEL\\Lee - 2012 - Review of the Psychometric Evidence of the Perceiv.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Lee - 2012 - Review of the Psychometric Evidence of the Perceiv.pdf",
+          "uri": "http://zotero.org/users/9698946/items/PZ22SSEL"
+        }
+      ],
+      "citationKey": "leeReviewPsychometricEvidence2012",
+      "citekey": "leeReviewPsychometricEvidence2012",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Eun-Hyun",
+          "lastName": "Lee"
+        }
+      ],
+      "date": "12/2012",
+      "dateAdded": "2022-07-07T05:23:48Z",
+      "dateModified": "2022-07-07T05:23:48Z",
+      "issue": "4",
+      "itemID": 246,
+      "itemKey": "CIURIEKU",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Asian Nursing Research",
+      "key": "CIURIEKU",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "121-127",
+      "publicationTitle": "Asian Nursing Research",
+      "relations": [],
+      "select": "zotero://select/library/items/CIURIEKU",
+      "tags": [],
+      "title": "Review of the Psychometric Evidence of the Perceived Stress Scale",
+      "uri": "http://zotero.org/users/9698946/items/CIURIEKU",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1976131712000527",
+      "version": 0,
+      "volume": "6"
     },
     {
       "DOI": "10.1016/j.ijmedinf.2015.03.003",

@@ -22,7 +22,7 @@ SSSQ is a contracted version of the DSSQ that measure 3 dimensions of stress nam
 - Distress: Distress appears to integrate unpleasant mood and tension with lack of confidence and perceived control
 - Worry: This measure the cognitive interference, created by our own, self centered thoughts during the task. Is Worry a measure of stress? Can the IBI of the HRV measure that? 
 
-According to [[heltonCognitiveSlipsFailuresDaily]]   it's a self-report measure of daily stress state
+According to [[@heltonCognitiveSlipsFailuresDaily]]   it's a self-report measure of daily stress state
 	Recently, Helton et al. (2005) demonstrated that the SSSQ with minor modifications is a reliable measure of daily stress revealing the same factor structure.
 
 ## OTHER TYPES OF STRESS QUESTIONNAIRE:
@@ -37,6 +37,8 @@ Other types of stress questionnaire are:
 -  HSE Indicator Tool (HSE, 2004).
 - The DSSQ:  the longer version of SSSQ
 - the MIST: Measure stress by increasing mental workload [[@alsuraykhHowStressMental2019]]
+
+- The Percieve Stress Scale: Overall, the PSS is an easy-to-use questionnaire with established acceptable psychometric properties. However, future studies should evaluate these psychometric properties in greater depth, and validate the scale using diverse populations
 
 
 ## Additional Notes (Don't have to read)

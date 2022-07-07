@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
+            "file": "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
+                "file": "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +100,8 @@
   },
   "active": "74409468ed04813f",
   "lastOpenFiles": [
+    "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
+    "heltonCognitiveSlipsFailuresDaily.md",
     "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
     "PROJECTS/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md",
     "PROJECTS/fMRI data analysis/Talk 3 - BOLD Signal.md",
@@ -108,8 +109,6 @@
     "PROJECTS/fMRI data analysis/Talk 8 - Experimental Design.md",
     "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
     "Untitled Kanban.md",
-    "PROJECTS/VIsual NP/Visual Neurop.md",
-    "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
-    "PROJECTS/VIsual NP/Type of Retinal P.md"
+    "PROJECTS/VIsual NP/Visual Neurop.md"
   ]
 }
