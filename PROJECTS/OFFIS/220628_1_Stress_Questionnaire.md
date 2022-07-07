@@ -39,8 +39,8 @@ Other types of stress questionnaire are:
 - the MIST: Measure stress by increasing mental workload [[@alsuraykhHowStressMental2019]]
 
 - The Percieve Stress Scale: Overall, the PSS is an easy-to-use questionnaire with established acceptable psychometric properties. However, future studies should evaluate these psychometric properties in greater depth, and validate the scale using diverse populations [[@leeReviewPsychometricEvidence2012]]
-- The STAI (State trait Anxiety Inventory)
-The state-trait anxiety inventory (STAI) [25] questionnaire was utilized to measure the self-reported stress of participants. The state anxiety scale (STAI-Y1) is the moment’s undesirable feelings of stress that are consciously perceived and are associated with the arousal of the ANS. On the other hand, the trait anxiety scale (STAIY2) is a type of enduring personality trait and is related to constant individual differences. Although many questionnaires have been proposed for measuring stress, the STAI is one of the most popular tools for measuring state-trait anxiety that has been used in many stress-related studies
+- The STAI (State trait Anxiety Inventory) [[@pourmohammadiStressDetectionUsing2020]]
+![[stress detection using ECG and EMG]]
 
 
 ## Additional Notes (Don't have to read)
