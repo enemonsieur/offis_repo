@@ -15,8 +15,9 @@ alias: [ECG Eye Tracking EEG]
 Stroop Task was used to induce stress. 
 # Preprocessing
 
-[[stress detection using ECG and EMG]]
+![[stress detection using ECG and EMG#^bb94e6]]
 =>To pick up the signals from the ECG, namly the R peaks, we use a bandpass filter. For the RR interals, we use the Pan-Tompkins peak detection algo.
+- We can divide the filtered ECG signales into 60s frames
 # Features finding
 # Stress Prediction
 
