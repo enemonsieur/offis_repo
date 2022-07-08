@@ -169,3 +169,6 @@ What can be solutions to te Multiple comparisons comming from having so much tes
 	Adapt the p value to the M.C = p= 0.5/100 = 0.005
 
 If one voxel shows activation, there's a higher prob that the neighbour also are activated, so we can apply techniques on that. But what techx or what for
+
+res = Y(:,1) - Y_pred;
+![[Pasted image 20220708064157.png]]  contrast
