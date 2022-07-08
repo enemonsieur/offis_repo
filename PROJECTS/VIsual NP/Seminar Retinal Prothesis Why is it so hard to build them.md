@@ -17,5 +17,6 @@ Vision is the most important of our senses. People say it may take up to 80% of 
 Look at the auditory diagram. If there's [700K cochlear implants ](https://www.nidcd.nih.gov/health/cochlear-implants#:~:text=Children%20and%20adults%20who%20are,adults%20and%2065%2C000%20in%20children.)wordlwide, just imagine how much retinal implants exists: Do a fake diagram comparing CI andRI: 50000 RI. Only 50K implants... sorry. Wait what? That can be so low... Oh. Sorry . I actually mixed the slides. Here's the real number... [500 patients in](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7198351/#:~:text=There%20have%20now%20been%20three,over%20the%20past%2015%20years.) 2020 . 1% of the CI have been installed worldwide. 
 How could there be such a discrepancy between the obsession with vision and the visual technology? 
 
-What do you think?Any idea? 
-Well as always in science... (Gif) It dpe
+What do you think? Any idea? 
+Well,as always in science/like any spouse caught up with somebody else will tell you... (Gif) It's complicated. 
+
