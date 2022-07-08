@@ -29,3 +29,5 @@ Random Field Theory p-value correction
 	The more the filter increases? the more the corr happens on a longer distances and the smaller the p value increase. A very smooth data means a very small correction or so. 
 	R is the Reso volume? the volume of the brain, than we calculate / smoothing function. To determine how smooth or correlated or dependent our data are. If its already pretty smooth, you won't have to correct the p value. 
 	The smaller the smoothness the bigger the p-value will be transform
+
+False discovery rate
