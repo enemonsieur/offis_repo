@@ -172,3 +172,5 @@ If one voxel shows activation, there's a higher prob that the neighbour also are
 
 res = Y(:,1) - Y_pred;
 ![[Pasted image 20220708064157.png]]  contrast
+the contrast vector is a vector that express that oppposes the wieghts of our differents conditions. This means it express how we can contrast Condition A with condition B, saying that (for ex), Condition A differs from condition B. If this is false, then the contrasted activity (difference in the HDr) will be 0, which will validate the null Ho. 
+This can be rewrite in a linear comb so: cB1 - cB2 = 0
