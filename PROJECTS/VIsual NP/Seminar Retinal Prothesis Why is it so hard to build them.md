@@ -13,4 +13,5 @@ What problem do retinal implants solve? (show the eye, and show the pieces where
 - Only 200 patients for the Argus for example
 - But people have been 
 - Talk about how vision works: Receptive Field activation, need excitatory and inh signals. 
-Vision is the most important of our senses. People say it may take up to 80% of our perception and indeed, 
+Vision is the most important of our senses. People say it may take up to 80% of our perception and indeed, most of the studies on sensory modality have been done of vision. 
+But in this cas

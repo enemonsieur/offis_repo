@@ -57,6 +57,7 @@ Histological examination of postmortem tissue indicated that patients in advance
 INTRODUCTION
 
 -   Daredevil and the wish to bring back vision. How vision is important for life 80% of senses? Many problems of vision: Dad operation. V1 destruction, impossible to regrow or reroute. Multiple types of diseases,
+	- ![[Pasted image 20220708172817.png]]  [10.3389/fpsyg.2019.02246](https://doi.org/10.3389%2Ffpsyg.2019.02246)
 
 Cochlear implants have been one of the most succesful neuroprostethics in the world. For the past (sources) thousands* of people have been hearing better and better. More than (sources) percent of people suffer from some kind of auditory imparements:My mom, My sister, and may be you, in a couple of years.
 
