@@ -179,3 +179,7 @@ We can use 2 types of statistics to find if  our conditions differs from each ot
 	- ![[Pasted image 20220708065432.png]]
 	- 
 - f-test: We use it by creastig a reduce model excluding the parameter of interest. Then, we can add em and see if they improve our model prediction (of the BOLDr) or not. 
+- what the fuck is 2 sided difference? What are we exactly calculating with the f-test? #unclear 
+	- The f statistic doesn't care about the sign: It can't tell you if the difference is positive or negative
+	- f-test compare the full model with the reduced model (without the B we want)
+	- 
