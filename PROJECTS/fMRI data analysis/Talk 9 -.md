@@ -10,4 +10,5 @@ What are the different levels of significance?
 2. Cluster level inference
 	Ho do we do decide what cluster and what level of activation are relevant?
 		You find the t-values of every voxels.  Do a plot by time and define a thresold relevant for the cluster. 
-		Set the size of the cluster and the threshold.
+		Set the cluster threshold: Not too low nor too high
+		Lack of spatial specificity: You don't know which voxels are significant inside, so not too big. 
