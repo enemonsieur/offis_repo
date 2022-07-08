@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/fMRI data analysis/Talk 9 -.md",
+            "file": "PROJECTS/Visual NP/Visual Neurop.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/fMRI data analysis/Talk 9 -.md",
+                "file": "PROJECTS/Visual NP/Visual Neurop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "74409468ed04813f",
   "lastOpenFiles": [
+    "PROJECTS/Visual NP/Visual Neurop.md",
+    "PROJECTS/Visual NP/Untitled.md",
+    "PROJECTS/Visual NP/Argus II.md",
+    "PROJECTS/Visual NP/Type of Retinal P.md",
     "PROJECTS/fMRI data analysis/Talk 9 -.md",
     "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
     "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
-    "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
-    "references notes/@heltonShortStressState2015.md",
-    "references notes/@alsuraykhHowStressMental2019.md",
-    "zotero/files/51/Suharti and Susanto - 2014 - THE IMPACT OF WORKLOAD AND TECHNOLOGY COMPETENCE O.pdf",
-    "zotero/files/60/Alsuraykh et al. - 2019 - How Stress and Mental Workload are Connected.pdf"
+    "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md"
   ]
 }
