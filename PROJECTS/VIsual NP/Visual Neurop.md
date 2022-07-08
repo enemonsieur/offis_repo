@@ -16,7 +16,7 @@ Structure: During the presentation, randomly pinpoint the differences with CI so
 
 Challenges and Future:
 
-Why haven’t the retinal prothestics encountered as much success as the cochlear implants? The few that currently exist, Epiretinal and Subretinal prosthetics offer a mild improvement in visual accuity for patient. Current research is trying to improve it using different approaches:
+Why haven’t the retinal prothestics encountered as much success as the cochlear implants? The few that currently exist, Epiretinal and Subretinal prosthetics offer a mild improvement in visual accuity for patient. (how much) Current research is trying to improve it using different approaches:
 #retinalcochlea
 	-   Increasing the number of electrodes in the implant, 
 	- -   Designing better interfaces
@@ -33,7 +33,7 @@ This presentation will present briefly how visual neuroprosthesis can restore vi
 **Argus II retinal prosthesis**
 **IMI GmBH learning implant (now “Pixium IRIS”)**
 
-**Epi-Ret3 retinal prosthesis**
+**Epi-Ret3  retinal prosthesis**
 
 ****Subretinal prosthetics****
 **Artificial silicon retina**
