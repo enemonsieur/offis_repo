@@ -175,5 +175,7 @@ res = Y(:,1) - Y_pred;
 the contrast vector is a vector that express that oppposes the wieghts of our differents conditions. This means it express how we can contrast Condition A with condition B, saying that (for ex), Condition A differs from condition B. If this is false, then the contrasted activity (difference in the HDr) will be 0, which will validate the null Ho. 
 This can be rewrite in a linear comb so: cB1 - cB2 = 0
 We can use 2 types of statistics to find if  our conditions differs from each other:
-- T-test: If we wanna find if two conditions have a different impact on the HDr or if we wanna see if a condition differs from baseline
+- T-test: If we wanna find if two conditions have a different impact on the HDr or if we wanna see if a condition differs from baseline ex
+	- ![[Pasted image 20220708065432.png]]
+	- 
 - f-test: 
