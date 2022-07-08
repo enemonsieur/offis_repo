@@ -25,4 +25,7 @@ How does Family wise Error works?
 	 The data by itselfs have intrinsic smoothness + smoothigs for gaussian and Bonferroni don't account for this correlation between voxels
 
 Random Field Theory p-value correction
-	Estimates the smoothness of your  t-image. Its used to figue 
+	Estimates the smoothness of your  t-image. Its used to figue out, what "filter" was used to smooth your imaged.
+	The more the filter increases? the more the corr happens on a longer distances and the smaller the p value increase. A very smooth data means a very small correction or so. 
+	R is the Reso volume? the volume of the brain, than we calculate / smoothing function. To determine how smooth or correlated or dependent our data are. If its already pretty smooth, you won't have to correct the p value. 
+	The smaller the smoothness the bigger the p-value will be transform
