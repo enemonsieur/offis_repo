@@ -20,3 +20,7 @@ How could there be such a discrepancy between the obsession with vision and the 
 What do you think? Any idea? 
 Well,as always in science/like any spouse caught up with somebody else will tell you... (Gif) It's complicated. 
 
+So there's two way of explaining this: The boring way and the cool way. With the boring way we'll go through each steps of the creation of retinal prosthetics from ground up. With the cool way we'll look at every layer of the eye, and see how we could create our own retinal prosthetic on our own! 
+So, what do you choose? Boring? Cool?
+
+
