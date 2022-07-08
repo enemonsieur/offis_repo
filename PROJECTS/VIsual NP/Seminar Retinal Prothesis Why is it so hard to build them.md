@@ -11,4 +11,6 @@ What problem do retinal implants solve? (show the eye, and show the pieces where
 2. 
 - Those diseases don't apply to a very big percentage of the population so don't really help a lot of people
 - Only 200 patients for the Argus for example
+- But people have been 
+- Talk about how vision works: Receptive Field activation, need excitatory and inh signals. 
 

@@ -46,6 +46,7 @@ This presentation will present briefly how visual neuroprosthesis can restore vi
 Histological examination of postmortem tissue indicated that patients in advanced stages of [retinitis pigmentosa](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/retinitis-pigmentosa)  retain only a third to a quarter of their retinal ganglion cells [[7]](https://www.sciencedirect.com/science/article/pii/S163106911400002X#bib0035) .[](https://www.sciencedirect.com/science/article/pii/S163106911400002X)[https://www.sciencedirect.com/science/article/pii/S163106911400002X](https://www.sciencedirect.com/science/article/pii/S163106911400002X)
 => This is kind of a serious problem, because there's 1/3 of retinal ganglion, and most of them undergoes reorganization #retinalimitations 
 
+**Retinal reorganization**: Ganglion cell receptive fields in visually deprived animals showed a spatial mismatch of inhibitory and excitatory inputs and inhibitory inputs were highly scattered over the receptive field. These results indicate that visual experience early in life is critical for the refinement of retinal circuits and for appropriate signaling of the spatiotemporal properties of visual stimuli, thus influencing the response properties of neurons in higher visual centers and their processing of visual information.
 ## 3. Future challenges
 
 ### 3.1. The electrode distribution
