@@ -27,3 +27,5 @@ Well as a scientist, the seeker of truth, its my duty to choose... both.
 
 # How do vision work
 Because only by understanding where vision fucks up can we introduce what problem RP solves
+
+Compare the anatomy of cochlea vs retina.
