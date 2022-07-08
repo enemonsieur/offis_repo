@@ -178,4 +178,4 @@ We can use 2 types of statistics to find if  our conditions differs from each ot
 - T-test: If we wanna find if two conditions have a different impact on the HDr or if we wanna see if a condition differs from baseline ex
 	- ![[Pasted image 20220708065432.png]]
 	- 
-- f-test: 
+- f-test: We use it by creastig a reduce model excluding the parameter of interest. Then, we can add em and see if they improve our model prediction (of the BOLDr) or not. 
