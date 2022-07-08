@@ -23,4 +23,7 @@ Well,as always in science/like any spouse caught up with somebody else will tell
 So there's two way of explaining this: The boring way and the cool way. With the boring way we'll go through each steps of the creation of retinal prosthetics from ground up. With the cool way we'll look at every layer of the eye, and see how we could create our own retinal prosthetic on our own! 
 So, what do you choose? Boring? Cool?
 
+Well as a scientist, the seeker of truth, its my duty to choose... both. 
 
+# How do vision work
+Because only by understanding where vision fucks up can we introduce what problem RP solves
