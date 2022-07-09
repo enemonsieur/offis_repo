@@ -1,5 +1,6 @@
 Quelles sont les innovations queje peux apporter aà l'entrerpise pour tripler l'activité ou doubler les ventes. quel est le minimumm syndical quee peux faire pour pouvoir pousser l'entreprise vers le haut. 
 - Réinitialiser les OKRs
+[[MVP etiquette confiotes]]
 
 - Comment je peux rendre les employés plus productifs ?
 	- Hilaire: Il donne rarement des rapports et je ne sais pas comment il avance
@@ -11,7 +12,10 @@ Quelles sont les innovations queje peux apporter aà l'entrerpise pour tripler l
 			- Le KR1 est très loin d'avoir avancé. A abandonner
 			- Les ébauches pour les évènements sont manqués
 			- L'ads est tout sauf prêt ?
-			- J'ai l'impression qu'il ne priorise pas assez le travail, qu'il fait le minimum pour avoir l'impression d'avancer, et qu'il ne fait que ce qu'on lui demande. IL n'Innove pas contrairement à dimitri. Hors c'est supposé être son travail. C'est moi qui l'aide à bosser alors que c'est lui qui doit 
+			- J'ai l'impression qu'il ne priorise pas assez le travail, qu'il fait le minimum pour avoir l'impression d'avancer, et qu'il ne fait que ce qu'on lui demande. IL n'Innove pas contrairement à dimitri. Hors c'est supposé être son travail. C'est moi qui l'aide à bosser alors que c'est lui qui doit m'aider à créer des offres
+			- Pourquoi son KR3 est à 0.5 alors que c'est la 4ème semaine et on a toujours eu aucun retour? 
+			- Demande à Ro ce qu'il fait qui n'est pas correct, identifie son problème pour etre radical candor
+			- 
 	- Eunice: Repos forcé pour qu'elle puisse créer de vraies offres utiles
 		- Faire un call avec elle pour lui montrer ce qu'une excellente offre devrait donner
-		- 
+		- Attendre quelle donne un retour sur les confiotes
