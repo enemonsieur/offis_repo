@@ -55,5 +55,10 @@ How do I make my notes more discoverable? How do I convince my futur self that d
 
 
 # Intermediate Packets
+The IP are content that can be digest by a certain public, give you feedback, but don't count as a final project:
+- Distilled notes: From past articles, books that you summarized
+- Michael Simmons Twitter Thread, Tiktok videos resumating a focused ideas
+- Past works of course, like my mini-course, my articles, it'd be super, when starting a project like publishing again on neursociences to reassamble the past projects into a PROJECT dedicated to that. 
+# Resurface Past work
 
  
