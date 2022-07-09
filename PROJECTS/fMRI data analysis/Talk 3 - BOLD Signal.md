@@ -1,21 +1,18 @@
-swhy does the oxy-deoxy ratio increases during brain activity
+why does the oxy-deoxy ratio increases during brain activity
 	bc brain consume oxygen, which first decreases the ratio, but then capillary flow increases, blood rushes trhough the zone and the ratio increases #boldresponse 
 how many seconds after the signal does the Hb ratio increases?
 	2 to 4 s![[Pasted image 20220626135816.png]
 		![[Pasted image 20220626135824.png]]
 
-
-
 what are the difference btween #magnetic properties of oxy vs deoxy Hb
-> the Oxy is diamagnetic the deoxy is paramagnetics
-> Diamagnetics  
+	the Oxy is diamagnetic the deoxy is paramagnetics Diamagnetics  
 
 what are more differences btwn para and diamagn?
+	Oxy will align to the current while deoxy will
 how do paramagn forces help measure #boldresponse 
 	bc the distort the local magnetic field (B), by doing so, they alter the spin of protons. Those protons normally align during fMRI to create a #transversemagnetic field, but because of the perturbation, the TM field will be shorted. This can be picked up by the fMRI,  and create a shorter #t2 response.
 	Therefore the oxygenated and dOHb have different t2 response, that is used to construc the BOLD signal
 	This BOLD signal results from the increase in #t2 due to the removal of dOHb and increase in OHb
-
 
 what factors affects BOLD response?
 	- stuffs in the fMRI machine
