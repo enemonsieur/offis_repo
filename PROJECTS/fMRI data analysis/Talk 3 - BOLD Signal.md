@@ -26,8 +26,8 @@ what factors affects BOLD response?
 
 What are the 3 phases of the typical Hemodynamic Response (HDR)?
 	Initial dip
+	Initial overshoot
 	Post stimulus undershoot
-	Spatial Resolution
 Why is it hard to use very small voxels size? #unclear 
 	Because 
 	- the BOLD r depends on the amount of HbdO contain in a voxel. If we have an even smaller voxel, we will measure an even smaller BOLDr which risks to be confound simply to noise. Remember that the BOLDr change can be 5% to 1% of its baseline, and that in some places ex: frontal lobe. 
