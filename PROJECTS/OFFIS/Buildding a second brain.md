@@ -61,6 +61,7 @@ The IP are content that can be digest by a certain public, give you feedback, bu
 - Past works of course, like my mini-course, my articles, it'd be super, when starting a project like publishing again on neursociences to reassamble the past projects into a PROJECT dedicated to that. 
 ## Resurface Past work
 ## How to expert your work
-Use the sharing of article to friends/people asking/twitter/sharing, to resume the work into distilled notes before saving, then add them in the appropriate PARA. Friends will hlep you
+Use the sharing of article to friends/people asking/twitter/sharing, to resume the work into distilled notes before saving, then add them in the appropriate PARA. Friends will hlep you increase your knowledge, and you'll help them actually read and learn that shit.
+
 
  
