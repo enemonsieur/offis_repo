@@ -10,12 +10,12 @@ What are the 2 datas contained in the NiFItI image?
 	image data
 
 Why should we discard the first seconds of acquire datas?
-	Before preprocessing an fMRI data set, the fi rst images acquired in a session should be discarded. This is because much of the very large signal change that they contain is due to the time it takes for magnetisation to reach equilibrium. This can be easily seen by looking at the fi rst fe
+	 This is because much of the very large signal change that the images contain is due to the time it takes for magnetisation to reach equilibrium. 
 ### #realignment
 In which cases do we use #realignment
 	because heads movements can change the aligments of T2 images from each others
 	After that we get the realignment parameters in a text file, with 6 colums 3 for translation , 3 for rotation
-whats the "thing" we need to align T-images?
+whats the "thing" we need to align T2-images?
 	reference image
 how many parameters do we use and what are they
 what procedure do we use to #realignment the images
