@@ -12,13 +12,13 @@ What are the 2 datas contained in the NiFItI image?
 Why should we discard the first seconds of acquire datas?
 	 This is because much of the very large signal change that the images contain is due to the time it takes for magnetisation to reach equilibrium. 
 ### #realignment
-In which cases do we use #realignment
+In which cases do we use realignment
 	because heads movements can change the aligments of T2 images from each others
 	After that we get the realignment parameters in a text file, with 6 colums 3 for translation , 3 for rotation
 whats the "thing" we need to align T2-images?
 	reference image
 how many parameters do we use and what are they
-what procedure do we use to #realignment the images
+what procedure do we use to realignment the images
 	mean-squared difference
 	motion correction algorithm
 
@@ -28,15 +28,15 @@ what's the point of coregistration?
 		to match  the anatomical, more detailed T1 with the T2-iamges
 		and then to wrap the fxn images into an unique, wokrs-on-every-images- template
 how do coregistration actually works steps by steps
-	step 1: Move the images around and test how to make anat and fxn #overlay 
+	step 1: Move the images around and test how to make anat and fxn 
 **How do we achive maching the T1 and T2 images?**
-	Because both are almost the same image with inverse brightness and dark area? ( may be because one meausre the pulse inversion and the other the desynchro and they both oppose each other #t2 #t1 #boldresponse) difference between the voxel so the thing is to find how the brights and dark voxels works #unclear
+	Because both are almost the same image with inverse brightness and dark area? ( may be because one meausre the pulse inversion and the other the desynchro and they both oppose each other ) difference between the voxel so the thing is to find how the brights and dark voxels works #unclear
 step 2: How do we map the T2 into the MNI template 
 	We overlay the T1 to MNI-template first, then to the mean of the T2
-What happen if we directly map the T2 images with the template? #unclear
+What happen if we directly map the T2 images with the template? 
 	May be there's not enough resolution to accurately match it out?
 **Why do we keep the mean of T2 constant but align the T1 to it.  #coregistration** 
-	we only have 1 T1 image, if we change the mean, we have to change all the functional images from the time series (mre, but if we change the T1, its just "one change" #overlay 
+	we only have 1 T1 image, if we change the mean, we have to change all the functional images from the time series (mre, but if we change the T1, its just "one change" 
 	
 
 
