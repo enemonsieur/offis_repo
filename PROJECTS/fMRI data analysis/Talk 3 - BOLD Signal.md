@@ -22,7 +22,7 @@ what factors affects BOLD response?
 		- gender
 		- hormones
 - 6.) How is image contrast produced by BOLD fMRI? #unclear 
-	by
+	By displacing the dHbO that reduced the t2 response
 
 What are the 3 phases of the typical Hemodynamic Response (HDR)?
 	Initial dip
