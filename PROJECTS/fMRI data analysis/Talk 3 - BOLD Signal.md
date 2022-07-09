@@ -8,7 +8,8 @@ what are the difference btween #magnetic properties of oxy vs deoxy Hb
 	the Oxy is diamagnetic the deoxy is paramagnetics Diamagnetics  
 
 what are more differences btwn para and diamagn?
-	Oxy will align to the current while deoxy will
+	Oxy will align to the current while deoxy will actually disrupt the magnetism (which magnetism) of the spins of the protons together, this will reduce the Transverse magnetism (bc they won't be align),and reduce the T2 response.
+	A reduce T2 response will decrease the activity of the BOLD signal
 how do paramagn forces help measure #boldresponse 
 	bc the distort the local magnetic field (B), by doing so, they alter the spin of protons. Those protons normally align during fMRI to create a #transversemagnetic field, but because of the perturbation, the TM field will be shorted. This can be picked up by the fMRI,  and create a shorter #t2 response.
 	Therefore the oxygenated and dOHb have different t2 response, that is used to construc the BOLD signal
@@ -21,7 +22,7 @@ what factors affects BOLD response?
 		- gender
 		- hormones
 - 6.) How is image contrast produced by BOLD fMRI? #unclear 
-	- by
+	by
 
 What are the 3 phases of the typical Hemodynamic Response (HDR)?
 	Initial dip
