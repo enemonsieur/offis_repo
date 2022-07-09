@@ -37,7 +37,7 @@ What is Tr?
 	repetition time or the sampling rate. This is what take, per  100ms (for ex), the amount of T2 measured
 What's 2 advantages of longer Tr?
 	more signal strength
-	More brain slices per second #unclear 
+	More brain slices per second bc faster sampling of slice because you have like 300 voxels to measure instead of 9000. 
 How does repetition times influence the temporal resolution? #unclear 
 How does TR (repetition time?) influences brain slices and signal strength #unclear 
 	For SS: 

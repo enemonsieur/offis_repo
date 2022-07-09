@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/fMRI data analysis/Talk 3 - BOLD Signal.md",
+            "file": "PROJECTS/fMRI data analysis/Talk5 - preprocessing.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/fMRI data analysis/Talk 3 - BOLD Signal.md",
+                "file": "PROJECTS/fMRI data analysis/Talk5 - preprocessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "74409468ed04813f",
   "lastOpenFiles": [
+    "PROJECTS/fMRI data analysis/Talk5 - preprocessing.md",
     "PROJECTS/fMRI data analysis/Talk 3 - BOLD Signal.md",
     "PROJECTS/fMRI data analysis/Talk 2 - From Neuronal to Hemodynamic Activity.md",
     "PROJECTS/fMRI data analysis/fMRI data analysis.md",
@@ -120,7 +121,6 @@
     "PROJECTS/Visual NP/Argus II.md",
     "PROJECTS/fMRI data analysis/Talk 9 -.md",
     "PROJECTS/Visual NP/Seminar Retinal Prothesis Why is it so hard to build them.md",
-    "PROJECTS/Visual NP/Type of Retinal P.md",
-    "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md"
+    "PROJECTS/Visual NP/Type of Retinal P.md"
   ]
 }
