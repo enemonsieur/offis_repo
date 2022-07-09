@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MVP etiquette confiotes.md",
+            "file": "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MVP etiquette confiotes.md",
+                "file": "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +112,8 @@
   },
   "active": "74409468ed04813f",
   "lastOpenFiles": [
-    "MVP etiquette confiotes.md",
     "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
+    "MVP etiquette confiotes.md",
     "AREAS/grey matters/Work in Progress.md",
     "PROJECTS/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md",
     "PROJECTS/fMRI data analysis/Talk5 - preprocessing.md",

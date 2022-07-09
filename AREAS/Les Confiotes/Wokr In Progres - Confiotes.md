@@ -1,4 +1,9 @@
-Quelles sont les innovations queje peux apporter aà l'entrerpise pour tripler l'activité ou doubler les ventes. quel est le minimumm syndical quee peux faire pour pouvoir pousser l'entreprise vers le haut. 
+### Quelles sont les innovations que je peux apporter:
+- Sac en tissus, imprimer des trucs dessus en Black and White, Faire une ébauche
+- Faire un pack de 3 propositions pour les tontines (classe) soirées foot(Homme), Cadeaux (Impressioner), Santé (Bita Cola, etc..), Cours 
+-
+
+ quel est le minimumm syndical quee peux faire pour pouvoir pousser l'entreprise vers le haut. 
 - Réinitialiser les OKRs
 [[MVP etiquette confiotes]]
 
@@ -18,4 +23,4 @@ Quelles sont les innovations queje peux apporter aà l'entrerpise pour tripler l
 			- 
 	- Eunice: Repos forcé pour qu'elle puisse créer de vraies offres utiles
 		- Faire un call avec elle pour lui montrer ce qu'une excellente offre devrait donner
-		- Attendre quelle donne un retour sur les confiotes
+		- Attendre quelle donne un retour sur les messages pour les étiquettes. Avec ces messages, compléter les OKRs et modifier la course
