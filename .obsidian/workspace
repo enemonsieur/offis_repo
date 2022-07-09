@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Visual NP/Seminar Retinal Prothesis Why is it so hard to build them.md",
+            "file": "PROJECTS/OFFIS/Buildding a second brain.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kanban",
+                "query": "Build",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +61,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 453,
-    "collapsed": true
+    "width": 453
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Visual NP/Seminar Retinal Prothesis Why is it so hard to build them.md",
+                "file": "PROJECTS/OFFIS/Buildding a second brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "f392afbc8ce59f91",
   "lastOpenFiles": [
-    "PROJECTS/Visual NP/Seminar Retinal Prothesis Why is it so hard to build them.md",
-    "PROJECTS/Visual NP/Visual Neurop.md",
+    "PROJECTS/OFFIS/Buildding a second brain.md",
     "PROJECTS/Visual NP/Argus II.md",
-    "PROJECTS/Visual NP/Type of Retinal P.md",
     "PROJECTS/fMRI data analysis/Talk 9 -.md",
+    "PROJECTS/Visual NP/Visual Neurop.md",
+    "PROJECTS/Visual NP/Seminar Retinal Prothesis Why is it so hard to build them.md",
+    "PROJECTS/Visual NP/Type of Retinal P.md",
     "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
     "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
-    "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
-    "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md"
+    "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md"
   ]
 }
