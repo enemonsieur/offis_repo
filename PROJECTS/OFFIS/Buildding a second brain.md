@@ -43,6 +43,9 @@ Don't organize notes based on where they come from: Dont put theses current note
 1. Highlights 3-5% of every book
 2. Take notes of the important 10-20% of them
 3. Summarize the 10-20% of your notes in important points and actionable steps
+![[Pasted image 20220709133821.png]]
+It's based on the fact that only the most important ideas stick. But you don't have the mental energy to turn them into a good speech  for your future self, so focus on those 10-20% ideas 
+-Tiago Forte. The best stuff always stick to your mind and hour or two (or a day or two)
 - Progressive summarization: Instead of agressively try to note every part of a book, try to capture links for article or explanations or audios from professor. Put them in the appropriate folder. 
 	- Then later, find your usual links you see. Highlight the most important passages, NEVER more than 10 % of the whole stuff. And add them in a common storage. You may want to include stuff that resonate with you but you can't explain why. 
 	- Then comment 20% max of those highlights in a way that'd be easy to contextualize and that your future sefl will immediately grasp
