@@ -1,7 +1,9 @@
 ### Quelles sont les innovations que je peux apporter:
 - Sac en tissus, imprimer des trucs dessus en Black and White, Faire une ébauche
 - Faire un pack de 3 propositions pour les tontines (classe) soirées foot(Homme), Cadeaux (Impressioner), Santé (Bita Cola, etc..), Cours 
--
+- Trouver les segments des clients
+- 2 semaines entrées.
+- 
 
  quel est le minimumm syndical quee peux faire pour pouvoir pousser l'entreprise vers le haut. 
 - Réinitialiser les OKRs
