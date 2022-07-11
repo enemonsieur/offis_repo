@@ -56,3 +56,5 @@ What are we looking for at a cluster level?
 	We look at the size of the activation and find its its randomn noise or not. 
 What's cluster building threshold?
 	It decides how big our clusters are, a low threshold will give us a very large cluster. And higher t. will give many cluster?
+How does FWE and FDR helps in cluster levels? 
+	
