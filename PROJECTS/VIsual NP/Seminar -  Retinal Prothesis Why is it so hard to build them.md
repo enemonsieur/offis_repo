@@ -41,3 +41,4 @@ Show people what blind can resee. Redo it or find it in litt
 - create a questionnaire to figure out, what factors makes RP worse than CI?
 - Use Mentimeter for questions
 - Define phosphenes
+- Add L'agent P everytime you try different visual pathway prostheses.
