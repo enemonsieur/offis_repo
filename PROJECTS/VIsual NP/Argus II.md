@@ -35,14 +35,15 @@ What percentage of people work well with the Argus?
 
 The perfect candidates are Retina Pigmentosa
 	RP denotes a group of hereditary outer retinal dystrophies, affecting around 1 in 4000 live births and more than a million people worldwide (Hartong et al., 2006). Affected individuals suffer from progressive visual loss which can be profound (0.5% with no light perception and 25% with 20/200 vision in both eyes) (Grover et al., 1999).
-=> The Argus works on eyes that has no photoreceptors
-
+=> The Argus works on eyes that have a destroyed outer layer but preserved inner. Therefore, we isolate the diseases that destroy photoreceptors but not RGCs.
+This narrows the disease to: RP and AMD
+	![[Pasted image 20220711194213.png]]
 ## Argus components
 There are 3 funciton a RP should be able to do: 
 1. Capture the visual information
 2. Transduc it into electrical stimuli
 3. Activating  correctly the Retinal ganglion cells and BPcells (residual inner retina)
-
+#retinalcochlea 
 Its made of 3 external and 3 internal components: 
 
 The 3 external componets of Argus are:
