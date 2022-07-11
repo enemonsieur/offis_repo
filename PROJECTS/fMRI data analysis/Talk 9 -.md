@@ -87,6 +87,9 @@ What are one and two sample t-test for 2nd Level?
 How do we get the mean of the betas?
 	We get the mean by minimizing the error (the residuals). Because it will give the smallest difference from the mean x-xhat, which is as close at the mean as it can get-
 
+What are the X of the second level?
+	A column of one. This is to get the mean of the Betas (on the 2nd level)>0. But if you wanna compare 2 samples, then you need to compare 2 different means,  and you X them by a X = 10 subjects  * colum 2 means and  the Betas= 2betas * 10 subjects
+What
 
 
 
