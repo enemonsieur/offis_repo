@@ -46,4 +46,13 @@ What's FDR?
 What does FDR depends on?
 	Cutt off P-values
 What do we wanna control in FDR?
-	the number of FP within the total positive values. Because we know in that there's are some FP, so we wanna make sure its not too big
+	the number of FP within the total positive values. Because we know in that there's are some FP, so we wanna make sure its not too big.
+Why is FWError more conservative?
+
+What's FWE correciton
+	Prob of finding one or more false discoveries (Type I error), as we perform multiple voxels stat analysis.
+
+What are we looking for at a cluster level?
+	We look at the size of the activation and find its its randomn noise or not. 
+What's cluster building threshold?
+	It decides how big our clusters are, a low threshold will give us a very large cluster. And higher t. will give many cluster?
