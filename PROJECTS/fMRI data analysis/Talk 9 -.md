@@ -89,7 +89,10 @@ How do we get the mean of the betas?
 
 What are the X of the second level?
 	A column of one. This is to get the mean of the Betas (on the 2nd level)>0. But if you wanna compare 2 samples, then you need to compare 2 different means,  and you X them by a X = 10 subjects  * colum 2 means and  the Betas= 2betas * 10 subjects
-What
+Why do we have zeros and 1 here? 
+	![[Pasted image 20220711132138.png]]
+?? It depends, it could be any constrast rate like [1 -1] this will give us a ttest of c'B/ std(c'B) = B1 - B2 /std(B1-B2). Because  well, this is the contrast right?
+
 
 
 
