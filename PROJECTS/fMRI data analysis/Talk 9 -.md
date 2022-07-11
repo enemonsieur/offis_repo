@@ -77,6 +77,12 @@ Then we wanna minimise the betas that we found from each subjects so that we hav
 What are the dimensions of Y
 	they depends on the subjects. And the d2 is 1 because we find the weighted sum of all the Beta so we have 1,n(subjects). This isjust for one voexels right??
 
+What's the lenght of the C vector ?
+	Just one because we estimatejust one betas in the 2nd level
+
+What are one and two sample t-test for 2nd Level?
+	
+
 
 
 
