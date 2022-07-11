@@ -61,13 +61,23 @@ How does FWE and FDR helps in cluster levels?
 What are the contrasts rate and contrast images?
 What's the first level analysis?
 What's the second level analysis?
+	Group analysis
+		![[Pasted image 20220711125716.png]]
+
+
 How do they differ?
 What's Y in the 2nd level?
-	it represent the  contrast image of different subjects.
+	The become the Beighteds, that we found by analysing every subjects in the first level
+		it represent the  contrast image of different subjects.
 		They are the weighted sum of the Betas: s1= c1* B1,1+ cn* Bn,1
 			B1,1 is the index for Betas
+			Then for each subjec we have their Sm, which represent the  Y of the 2nd level analysis.. so that we have Subject m = c1 * B1,m + cnBn,m
 
-		Then for each subjec we have their Sm, which represent the  Y of the 
-	    2nd level analysis.. so that we have Subject m = c1 * B1,m + cnBn,m
+Then we wanna minimise the betas that we found from each subjects so that we have a mean of
+What are the dimensions of Y
+	they depends on the subjects. And the d2 is 1 because we find the weighted sum of all the Beta so we have 1,n(subjects). This isjust for one voexels right??
+
+
+
 
 
