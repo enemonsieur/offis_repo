@@ -69,9 +69,11 @@ How do they differ?
 What's Y in the 2nd level?
 	The become the Beighteds, that we found by analysing every subjects in the first level
 		it represent the  contrast image of different subjects.
-		They are the weighted sum of the Betas: s1= c1* B1,1+ cn* Bn,1
+		They are the weighted sum of the Betas from the 1st level, which gives the difference btwen light ON OFF for ONE subject: s1= c1* B1,1+ cn* Bn,1. Is this difference larger than zero? That is the question
 			B1,1 is the index for Betas
 			Then for each subjec we have their Sm, which represent the  Y of the 2nd level analysis.. so that we have Subject m = c1 * B1,m + cnBn,m
+
+
 
 Then we wanna minimise the betas that we found from each subjects so that we have a mean of
 What are the dimensions of Y
@@ -83,7 +85,7 @@ What's the lenght of the C vector ?
 What are one and two sample t-test for 2nd Level?
 
 How do we get the mean of the betas?
-	We get the mean by minimizing the error (the residuals). Because its
+	We get the mean by minimizing the error (the residuals). Because it will give the smallest difference from the mean x-xhat, which is as close at the mean as it can get-
 
 
 
