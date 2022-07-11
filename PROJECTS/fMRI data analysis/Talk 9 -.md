@@ -81,7 +81,9 @@ What's the lenght of the C vector ?
 	Just one because we estimatejust one betas in the 2nd level
 
 What are one and two sample t-test for 2nd Level?
-	
+
+How do we get the mean of the betas?
+	We get the mean by minimizing the error (the residuals). Because its
 
 
 
