@@ -57,4 +57,11 @@ What are we looking for at a cluster level?
 What's cluster building threshold?
 	It decides how big our clusters are, a low threshold will give us a very large cluster. And higher t. will give many cluster?
 How does FWE and FDR helps in cluster levels? 
-	
+
+What are the contrasts rate and contrast images?
+What's the first level analysis?
+What's the second level analysis?
+How do they differ?
+What's Y in the 2nd level?
+	it represent the  contrast image of different subjects.
+		They are the weighted sum of the Betas: c1*B1,1
