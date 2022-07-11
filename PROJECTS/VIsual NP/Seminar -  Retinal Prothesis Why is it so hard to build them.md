@@ -37,3 +37,5 @@ Cite the different possible Visual Prosthetics and where they intervene along th
 May be start by that since you'll pinpoint the visual modules you need to learn.
 Show people what blind can resee. Redo it or find it in litt
 - quick review of history
+- talk about stimulation parameters like freq, intensity, algos, pulse rate, phase (bi or mono), p
+- create a questionnaire to figure out, what factors makes RP worse than CI?
