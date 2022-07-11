@@ -20,24 +20,22 @@ BUt why is it so much better than the other RP?
 	a) greater accessibility at **lower surgical risk** than the intracranial visual pathways
 	b) straightforward monitoring of the device by direct visualisation; ???
 	c) **potentially predictable and reproducible retinotopy by applying stimulation at a pre-processing site.** #unclear 
-
+=> it stimulates the RGCs that stimulates what?
 Not all the information capture by the eyes are transmitted to the nerve cells. Therefore 
  it'D be possible to see with even a low resolution stimulation of the gagnliion cells
-	urthermore, as there are around 120 million photoreceptors while only 1.5 million ganglion cells, many photoreceptors converge onto a single bipolar cell especially at the periphery, with further convergence taking place from the bipolar cells to RGCs (Kolb, 2003).
+	furthermore, as there are around 120 million photoreceptors while only 1.5 million ganglion cells, **many photoreceptors converge onto a single bipolar cell especially at the periphery,** with further convergence taking place from the bipolar cells to RGCs (Kolb, 2003).
+=> There's a massive complexity reduction of the amount of neuron. Especially at the periphery of the eyes, so that you don't really need to stim 120 millions photoreceptors to generate "phosphenes"
 
 >Conversely within the macular region of the retina, the photoreceptor:bipolar cell:RGC ratio approaches 1:1:1, with minimal convergence. It is thus envisaged that focal electrical stimulating patterns with a multi-electrode array in the macular region would more likely manifest retinotopic correlations along the visual pathway. There is, however, a particular limitation to this rationale, due to the arcuate displacement of axons and the piling up of ganglion cell bodies when approaching the fovea. #retinalimitations
 
 some limitations of the implant of electrodes
 
 What percentage of people work well with the Argus?
-	Ideal candidates for treatment would therefore have conditions where the outer retina (i.e. photoreceptors and/or retinal pigment epithelium) has been destroyed by any mechanism, while the inner retina (e.g. bi
-	
-	
-	
-	polar cells, RGCs, horizontal cells and amacrine cells) remains relatively intact
+	Ideal candidates for treatment would therefore have conditions where the outer retina (i.e. photoreceptors and/or retinal pigment epithelium) has been destroyed by any mechanism, while the inner retina (e.g. bipolar cells, RGCs, horizontal cells and amacrine cells) remains relatively intact
 
 The perfect candidates are Retina Pigmentosa
 	RP denotes a group of hereditary outer retinal dystrophies, affecting around 1 in 4000 live births and more than a million people worldwide (Hartong et al., 2006). Affected individuals suffer from progressive visual loss which can be profound (0.5% with no light perception and 25% with 20/200 vision in both eyes) (Grover et al., 1999).
+=> The Argus works on eyes that has no photoreceptors
 
 ## Argus components
 There are 3 funciton a RP should be able to do: 
