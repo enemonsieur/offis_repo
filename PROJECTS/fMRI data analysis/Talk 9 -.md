@@ -20,22 +20,30 @@ What should we use to id voxels/cluster that are so active, that that can't be d
 	Using Family Wise Error and
 
 How does Family wise Error works?
-	 Bonferroni Correction: Divide the p>0.5 by the number of tests. So its like 0.5/1000 voxels
+	 Bonferroni Correction: Divide the p>0.5 by the number of tests. So its like 0.5/1000 voxels 
 	 The problem is that it'll create a lot of FN (because it cuts too low, it demands a very high ttest to say: Yees, this isnt done by random noise)
-	 The data by itselfs have intrinsic smoothness + smoothings for gaussian and Bonferroni don't account for this correlation between voxels
+	 The data by itselfs have intrinsic smoothness + smoothings for gaussian and Bonferroni don't account for this correlation between voxels 
 
 
  Means: we llok at the family of test and we wanna keep the alpha* level p-value to 0.05 for the entire family. 
  What do we take into account in FWerror?
-	 We take into account the internal and external smooething
+	 We take into account the internal and external smoothing. Because we don't have independent tests. That we take into account for correcting the voxels. The theory that helps explaining that is RFtheory
 
-Random Field Theory p-value correction
+Random Field Theory p-value correction (is FWError)
 	Estimates the smoothness of your  t-image. Its used to figue out, what "filter" was used to smooth your imaged.
 	The more the filter increases? the more the corr happens on a longer distances and the smaller the p value increase. A very smooth data means a very small correction or so. 
 	R is the Reso volume? the volume of the brain, than we calculate / smoothing function. To determine how smooth or correlated or dependent our data are. If its already pretty smooth, you won't have to correct the p value. 
 	The smaller the smoothness the bigger the p-value will be transform
+	whats RFT takes into account?
+		It takes into account the smoothness of thedata
   
 False discovery rate
 	Has to do with this false positive and negative
 	R is the total of FP and TP
 	We say, 5% of the voxels we measue are wrongly declared as FP
+What's FDR?
+	is the proportion of Type I errors among the rejected hypotheses FDR=P*(V/R)
+What does FDR depends on?
+	Cutt off P-values
+What do we wanna control in FDR?
+	the number of FP within the total positive values. Because we know in that there's are some FP, so we wanna make sure its not too big
