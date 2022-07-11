@@ -39,3 +39,4 @@ Show people what blind can resee. Redo it or find it in litt
 - quick review of history
 - talk about stimulation parameters like freq, intensity, algos, pulse rate, phase (bi or mono), p
 - create a questionnaire to figure out, what factors makes RP worse than CI?
+- Use Mentimeter for questions
