@@ -64,4 +64,10 @@ What's the second level analysis?
 How do they differ?
 What's Y in the 2nd level?
 	it represent the  contrast image of different subjects.
-		They are the weighted sum of the Betas: c1*B1,1
+		They are the weighted sum of the Betas: s1= c1* B1,1+ cn* Bn,1
+			B1,1 is the index for Betas
+
+		Then for each subjec we have their Sm, which represent the  Y of the 
+	    2nd level analysis.. so that we have Subject m = c1 * B1,m + cnBn,m
+
+
