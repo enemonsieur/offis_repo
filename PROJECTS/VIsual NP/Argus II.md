@@ -8,20 +8,21 @@ alias: [Visual neuroprosthetics]
 	
 
 The Argus® II Retinal Prosthesis System (Second Sight Medical Products) is the first prosthetic vision device to obtain regulatory approval in both Europe and the USA.
-To date, over 100 devices have been implanted worldwide, representing the largest group of patients currently treated with visual prostheses.
+To date, over 100 devices have been implanted worldwide, representing the largest group of patients currently treated with visual prostheses. (now 800)
 
 How does the Argus works?
 	Visual information from a glasses-mounted video camera is converted to a pixelated image by an external processor, before being transmitted to the microelectrode array at the macula. Elicited retinal responses are then relayed via the normal optic nerve to the cortex for interpretation. #retinalfunction 
 
 
-How succesful is the argus
+How succesful is the Argus
 	The Argus® II has become the most widely used and most successful retinal prosthesis currently available in terms of regulatory approval. Since obtaining the CE mark in 2011 and FDA approval as a humanitarian device in 2013,
 BUt why is it so much better than the other RP?
 	a) greater accessibility at **lower surgical risk** than the intracranial visual pathways
 	b) straightforward monitoring of the device by direct visualisation; ???
 	c) **potentially predictable and reproducible retinotopy by applying stimulation at a pre-processing site.** #unclear 
 
-Not all the information capture by the eyes are transmitted to the nerve cells. Therefore it'D be possible to see with even a low rsolutionnstimulation of the gagnliion cells
+Not all the information capture by the eyes are transmitted to the nerve cells. Therefore 
+ it'D be possible to see with even a low resolution stimulation of the gagnliion cells
 	urthermore, as there are around 120 million photoreceptors while only 1.5 million ganglion cells, many photoreceptors converge onto a single bipolar cell especially at the periphery, with further convergence taking place from the bipolar cells to RGCs (Kolb, 2003).
 
 >Conversely within the macular region of the retina, the photoreceptor:bipolar cell:RGC ratio approaches 1:1:1, with minimal convergence. It is thus envisaged that focal electrical stimulating patterns with a multi-electrode array in the macular region would more likely manifest retinotopic correlations along the visual pathway. There is, however, a particular limitation to this rationale, due to the arcuate displacement of axons and the piling up of ganglion cell bodies when approaching the fovea. #retinalimitations
