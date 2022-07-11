@@ -59,3 +59,14 @@ In the fovea, the most visually acute portion of the retina, there are an averag
 
  The uneven photoreceptor density within the retina presents a major challenge. Since the density of cone photoreceptors decreases with increasing retinal eccentricity, uniform phosphene generation throughout the visual field would require MEAs with varying electrode diameters and inter-electrode spacing. Novel MEA designs that promote glial and neuronal migration may allow for lower stimulation levels and more densely packed arrays ([Butterwick et al., 2009](https://www.frontiersin.org/articles/10.3389/fnins.2020.00036/full#B22); [Spira and Hai, 2013](https://www.frontiersin.org/articles/10.3389/fnins.2020.00036/full#B136)). #retinalcochlea 
  **It is positioned within the largely degenerated photoreceptor layer and directly interface with retinal bipolar cells.** Since they interact with outer-retinal tissue, subretinal prostheses retain substantial intra-retinal signal processing.
+=>They directly stimulate the photoreceptors so may not even need transduction to electric current. The downside is that the eye has to be permeable to light.
+
+#### Epiretinal
+
+Epiretinal prostheses interact with retinal ganglion cells. Owing to their downstream placement, epiretinal prostheses have a wider therapeutic potential than subretinal prostheses.
+
+ Epiretinal arrays can even selectively stimulate ganglion cells or bipolar cells based on stimulation parameters, including pulse polarity and duration ([Boinagrov et al., 2014](https://www.frontiersin.org/articles/10.3389/fnins.2020.00036/full#B12)). Optimization of these features can reduce functional threshold levels, thus allowing for smaller electrode-diameters and denser MEAs before surpassing physiological safety limits. The implants are located adjacent to the spacious vitreous humor. This allows for larger electrical componentry and mitigates electrically-induced heat absorption by nearby tissue. However, unlike subretinal MEAs that are held in place by the underlying retinal pigment epithelium
+Currently there is an FDA-approved retinal prostheses ([Luo and Da Cruz, 2016](https://www.frontiersin.org/articles/10.3389/fnins.2020.00036/full#B97)) which consists of a 60-electrode epiretinal device that has yielded patient improvements in spatial motor tasks ([Ahuja et al., 2011](https://www.frontiersin.org/articles/10.3389/fnins.2020.00036/full#B2)), motion detection ([da Cruz et al., 2016](https://www.frontiersin.org/articles/10.3389/fnins.2020.00036/full#B42)), and letter-reading performance ([Da Cruz et al., 2013](https://www.frontiersin.org/articles/10.3389/fnins.2020.00036/full#B41)). 
+=> Enter mr. Argus. 
+
+### Optic Nerve
