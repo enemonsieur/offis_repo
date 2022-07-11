@@ -55,9 +55,25 @@ The 3 external components are:
 	1. An internal coil e as a wireless receiver of RF telemetry, converting radio waves back to electrical signals to recover both data and electrical power. 
 	2. **2. An inbuilt Application-Specific-Integrated-Circuit (ASIC) e for generating appropriate electrical pulses in accordance with the stimulating parameter data recovered from the internal coil, which are then relayed to the multi-electrode array.** 
 	 => what are the generated pulses?
-	3. A 60-channel microelectrode (6 * 10) epiretinal array e consisting of 60 platinum electrodes (diameter ¼ 200 mm) spaced 575 mm (centre-to-centre) apart, embedded in a thin film of polyimide. Each microelectrode is connected to the ASIC in a parallel circuit via a metallised polymer connecting cable, such that each electrode can be activated independently according to the stimulating parameters. The array comes into direct contact with the retinal surface, allowing injection of electrical charge
+	3. A 60-channel microelectrode (6 * 10) epiretinal array e consisting of 60 platinum electrodes (diameter ¼ 200 mm) spaced 575 mm (centre-to-centre) apart, embedded in a thin film of polyimide. Each microelectrode is connected to the ASIC in a parallel circuit via a metallised polymer connecting cable, **such that each electrode can be activated independently according to the stimulating parameters.** The array comes into direct contact with the retinal surface, allowing injection of electrical charge
 >The internal coil recieve the radio waves of the RF transmiter 
 >The ASIC will generate the pulse to the microelectrode
 >The electrod will stim the retinal surface
 
 ### HOW MUCH VISION IS REGAINED  
+### 2.1. Proof of concept
+
+The development of the Argus® II Retinal Prosthesis, as with all retinal prostheses, was based on the following assumptions:
+
+1.The inner retina (RGCs with/without bipolar cells) of end-stage [RP](https://www.sciencedirect.com/topics/medicine-and-dentistry/retinitis-pigmentosa "Learn more about RP from ScienceDirect's AI-generated Topic Pages") patients remains functionally intact for transmission of information along the [visual pathway](https://www.sciencedirect.com/topics/medicine-and-dentistry/visual-pathway "Learn more about visual pathway from ScienceDirect's AI-generated Topic Pages") to the [visual cortex](https://www.sciencedirect.com/topics/medicine-and-dentistry/visual-cortex "Learn more about visual cortex from ScienceDirect's AI-generated Topic Pages").
+
+2.The residual inner retina can be activated focally with localised [electrical stimulation](https://www.sciencedirect.com/topics/medicine-and-dentistry/electro-stimulation "Learn more about electrical stimulation from ScienceDirect's AI-generated Topic Pages") to elicit discrete phosphenes without causing damage or toxicity to the retina.
+
+**3.[Retinotopy](https://www.sciencedirect.com/topics/neuroscience/retinotopy "Learn more about Retinotopy from ScienceDirect's AI-generated Topic Pages") is relatively preserved in the residual inner retina and along the visual pathway, such that simultaneous multi-focal stimulations would form geometric patterns of phosphenes in accordance with retinotopic locations.**
+=> Unfortunately it's not
+
+
+4.The elicited geometric patterns of phosphenes can be relayed in a spatio-temporally correct manner along the visual pathway and interpreted by the primary visual cortex as recognisable visual patterns.
+
+5.Limited pixels can still provide useful visual function.
+
