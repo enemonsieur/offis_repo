@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Visual NP/Seminar Retinal Prothesis Why is it so hard to build them.md",
+            "file": "PROJECTS/Visual NP/Type of Visual NP.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Visual NP/Seminar Retinal Prothesis Why is it so hard to build them.md",
+                "file": "PROJECTS/Visual NP/Type of Visual NP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "74409468ed04813f",
   "lastOpenFiles": [
+    "PROJECTS/Visual NP/Type of Visual NP.md",
     "PROJECTS/Visual NP/Seminar Retinal Prothesis Why is it so hard to build them.md",
     "PROJECTS/Visual NP/Type of Retinal P.md",
     "PROJECTS/Visual NP/Visual Neurop.md",
@@ -120,7 +121,6 @@
     "MVP etiquette confiotes.md",
     "AREAS/grey matters/Work in Progress.md",
     "PROJECTS/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md",
-    "PROJECTS/fMRI data analysis/Talk5 - preprocessing.md",
-    "PROJECTS/fMRI data analysis/Talk 3 - BOLD Signal.md"
+    "PROJECTS/fMRI data analysis/Talk5 - preprocessing.md"
   ]
 }

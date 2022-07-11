@@ -35,3 +35,4 @@ https://www.youtube.com/watch?v=4jJS4MnkcWw (On off cells)
 https://www.youtube.com/watch?v=MgMNUne9j9c (Visual processing)
 Cite the different possible Visual Prosthetics and where they intervene along the  Visual pathway: https://www.frontiersin.org/articles/10.3389/fnins.2020.00036/full
 May be start by that since you'll pinpoint the visual modules you need to learn.
+
