@@ -22,7 +22,12 @@ What should we use to id voxels/cluster that are so active, that that can't be d
 How does Family wise Error works?
 	 Bonferroni Correction: Divide the p>0.5 by the number of tests. So its like 0.5/1000 voxels
 	 The problem is that it'll create a lot of FN (because it cuts too low, it demands a very high ttest to say: Yees, this isnt done by random noise)
-	 The data by itselfs have intrinsic smoothness + smoothigs for gaussian and Bonferroni don't account for this correlation between voxels
+	 The data by itselfs have intrinsic smoothness + smoothings for gaussian and Bonferroni don't account for this correlation between voxels
+
+
+ Means: we llok at the family of test and we wanna keep the alpha* level p-value to 0.05 for the entire family. 
+ What do we take into account in FWerror?
+	 We take into account the internal and external smooething
 
 Random Field Theory p-value correction
 	Estimates the smoothness of your  t-image. Its used to figue out, what "filter" was used to smooth your imaged.
