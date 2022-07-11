@@ -53,8 +53,9 @@ The 3 external componets of Argus are:
 The 3 external components are: 
 	![[Pasted image 20220629085057.png]]
 	1. An internal coil e as a wireless receiver of RF telemetry, converting radio waves back to electrical signals to recover both data and electrical power. 
-	2. 2. An inbuilt Application-Specific-Integrated-Circuit (ASIC) e for generating appropriate electrical pulses in accordance with the stimulating parameter data recovered from the internal coil, which are then relayed to the multi-electrode array. 
-	3. 3. A 60-channel microelectrode (6  10) epiretinal array e consisting of 60 platinum electrodes (diameter ¼ 200 mm) spaced 575 mm (centre-to-centre) apart, embedded in a thin film of polyimide. Each microelectrode is connected to the ASIC in a parallel circuit via a metallised polymer connecting cable, such that each electrode can be activated independently according to the stimulating parameters. The array comes into direct contact with the retinal surface, allowing injection of electrical charge
+	2. **2. An inbuilt Application-Specific-Integrated-Circuit (ASIC) e for generating appropriate electrical pulses in accordance with the stimulating parameter data recovered from the internal coil, which are then relayed to the multi-electrode array.** 
+	 => what are the generated pulses?
+	3. A 60-channel microelectrode (6 * 10) epiretinal array e consisting of 60 platinum electrodes (diameter ¼ 200 mm) spaced 575 mm (centre-to-centre) apart, embedded in a thin film of polyimide. Each microelectrode is connected to the ASIC in a parallel circuit via a metallised polymer connecting cable, such that each electrode can be activated independently according to the stimulating parameters. The array comes into direct contact with the retinal surface, allowing injection of electrical charge
 >The internal coil recieve the radio waves of the RF transmiter 
 >The ASIC will generate the pulse to the microelectrode
 >The electrod will stim the retinal surface
