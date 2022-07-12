@@ -24,10 +24,11 @@ Why would we convolve the LTI to the X? #reformulate
 	This is done through convolution, by assuming a **linear time-invariant model.** This convolution operation is conceptually the same as the one that was used in the smoothing preprocessing step; that was a convolution in space with a Gaussian kernel, whilst here it is a convolution in time with the canonical HRF. The output of this mathematical operation is displayed in Fig
 	![[Pasted image 20220705085447.png]]
 What is autocorrelation? #unclear 
-	In our case, its when the variance of a voxel, correlates with the variance of this voxel, but In our case, autocorrelation is not important because we consideror the error values (that are not explained by the design matrix) are not correlated. But in general, they represent 
+	In our case, its when the variance of a voxel, correlates with the variance of this voxel, but over time. This means, after 1s, the prob that the intensity of the e-errort and e-error-t-1 are similar is pretty high, meaning they autocorrelates. 
+In our case, autocorrelation is not important because we consideror that the error values (that are not explained by the design matrix) are not correlated. 
 How does the epsilon error term relate to autocorrelation?
 	the error is normaly distributed (gaussian)
-	Why is serial auto-correlation a problem for modeling the BOLD signal HDR-response: #unclear The error we get fron the model, epsilon, isn't random. It's autocorrelated with the time delay, eith the previous time steps signla.
+	Why is serial auto-correlation a problem for modeling the BOLD signal HDR-response: #unclear 
 
 
 ### Talk 7: Part 2 Statistical Analysis
@@ -38,7 +39,7 @@ Why do we add Ones columns to the  X design Matrix? #unclear
 What are the two dimensions of the X design Matrix?
 	The row dimension (n) is the time vector function 
 	The column dimension (p) contains the differents experimental design data like sound activated, or light on that influence the intensity of the BOL signal
-We convolve the HRF with the BOLD signal to get one column per conditions. #reformulate 
+We convolve the HRF with the BOLD signal to get one column per conditions. #unclear (looks plain out false)
 
 During the convolution, what is LTI? 
 	![[Pasted image 20220701103125.png]]
@@ -49,7 +50,7 @@ How do we convolve a signal time point ? (Think one point with an intensity) int
 	3. Let's say there's 3  intermediate input. THey all get assign a HDR funcion. So we have 3 HDR function, seperate by different time frame
 	4. In the end, we just sum all of those intermediate response to have the shaep of the final response
 
-WHat's a block design #unclear
+**WHat's a block design #unclear**
 	Stimuli are rpesnetend after each other ex: 20 times at a particular condition (A) #unnecessary 
 
 Why is there (mathematically) a large dependency between regressors? #unclear 
