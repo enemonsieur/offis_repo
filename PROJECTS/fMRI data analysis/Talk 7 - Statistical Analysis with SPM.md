@@ -3,6 +3,7 @@ What is the point of doing a Statistical Analysis of the BOLD RESPONSE?![[Pasted
 
 
 X values comes from the design Matrix. BUt what is the design Matrix?
+	The design matrix is a matrix containing the different conditions that we apply to the brain, expressed as value, that we then weight with the Beta parameter, to predict how much those conditions affects the brain activity aka the BOLDr. 
 	The Design matrix contains in the 1st column the values of the experimental design
 	![[Pasted image 20220705084850.png]]
 	during the 84 blocks of time, we alternate OFF and ON auditory signal
@@ -19,10 +20,11 @@ What does those regression coeff mean? Betas #reformulate
 
 
 Why would we convolve the LTI to the X? #reformulate 
-	We can thus improve our prediction by modifying the box car stimulus function of Fig. 6.10a to take into account the shape of the HRF. This is done through convolution, by assuming a **linear time-invariant model.** This convolution operation is conceptually the same as the one that was used in the smoothing preprocessing step; that was a convolution in space with a Gaussian kernel, whilst here it is a convolution in time with the canonical HRF. The output of this mathematical operation is displayed in Fig
+	To have a Y' values, of how our BOLD signal is predicted to look like. Since every conditions will be represented in a HDR fashion.
+	This is done through convolution, by assuming a **linear time-invariant model.** This convolution operation is conceptually the same as the one that was used in the smoothing preprocessing step; that was a convolution in space with a Gaussian kernel, whilst here it is a convolution in time with the canonical HRF. The output of this mathematical operation is displayed in Fig
 	![[Pasted image 20220705085447.png]]
 What is autocorrelation? #unclear 
-	In our case, autocorrelation is not important because we consideror the error values (that are not explained by the design matrix) are not correlated. But in general, they represent 
+	In our case, its when the variance of a voxel, correlates with the variance of this voxel, but In our case, autocorrelation is not important because we consideror the error values (that are not explained by the design matrix) are not correlated. But in general, they represent 
 How does the epsilon error term relate to autocorrelation?
 	the error is normaly distributed (gaussian)
 	Why is serial auto-correlation a problem for modeling the BOLD signal HDR-response: #unclear The error we get fron the model, epsilon, isn't random. It's autocorrelated with the time delay, eith the previous time steps signla.
