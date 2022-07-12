@@ -11,6 +11,7 @@
 	- Trouver de nouvelles metrics: 
 		- Est-ce que les ventes augmentent?
 		- Quoi trouver à part les ventes?
+	- Combien de personnes ont b
 [[MVP etiquette confiotes]]
 
 - Comment je peux rendre les employés plus productifs ?
