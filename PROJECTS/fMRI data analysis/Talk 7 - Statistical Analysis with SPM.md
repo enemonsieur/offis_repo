@@ -74,7 +74,7 @@ Why is there noise in the low frequency range of our measured signal? #unclear
 	Because the sampling rate is so low we cant detect high frequencyies. This creates a low frequency. Basically its due to: Aliasing and/or the way we sample data
 How do we get rid of low frequency?
 	By applying a high pass filter.
-**How do we make sure we don't filter our intersting frequencies (design matrix) because of the high pass filter**
+**How do we make sure we don't filter our interesting frequencies (design matrix) because of the high pass filter**
 	By choosing the frequency of repeting our signal (like Light ON) frequently enough not to fall in the noise frequencies. This is I think> 72 seconds
 
 How can we confirm our hypothesis that: Are there differences in neural activity between conditions
@@ -100,22 +100,12 @@ There's another point, a problem created during statistical analysis: Reducing n
 	apply a high pass filter
 
 What kind of questions we can ask to validate our hypothesis?
-	Do one of our conditions increase Neural act incomparison to other
+	Do one of our conditions increase Neural Act incomparison to other
 	-
 
-What's the point of using contrast to meausre hypothesis?
-	We express the hypothesis via an equation, and every condition than we changed, (for example the lights on or off or the song on or OFF), can be assigned a  contrast c:
-	 c1 . β1 + c2 . β2 + . . . + cn . βn
-	There's as much betas as there's distance p on the column
 
-Is B1>0 what does this Ho  represents in englis?
-	Is NA increased during on te the experiment?
-If all the Betas except B1 have a c of zero :  If contrast: (+1) . β1 + 0 . β2 = β1, 
-Ho is B1<= 0: If the weight of the first condition, that we're changing (say light) is inferior or equal to zero, that means NA is not increased. 
-But if It's >0, then there's a signal increased in comparison to the baseline (the baseline is in this case, zero)
 
-*If you wanna compare 2 conditions, you put the 1st and 2nd Betas of the conditions with opposite contrasts: -1 and 1. So that you get a Ho of: H0 : β1 - β2 ≤ 0 
-H1 : β1 - β2 > 0*
+
 
 #reformulate the contrast weights and how to measure conditions: Interaction effect
 FS1 isfemale face FS2 is male face OS1 is object in condition 1 and OS2 is object in condition2
@@ -124,29 +114,19 @@ FS1 isfemale face FS2 is male face OS1 is object in condition 1 and OS2 is objec
 # Really take the time to go through that again. Check the MATLAB Reader #unclear  
 What's the save in the constrast Image
 	LC of the contrasts weights c and the Betas. cT.B
-Why do we need contrasts image
+Why do we need contrasts image #unclear 
 	Group analysis?
 What is  a full model?
 What is a reduce model?
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	![[photo_2022-07-06_15-17-56.jpg]] 
 What model has a higher variance?
 	The reduce model error is alwyas >= bc you need other parameter to reduce the variance
 	e^2r >= e^2
 
-What does the f variance measure
-	the f contrast is 2 sides
-	it calculate the diff between the variance estimates
+What does the f-variance measure
+	the f contrast is 2 sided
+	it calculates the diff between the variance estimates
 	We loose the directions
 	1 0 0 0 
 	0 1 0 0
@@ -157,14 +137,14 @@ What does the f variance measure
 How do you build a reduced model?
 	You assume that c'B=0.
 
-You ran ttest for each voxels and found f values as well. But now, how to you define the t values or f values as large?
+You ran ttest for each voxels and found f values as well. But now, how to you define the t values or f values as large? #unclear (What are we trying to do)
 	Determine a threshold
-	What arethe 2 types of threshold?
-		Extend
+	What are the 2 types of threshold?
+		Extend threshold
 		Height threshold
-		What's the extend? 
-			It means we need a min of adj voxels with large t values
-		what is the height threshold? 
+		What's the extend threshold? 
+			It means we need a min of adjacent voxels with large t-values
+		what is the height threshold? #unclear  
 What are the problem with these multiple comparions?
 	That by change you can have a lot of significan but random error. 
 	
