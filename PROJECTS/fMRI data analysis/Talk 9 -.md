@@ -28,6 +28,7 @@ How does Family wise Error works?
  Means: we llok at the family of test and we wanna keep the alpha* level p-value to 0.05 for the entire family. 
  What do we take into account in FWerror?
 	 We take into account the internal and external smoothing. Because we don't have independent tests. That we take into account for correcting the voxels. The theory that helps explaining that is RFtheory
+What's the corrected p-value?
 
 Random Field Theory p-value correction (is FWError)
 	Estimates the smoothness of your  t-image. Its used to figue out, what "filter" was used to smooth your imaged.
