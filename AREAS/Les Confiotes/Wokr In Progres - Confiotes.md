@@ -3,6 +3,7 @@ AUFGABEN
 - Réorganiser notre google sheet
 - Advance Eunice's OKR
 - Discuter des Clients Business
+- Améliorer l'expérience client
 ### Quelles sont les innovations que je peux apporter:
 - Sac en tissus, imprimer des trucs dessus en Black and White, Faire une ébauche
 - Faire un pack de 3 propositions pour les tontines (classe) soirées foot(Homme), Cadeaux (Impressioner), Santé (Bita Cola, etc..), Cours 
