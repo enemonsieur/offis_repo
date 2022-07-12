@@ -9,6 +9,8 @@
 - Réinitialiser les OKRs
 	- Eunice me fasse un rapport des retours clients. 
 	- Trouver de nouvelles metrics: 
+		- Est-ce que les ventes augmentent?
+		- Quoi trouver à part les ventes?
 [[MVP etiquette confiotes]]
 
 - Comment je peux rendre les employés plus productifs ?
