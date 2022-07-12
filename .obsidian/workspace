@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Visual NP/Argus II.md",
+            "file": "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#retinalcochlea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Visual NP/Argus II.md",
+                "file": "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +112,7 @@
   },
   "active": "74409468ed04813f",
   "lastOpenFiles": [
+    "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
     "PROJECTS/Visual NP/Argus II.md",
     "PROJECTS/Visual NP/Visual Neurop.md",
     "PROJECTS/Visual NP/Type of Retinal P.md",
@@ -121,7 +121,6 @@
     "PROJECTS/fMRI data analysis/Talk 9 -.md",
     "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
     "PROJECTS/fMRI data analysis/Talk 8 - Experimental Design.md",
-    "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
-    "MVP etiquette confiotes.md"
+    "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md"
   ]
 }
