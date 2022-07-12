@@ -1,3 +1,6 @@
+---
+current state: "note-taking Chap7- Russel"
+---
 What are the different levels of significance?
 	Voxel level
 	Cluster ofvoexesl?
