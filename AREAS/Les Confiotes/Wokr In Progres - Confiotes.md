@@ -7,6 +7,8 @@
 
  quel est le minimumm syndical quee peux faire pour pouvoir pousser l'entreprise vers le haut. 
 - Réinitialiser les OKRs
+	- Eunice me fasse un rapport des retours clients. 
+	- Trouver de nouvelles metrics: 
 [[MVP etiquette confiotes]]
 
 - Comment je peux rendre les employés plus productifs ?

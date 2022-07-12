@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/fMRI data analysis/Talk 9 -.md",
+            "file": "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/fMRI data analysis/Talk 9 -.md",
+                "file": "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "74409468ed04813f",
   "lastOpenFiles": [
+    "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
     "PROJECTS/fMRI data analysis/Talk 9 -.md",
     "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
     "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
@@ -120,7 +121,6 @@
     "PROJECTS/Visual NP/Type of Retinal P.md",
     "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
     "PROJECTS/Visual NP/Type of Visual NP.md",
-    "PROJECTS/fMRI data analysis/Talk 8 - Experimental Design.md",
-    "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md"
+    "PROJECTS/fMRI data analysis/Talk 8 - Experimental Design.md"
   ]
 }
