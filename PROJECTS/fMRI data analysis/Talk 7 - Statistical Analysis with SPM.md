@@ -155,13 +155,13 @@ If one voxel shows activation, there's a higher prob that the neighbour also are
 
 res = Y(:,1) - Y_pred;
 ![[Pasted image 20220708064157.png]]  contrast
-the contrast vector is a vector that express that oppposes the wieghts of our differents conditions. This means it express how we can contrast Condition A with condition B, saying that (for ex), Condition A differs from condition B. If this is false, then the contrasted activity (difference in the HDr) will be 0, which will validate the null Ho. 
-This can be rewrite in a linear comb so: cB1 - cB2 = 0
+the contrast vector is a vector that express that oppposes the weights of our differents conditions. This means it express how we can contrast Condition A with condition B, saying that (for ex), Condition A differs from condition B. If this is false, then the contrasted activity (difference in the HDr) will be 0, which will validate the null Ho. 
+This can be rewrite in a linear comb so: cB1 - cB2 = 0 #excellent
 We can use 2 types of statistics to find if  our conditions differs from each other:
 - T-test: If we wanna find if two conditions have a different impact on the HDr or if we wanna see if a condition differs from baseline ex
 	- ![[Pasted image 20220708065432.png]]
 	- 
-- f-test: We use it by creastig a reduce model excluding the parameter of interest. Then, we can add em and see if they improve our model prediction (of the BOLDr) or not. 
+- f-test: We use it by creating a reduce model excluding the parameter of interest. Then, we can add em and see if they improve our model prediction (of the BOLDr) or not. 
 - what the fuck is 2 sided difference? What are we exactly calculating with the f-test? #unclear 
 	- The f statistic doesn't care about the sign: It can't tell you if the difference is positive or negative
 	- f-test compare the full model with the reduced model (without the B we want)
