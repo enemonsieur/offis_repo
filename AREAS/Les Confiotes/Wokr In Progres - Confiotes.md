@@ -1,3 +1,5 @@
+AUFGABEN
+- Redéfinir notre business model.
 ### Quelles sont les innovations que je peux apporter:
 - Sac en tissus, imprimer des trucs dessus en Black and White, Faire une ébauche
 - Faire un pack de 3 propositions pour les tontines (classe) soirées foot(Homme), Cadeaux (Impressioner), Santé (Bita Cola, etc..), Cours 
