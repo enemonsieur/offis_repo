@@ -30,7 +30,7 @@ How does the epsilon error term relate to autocorrelation?
 	the error is normaly distributed (gaussian)
 	Why is serial auto-correlation a problem for modeling the BOLD signal HDR-response: #unclear 
 
-
+![[Pasted image 20220712173748.png]]
 ### Talk 7: Part 2 Statistical Analysis
 
 Why do we add Ones columns to the  X design Matrix? #unclear 
