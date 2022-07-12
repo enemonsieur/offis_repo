@@ -1,5 +1,8 @@
 AUFGABEN
 - Redéfinir notre business model.
+- Réorganiser notre google sheet
+- Advance Eunice's OKR
+- Discuter des Clients Business
 ### Quelles sont les innovations que je peux apporter:
 - Sac en tissus, imprimer des trucs dessus en Black and White, Faire une ébauche
 - Faire un pack de 3 propositions pour les tontines (classe) soirées foot(Homme), Cadeaux (Impressioner), Santé (Bita Cola, etc..), Cours 
@@ -10,7 +13,10 @@ AUFGABEN
  - mieux définir ses objectifs car elles étaient différentes de ce que nous en croyait. 
  - Mieux communiquer avec Ro pour obtenir les informations pour le catalogue
  - Mieux communiquer  avec Ro pour les marges
- 
+ Eunice:
+Hilaire:
+Ene
+- Lean Customer Development
 
  quel est le minimumm syndical quee peux faire pour pouvoir pousser l'entreprise vers le haut. 
 - Réinitialiser les OKRs
