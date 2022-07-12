@@ -53,12 +53,12 @@ How do we convolve a signal time point ? (Think one point with an intensity) int
 **WHat's a block design #unclear**
 	Stimuli are rpesnetend after each other ex: 20 times at a particular condition (A) #unnecessary 
 
-Why is there (mathematically) a large dependency between regressors? #unclear 
+**Why is there (mathematically) a large dependency between regressors? #unclear** 
 	If we change the x2 values, we will change the B2 value (so that the x2 and x1 are uncorrelated aka 90deg), but to predict the y vector we'll have to change the x1 as well. 
 	![[Pasted image 20220701110708.png]]
 questions: Why do we use Identity matrix for the e
 whats kind of values are in the design matrix? For example?
-Why is correlated regressors a problem? #reformulate 
+**Why is correlated regressors a problem? #reformulate** 
 	Because by avoiding large correlation in our design matrix we can avoid having to change all of the Xs and Betas?
 	2. Ancova
 What does covariance means? #unclear  
@@ -66,7 +66,7 @@ What does covariance means? #unclear
  Why do we have to do Convolution with  HRF?
 	 Because even when we apply a short signal, we always get a long response 4-6 s and we have to model every signal as such
 
-How is correlated regressor a problem? #reformulate 
+**How is correlated regressor a problem? #reformulate** 
 	Because by applying a HRF conv. We created a correlation between the different regressors. 
 	This create **multicolinearity**
 
@@ -74,7 +74,7 @@ Why is there noise in the low frequency range of our measured signal? #unclear
 	Because the sampling rate is so low we cant detect high frequencyies. This creates a low frequency. Basically its due to: Aliasing and/or the way we sample data
 How do we get rid of low frequency?
 	By applying a high pass filter.
-How do we make sure we don't filter our intersting frequencies (design matrix) because of the high pass filter
+**How do we make sure we don't filter our intersting frequencies (design matrix) because of the high pass filter**
 	By choosing the frequency of repeting our signal (like Light ON) frequently enough not to fall in the noise frequencies. This is I think> 72 seconds
 
 How can we confirm our hypothesis that: Are there differences in neural activity between conditions
