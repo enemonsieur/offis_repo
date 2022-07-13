@@ -41,7 +41,8 @@ How does Family wise Error works?
 	What's FWE rate?
 		The chances of having 1+ FP anywhere in the image
 	What are 3 relevant types of FWE?
-		RFT, Parametric, Non-Parame
+		RFT, Parametric, Non-Parametric simulations
+		
 		
 
 Why is Bonferroni correction un useful for.. for what again?
@@ -62,7 +63,8 @@ Random Field Theory p-value correction (is FWError)
 	The smaller the smoothness the bigger the p-value will be transform
 	whats RFT takes into account?
 		It takes into account the smoothness of thedata
-  
+What is Random Field Theory
+	It's a math formula to estimate corrected p-values for each clusters
 False discovery rate
 	Has to do with this false positive and negative
 	R is the total of FP and TP
