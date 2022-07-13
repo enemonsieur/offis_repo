@@ -64,7 +64,8 @@ Random Field Theory p-value correction (is FWError)
 	whats RFT takes into account?
 		It takes into account the smoothness of thedata
 What is Random Field Theory
-	It's a math formula to estimate corrected p-values for each clusters
+	It's a math formula to estimate corrected p-values for each clusters. It  kinda does it by estimating the Smoothness of the data (intrinsic and after smoothing), and the more it finds smoothness, the lower the p-value will be => and the higher the Uc will be.
+	Which means, too much smoothness in the data makes it hard to find FP and we have to be more conservati
 False discovery rate
 	Has to do with this false positive and negative
 	R is the total of FP and TP
