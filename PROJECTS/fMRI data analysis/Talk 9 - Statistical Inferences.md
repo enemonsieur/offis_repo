@@ -72,7 +72,8 @@ What are some issues with Random Field Theory?
 What are parametric designs?
 	Methods like the Monte Carlo, similar to RFT but they don't rely on approximate results. They are comp. intensive
 What are non-parametric approches in FWER?
-	They use the data itselfs to find 
+	They use the data itselfs to recreate empirical new distribution of the test statistic
+	
 False discovery rate
 	Has to do with this false positive and negative
 	R is the total of FP and TP
