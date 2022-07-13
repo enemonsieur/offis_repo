@@ -18,6 +18,9 @@ What are the different levels of significance?
 3. Set level Inference
 	You wont kno which clusters are significants. They don't have a spatial definition. 
 
+What's a type I error?
+	a false positive error?
+		We rejected the null hypothesis, even though 
 Problem with the standart Ho significant vale is that it's easier to have false positive. 
 What should we use to id voxels/cluster that are so active, that that can't be done by random?
 	Using Family Wise Error and
