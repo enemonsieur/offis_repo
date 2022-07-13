@@ -89,12 +89,13 @@ What's Y in the 2nd level?
 			Then for each subjec we have their Sm, which represent the  Y of the 2nd level analysis.. so that we have Subject m = c1 * B1,m + cnBn,m
 
 	In Y 2nd level, we redo a ttest=  cB/std(cB). caö dB d- And we wanna know where's the mean difference larger than zero
+	The 
 
 
 
 Then we wanna minimise the betas that we found from each subjects so that we have a mean of
 What are the dimensions of Y
-	they depends on the subjects. And the d2 is 1 because we find the weighted sum of all the Beta so we have 1,n(subjects). This isjust for one voexels right??
+	they have numbers, representing different participants. And the d2 is 1 because we find the weighted sum of all the Beta so we have 1,n(subjects). This isjust for one voexels right??
 
 What's the lenght of the C vector ?
 	Just one because we estimatejust one betas in the 2nd level
