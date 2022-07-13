@@ -10,6 +10,10 @@ What are the different levels of significance?
 		This doesn't get information (spatial) about the signal. 
 		Because we smooth that shit out,the activation of the signal will spread to surrounding signals
 	2. Cluster level inference
+		1. what are clusters?
+			A group of contiguous voxels, with the t above a stat.level Uc
+	how do you know a cluster is stat. significant?
+		compare its size to the cluster size threshold k
 		Ho do we do decide what cluster and what level of activation are relevant?
 		You find the t-values of every voxels.  Do a plot by time and define a thresold Uc =krelevant for the cluster. 
 		Set the cluster threshold: Not too low nor too high
