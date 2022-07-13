@@ -16,12 +16,12 @@
         }
       },
       {
-        "id": "f392afbc8ce59f91",
+        "id": "2ccae8c41377bf46",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/OFFIS/Buildding a second brain.md",
+            "file": "PROJECTS/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
+                "file": "PROJECTS/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74409468ed04813f",
+  "active": "2ccae8c41377bf46",
   "lastOpenFiles": [
-    "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
     "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
+    "PROJECTS/OFFIS/Buildding a second brain.md",
+    "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
     "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
     "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
     "PROJECTS/Visual NP/Argus II.md",
     "PROJECTS/Visual NP/Visual Neurop.md",
     "PROJECTS/Visual NP/Type of Retinal P.md",
     "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
-    "PROJECTS/Visual NP/Type of Visual NP.md",
-    "PROJECTS/fMRI data analysis/Talk 8 - Experimental Design.md"
+    "PROJECTS/Visual NP/Type of Visual NP.md"
   ]
 }

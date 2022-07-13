@@ -69,6 +69,7 @@ We use a gaussian fxn to blur out and smooth outh the BOLD signal so tha tthe st
 We use 8mm in the gaussian smoothing fxn
 What's the effect of smoothing on resolution?
 	Decreases it?
-
+Why do smoothing increase SNR?
+	In the BOLDs, Y, noise often appears as an increase in in amplitude that doesn't last long (time) and doesn't spread to many voxels (spatial). whereas true relevant signal appears as long time, and long spatial. In the end, smoothing will remove those high frequency (in time and space) signals, reduce our true data, but since our data will keep beeing there in mutliple voxels, it will stay but won't be corrupted by the noise. In the end, you obtain a better SNR
 [[fMRI data analysis]]
 
