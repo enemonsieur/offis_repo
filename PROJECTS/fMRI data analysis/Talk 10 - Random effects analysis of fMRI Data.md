@@ -1,3 +1,6 @@
+---
+alias: Factorial design
+---
 ## Random vs Fixed effects analysis
 Its helpful if you have bad models on the first level. ex: The onsets of the lights are wrong (measure time points when there's no light)
 
