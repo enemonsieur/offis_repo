@@ -73,7 +73,9 @@ What are parametric designs?
 	Methods like the Monte Carlo, similar to RFT but they don't rely on approximate results. They are comp. intensive
 What are non-parametric approches in FWER?
 	They use the data itselfs to recreate empirical new distribution of the test statistic
-	
+How do Non-Parametric works?
+	It works will the assuption that the Ho is correct, for example, that t-groups of High Low performers don't differ. So that their BOLDr are the same. If it's true, shufflling 1 or 2 in the other group, won't change the BOLDr of the 2 groups. Now we reshuffle that shit till every new test statistic curve possible is created.
+	Now the question is, how many of those say... 300  new 
 False discovery rate
 	Has to do with this false positive and negative
 	R is the total of FP and TP
