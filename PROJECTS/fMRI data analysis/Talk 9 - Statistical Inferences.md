@@ -38,6 +38,13 @@ What should we use to id voxels/cluster that are so active, that that can't be d
 	Using Family Wise Error and
 
 How does Family wise Error works?
+	What's FWE rate?
+		The chances of having 1+ FP anywhere in the image
+	What are 3 relevant types of FWE?
+		RFT, Parametric, Non-Parame
+		
+
+Why is Bonferroni correction un useful for.. for what again?
 	 Bonferroni Correction: Divide the p>0.5 by the number of tests. So its like 0.5/1000 voxels 
 	 The problem is that it'll create a lot of FN (because it cuts too low, it demands a very high ttest to say: Yees, this isnt done by random noise)
 	 The data by itselfs have intrinsic smoothness + smoothings for gaussian and Bonferroni don't account for this correlation between voxels 
