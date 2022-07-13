@@ -88,6 +88,8 @@ What's Y in the 2nd level?
 			B1,1 is the index for Betas
 			Then for each subjec we have their Sm, which represent the  Y of the 2nd level analysis.. so that we have Subject m = c1 * B1,m + cnBn,m
 
+	In Y 2nd level, we redo a ttest=  cB/std(cB). caö dB d- And we wanna know where's the mean difference larger than zero
+
 
 
 Then we wanna minimise the betas that we found from each subjects so that we have a mean of
@@ -104,7 +106,7 @@ How do we get the mean of the betas?
 
 What are the X of the second level?
 	X is just A column of one, bc we get the mean of the Betas (on the 2nd level)>0.
-	This means the Betas are the means of ?
+	This means the Betas are the means over c'B of the first level ex: The =/= unknown and known level?
 	But if you wanna compare 2 samples, then you need to compare 2 different means,  and you X them by a X = 10 subjects  * colum 2 means and  the Betas= 2betas * 10 subjects
 Why do we have zeros and 1 here? 
 	![[Pasted image 20220711132138.png]]
