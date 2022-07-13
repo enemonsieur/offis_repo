@@ -1,5 +1,5 @@
 ---
-current state: "note-taking Chap7- Russel"
+current state: "note-taking Chap7- Russel","2nd-Level Y=XB"
 ---
 What are the different levels of significance?
 	Voxel level
