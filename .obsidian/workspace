@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
+            "file": "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
+                "file": "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +112,8 @@
   },
   "active": "74409468ed04813f",
   "lastOpenFiles": [
-    "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
     "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
+    "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
     "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
     "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
     "PROJECTS/Visual NP/Argus II.md",
