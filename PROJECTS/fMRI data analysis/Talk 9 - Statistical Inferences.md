@@ -27,6 +27,8 @@ What's a type I error?
 	alpha
 What's a type II error?
 	When we failed to reject the Ho, EVEN THOUGH there was a difference! (Bc well, the difference wasn'T big enough), which doesn't mean there's no difference between the data. Just that we can't prove, the two samples, taken from the same data, are significantly different => they may come from the same dataset => There's no activation of the voxel/cluster
+	what's the notation for type II error?
+		1-alpha = power procedure
 Problem with the standart Ho significant vale is that it's easier to have false positive. 
 What should we use to id voxels/cluster that are so active, that that can't be done by random?
 	Using Family Wise Error and
