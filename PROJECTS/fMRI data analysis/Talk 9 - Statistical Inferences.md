@@ -82,7 +82,7 @@ What's the second level analysis?
 
 How do they differ?
 What's Y in the 2nd level?
-	The become the Beighteds, that we found by analysing every subjects in the first level
+	The become the B-weighteds, that we found by analysing every subjects in the first level
 		it represent the  contrast image of different subjects.
 		They are the weighted sum of the Betas from the 1st level, which gives the difference btwen light ON OFF for ONE subject: s1= c1* B1,1+ cn* Bn,1. Is this difference larger than zero? That is the question
 			B1,1 is the index for Betas
@@ -103,7 +103,9 @@ How do we get the mean of the betas?
 	We get the mean by minimizing the error (the residuals). Because it will give the smallest difference from the mean x-xhat, which is as close at the mean as it can get-
 
 What are the X of the second level?
-	A column of one. This is to get the mean of the Betas (on the 2nd level)>0. But if you wanna compare 2 samples, then you need to compare 2 different means,  and you X them by a X = 10 subjects  * colum 2 means and  the Betas= 2betas * 10 subjects
+	X is just A column of one, bc we get the mean of the Betas (on the 2nd level)>0.
+	This means the Betas are the means of ?
+	But if you wanna compare 2 samples, then you need to compare 2 different means,  and you X them by a X = 10 subjects  * colum 2 means and  the Betas= 2betas * 10 subjects
 Why do we have zeros and 1 here? 
 	![[Pasted image 20220711132138.png]]
 ?? It depends, it could be any constrast rate like [1 -1] this will give us a ttest of c'B/ std(c'B) = B1 - B2 /std(B1-B2). Because  well, this is the contrast right?
