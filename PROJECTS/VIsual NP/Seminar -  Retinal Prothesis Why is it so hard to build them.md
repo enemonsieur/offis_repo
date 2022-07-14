@@ -53,7 +53,8 @@ That's where RP comes into play, because they will stimulate directly the RP. No
 - different from Cochlear Implant. 
 Retinal prosthesis will try to stimulate the remaining retinal ganglion, just like CI, and restore, "some kind" of vision to the subjects (INSERT STORY OF PHOSPHENES) and those phosphenes can significantly restore the vision of patient. 
 
-Ok. Let's wrap it up. Most of the diseases a
+Ok. Let's wrap it up. Most of the diseases out there involve more or less the retina, so it'd make sense to stimulate it. Right? Wrong. 
+Because every part that's beyond the Retina, is also stimulatable. Actually, since a part of the RGCs get destroyed due to the diseases, it'd make sense to stimulate EVERYTING beyond
 
 ## But how did we figured out, stimulating the RGCs will result into vision (Later)
 
