@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gitre",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a2a8440b6730f3d8",
+  "active": "4a964cfb5b2f8a24",
   "lastOpenFiles": [
     "PROJECTS/Visual NP/Argus II.md",
     "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",

@@ -30,7 +30,10 @@ Before understanding how Retinal prothesis can recreate vision, let's look at ho
 Vision starts by the cornea, goes through the lense and then hit the retina layer, where there's the photo receptors, Cones and rods. Then, those transduce the photons/lights into signal, that move to the bipolar cell, in the next layer, who then moves it to the RGCs, our target region. 
 - Questions: What happen to the membrane of the PhotoR? Gets hyperpolarized, which removes Glutamate, making the pigment (iodopsin or rhodopsin,) change conformation, which reduces the cGMP concentration, a well knowed 2nd messenge,  --> no entering of Na then hyperpolarization, that stop the release of Glu NT, and this will actually  excited the bipolar cells
 - Why do we stim the RCCs and not the Photoreceptor? ()
-The RGCs then move the signal to the Optic nerve, 
+The RGCs then move the signal to the Optic nerve, Moves to the Optic tract, reaches the Lateral Geniticulated Nucleus, That projects to the Occipital cortex, 1°Visual Cortex. 
+
+So. Now, let's see, where we can fuck this up? Any ideas?
+- 
 
 AUFGABEN
 
