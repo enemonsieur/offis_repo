@@ -70,7 +70,14 @@ How can we go further. As a species. What are other crazier way to do that?
 - Optogenetics: Add viral vectors, encode Opsins in tissues like Retina. Apply light with an LED matrice and stimulate the retina
 Problem: Ethics
 - Magentic Stimulation: Using it to stimulate neurons at a specific region. Non invasive, some [studies](([Bonmassar et al., 2012](https://www.frontiersin.org/articles/10.3389/fnins.2020.00036/full#B14)) Show its possible in vitro 
-Problem: Advance in material science -> Biocompatible polymers (induction), Coils usualy not power efficient, 
+Problem: Advance in material science -> Biocompatible polymers (induction), Coils usualy not power efficient, lack of heat dissipation
+NEXT: SPiderman
+- Nanoparticule based Stimulation: Currently used to deliver drugs, Combination with Magnetic gradient  -> Guiding the NanooP to act on membrane channel ex: V1 neurons. 
+Problem:  How to deliver in the CNS (blod brain), LT effects, 
+- Sensory Substitution: Synesthesia
+Take grid of phosphenses, put in on tactil or auditory;
+Tactile -> Limiting reading capabilities
+Help with strokes, destroy of brain cells.
 
 ## But how did we figured out, stimulating the RGCs will result into vision (Later)
 
