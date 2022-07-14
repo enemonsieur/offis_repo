@@ -54,7 +54,12 @@ That's where RP comes into play, because they will stimulate directly the RP. No
 Retinal prosthesis will try to stimulate the remaining retinal ganglion, just like CI, and restore, "some kind" of vision to the subjects (INSERT STORY OF PHOSPHENES) and those phosphenes can significantly restore the vision of patient. 
 
 Ok. Let's wrap it up. Most of the diseases out there involve more or less the retina, so it'd make sense to stimulate it. Right? Wrong. 
-Because every part that's beyond the Retina, is also stimulatable. Actually, since a part of the RGCs get destroyed due to the diseases, it'd make sense to stimulate EVERYTING beyond
+Because every part that's beyond the Retina, is also stimulatable. Actually, since a part of the RGCs get destroyed due to the diseases, it'd make sense to stimulate EVERYTING beyond the retina. So why is most of the research focusing on the retina? Good question. Let's talk about it: 
+
+Let's go from the retina, step by step, to test every possibilty. After the retina we have the optic nerve. 
+OPTIC NERVE: Study show that by variating the pulse duration, frequency applied to the ON, we can elicit phosphenes at different localtions. Since we directly stimulate the nerve, we don't need that much current so double win! 
+But wait. There's some obvious drawback: Very small nerve[  1-μm diameter optic nerve fibers](([Jonas et al., 1992](https://www.frontiersin.org/articles/10.3389/fnins.2020.00036/full#B74))
+Then let's go to the next
 
 ## But how did we figured out, stimulating the RGCs will result into vision (Later)
 
