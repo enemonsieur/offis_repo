@@ -43,4 +43,4 @@ Show people what blind can resee. Redo it or find it in litt
 - Define phosphenes
 - Add L'agent P everytime you try different visual pathway prostheses.
 - Lets go crazier and crazier. Optogenetics, TMS, then nano- What IYO would generate the most results? - List the technx challenges associated
-- 
+- When the RP stimulates the RGCs, there'S already processed information by the rods, cones, bipolar amacrine cells, and ON OFF cells
