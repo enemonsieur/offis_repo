@@ -47,9 +47,13 @@ Retinitis Pigmentosa: Rare genetic diseases
 So, these two last are particularly interesting because they directly screw the retinal cells, and stimulation from other regions can't help. 
 (How is it simlar to chochlea? Loosing hearing will also deteriorate your inner cells, that transduct and convey sounds )
 
+### Why did we choose Retinal Mostly?
 That's where RP comes into play, because they will stimulate directly the RP. Not the part where there's signal transduction (the photoreceptors), but really just before the optic nerve
 - advantage obvious: 125 M PRCs for 1.5 RGCs.
 - different from Cochlear Implant. 
+Retinal prosthesis will try to stimulate the remaining retinal ganglion, just like CI, and restore, "some kind" of vision to the subjects (INSERT STORY OF PHOSPHENES) and those phosphenes can significantly restore the vision of patient. 
+
+Ok. Let's wrap it up. Most of the diseases a
 
 ## But how did we figured out, stimulating the RGCs will result into vision (Later)
 
