@@ -67,7 +67,9 @@ Bad:  Almost everything else: Need too much electrode, transmitting the signal, 
 
 How can we go further. As a species. What are other crazier way to do that?
 
-- Optogenetics: Add viral vectors, encode Opsins in tissues like Retina. Apply light with an L
+- Optogenetics: Add viral vectors, encode Opsins in tissues like Retina. Apply light with an LED matrice and stimulate the retina
+Problem: Ethics
+- Magentic Stimulation: Using it to stimulate neurons at a specific region. Non invasive, some [studies](([Bonmassar et al., 2012](https://www.frontiersin.org/articles/10.3389/fnins.2020.00036/full#B14)) Show its possible in vivo
 
 ## But how did we figured out, stimulating the RGCs will result into vision (Later)
 
