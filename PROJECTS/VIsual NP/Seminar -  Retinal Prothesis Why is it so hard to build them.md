@@ -28,7 +28,9 @@ As a scientist, the seeker of truth, its my duty to choose... both.
 # How do vision work
 Before understanding how Retinal prothesis can recreate vision, let's look at how vision works. What are the important parts of it, and how can we screw them to justify the 200K euros of our RP. 
 Vision starts by the cornea, goes through the lense and then hit the retina layer, where there's the photo receptors, Cones and rods. Then, those transduce the photons/lights into signal, that move to the bipolar cell, in the next layer, who then moves it to the RGCs, our target region. 
-THe 
+- Questions: What happen to the membrane of the PhotoR? Gets hyperpolarized, which removes GMP
+- Why do we stim the RCCs and not the Photoreceptor? ()
+The RGCs then move the signal to the Optic nerve, 
 
 AUFGABEN
 
