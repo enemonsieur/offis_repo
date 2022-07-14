@@ -33,7 +33,7 @@ Vision starts by the cornea, goes through the lense and then hit the retina laye
 The RGCs then move the signal to the Optic nerve, Moves to the Optic tract, reaches the Lateral Geniticulated Nucleus, That projects to the Occipital cortex, 1°Visual Cortex. 
 
 So. Now, let's see, where we can fuck this up?[ Any ideas?](https://www.brightfocus.org/macular/article/eye-diseases-can-cause-legal-blindness)
-- Cataract eyes.
+- Cataract lenses.
 - Strokes
 - Glaucoma -retinal die.
 - age-related macular degeneration
@@ -44,7 +44,10 @@ Match them to the parts of the brain.
 AMD: Destroy of the macula the specialized central part of the retina
 Retinitis Pigmentosa: Rare genetic diseases
 
-AUFGABEN
+So, these two last are particularly interesting because they directly screw the retinal cells, and stimulation from other regions can't help. 
+(How is it simlar to chochlea? Loosing hearing will also deteriorate your inner cells, that transduct and convey sounds )
+
+That's where RP comes into play, because they will stimulate directly the RP. Not the part where there's signal transduction (the photoreceptors), but really just before 
 
 Compare the anatomy of cochlea vs retina.
 https://www.youtube.com/watch?v=4jJS4MnkcWw (On off cells)
