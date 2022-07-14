@@ -28,7 +28,8 @@
         124,
         148,
         193,
-        212
+        212,
+        255
       ],
       "key": "B3ZHZ5UA",
       "name": "Visual NP",
@@ -1601,6 +1602,62 @@
       "uri": "http://zotero.org/users/9698946/items/KARTIV7U",
       "url": "https://books.google.com/books?hl=fr&lr=&id=HTM5DQAAQBAJ&oi=fnd&pg=PP1&dq=%5B%5BCooper,+Dewe,+O%27Driscoll+(2001)&ots=pVlUDnNCGs&sig=s1NPjtaSutFJjTBI3QqmUDzvXzU",
       "version": 21
+    },
+    {
+      "ISBN": "978-1-83880-153-3 978-1-83880-381-0",
+      "accessDate": "2022-07-14T05:28:21Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-14T05:28:29Z",
+          "dateModified": "2022-07-14T05:28:29Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\83R6DTG4\\Bloch_da Cruz_2020_The Argus II Retinal Prosthesis System.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Bloch_da Cruz_2020_The Argus II Retinal Prosthesis System.pdf",
+          "uri": "http://zotero.org/users/9698946/items/83R6DTG4"
+        }
+      ],
+      "citationKey": "blochArgusIIRetinal2020",
+      "citekey": "blochArgusIIRetinal2020",
+      "creators": [
+        {
+          "creatorType": "editor",
+          "firstName": "Ramana",
+          "lastName": "Vinjamuri"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Edward",
+          "lastName": "Bloch"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lyndon",
+          "lastName": "da Cruz"
+        }
+      ],
+      "date": "2020-2-5",
+      "dateAdded": "2022-07-14T05:28:21Z",
+      "dateModified": "2022-07-14T05:28:21Z",
+      "extra": "DOI: 10.5772/intechopen.84947",
+      "itemID": 255,
+      "itemKey": "KB9CUT6P",
+      "itemType": "bookSection",
+      "key": "KB9CUT6P",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "publicationTitle": "Prosthesis",
+      "publisher": "IntechOpen",
+      "relations": [],
+      "select": "zotero://select/library/items/KB9CUT6P",
+      "tags": [],
+      "title": "The Argus II Retinal Prosthesis System",
+      "uri": "http://zotero.org/users/9698946/items/KB9CUT6P",
+      "url": "https://www.intechopen.com/books/prosthesis/the-argus-ii-retinal-prosthesis-system",
+      "version": 644
     },
     {
       "DOI": "10.3389/fpsyg.2021.655148",
