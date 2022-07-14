@@ -29,7 +29,8 @@
         148,
         193,
         212,
-        255
+        255,
+        273
       ],
       "key": "B3ZHZ5UA",
       "name": "Visual NP",
@@ -423,6 +424,60 @@
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0191886920302725",
       "version": 286,
       "volume": "169"
+    },
+    {
+      "DOI": "10.1586/17434440.2014.862494",
+      "ISSN": "1743-4440, 1745-2422",
+      "accessDate": "2022-07-14T06:06:51Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-14T06:06:47Z",
+          "dateModified": "2022-07-14T06:06:52Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\CA9UE5IU\\Stronks and Dagnelie - 2014 - The functional performance of the Argus II retinal.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Stronks and Dagnelie - 2014 - The functional performance of the Argus II retinal.pdf",
+          "uri": "http://zotero.org/users/9698946/items/CA9UE5IU"
+        }
+      ],
+      "citationKey": "stronksFunctionalPerformanceArgus2014",
+      "citekey": "stronksFunctionalPerformanceArgus2014",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "H Christiaan",
+          "lastName": "Stronks"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gislin",
+          "lastName": "Dagnelie"
+        }
+      ],
+      "date": "01/2014",
+      "dateAdded": "2022-07-14T06:06:51Z",
+      "dateModified": "2022-07-14T06:06:51Z",
+      "issue": "1",
+      "itemID": 273,
+      "itemKey": "A7FRP7PE",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Expert Review of Medical Devices",
+      "key": "A7FRP7PE",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "23-30",
+      "publicationTitle": "Expert Review of Medical Devices",
+      "relations": [],
+      "select": "zotero://select/library/items/A7FRP7PE",
+      "tags": [],
+      "title": "The functional performance of the Argus II retinal prosthesis",
+      "uri": "http://zotero.org/users/9698946/items/A7FRP7PE",
+      "url": "http://www.tandfonline.com/doi/full/10.1586/17434440.2014.862494",
+      "version": 674,
+      "volume": "11"
     },
     {
       "DOI": "10.1027/1015-5759/a000200",
