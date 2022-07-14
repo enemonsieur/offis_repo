@@ -32,8 +32,17 @@ Vision starts by the cornea, goes through the lense and then hit the retina laye
 - Why do we stim the RCCs and not the Photoreceptor? ()
 The RGCs then move the signal to the Optic nerve, Moves to the Optic tract, reaches the Lateral Geniticulated Nucleus, That projects to the Occipital cortex, 1°Visual Cortex. 
 
-So. Now, let's see, where we can fuck this up? Any ideas?
-- 
+So. Now, let's see, where we can fuck this up?[ Any ideas?](https://www.brightfocus.org/macular/article/eye-diseases-can-cause-legal-blindness)
+- Cataract eyes.
+- Strokes
+- Glaucoma -retinal die.
+- age-related macular degeneration
+-   retinitis pigmentosa
+-   diabetic retinopathy
+Match them to the parts of the brain.
+
+AMD: Destroy of the macula the specialized central part of the retina
+Retinitis Pigmentosa: Rare genetic diseases
 
 AUFGABEN
 
