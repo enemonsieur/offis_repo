@@ -59,7 +59,15 @@ Because every part that's beyond the Retina, is also stimulatable. Actually, sin
 Let's go from the retina, step by step, to test every possibilty. After the retina we have the optic nerve. 
 OPTIC NERVE: Study show that by variating the pulse duration, frequency applied to the ON, we can elicit phosphenes at different localtions. Since we directly stimulate the nerve, we don't need that much current so double win! 
 But wait. There's some obvious drawback: Very small nerve[  1-μm diameter optic nerve fibers](([Jonas et al., 1992](https://www.frontiersin.org/articles/10.3389/fnins.2020.00036/full#B74))
-Then let's go to the next
+Then let's go to the next stop: 
+The Lateral Geniculate Nucleaus (LGN): It's situated after the optic chiasm, and  would be coon for patient that have an issue with their nerve. But the drawback is -> Surgical intense
+CORTEX: 
+Good: When injuries in LGN OPTic nerve, Retina. Because the Cortical Map of the Cortex is well known, it'd be easier to stimulate the right regions to have the same image, 
+Bad:  Almost everything else: Need too much electrode, transmitting the signal, also there are convolutions in the brain, hard to touch by the electrode. This is Elon Musk- Neural Link 
+
+How can we go further. As a species. What are other crazier way to do that?
+
+- Optogenetics: Add viral vectors, encode Opsins in tissues like Retina. Apply light with an L
 
 ## But how did we figured out, stimulating the RGCs will result into vision (Later)
 
