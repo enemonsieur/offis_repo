@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
+            "file": "PROJECTS/Visual NP/Type of Retinal P.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Parametric",
+                "query": "reorganization",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
+                "file": "PROJECTS/Visual NP/Type of Retinal P.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +101,7 @@
   },
   "active": "a2a8440b6730f3d8",
   "lastOpenFiles": [
+    "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "PROJECTS/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md",
     "PROJECTS/Visual NP/Argus II.md",
     "PROJECTS/Visual NP/Type of Retinal P.md",
@@ -108,7 +110,6 @@
     "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
     "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
     "PROJECTS/fMRI data analysis/Talk 8 - Experimental Design.md",
-    "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
-    "PROJECTS/OFFIS/Buildding a second brain.md"
+    "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md"
   ]
 }
