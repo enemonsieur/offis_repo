@@ -7,6 +7,8 @@ alias: [stress questionnaire]
 Task related stressors liste.
 Tagenbuch
 Was macht deine Arbeite besonders stressig
+
+PROJECT: Stress erleben zu manage
 # NASA TLX 
 
 "The NASATask Load Index (**NASA-TLX**) is a widely used , subjective, multidimensional assessment tool that rates perceived workload in order to assess a task, system, or team's effectiveness or other aspects of performance."
