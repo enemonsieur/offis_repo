@@ -153,3 +153,7 @@ These 20 separate mosaics are interwoven over the entire retina, oftentimes with
 Due to various constraints on the electrode size as discussed in Section [2.4.1.1](https://www.sciencedirect.com/science/article/pii/S1350946216300271?casa_token=Vi1M1Ddhi_YAAAAA:xLwovbsaX_tVLT-dxvRSbA4hiZ-tmzFPIpmuQtBmWJoa1PujnFccMy0sLfFjNrYXTVCCUO7sWg#sec2.4.1.1), current devices only allow simultaneous activation of multiple cell populations. 
 EXEMPLE:
 Earlier electrophysiological studies have predicted primate ganglion cell responses by a linear-nonlinear (LN) cascade model with a difference-of-Gaussians or wavelet-shaped characteristic spatial profile
+
+### retinal degeneration
+Functional magnetic resonance imaging (fMRI) of the patients with [macular degeneration](https://www.sciencedirect.com/topics/medicine-and-dentistry/macular-degeneration "Learn more about macular degeneration from ScienceDirect's AI-generated Topic Pages") indicates that part of the cortex that normally responds to foveal visual inputs are strongly activated by the peripheral stimuli, confirming some level of neuroplasiticity in visually deprived cortex
+But other studies with PET scans suggest otherwise
