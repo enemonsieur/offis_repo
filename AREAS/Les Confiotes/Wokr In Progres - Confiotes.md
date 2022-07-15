@@ -29,6 +29,7 @@ Ene
 
 - Comment je peux rendre les employés plus productifs ?
 	- Hilaire: Il donne rarement des rapports et je ne sais pas comment il avance
+		- Plus d'infos sur les sponsos Facebook
 		- Il n'a pas donné de rapport après avoir discuté avec Ro
 		- Il manque des réunions
 		- Il n'a pas avancé sur les tâches les plus importnates

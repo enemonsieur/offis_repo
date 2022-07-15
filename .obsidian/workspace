@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/Les Confiotes/Innovations Confiotes.md",
+            "file": "ARCHIVES/Women in Science Business.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/Les Confiotes/Innovations Confiotes.md",
+                "file": "ARCHIVES/Women in Science Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "e779286100b5eaf0",
   "lastOpenFiles": [
-    "AREAS/Les Confiotes/MVP etiquette confiotes.md",
+    "Untitled.md",
     "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
-    "AREAS/grey matters/Threads Twitter.md",
     "AREAS/Les Confiotes/Innovations Confiotes.md",
+    "AREAS/Les Confiotes/MVP etiquette confiotes.md",
+    "AREAS/grey matters/Threads Twitter.md",
     "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
     "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
     "PROJECTS/fMRI data analysis/Talk 12 - ANOVA models.md",
     "PROJECTS/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md",
-    "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
-    "PROJECTS/Visual NP/Type of Retinal P.md"
+    "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md"
   ]
 }
