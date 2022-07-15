@@ -77,11 +77,14 @@ What are non-parametric approches in FWER?
 How do Non-Parametric works? #unclear
 	It works will the assuption that the Ho is correct, for example, that t-groups of High Low performers don't differ. So that their BOLDr are the same. If it's true, shufflling 1 or 2 in the other group, won't change the BOLDr of the 2 groups. Now we reshuffle that shit till every new test statistic curve possible is created.
 	Now the question is, how many of those say... 300  new 
+
 False discovery rate
+Why do we take FDR rather than FWE?
+	Bc the FWE will often leave no data with significant results. It can be too conservative. 
 	Has to do with this false positive and negative
 	R is the total of FP and TP
 	We say, 5% of the voxels we measue are wrongly declared as FP
-What's FDR?
+What's FDR? #unclear NOT UNDERSTOOD EVEN WITH THE  BOOK
 	is the proportion of Type I errors among the rejected hypotheses FDR=P*(V/R)
 What does FDR depends on?
 	Cutt off P-values
@@ -89,7 +92,7 @@ What do we wanna control in FDR?
 	the number of FP within the total positive values. Because we know in that there's are some FP, so we wanna make sure its not too big.
 Why is FWError more conservative?
 
-What's FWE correciton
+What's FWE correction
 	Prob of finding one or more false discoveries (Type I error), as we perform multiple voxels stat analysis.
 
 What are we looking for at a cluster level?
