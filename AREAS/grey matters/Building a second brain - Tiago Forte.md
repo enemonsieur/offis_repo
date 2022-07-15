@@ -62,9 +62,32 @@ The IP are content that can be digest by a certain public, give you feedback, bu
 ## Resurface Past work
 ## How to expert your work
 Use the sharing of article to friends/people asking/twitter/sharing, to resume the work into distilled notes before saving, then add them in the appropriate PARA. Friends will hlep you increase your knowledge, and you'll help them actually read and learn that shit.
+ ### 
+ 
+ 
+ 
+ ## How do you work on stuffs?
+ 
 
 
- ### How do you work on stuffs?
  - Have a big scramble of a lot of ideas
  - When you finish writing, always jote down the next steps to work on. Be very precise on them
  - Always go for the MVP: Twitter, Tiktok. Test smalls IPs. (Intermediate Packages)
+
+## HABITS to keep on
+What most people are missing, however, is a feedback loop—a way to “recycle” the knowledge that was created as part of past e4orts so it can be used in future ones as well. This is how investors think about money: they don’t get the prots from one investment and immediately spend it all.
+They reinvest it back into other investments, creating a flywheel so their money builds on itself over time.
+
+This is exactly how I want you to treat your attention—as an asset that gets invested and produces a return, which in turn can be reinvested back
+
+Checklist #1: Project Kickoff
+
+Before they taxi onto the runway and take o4, airline pilots run through a “pre9ight checklist” that tells them everything they need to check or do.
+
+It ensures they complete all the necessary steps without having to rely on their unreliable brains.
+
+
+## I always fail to do WEEKLY REVIEW/PLANS
+What are some tips that could help me?
+- Clear my notes on Ene WA, on Notes Mi
+- Add every RDV
