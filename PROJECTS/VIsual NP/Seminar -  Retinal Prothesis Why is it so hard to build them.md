@@ -102,7 +102,7 @@ Because by stimulating just some parts of the RP, we can obtain a roughly good e
 So then, how do we stimulate those RCGs? First of all, we have some limitation. The The electrode grid we have are very big, () and therefore, can stimulate them enough. If we try to reduce the electrodes, then it will increase the charge density, making the current higher. 
 
 After a lot of research, scientist find that with a low number of electrodes relatively spaced out, it's positive to have enough accuity to regain vison. 
-For  example the Argus II uses a 6* 10  electrodes grid, and is capable of * generating phosphenes to distinguish vision. The elveetrodes are spaced 575um appart
+For  example the Argus II uses a 6* 10  electrodes grid, and is capable of * generating phosphenes to distinguish vision. The elveetrodes are spaced 525um appart, and the e-size are 200um, which is 10 times greater than the electrode size that will be require. In consequnce, its Visual acuity is 20/1600, wwwwaaaaay bellow the threshold of 20/200
 
 Ok we have the electrodes grids. Now howdo we sstimulate them? #cochlea we find the theshold to wich the patiet starts seeing something. We use a biphasic pulse width of 0.45ms per phase . The pulse frequency is 20Hz and is applied for 250ms
 - Intensity
