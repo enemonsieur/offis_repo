@@ -79,6 +79,8 @@ Take grid of phosphenses, put in on tactil or auditory;
 Tactile -> Limiting reading capabilities
 Help with strokes, destroy of brain cells.
 
+Great ! Awesome. So as we can see, even if there are more reliable places to stimulate the brain, the technology is simply not following yet. This is why currently the RP are the most used prothesis. 
+Now imagine you're bli
 ## But how did we figured out, stimulating the RGCs will result into vision (Later)
 
 
