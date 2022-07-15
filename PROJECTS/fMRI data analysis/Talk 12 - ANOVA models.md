@@ -33,4 +33,15 @@ Some parameters are uniquely definie. Can we combine X design matrix by a matrix
 The contrast vector ca be estimal,e, have 1 solution or define solutions, if it can be repreent as a linear combi of the rows of X. p15
 In this big matrix there are many Beta estiamteives that measure different interactions. But if qwe wanna find th ediffernece betqeen A1 and A2 in general,, we have to combine the different rowns of the design matrix to correct the main efect of A (look again)
 
-If it's not estimable, there'd be a 
+If it's not estimable, there'd be a grey box. at the level of the column 
+
+The Dmatrix are often overparameterize bc they don't have full ranks, bc we can predict a colum with the param of others. In this case we can't inverse the matrix, and can't apply the formula tu find the exact B-estimates. 
+We can use the pseudoinverse, but the model wont be uniquely estimated. 
+
+On the other side certains contrasts are estimable, when we can combine the diff. rows of the DM to get the constrasts rate to find wtf you wnat. 
+In this case, the SPM will be gray where the Betas aren't estimable. 
+
+## To know: 
+Thinkabout the sANOVA design matrixes anre understad them, like the OW ANOVA, the first five. Understand what the betas are estimating? Which contrast are you selcting?
+-What happen if the matrix have full rank?
+Havent full rank.
