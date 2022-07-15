@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
+            "file": "PROJECTS/fMRI data analysis/Talk 12 - ANOVA models.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "false discover",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
+                "file": "PROJECTS/fMRI data analysis/Talk 12 - ANOVA models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +100,9 @@
   },
   "active": "bf7e5d8e4bf2838f",
   "lastOpenFiles": [
+    "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
     "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
     "PROJECTS/fMRI data analysis/Talk 12 - ANOVA models.md",
-    "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
     "AREAS/grey matters/Building a second brain - Tiago Forte.md",
     "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
     "AREAS/Les Confiotes/Innovations Confiotes.md",

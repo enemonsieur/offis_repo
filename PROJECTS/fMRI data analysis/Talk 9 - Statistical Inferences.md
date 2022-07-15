@@ -91,7 +91,10 @@ What does FDR depends on?
 What do we wanna control in FDR?
 	the number of FP within the total positive values. Because we know in that there's are some FP, so we wanna make sure its not too big.
 Why is FWError more conservative?
-There are FP and Tp in the Positive we find. Within those Positves, can we 'control' the number of FP, so we always have roughliy the same value of FP?
+There are FP and Tp in the Positive we find. Within those Positves, can we 'control' the number of FP, so we always have roughliy the same value of FP? We can do thatby ordering the p-values
+You can correct the p values by having multiple differe threshold, for each cluster.
+
+
 
 What's FWE correction
 	Prob of finding one or more false discoveries (Type I error), as we perform multiple voxels stat analysis.
