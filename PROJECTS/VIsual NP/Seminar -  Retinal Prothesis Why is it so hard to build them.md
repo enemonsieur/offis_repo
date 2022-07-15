@@ -99,7 +99,7 @@ One of the way of stimulating that is to stimulate direclty from the cells in th
 So how do we solve the problem of having so much RCGs? Think about solultions #retinalcochlea 
 Because by stimulating just some parts of the RP, we can obtain a roughly good enough image, to restore some kind of vision. Because of all oof the problems cited here, the resulting vision will really be poor. But may be, usuable. 
 
-So then, how do we stimulate those RCGs? First of all, we have some limitation. The electrode grid we have are very big, () and therefore, can stimulate them enough. If we try to reduce the electrodes, then it will increase the charge density, making the current higher. 
+So then, how do we stimulate those RCGs? First of all, we have some limitation. The The electrode grid we have are very big, () and therefore, can stimulate them enough. If we try to reduce the electrodes, then it will increase the charge density, making the current higher. 
 
 After a lot of research, scientist find that with a low number of electrodes relatively spaced out, it's positive to have enough accuity to regain vison. 
 For  example the Argus II uses a 6* 10  electrodes grid, and is capable of * generating phosphenes to distinguish vision. The elveetrodes are spaced 575um appart
