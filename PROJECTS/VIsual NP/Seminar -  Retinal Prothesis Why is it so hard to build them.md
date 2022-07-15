@@ -91,7 +91,7 @@ As I explain before, the retinal layer is made of many sub-layer. The outer laye
 5. Further, a lot of modulation also arise from amacrine and other cells
 In the end, the signal that reaches the RP has little to do with the original light signal in intensity or color. 
 
-One of the way of stimulating that is to stimulate direclty from the cells in the subretinal here(point) like the bipolar cells, before there's this signal processing. 
+One of the way of stimulating that is to stimulate direclty from the cells in the subretinal here(point) like the bipolar cells, before there's this signal processing. But because they are deeper in the eyes, they could damage the retina, and also don't dissipate heat enough.
 8. because In patients with RP and AMD, this layer have mostly degenerated. 
 9. 
 10. you don't need a lot of electrodes
