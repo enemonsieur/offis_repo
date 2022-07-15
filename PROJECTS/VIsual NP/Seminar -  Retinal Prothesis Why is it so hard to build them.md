@@ -91,6 +91,7 @@ As I explain before, the retinal layer is made of many sub-layer. The outer laye
 5. The RGCs are further subdived into ON and OFF cells, that depending on the light stimuli in the eyes, can actually be activated or deactivated
 6. Further, a lot of modulation also arise from amacrine and other cells
 In the end, the signal that reaches the RP has little to do with the original light signal in intensity or color. 
+7. Retinotrophy changes
 
 One of the way of stimulating that is to stimulate direclty from the cells in the subretinal here(point) like the bipolar cells, before there's this signal processing. But because they are deeper in the eyes, they could damage the retina, and also don't dissipate heat enough.ds
 
@@ -101,7 +102,12 @@ Because by stimulating just some parts of the RP, we can obtain a roughly good e
 So then, how do we stimulate those RCGs? First of all, we have some limitation. The electrode grid we have are very big, () and therefore, can stimulate them enough. If we try to reduce the electrodes, then it will increase the charge density, making the current higher. 
 
 After a lot of research, scientist find that with a low number of electrodes relatively spaced out, it's positive to have enough accuity to regain vison. 
-For  example the Argus II uses a 6
+For  example the Argus II uses a 6* 10  electrodes grid, and is capable of * generating phosphenes to distinguish vision. The elveetrodes are spaced 575um appart
+
+Ok we have the electrodes grids. 
+- Spacial
+- Intensity
+- Frequency
 
 ## But how did we figured out, stimulating the RGCs will result into vision (Later)
 
