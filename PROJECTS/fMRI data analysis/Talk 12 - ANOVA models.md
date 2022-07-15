@@ -17,3 +17,12 @@ In the design matrixi in page 4 we ca have a design matrix that contrasts all of
 - The 2nd and 3 column model the alpha 1or 2 for example. 
 On the 2nd level, diferent design matrix can model the same effect. 
 
+When is a matrix rank definicient?
+What happen is fhhe matrix is rank deficient?
+	Has in infinite number of solutions
+How can we turn a rank def. matrix into full rank?
+	We can sum them up p.10
+p11. Why is it not rank definiient?
+	Bc we can use the colim 1 2 to redict the re rest?
+find a 2 number a +b =4- A lot of solutions right?
+
