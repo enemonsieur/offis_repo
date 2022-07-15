@@ -87,13 +87,16 @@ As I explain before, the retinal layer is made of many sub-layer. The outer laye
 1. Most of the photoreceptors are contained in the central part, but less in the periphery
 2. Many PR are smaller and more compact in the middle part rather than the periphery,
 3. and 1000 of PR combine to stimulase the RCGs
-4. The RGCs are further subdived into ON and OFF cells, that depending on the light stimuli in the eyes, can actually 
-5. 
-6. because In patients with RP and AMD, this layer have mostly degenerated. 
-7. 
-8. you don't need a lot of electrodes
-9. subretinal won't need reprocessing and don'T even need an external imager, thanks photodiodes
-10.  
+4. The RGCs are further subdived into ON and OFF cells, that depending on the light stimuli in the eyes, can actually be activated or deactivated
+5. Further, a lot of modulation also arise from amacrine and other cells
+In the end, the signal that reaches the RP has little to do with the original light signal in intensity or color. 
+
+One of the way of stimulating that is to stimulate direclty from the cells in the subretinal here(point) like the bipolar cells, before there's this signal processing. 
+8. because In patients with RP and AMD, this layer have mostly degenerated. 
+9. 
+10. you don't need a lot of electrodes
+11. subretinal won't need reprocessing and don'T even need an external imager, thanks photodiodes
+12.  
 ## But how did we figured out, stimulating the RGCs will result into vision (Later)
 
 
