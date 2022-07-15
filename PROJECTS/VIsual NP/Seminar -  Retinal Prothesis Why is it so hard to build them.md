@@ -84,10 +84,12 @@ Great ! Awesome. So as we can see, even if there are more reliable places to sti
 So, we decided to stimulate the retina directly which is smart becaus qe are not risking our patients life. - surgery safer in retinal - Now let's try to see what challenges we need to overcome to do so. 
 
 As I explain before, the retinal layer is made of many sub-layer. The outer layer, where light from the lense hit, is the photoreceptor-layer. Then light is transducted to the bipolar, then RGCs. As I said, there's a lot of signal processing happening there: 
-1. Most of the photoreceptors are contbecause In patients with RP and AMD, this layer have mostly degenerated. 
-1. you don't need a lot of electrodes
-2. subretinal won't need reprocessing and don'T even need an external imager, thanks photodiodes
-3.  
+1. Most of the photoreceptors are contained in the central part, but less in the periphery
+2. Many PR are smaller and more compact in the middle part rather than the periphery,
+3. and 1000 of PR combine to because In patients with RP and AMD, this layer have mostly degenerated. 
+4. you don't need a lot of electrodes
+5. subretinal won't need reprocessing and don'T even need an external imager, thanks photodiodes
+6.  
 ## But how did we figured out, stimulating the RGCs will result into vision (Later)
 
 
