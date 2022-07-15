@@ -26,3 +26,11 @@ p11. Why is it not rank definiient?
 	Bc we can use the colim 1 2 to redict the re rest?
 find a 2 number a +b =4- A lot of solutions right?
 
+page 14.
+
+Some parameters are uniquely definie. Can we combine X design matrix by a matrix T, so that we definde a function that estimate the model parameters.
+
+The contrast vector ca be estimal,e, have 1 solution or define solutions, if it can be repreent as a linear combi of the rows of X. p15
+In this big matrix there are many Beta estiamteives that measure different interactions. But if qwe wanna find th ediffernece betqeen A1 and A2 in general,, we have to combine the different rowns of the design matrix to correct the main efect of A (look again)
+
+If it's not estimable, there'd be a 
