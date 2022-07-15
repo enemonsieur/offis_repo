@@ -80,7 +80,8 @@ Tactile -> Limiting reading capabilities
 Help with strokes, destroy of brain cells.
 
 Great ! Awesome. So as we can see, even if there are more reliable places to stimulate the brain, the technology is simply not following yet. This is why currently the RP are the most used prothesis. 
-Now imagine you're bli
+
+And unfortunately, even there it's not straightforward. We can stimulate the retinal at multiple level. As you can see here (Retina photo),
 ## But how did we figured out, stimulating the RGCs will result into vision (Later)
 
 
