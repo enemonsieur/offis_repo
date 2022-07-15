@@ -57,3 +57,8 @@ When are they usefull?
 What kind  of p-value correction don't work well with that?
 	RFT bc they need a large surface to be applied
 Statistical Power computation
+
+
+What if the c' contrast we took for the second level is actually -1?
+	Because the mean would be just the mean of the diffferents B1-B2 (to contrast the ttest) for evety suject, reversing it will just reverse the Betas to B2-B1. 
+	It'D stille give the same number, -2,3 or 2.3 just now we are contrasting the LIGHT ON versus OFF instead of Light OFF vs ON.
