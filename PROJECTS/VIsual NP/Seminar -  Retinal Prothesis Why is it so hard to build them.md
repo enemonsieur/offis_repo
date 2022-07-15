@@ -75,7 +75,7 @@ NEXT: SPiderman
 - Nanoparticule based Stimulation: Currently used to deliver drugs, Combination with Magnetic gradient  -> Guiding the NanooP to act on membrane channel ex: V1 neurons. 
 Problem:  How to deliver in the CNS (blod brain), LT effects, 
 - Sensory Substitution: Synesthesia
-Take grid of phosphenses, put in on tactil or auditory;
+Take grid of phosphenses, put in on tactil or auditory;  
 Tactile -> Limiting reading capabilities
 Help with strokes, destroy of brain cells.
 
