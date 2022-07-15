@@ -7,8 +7,12 @@
         "id": "bf7e5d8e4bf2838f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "AREAS/grey matters/Building a second brain - Tiago Forte.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "building a second brain",
+                "query": "forte",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AREAS/grey matters/Building a second brain - Tiago Forte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,11 +98,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a964cfb5b2f8a24",
+  "active": "bf7e5d8e4bf2838f",
   "lastOpenFiles": [
+    "Untitled.md",
     "references notes/Pasted image 20220709133821.png",
     "ARCHIVES/Women in Science Business.md",
-    "Untitled.md",
     "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
     "AREAS/Les Confiotes/Innovations Confiotes.md",
     "AREAS/Les Confiotes/MVP etiquette confiotes.md",
