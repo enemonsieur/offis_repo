@@ -86,17 +86,17 @@ So, we decided to stimulate the retina directly which is smart becaus qe are not
 As I explain before, the retinal layer is made of many sub-layer. The outer layer, where light from the lense hit, is the photoreceptor-layer. Then light is transducted to the bipolar, then RGCs. As I said, there's a lot of signal processing happening there: 
 1. Most of the photoreceptors are contained in the central part, but less in the periphery
 2. Many PR are smaller and more compact in the middle part rather than the periphery,
-3. and 1000 of PR combine to stimulase the RCGs
-4. The RGCs are further subdived into ON and OFF cells, that depending on the light stimuli in the eyes, can actually be activated or deactivated
-5. Further, a lot of modulation also arise from amacrine and other cells
+3. - So, at the macular (middle) 1:1:1 ratio, but a looot more when we get away. 
+4. and 1000 of PR combine to stimulase the RCGs
+5. The RGCs are further subdived into ON and OFF cells, that depending on the light stimuli in the eyes, can actually be activated or deactivated
+6. Further, a lot of modulation also arise from amacrine and other cells
 In the end, the signal that reaches the RP has little to do with the original light signal in intensity or color. 
 
-One of the way of stimulating that is to stimulate direclty from the cells in the subretinal here(point) like the bipolar cells, before there's this signal processing. But because they are deeper in the eyes, they could damage the retina, and also don't dissipate heat enough.
-8. because In patients with RP and AMD, this layer have mostly degenerated. 
-9. 
-10. you don't need a lot of electrodes
-11. subretinal won't need reprocessing and don'T even need an external imager, thanks photodiodes
-12.  
+One of the way of stimulating that is to stimulate direclty from the cells in the subretinal here(point) like the bipolar cells, before there's this signal processing. But because they are deeper in the eyes, they could damage the retina, and also don't dissipate heat enough.ds
+
+
+But fortunately, you don't need to do a lot
+
 ## But how did we figured out, stimulating the RGCs will result into vision (Later)
 
 

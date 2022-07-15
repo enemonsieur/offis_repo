@@ -16,18 +16,6 @@
         }
       },
       {
-        "id": "c454016041d9328e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PROJECTS/Visual NP/Type of Retinal P.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "e63de3eb48cdcce0",
         "type": "leaf",
         "state": {
@@ -77,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453
+    "width": 453,
+    "collapsed": true
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -124,9 +113,9 @@
   },
   "active": "e63de3eb48cdcce0",
   "lastOpenFiles": [
-    "PROJECTS/Visual NP/Type of Retinal P.md",
-    "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
     "PROJECTS/Visual NP/Argus II.md",
+    "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
+    "PROJECTS/Visual NP/Type of Retinal P.md",
     "PROJECTS/Visual NP/Visual Neurop.md",
     "AREAS/grey matters/Threads Twitter.md",
     "AREAS/grey matters/Building a second brain - Tiago Forte.md",
