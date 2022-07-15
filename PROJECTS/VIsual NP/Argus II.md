@@ -1,4 +1,4 @@
----
+i---
 alias: [Visual neuroprosthetics]
 ---
 ###### tags: #retinalfunction #retinaltype #r
