@@ -95,7 +95,8 @@ In the end, the signal that reaches the RP has little to do with the original li
 One of the way of stimulating that is to stimulate direclty from the cells in the subretinal here(point) like the bipolar cells, before there's this signal processing. But because they are deeper in the eyes, they could damage the retina, and also don't dissipate heat enough.ds
 
 
-But fortunately, you don't need to do a lot
+So how do we solve the problem of having so much RCGs? Think about solultions #retinalcochlea 
+Because by stimulating just some a
 
 ## But how did we figured out, stimulating the RGCs will result into vision (Later)
 
