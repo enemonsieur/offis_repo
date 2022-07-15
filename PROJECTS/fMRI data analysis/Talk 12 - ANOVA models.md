@@ -9,3 +9,11 @@ page 6 : what happen is that for each subject, we wanna see how much variance is
 One way ANOVA explain how similar each group are between is other g1 -g2 g2-g3 g3-g1
 
 
+We can run ANOVA within the second level design
+or each values there are offste, different effects differences like Alpha (low vs high lights) Neta (tones, silent, light, midlle etc..) and gammaij, that represents the interactions. 
+
+In the design matrixi in page 4 we ca have a design matrix that contrasts all of those conditions. They model the interactions. 
+- What is small k here=n
+- The 2nd and 3 column model the alpha 1or 2 for example. 
+On the 2nd level, diferent design matrix can model the same effect. 
+
