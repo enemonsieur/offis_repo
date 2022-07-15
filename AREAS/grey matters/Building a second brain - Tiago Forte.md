@@ -91,3 +91,26 @@ It ensures they complete all the necessary steps without having to rely on their
 What are some tips that could help me?
 - Clear my notes on Ene WA, on Notes Mi
 - Add every RDV
+
+
+### The Noticing Habits: Using Your Second Brain to Engineer Luck
+
+There’s a third category of habits that will come in handy as you start putting your Second Brain into action in the real world. It is in some ways the most important category, but also the least predictable.
+
+
+
+- Noticing that an idea you have in mind could potentially be valuable and capturing it instead of thinking, “Oh, it’s nothing.”
+
+- Noticing when an idea you’re reading about resonates with you and taking those extra few seconds to highlight it.
+
+- Noticing that a note could use a better title—and changing it so it’s easier for your future self to find it.
+
+- Noticing you could move or link a note to another project or area where it will be more useful.
+
+Noticing opportunities to combine two or more Intermediate Packets into a new, larger work so you don’t have to start it from scratch.
+Noticing a chance to merge similar content from different notes into the same note so it’s not spread around too many places.
+
+- Noticing when an IP that you already have could help someone else solve a problem, and sharing it with them, even if it’s not perfect.
+
+
+
