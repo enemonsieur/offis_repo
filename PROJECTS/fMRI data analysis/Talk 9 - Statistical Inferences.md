@@ -4,7 +4,7 @@ current state: "note-taking Chap7- Russel","2nd-Level Y=XB"
 What are the different levels of significance?
 	Voxel level
 	Cluster ofvoexesl?
-	Set level? 
+	Set level? .
 	1. Voxel level of significance
 		There's no correlation between voxel,as there's idnependently activated. 
 		This doesn't get information (spatial) about the signal. 

@@ -111,10 +111,10 @@ What kind of questions we can ask to validate our hypothesis?
 FS1 isfemale face FS2 is male face OS1 is object in condition 1 and OS2 is object in condition2
 	![[photo_2022-07-06_15-03-48.jpg]]
 
-# Really take the time to go through that again. Check the MATLAB Reader #unclear  
+ Really take the time to go through that again. Check the MATLAB Reader #unclear  
 What's the save in the constrast Image
 	LC of the contrasts weights c and the Betas. cT.B
-Why do we need contrasts image #unclear 
+Why do we need contrasts image  
 	Group analysis?
 What is  a full model?
 What is a reduce model?
@@ -148,7 +148,7 @@ You ran ttest for each voxels and found f values as well. But now, how to you de
 What are the problem with these multiple comparions?
 	That by change you can have a lot of significan but random error. 
 	
-What can be solutions to te Multiple comparisons comming from having so much tests run in voxels?
+What can be solutions to the Multiple comparisons comming from having so much tests run in voxels?
 	Adapt the p value to the M.C = p= 0.5/100 = 0.005
 
 If one voxel shows activation, there's a higher prob that the neighbour also are activated, so we can apply techniques on that. But what techx or what for
@@ -162,7 +162,7 @@ We can use 2 types of statistics to find if  our conditions differs from each ot
 	- ![[Pasted image 20220708065432.png]]
 	- 
 - f-test: We use it by creating a reduce model excluding the parameter of interest. Then, we can add em and see if they improve our model prediction (of the BOLDr) or not. 
-- what the fuck is 2 sided difference? What are we exactly calculating with the f-test? #unclear 
+- what the fuck is 2 sided difference? What are we exactly calculating with the f-test? 
 	- The f statistic doesn't care about the sign: It can't tell you if the difference is positive or negative
 	- f-test compare the full model with the reduced model (without the B we want)
 	- We have thev ariance of the BOLDr that's explained by the reduced model. Now, adding the different parameter, how much more variance is explained? (Variance because it will deviate from the standard HDR of as well)
