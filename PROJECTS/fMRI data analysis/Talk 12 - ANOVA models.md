@@ -4,4 +4,4 @@ page 6 : what happen is that for each subject, we wanna see how much variance is
 One way ANOVA explain how similar each group are between is other g1 -g2 g2-g3 g3-g1
 
 
-False discovery rate
+False discovery rate?
