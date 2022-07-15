@@ -84,7 +84,7 @@ Great ! Awesome. So as we can see, even if there are more reliable places to sti
 And unfortunately, even there it's not straightforward. We can stimulate the retinal at multiple level. As you can see here (Retina photo),
 1. you don't need a lot of electrodes
 2. subretinal won't need reprocessing and don'T even need an external imager, thanks photodiodes
-3. 
+3.  
 ## But how did we figured out, stimulating the RGCs will result into vision (Later)
 
 
