@@ -32,7 +32,7 @@ The theoretical resolution of the alpha-IMS is 0.5 ̊ [10]; approximately eight-
 
 The Argus® II Retinal Prosthesis System (Second Sight Medical Products) is the first prosthetic vision device to obtain regulatory approval in both Europe and the USA.
 To date, over 100 devices have been implanted worldwide, representing the largest group of patients currently treated with visual prostheses. (now 800)
-
+-> How succesful is the ARgus
 How does the Argus works?
 	Visual information from a glasses-mounted video camera is converted to a pixelated image by an external processor, before being transmitted to the microelectrode array at the macula. Elicited retinal responses are then relayed via the normal optic nerve to the cortex for interpretation. #retinalfunction 
 
@@ -42,16 +42,17 @@ How succesful is the Argus
 BUt why is it so much better than the other RP?
 	a) greater accessibility at **lower surgical risk** than the intracranial visual pathways
 	b) straightforward monitoring of the device by direct visualisation; ???
-	c) **potentially predictable and reproducible retinotopy by applying stimulation at a pre-processing site.** #unclear 
+	c) **potentially predictable and reproducible retinotopy by applying stimulation at a pre-processing site.**  
 => it stimulates the RGCs that stimulates what?
 Not all the information capture by the eyes are transmitted to the nerve cells. Therefore 
  it'D be possible to see with even a low resolution stimulation of the gagnliion cells
 	furthermore, as there are around 120 million photoreceptors while only 1.5 million ganglion cells, **many photoreceptors converge onto a single bipolar cell especially at the periphery,** with further convergence taking place from the bipolar cells to RGCs (Kolb, 2003).
 => There's a massive complexity reduction of the amount of neuron. Especially at the periphery of the eyes, so that you don't really need to stim 120 millions photoreceptors to generate "phosphenes"
 
->Conversely within the macular region of the retina, the photoreceptor:bipolar cell:RGC ratio approaches 1:1:1, with minimal convergence. It is thus envisaged that focal electrical stimulating patterns with a multi-electrode array in the macular region would more likely manifest retinotopic correlations along the visual pathway. There is, however, a particular limitation to this rationale, due to the arcuate displacement of axons and the piling up of ganglion cell bodies when approaching the fovea. #retinalimitations
+Conversely within the macular region of the retina, the photoreceptor:bipolar cell:RGC ratio approaches 1:1:1, with minimal convergence. It is thus envisaged that focal electrical stimulating patterns with a multi-electrode array in the macular region would more likely manifest retinotopic correlations along the visual pathway. There is, however, a particular limitation to this rationale, due to the arcuate displacement of axons and the piling up of ganglion cell bodies when approaching the fovea.  
+=> It's better to stimulate at the macula because the PRcs are 1by1 linked to the RGCs
 
-some limitations of the implant of electrodes
+ 
 
 What percentage of people work well with the Argus?
 	Ideal candidates for treatment would therefore have conditions where the outer retina (i.e. photoreceptors and/or retinal pigment epithelium) has been destroyed by any mechanism, while the inner retina (e.g. bipolar cells, RGCs, horizontal cells and amacrine cells) remains relatively intact
