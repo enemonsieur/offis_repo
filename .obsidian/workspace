@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Visual NP/Argus II.md",
+            "file": "AREAS/Les Confiotes/Tâches Confiotes.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subretinal",
+                "query": "Confio",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453,
-    "collapsed": true
+    "width": 453
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Visual NP/Argus II.md",
+                "file": "AREAS/Les Confiotes/Tâches Confiotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,13 +112,13 @@
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
-    "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
+    "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
     "PROJECTS/Visual NP/Argus II.md",
+    "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
     "PROJECTS/Visual NP/Type of Retinal P.md",
     "PROJECTS/Visual NP/Visual Neurop.md",
     "AREAS/grey matters/Threads Twitter.md",
     "AREAS/grey matters/Building a second brain - Tiago Forte.md",
-    "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
     "PROJECTS/fMRI data analysis/Talk 12 - ANOVA models.md",
     "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
     "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md"
