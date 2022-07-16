@@ -6,6 +6,11 @@
 - Gestion des livraisons
 - Gestion des stocks dans les boutiques
 - Gestion des stocks Atelier
+- Liste des produits et leur caractéristiques
+- CRM basique Whatsapp
+
+## Futur
+- Développer la communauté
 
 # Ro
 - Inventaire des stocks total
