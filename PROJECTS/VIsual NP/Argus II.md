@@ -20,7 +20,12 @@ The 1500-electrode alpha-IMS implant The alpha-IMS device (Retina Implant AG, Re
 To prevent fading, the alpha-IMS group has reported using relatively low stimulation rates of 1–20 bursts per second (a burst being a short pulse train of 20 ms). However, such low rates may result in ‘blinking’ percepts [9,10], suggesting that a trade-off between flicker fusion and fading may be a consideration in retinal prosthesis stimulation.” (Stronks and Dagnelie, 2014, p. 26)
 
 Figure 3. A part of the Argus II electrode array to show the theoretical grating visual acuity limit of the Argus II device. The electrodes have a diameter of 200 mm and centerto-center electrode spacing is 575 mm. The finest grating that can be represented on an electrode grid with these dimensions has a cycle of 1150 mm on the retina. Assuming that 1 ̊ covers 288 mm retinal surface [63], the maximum visual acuity achievable with the Argus II is 4 ̊. Note that the Argus II array has 6  10 electrodes and the entire electrode grid spans approximately 20 ̊ of the field of view along the diagonal
-=> You just have to remember that because of the position of the electrodes, spaming 20 deg of the 360degres of the view 
+=> You just have to remember that because of the position of the electrodes, spaming 20 deg of the 360degres of the view field, the fact that the electrode grid cover a total of 1000 um on the retinal and you need 288um to cover one degree, the max accuity it can achieve is just 4 degrees
+	![[Pasted image 20220716191656.png]]
+
+
+
+
 The theoretical resolution of the alpha-IMS is 0.5 ̊ [10]; approximately eight-times better than the Argus II. In the first report on alpha-IMS performance, two out of three patients were able to perceive gratings with reported acuities of 2 and 5 ̊ [9], that is, no better than the best acuity reported in the Argus II study (1.1 ̊).
 => No differences btwen Argus and Alpha IMS
 
