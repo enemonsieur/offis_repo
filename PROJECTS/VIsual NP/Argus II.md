@@ -5,7 +5,20 @@ alias: [Visual neuroprosthetics]
 ###### links: http://dx.doi.org/10.1016/j.preteyeres.2015.09.003
 
 ---
-	
+
+In terms of hardware development, increasing the number of electrodes with or without reducing the size of the electrodes, and increasing the area of retina stimulated and therefore visual field are the most immediate areas of need” (Luo and Cruz, 2016, p. 104)
+
+“. At present this is not possible as the charge density of an electrode, being inversely proportional to the surface area of the electrode (pr2), renders this calibre of electrode unsafe” (Luo and Cruz, 2016, p. 104)
+
+“Perhaps more promisingly, Jepson et al. (2014) described a method of mapping spatio-temporal patterns of retinal activity in a group of identified RGCs, using a multi-electrode recording system in isolated primate (macaque monkey) retinas. It has been shown Y.H.-L. Luo, L. da Cruz / Progress in Retinal and Eye Research 50 (2016) 89e107 10” (Luo and Cruz, 2016, p. 104)
+
+
+
+The 1500-electrode alpha-IMS implant The alpha-IMS device (Retina Implant AG, Reutlingen, Germany) has been tested in two clinical trials including a total of 47 patients. The 2nd of these, a multicenter international trial, is still ongoing [9–11]. It features 38  40 (~1500) squareshaped electrodes (50 x 50 um), measures 3 x 3.1 mm covers a visual angle of 10 ̊ x10 ̊ (15 ̊ diagonally) [10].
+
+
+
+
 
 The Argus® II Retinal Prosthesis System (Second Sight Medical Products) is the first prosthetic vision device to obtain regulatory approval in both Europe and the USA.
 To date, over 100 devices have been implanted worldwide, representing the largest group of patients currently treated with visual prostheses. (now 800)
