@@ -11,12 +11,13 @@ In terms of hardware development, increasing the number of electrodes with or wi
 “. At present this is not possible as the charge density of an electrode, being inversely proportional to the surface area of the electrode (pr2), renders this calibre of electrode unsafe” (Luo and Cruz, 2016, p. 104)
 
 “Perhaps more promisingly, Jepson et al. (2014) described a method of mapping spatio-temporal patterns of retinal activity in a group of identified RGCs, using a multi-electrode recording system in isolated primate (macaque monkey) retinas. It has been shown Y.H.-L. Luo, L. da Cruz / Progress in Retinal and Eye Research 50 (2016) 89e107 10” (Luo and Cruz, 2016, p. 104)
+Flicker fusion in Argus 16 subjects was reported to be approximately 40 Hz for single electrode stimulation [43]. Available pulse rates in the Argus II are 3–60 Hz [49] and therefore fast enough to sustain stable percepts.
 
 
 
 The 1500-electrode alpha-IMS implant The alpha-IMS device (Retina Implant AG, Reutlingen, Germany) has been tested in two clinical trials including a total of 47 patients. The 2nd of these, a multicenter international trial, is still ongoing [9–11]. It features 38  40 (~1500) squareshaped electrodes (50 x 50 um), measures 3 x 3.1 mm covers a visual angle of 10 ̊ x10 ̊ (15 ̊ diagonally) [10].
 
-
+“The Argus II represents the visual scene by encoding brightness via stimulus amplitude. Intensity coding was chosen, since[...]as many as 10 intensity levels could be successfully identified by one patient [2], a finding supported by the alpha-IMS trial [9]” (Stronks and Dagnelie, 2014, p. 26)
 
 
 
