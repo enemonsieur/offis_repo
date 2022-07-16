@@ -15,4 +15,7 @@
 # Ro
 - Inventaire des stocks total
 - Gérer les messages Facebook pour les livraisons
-- 
+
+# Dimitri
+- Formaliser les stocks
+- CRM -
