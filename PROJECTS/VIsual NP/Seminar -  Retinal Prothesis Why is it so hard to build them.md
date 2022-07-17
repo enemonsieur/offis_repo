@@ -18,18 +18,18 @@ Look at the auditory diagram. If there's [700K cochlear implants ](https://www.n
 How could there be such a discrepancy between the obsession with vision and the visual technology? 
 
 What do you think? Any idea? (questionnaire)
-Well,as always in science/and just like I said to my ex-wife ... (Gif) It's not what you think. 
+Well,as always in science, its complicated. 
 
-So there's two way of explaining this: The boring way and the cool way. With the boring way we'll go through each steps of the creation of retinal prosthetics from ground up. With the cool way we'll look at every layer of the eye, and see how we could create our own retinal prosthetic on our own! 
+So there's two way of explaining this: The boring way and the cool way. With the boring way we'll go through each steps of the creation of retinal prosthetics from ground up. With the cool way we'll  see how we could create our own retinal prosthetic on our own! 
 So, what do you choose? Boring? Cool?
 
-As a scientist, the seeker of truth, its my duty to choose... both. 
-
+Well, I choosed the cool way, bc I want you guys to  have at least a good grasp on Retinal Implants!
 # How do vision work
-Before understanding how Retinal prothesis can recreate vision, let's look at how vision works. What are the important parts of it, and how can we screw them to justify the 200K euros of our RP. 
+Before understanding how Retinal prothesis can recreate vision, let's look at how vision works. What are the important parts of it, and what exactly can go wrong in it to justify the 200K euros cost of our Retinal P. 
 Vision starts by the cornea, goes through the lense and then hit the retina layer, where there's the photo receptors, Cones and rods. Then, those transduce the photons/lights into signal, that move to the bipolar cell, in the next layer, who then moves it to the RGCs, our target region. 
 - Questions: What happen to the membrane of the PhotoR? Gets hyperpolarized, which removes Glutamate, making the pigment (iodopsin or rhodopsin,) change conformation, which reduces the cGMP concentration, a well knowed 2nd messenge,  --> no entering of Na then hyperpolarization, that stop the release of Glu NT, and this will actually  excited the bipolar cells
-- Why do we stim the RCCs and not the Photoreceptor? ()
+- You know may be the PReceptors, rodes and cones and how the transducte the signal
+- Why would we go through the pain of transducting the signal ourselves instead of having a photoreceptors prosthetics? (In CI, we stimulate the transductors)
 The RGCs then move the signal to the Optic nerve, Moves to the Optic tract, reaches the Lateral Geniticulated Nucleus, That projects to the Occipital cortex, 1°Visual Cortex. 
 
 So. Now, let's see, where we can fuck this up?[ Any ideas?](https://www.brightfocus.org/macular/article/eye-diseases-can-cause-legal-blindness)
