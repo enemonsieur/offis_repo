@@ -5,7 +5,8 @@ alias: [Visual neuroprosthetics]
 ###### links: http://dx.doi.org/10.1016/j.preteyeres.2015.09.003
 
 ---
-
+- There's a difference in adaptation /technology between RP to achieve the same results. 
+- 
 In terms of hardware development, increasing the number of electrodes with or without reducing the size of the electrodes, and increasing the area of retina stimulated and therefore visual field are the most immediate areas of need” (Luo and Cruz, 2016, p. 104)
 
 “. At present this is not possible as the charge density of an electrode, being inversely proportional to the surface area of the electrode (pr2), renders this calibre of electrode unsafe” (Luo and Cruz, 2016, p. 104)
@@ -31,8 +32,11 @@ The 1500-electrode alpha-IMS implant The alpha-IMS device (Retina Implant AG, Re
 => alpha-IMS isn't better than Argus
 
 Light sensing is mediated by intraocular photodiodes, so it operates without an external camera. In contrast to approaches using an external camera such as the Argus II, intraocular light sensing has the advantage that normal eye movements can be used, instead of head scanning. In fact, large eye movements should be actively avoided by Argus II wearers, because of the perceived image displacements due to cortical feedback from the oculomotor system. Rehabilitation procedures, therefore, include training to keep a steady gaze, while scanning the environment by head movements.
-=>
+=>Contrarily to AMS, Arguss II sense light *before* it enters the eyes, so it doesn't correct for eyes movements. Therefore, patient have to keep a steady gaze. 
+
  A disadvantage of the alpha-IMS is the limited control over the stimulation parameters. Most importantly, the offset and gain can be adjusted jointly for all electrodes, but not for individual electrodes [10][(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926652/#R10)]. In contrast, the Argus II system allows for the adjustment of stimulation variables for each individual electrode.
+ => On the contrary, because AIMS is usign photovoltaic within the brain, it can't really modulate the signal (change intensity, frequency etc...). 
+ =>Worse, you can't adjust each electrode individually. 
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3619489/
 The chip typically records images five to seven times per second (working frequency of 5–7 Hz, adjustable in a wide range) and provides the bipolar cells with a ‘point-by-point electrical image’ of the luminance distribution, typically consisting of 1 ms pulses with amplitudes that are correlated with the luminance at each point. From the bipolar cells onwards, the signal is processed via the remaining visual pathway. The chip size is approximately 3 mm × 3 mm and is approximately 70 µm thin when placed on polyimide foil (thickness approx. 17 µm), which leaves the subretinal space in the upper temporal periphery through the choroid and the sclera.
