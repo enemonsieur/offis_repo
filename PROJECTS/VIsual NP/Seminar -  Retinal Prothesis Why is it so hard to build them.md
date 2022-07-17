@@ -93,16 +93,23 @@ As I explain before, the retinal layer is made of many sub-layer. The outer laye
 In the end, the signal that reaches the RP has little to do with the original light signal in intensity or color. 
 7. Retinotrophy changes (some studie says no other yes)
 
-One of the way of stimulating that is to stimulate direclty from the cells in the subretinal here(point) like the bipolar cells, before there's this signal processing. But because they are deeper in the eyes, they could damage the retina, and also don't dissipate heat enough.ds
+One of the way of stimulating that is to stimulate direclty from the cells in the subretinal here(point) like the bipolar cells, before there's this signal processing. But because they are deeper in the eyes, they could damage the retina, and also don't dissipate heat enough.
 
 
 So how do we solve the problem of having so much RCGs? Think about solultions #retinalcochlea 
 Because by stimulating just some parts of the RP, we can obtain a roughly good enough image, to restore some kind of vision. Because of all oof the problems cited here, the resulting vision will really be poor. But may be, usuable. 
 
-So then, how do we stimulate those RCGs? First of all, we have some limitation. The The electrode grid we have are very big, () and therefore, can stimulate them enough. If we try to reduce the electrodes, then it will increase the charge density, making the current higher. 
+Let's say we have this image. We know what is it. But Joe doesn'T. How can we help Joe regain some sense of the image? We need couple of technologies to do so right? Can you think of the first thing we need to turn this into neural input?
+1. Of course the first thing is to turn that light brigthness and intensity and color into electrical signal. (Color is out. No PRcs) There are two strategies to do so. You could use the 
 
-After a lot of research, scientist find that with a low number of electrodes relatively spaced out, it's positive to have enough accuity to regain vison. 
-For  example the Argus II uses a 6* 10  electrodes grid, and is capable of * generating phosphenes to distinguish vision. The elveetrodes are spaced 525um appart, and the e-size are 200um, which is 10 times greater than the electrode size that will be require. In consequnce, its Visual acuity is 20/1600, wwwwaaaaay bellow the threshold of 20/200
+ARGUS: 
+
+
+
+	So then, how do we stimulate those RCGs? First of all, we have some limitation. The The electrode grid we have are very big, () and therefore, can stimulate them enough. If we try to reduce the electrodes, then it will increase the charge density, making the current higher. 
+	
+	After a lot of research, scientist find that with a low number of electrodes relatively spaced out, it's positive to have enough accuity to regain vison. 
+	For  example the Argus II uses a 6* 10  electrodes grid, and is capable of * generating phosphenes to distinguish vision. The elveetrodes are spaced 525um appart, and the e-size are 200um, which is 10 times greater than the electrode size that will be require. In consequnce, its Visual acuity is 20/1600, wwwwaaaaay bellow the threshold of 20/200
 
 Ok we have the electrodes grids. Now howdo we sstimulate them? #cochlea we find the theshold to wich the patiet starts seeing something. We use a biphasic pulse width of 0.45ms per phase . The pulse frequency is 20Hz and is applied for 250ms
 - Intensity
@@ -128,3 +135,4 @@ Show people what blind can resee. Redo it or find it in litt
 - Lets go crazier and crazier. Optogenetics, TMS, then nano- What IYO would generate the most results? - List the technx challenges associated
 - When the RP stimulates the RGCs, there'S already processed information by the rods, cones, bipolar amacrine cells, and ON OFF cells
 - So we try to stimulate directly the RGCs, what happens? Nothing. (Photo of scrammble Image) Ouch. Why? retinal topology changes.
+- Create a fictive patient, and tell his story.
