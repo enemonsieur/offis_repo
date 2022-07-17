@@ -14,7 +14,7 @@ What problem do retinal implants solve? (show the eye, and show the pieces where
 - But people have been 
 - Talk about how vision works: Receptive Field activation, need excitatory and inhibitory signals. 
 Vision is the most important of our senses. People say it may take up to 80% of our perception and indeed, most of the studies on sensory modality have been done of vision. 
-Look at the auditory diagram. If there's [700K cochlear implants ](https://www.nidcd.nih.gov/health/cochlear-implants#:~:text=Children%20and%20adults%20who%20are,adults%20and%2065%2C000%20in%20children.)wordlwide, just imagine how much retinal implants exists: Do a fake diagram comparing CI andRI: 50000 RI. Only 50K implants... sorry. Wait what? That can be so low... Oh. Sorry . I actually mixed the slides. Here's the real number... [500 patients in](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7198351/#:~:text=There%20have%20now%20been%20three,over%20the%20past%2015%20years.) 2020 . 1% of the CI have been installed worldwide. 
+Look at the auditory diagram. If there's [700K cochlear implants ](https://www.nidcd.nih.gov/health/cochlear-implants#:~:text=Children%20and%20adults%20who%20are,adults%20and%2065%2C000%20in%20children.)wordlwide, just imagine how much retinal implants exists to cure people with no vision!: Do a fake diagram comparing CI andRI: 50000 RI. Only 50K implants... sorry. Wait what? That can be so low... Oh. Sorry . I actually mixed the slides. Here's the real number... [500 patients in](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7198351/#:~:text=There%20have%20now%20been%20three,over%20the%20past%2015%20years.) 2020 . 1% of the CI have been installed worldwide. 
 How could there be such a discrepancy between the obsession with vision and the visual technology? 
 
 What do you think? Any idea? (questionnaire)
@@ -29,10 +29,11 @@ Before understanding how Retinal prothesis can recreate vision, let's look at ho
 Vision starts by the cornea, goes through the lense and then hit the retina layer, where there's the photo receptors, Cones and rods. Then, those transduce the photons/lights into signal, that move to the bipolar cell, in the next layer, who then moves it to the RGCs, our target region. 
 - Questions: What happen to the membrane of the PhotoR? Gets hyperpolarized, which removes Glutamate, making the pigment (iodopsin or rhodopsin,) change conformation, which reduces the cGMP concentration, a well knowed 2nd messenge,  --> no entering of Na then hyperpolarization, that stop the release of Glu NT, and this will actually  excited the bipolar cells
 - You know may be the PReceptors, rodes and cones and how the transducte the signal
-- Why would we go through the pain of transducting the signal ourselves instead of having a photoreceptors prosthetics? (In CI, we stimulate the transductors)
+> Why would we go through the pain of transducting the signal ourselves instead of having a photoreceptors prosthetics? (In CI, we stimulate the transductors)
+- 
 The RGCs then move the signal to the Optic nerve, Moves to the Optic tract, reaches the Lateral Geniticulated Nucleus, That projects to the Occipital cortex, 1°Visual Cortex. 
 
-So. Now, let's see, where we can fuck this up?[ Any ideas?](https://www.brightfocus.org/macular/article/eye-diseases-can-cause-legal-blindness)
+So. Now, Remember, the point is to bring back vision?[ Any ideas?](https://www.brightfocus.org/macular/article/eye-diseases-can-cause-legal-blindness)
 - Cataract lenses.
 - Strokes
 - Glaucoma -retinal die.
