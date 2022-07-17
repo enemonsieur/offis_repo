@@ -91,7 +91,7 @@ As I explain before, the retinal layer is made of many sub-layer. The outer laye
 5. The RGCs are further subdived into ON and OFF cells, that depending on the light stimuli in the eyes, can actually be activated or deactivated
 6. Further, a lot of modulation also arise from amacrine and other cells
 In the end, the signal that reaches the RP has little to do with the original light signal in intensity or color. 
-7. Retinotrophy changes (some studie says no other yes)
+7. Retinotrophy changes (some studies says no other yes)
 
 One of the way of stimulating that is to stimulate direclty from the cells in the subretinal here(point) like the bipolar cells, before there's this signal processing. But because they are deeper in the eyes, they could damage the retina, and also don't dissipate heat enough.
 
@@ -120,7 +120,7 @@ the most succesful?
 
 Well, noone of them are. They both give the same results, even by using different techniques Which is weird right? I mean AIMS has 1500 electrodes. Tha's more than 20 more than Argus!
 
-For that, we have to look at the design of electrodes. Now that we have this signal turn into electric, we have to find where and how
+May be we'll find an explanation by going deeper in the electrodes. Now that we have this signal turn into electric, we have to find where to place those electrodes, and how they make the retinal cells react. 
 ## MicroElectrodes Stimulations
 
 
