@@ -102,7 +102,9 @@ Because by stimulating just some parts of the RP, we can obtain a roughly good e
 Let's say we have this image. We know what is it. But Joe doesn'T. How can we help Joe regain some sense of the image? We need couple of technologies to do so right? Can you think of the first thing we need to turn this into neural input?
 1. Of course the first thing is to turn that light brigthness and intensity and color into electrical signal. (Color is out. No PRcs) There are two strategies to do so. You could use the 
 
-ARGUS: 
+ARGUS: Directly capture the image, and turn it into signals. For that you need 3 things: 
+	1. A glass mounted computer, A portable computer (Visual Processing Unit, VPU) that turns the image into electrical stimuli. An external coil that will transmit the signal by RF to the internal parts
+	2. Then in the internal parts, we have an internal coil that will reviec the RF into and convert in back in electrical power. Then, There'S this ASIC
 
 
 
