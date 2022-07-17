@@ -100,12 +100,21 @@ So how do we solve the problem of having so much RCGs? Think about solultions #r
 Because by stimulating just some parts of the RP, we can obtain a roughly good enough image, to restore some kind of vision. Because of all oof the problems cited here, the resulting vision will really be poor. But may be, usuable. 
 
 Let's say we have this image. We know what is it. But Joe doesn'T. How can we help Joe regain some sense of the image? We need couple of technologies to do so right? Can you think of the first thing we need to turn this into neural input?
+*Or, show a turned image, and ask people to guess and do the reverse, turn it back into true image? Too complicated. *
 1. Of course the first thing is to turn that light brigthness and intensity and color into electrical signal. (Color is out. No PRcs) There are two strategies to do so. You could use the 
 
-ARGUS: Directly capture the image, and turn it into signals. For that you need 3 things: 
-	1. A glass mounted computer, A portable computer (Visual Processing Unit, VPU) that turns the image into electrical stimuli. An external coil that will transmit the signal by RF to the internal parts
+ARGUS:
+(Ask the guys what we need)
+Directly capture the image, and turn it into signals. For that you need 3 things: 
+	1. A glass mounted computer, A portable computer (Visual Processing Unit, VPU) that turns the image into electrical stimuli. An external coil that will transmit the signal by RF to the internal parts.
 	2. Then in the internal parts, we have an internal coil that will reviec the RF into and convert in back in electrical power. Then, There'S this ASIC Application-Specific-Integrated-Circuit (ASIC that will generate the appropriate electrical pulses based on the recieved datta
-	3- And finally the most imprtant, the micro electrode, 6* 10
+	3- And finally the most imprtant, the micro electrode. 
+Of course, there are other ways to do so, and the other one is the The alpha-IMS. It as:
+- More electrodes (1500)
+- But most importnatnly it relyins on photodiodes, that are direcly placed in the eyes and measure the light and turn it into current. 
+So IYO, what will be the most succesful? 
+
+## MicroElectrodes Stimulations
 
 
 
