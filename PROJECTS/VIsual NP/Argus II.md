@@ -33,6 +33,8 @@ Light sensing is mediated by intraocular photodiodes, so it operates without an 
 
  A disadvantage of the alpha-IMS is the limited control over the stimulation parameters. Most importantly, the offset and gain can be adjusted jointly for all electrodes, but not for individual electrodes [10][(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926652/#R10)]. In contrast, the Argus II system allows for the adjustment of stimulation variables for each individual electrode.
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3619489/
+The chip typically records images five to seven times per second (working frequency of 5–7 Hz, adjustable in a wide range) and provides the bipolar cells with a ‘point-by-point electrical image’ of the luminance distribution, typically consisting of 1 ms pulses with amplitudes that are correlated with the luminance at each point. From the bipolar cells onwards, the signal is processed via the remaining visual pathway. The chip size is approximately 3 mm × 3 mm and is approximately 70 µm thin when placed on polyimide foil (thickness approx. 17 µm), which leaves the subretinal space in the upper temporal periphery through the choroid and the sclera.
 
 -------------------------------
 
