@@ -40,6 +40,15 @@ Light sensing is mediated by intraocular photodiodes, so it operates without an 
 The theoretical resolution of the alpha-IMS is 0.5 ̊ [10]; approximately eight-times better than the Argus II. In the first report on alpha-IMS performance, two out of three patients were able to perceive gratings with reported acuities of 2 and 5 ̊ [9], that is, no better than the best acuity reported in the Argus II study (1.1 ̊).
 => No differences btwen Argus and Alpha IMS
 
+The thresholds ranged from 39 μA to 1.3 mA during the first days of testing, and from 50 to 500 uA at 10 weeks after the surgery. The timing of the pulse was typically a biphasic current pulse, 1 ms/phase with a 1 ms intraphase delay. These numbers were chosen based on prior studies that suggest a stimulus impulse longer than 0.5 ms can target bipolar cells ([Fig. 3](https://www.sciencedirect.com/science/article/pii/S0042698903004577?via%3Dihub#FIG3)). The threshold level of electrical stimulus charge remained below 0.35 mC/cm2 electrodes on 13 electrodes of the 16 (81.25%) electrodes (0.35 mC/cm2 is an established long-term safety limit for platinum when pulses of at least 0.6 ms are used) ([Greenberg, 1998](https://www.sciencedirect.com/science/article/pii/S0042698903004577?via%3Dihub#BIB3)). The threshold stimulus for each electrode position is shown on first day of stimulation and then 2.5 months later in [Fig. 4A, B](https://www.sciencedirect.com/science/article/pii/S0042698903004577?via%3Dihub#FIG4). The most dramatic decrease in threshold was seen at the electrodes furthest away from the fovea (i.e. at the perimeter of the electrode array). Electrode impedances ranged from 4 to 55 kOhms (at 1 KHz, average, 23 kOhms) over 2.5 months of testing ([Fig. 5](https://www.sciencedirect.com/science/article/pii/S0042698903004577?via%3Dihub#FIG5)).
+
+
+
+
+
+
+
+
 
 The Argus® II Retinal Prosthesis System (Second Sight Medical Products) is the first prosthetic vision device to obtain regulatory approval in both Europe and the USA.
 To date, over 100 devices have been implanted worldwide, representing the largest group of patients currently treated with visual prostheses. (now 800)
