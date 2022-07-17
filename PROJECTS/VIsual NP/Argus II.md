@@ -106,7 +106,7 @@ Object name is z7g9991122960007.jpg](https://www.ncbi.nlm.nih.gov/pmc/articles/P
 Predicted percepts with increasing amplitude (_top row_) and increasing frequency (_bottom_).
 
 Because our model assumes uniform current spread from a disc electrode and equal sensitivity across the retina, all predictions are of a round, symmetric percept. Although our subject did occasionally draw circular percepts, the majority of his percepts resembled elongated ellipses, such as those shown in [Figure 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F3/). This result is probably due to unequal sensitivity across the retinal surface. It is possible that retinal stimulation activates not only the neural tissue directly below the electrode but also the passing axon fibers tracts.[28](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B28),[41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B41)[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B42)[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B43)–[44](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B44)
-
+![[Pasted image 20220717130524.png]]
 -----------------
 #### Retinal Stimulation. 
 
