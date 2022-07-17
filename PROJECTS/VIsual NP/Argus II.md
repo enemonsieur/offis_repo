@@ -47,6 +47,9 @@ Brightness tests revealed that with increasing or decreasing current the visual 
 The electrode size for this prototype was based on safely supplying a stimulus current of 700 μA for 1 ms. This corresponds to charge density less than 0.35 mC/cm2. Since the actual current needed is in many cases lower, electrodes can be made smaller yet still support the same current. Thus, lower current requirements may lead to the use of a smaller, more densely packed electrode array that would put hundreds of individual percepts in the macula, possibly increasing the resolution afforded by the implant ([Robblee & Rose, 1990](https://www.sciencedirect.com/science/article/pii/S0042698903004577?via%3Dihub#BIB16)).
 
 -----------------
+#### Retinal Stimulation. 
+
+In the retinal stimulation experiments, stimuli were charge-balanced, 0.45 ms/phase cathodic-first biphasic pulse trains that were always 500 ms in duration. Pulses were charge balanced across cathodic and anodic pulses for safety reasons. Each pulse train was presented on a single electrode, and nine electrodes were tested in total. Chosen electrodes had the greatest dynamic range. All data were recorded under photopic conditions.
 Phosphene shape and brightness were manipulated in two ways. In the _modulated-amplitude_ condition, we modulated current amplitude between 1.2× and 6× threshold (threshold was defined in a separate experimental run with a 20-Hz pulse train and using a method of adjustment procedure described previously[24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B24)), while holding the frequency constant at 20 Hz. In the _modulated-frequency_ condition, the frequency of the pulse train was varied between 13 and 120 Hz, while current amplitude was held constant at 1.25× threshold ([Fig. 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F1/)C).
 
 
