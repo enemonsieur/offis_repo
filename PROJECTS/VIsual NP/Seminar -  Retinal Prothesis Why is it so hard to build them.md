@@ -33,13 +33,16 @@ Vision starts by the cornea, goes through the lense and then hit the retina laye
 - 
 The RGCs then move the signal to the Optic nerve, Moves to the Optic tract, reaches the Lateral Geniticulated Nucleus, That projects to the Occipital cortex, 1°Visual Cortex. 
 
-So. Now, Remember, the point is to bring back vision?[ Any ideas?](https://www.brightfocus.org/macular/article/eye-diseases-can-cause-legal-blindness)
+So. Now, Remember, the point is to bring back vision. But there's  not a single cause of blindness. And depending on the part of the visual system that's broken, we can have a lot of causes. 
+So let's play a game: I'm gonna align different diseases, and you'll try to guess where the lesion happenned. 
+[ Any ideas?](https://www.brightfocus.org/macular/article/eye-diseases-can-cause-legal-blindness)
 - Cataract lenses.
 - Strokes
 - Glaucoma -retinal die.
 - age-related macular degeneration
 -   retinitis pigmentosa
 -   diabetic retinopathy
+- -   Optic neuritis, an inflammation (swelling) of the optic nerve caused by [multiple sclerosis.](https://my.clevelandclinic.org/health/articles/multiple-sclerosis)
 Match them to the parts of the brain.
 
 AMD: Destroy of the macula the specialized central part of the retina
