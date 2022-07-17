@@ -121,8 +121,6 @@ Phosphene shape and brightness were manipulated in two ways. In the _modulated-
 
 
 
-
-
 The Argus® II Retinal Prosthesis System (Second Sight Medical Products) is the first prosthetic vision device to obtain regulatory approval in both Europe and the USA.
 To date, over 100 devices have been implanted worldwide, representing the largest group of patients currently treated with visual prostheses. (now 800)
 -> How succesful is the ARgus
