@@ -112,8 +112,15 @@ Directly capture the image, and turn it into signals. For that you need 3 things
 Of course, there are other ways to do so, and the other one is the The alpha-IMS. It as:
 - More electrodes (1500)
 - But most importnatnly it relyins on photodiodes, that are direcly placed in the eyes and measure the light and turn it into current. 
-So IYO, what will be the most succesful? 
+So IYO, what will be the difference of intra-versus extra occulary device?
+- no correcting the movement
+- But hard to process the signal like changing the stimulation pattern because the photodiods directly convert the signal - Can't independently stimulate the electrodes. 
 
+the most succesful? 
+
+Well, noone of them are. They both give the same results, even by using different techniques Which is weird right? I mean AIMS has 1500 electrodes. Tha's more than 20 more than Argus!
+
+For that, we have to look at the design of electrodes. Now that we have this signal turn into electric, we have to find where and how
 ## MicroElectrodes Stimulations
 
 
