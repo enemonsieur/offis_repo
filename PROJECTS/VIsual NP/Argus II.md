@@ -67,7 +67,8 @@ Brightness increased as a function of both amplitude and frequency. [Figure 4](
 => How is brightness of phosphenes modulate by the stim? If we increase the pulse frequency and the amplitude from 1 to 7 uA, we see a gradual increase in brightness rating. Same by frequencies: from 20 to 120 Hz
 
 Apparent size always increased with increasing amplitude, but generally did not increase with frequency. [Figure 4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F4/)C shows drawing size (mean area) as a function of amplitude in the modulated-amplitude condition: For all nine electrodes, the size of the phosphenes increased as a function of amplitude (_P_ < 0.01, one-tailed Student's _t_-test). [Figure 4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F4/)D shows size as a function of frequency in the modulated-frequency condition; in six of nine electrodes, size did not vary with frequency (_P_ > 0.05); and in the remaining three electrodes slopes were significantly larger than 0 (_P_ < 0.01, one-tailed Student's _t_-test). Although phosphene size significantly increased in three electrodes, in all cases the slopes (_s_) were relatively shallow (_s_ = 0.3%–4.2% increase/ Hz). In other words, a doubling of the amplitude resulted in a 1.7 to 2.9× (mean, 2.2×) increase in size, whereas a doubling of the frequency resulted in only a 1 to 1.8× (mean, 1.2×) increase in size (normalized by frequency). Slope values and corresponding statistics for [Figure 4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F4/) plots are also shown in [Table 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/table/T2/).
-=>The size of the perceived Phosphenes don't increase with  frequencies. 
+=>The size of the perceived Phosphenes don't  really increase with  frequencies, only with the amplitudes.
+
 ### Computational Modeling
 
 These results can be qualitatively described using a simple model based on estimates of the spread of current from a metal disc in a semi-infinite medium (based on electrophysiological spatial threshold data)[36](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B36) and the perceptual sensitivity model by Horsager et al.,[25](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B25) previously used by our group to predict the perceptual sensitivity of the retina to electrical stimulation in human subjects. As described previously, this model bears a strong resemblance to models used to describe both temporal sensitivity for normal vision and retinal sensitivity to electrical stimulation, as measured neurophysiologically,[37](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B37)[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B38)[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B39)–[40](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B40) and can predict both absolute thresholds and suprathreshold brightness matching across a wide variety of pulse trains. A schematic of the model is shown in [Figure 6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F6/).
@@ -77,7 +78,8 @@ These results can be qualitatively described using a simple model based on estim
 [](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F6/)[
 
 ![An external file that holds a picture, illustration, etc.
-Object name is z7g9991122960006.jpg](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/bin/z7g9991122960006.jpg "Click on image to zoom")](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3292357_z7g9991122960006.jpg)
+Object name is z7g9991122960006.jpg](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3292357_z7g9991122960006.jpg)
+
 
 [Figure 6.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F6/)
 
