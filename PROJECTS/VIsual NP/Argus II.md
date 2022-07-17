@@ -112,6 +112,13 @@ These findings were based on relatively small conical electrodes with a length o
 
 We also found that increasing amplitude has a limited effect on the maximum brightness. This effect of saturation of brightness at higher amplitudes has been noted in previous experiments by our group. For example, we found in a previous study[26](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B26) that brightness ratings elicited with single-pulse (0.975 ms) stimulation are best fit with a power function. In our model the saturation of brightness with current amplitude was modeled by a sigmoidal nonlinearity that assumes asymptotic responses as a function of current amplitude at higher amplitudes. A possible explanation for this observation is that increasing amplitude increases brightness by producing multiple spikes per pulse,[54](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B54) which is interpreted by the visual system as increased brightness. However, cell refractory properties will eventually impose an upper limit on the number of spikes elicited by a single pulse, and at that point, further increases in amplitude beyond that amplitude will not increase the rate of neural response. Our data support this explanation, since brightness increases with amplitude at near threshold, but at four times above threshold, the increase in brightness approaches asymptote.
 
+
+
+-------------------------------
+### Perceptual Thresholds
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2517253/
+Perceptual thresholds were defined as the amount of current required for a subject to detect a pulse in 79% of trials.[31](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2517253/#R31) We measured detection thresholds for each of the 16 electrodes using a single standard pulse, consisting of a 0.975-ms cathodic pulse followed by a 0.975-ms anodic pulse. Cathodic and anodic pulses were separated by a 0.975-ms interpulse delay. All pulse waveforms were biphasic and charge balanced.
+
 -----------------
 #### Retinal Stimulation. 
 
