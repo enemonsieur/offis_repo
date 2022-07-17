@@ -99,15 +99,17 @@ where _r_ is the distance from the center of the stimulating disc electrode, a
 We then passed this spatiotemporal stimulus through the perceptual sensitivity model. In brief, the stimulus was convolved with a temporal low-pass filter that had a one-stage gamma function with a time constant τ1 = 0.42 ms as its impulse response ([Fig. 6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F6/), BOX 2). 
 => Then we apply the perceptual sensitivity model, using a low-pass filter with a particulat Time Constant. 
 We then assumed that the system became less sensitive as a function of accumulated charge and calculated the amount of accumulated cathodic charge over time, and convolving this accumulation with a second one-stage gamma function with time constant τ2 = 45.25 ms ([Fig. 6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F6/), BOX 3). The output of this convolution was scaled (by a factor ε = 8.73) and subtracted from the output of the first convolution. The resulting time course was half rectified.
-=> 
+=> Then we convolve the amount of charges accumulated over time, with another gamma fuction, we half rectify it then. This gives us the amplitude/frequency required to reach a certain brightness level. 
 
 The previous instantiation of this model determined the amplitude or frequency required to reach threshold or a fixed brightness level. To do this, the half-rectified output, _b_3(_r_,_t_), was passed through a power nonlinearity of β = 3.4 at threshold and β = 0.8 at suprathreshold. For our purposes a continuous mapping of amplitude/frequency to brightness was required. We therefore replaced β with a continuous function that nonlinearly rescaled _b_3(_r_,_t_), across space and time, based on a sigmoidal function dependent on the maximum value of _b_3(_r_,_t_; [Fig. 6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F6/), BOX 4):
+=> We then pass the results through a through a power nonlinearity and a sigmoidal fxn. 
 
 ![equation image](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/bin/z7g00112-2296-m03.jpg "equation image")
 
 The parameter values of _a_ (asymptote) = 14, _s_ (slope) = 3, and _i_ (shift) = 16 were chosen to match the observed psychophysical data. Interestingly, for parameter values that reproduced the observed behavior, we found that the sigmoidal function had an accelerating slope near threshold and a compressive slope when amplitude values were at suprathreshold levels: properties very similar to those demonstrated by parameter β in the original Horsager model. These were the only free parameters used to develop this model. All other parameters were based on those of the original Horsager data and model.
 
 Finally, as in the Horsager model, the output, _b_4(_r_,_t_) was convolved with a low-pass filter described using a three-stage gamma function with time constant τ3 = 26.25 ms ([Fig. 6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F6/), BOX 5). The maximum value of the output from this slow integration over time was used to represent the brightness response for each location in space, _B_(_r_). For a given stimulus, the brightness of a phosphene was assumed to be linearly related to the maximum brightness of the _B_(_r_) plot. We estimated the size of the phosphene by calculating the area where _B_(_r_) > ϴ, where ϴ was fixed as the maximum brightness elicited by a threshold stimulus.
+=> Finally we convolve with a LP filter using a 3-stage gamma fxn
 
 Thus, most of the parameters in this model (τ1, τ2, τ3, and ε) were fixed on the basis of previous work or separate measurements of threshold. Only the parameters of the sigmoid function (_a_, _s_, and _i_) were varied to match our psychophysical results.
 
