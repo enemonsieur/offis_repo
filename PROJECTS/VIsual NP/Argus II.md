@@ -84,7 +84,8 @@ Object name is z7g9991122960006.jpg](https://www.ncbi.nlm.nih.gov/core/lw/2.0/ht
 [Figure 6.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F6/)
 
 The study model. BOX 1: the time stimulus, _f_(_t_), was transformed into a spatiotemporal representation, on the basis of the measured electrophysiological thresholds from a disc electrode. BOXES 2–5: the output was then passed through a modified version of the perceptual sensitivity model incorporating threshold and suprathreshold parameters. The resulting output corresponds to a spatial brightness response, _B_(_r_).
-
+=> Transform the pulse at the electrode in the spreading of the current aroudnthe electrode. Using a spatial attenuation function. 
+=>The attenuatio varries with the distance from the center, and the radius of the electrode. Which makes sense right? 
 We began by applying a spatial attenuation function to the temporal input stimulus pulse train to produce _b_1_(r,t_), a spatiotemporal stimulus profile:
 
 ![equation image](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/bin/z7g00112-2296-m01.jpg "equation image")
@@ -96,7 +97,7 @@ where _f_(_t_) is the electrical stimulation input pattern, _t_ is the time (
 where _r_ is the distance from the center of the stimulating disc electrode, and _a_ is the radius of the electrode ([Fig. 6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F6/), BOX 1). The _I_(_r_) function was obtained by inverting the relationship between threshold and distance from the edge of a 200-μm diameter platinum disc electrode (previously reported in Ahuja et al.[36](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/#B36)). In that paper, thresholds from salamander retina were shown to increase with distance _r_ from the stimulating electrode. We assumed that current attenuation at distance _r_ was inversely proportional to the increase in threshold at _r_.
 
 We then passed this spatiotemporal stimulus through the perceptual sensitivity model. In brief, the stimulus was convolved with a temporal low-pass filter that had a one-stage gamma function with a time constant τ1 = 0.42 ms as its impulse response ([Fig. 6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F6/), BOX 2). We then assumed that the system became less sensitive as a function of accumulated charge and calculated the amount of accumulated cathodic charge over time, and convolving this accumulation with a second one-stage gamma function with time constant τ2 = 45.25 ms ([Fig. 6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F6/), BOX 3). The output of this convolution was scaled (by a factor ε = 8.73) and subtracted from the output of the first convolution. The resulting time course was half rectified.
-
+=> Then we apply 
 The previous instantiation of this model determined the amplitude or frequency required to reach threshold or a fixed brightness level. To do this, the half-rectified output, _b_3(_r_,_t_), was passed through a power nonlinearity of β = 3.4 at threshold and β = 0.8 at suprathreshold. For our purposes a continuous mapping of amplitude/frequency to brightness was required. We therefore replaced β with a continuous function that nonlinearly rescaled _b_3(_r_,_t_), across space and time, based on a sigmoidal function dependent on the maximum value of _b_3(_r_,_t_; [Fig. 6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/figure/F6/), BOX 4):
 
 ![equation image](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/bin/z7g00112-2296-m03.jpg "equation image")
