@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "e63de3eb48cdcce0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -65,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453
+    "width": 453,
+    "collapsed": true
   },
   "right": {
     "id": "554efaf4754e9155",
