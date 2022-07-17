@@ -126,7 +126,14 @@ Well, noone of them are. They both give the same results, even by using differen
 
 May be we'll find an explanation by going deeper in the electrodes. Now that we have this signal turn into electric, we have to find where to place those electrodes, and how they make the retinal cells react. 
 ## MicroElectrodes Stimulations
-THere are many factors to consider when stimulating the retina. If you look at the diagram (=), you'll see that there's a lot of layer in the eyes. So depending on where you place the electrode array, you ll be able to stimulate a certain type of cells. If you put it  before the retina, at the level of the degenerated PRs,
+THere are many factors to consider when stimulating the retina. If you look at the diagram (=), you'll see that there's a lot of layer in the eyes. So depending on where you place the electrode array, you ll be able to stimulate a certain type of cells. If you put it  before the retina, at the level of the degenerated PRcs, y[ou can may be stimulated then, and avoid the burden of processing the signal,](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6350159/), but at the same time, you need to go deeper in the eye, and its an unfamiliar procedure for surgeon. Also most of the diseases destroy the PRs
+If you go directly on the retina, it's better because you'll stimulate the bipolar cells. You'll loose some signal processing, yeah, but it's a must safer procedure. 
+
+According to this study
+
+
+Ok. The electrode is placed. Now what?  Applying the current? But what's the number one danger of current?
+It can kill. And as we saw, the charge of the electrode must be very well monitored to make sure they aren't dangerous in short or long term
 
 
 	So then, how do we stimulate those RCGs? First of all, we have some limitation. The The electrode grid we have are very big, () and therefore, can stimulate them enough. If we try to reduce the electrodes, then it will increase the charge density, making the current higher. 
