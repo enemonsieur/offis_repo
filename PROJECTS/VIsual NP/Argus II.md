@@ -16,6 +16,12 @@ Flicker fusion in Argus 16 subjects was reported to be approximately 40 Hz for s
 “The Argus II represents the visual scene by encoding brightness via stimulus amplitude. Intensity coding was chosen, since[...]as many as 10 intensity levels could be successfully identified by one patient [2], a finding supported by the alpha-IMS trial [9]” (Stronks and Dagnelie, 2014, p. 26)
 => To recreate vision, we encode brightness (but not color) in intensity of stimulation. 
 => Patient can differentiate 10 different types of intensities.
+Figure 3. A part of the Argus II electrode array to show the theoretical grating visual acuity limit of the Argus II device. The electrodes have a diameter of 200 mm and center to-center electrode spacing is 575 mm. The finest grating that can be represented on an electrode grid with these dimensions has a cycle of 1150 mm on the retina. Assuming that 1 ̊ covers 288 mm retinal surface [63], the maximum visual acuity achievable with the Argus II is 4 ̊. Note that the Argus II array has 6  10 electrodes and the entire electrode grid spans approximately 20 ̊ of the field of view along the diagonal
+=> Argus electrode is 200 um big.  Spaced 575um and cover 288mm of the retina. Electrodes array are 6 * 10.
+=>Even though it represents 20 degree vision, it only is able to achieve 4 degrees vision.You just have to remember that because of the position of the electrodes, spaming 20 deg of the 360degres of the view field, the fact that the electrode grid cover a total of 1000 um on the retinal and you need 288um to cover one degree, the max accuity it can achieve is just 4 degrees
+	![[Pasted image 20220716191656.png]]
+
+
 
 
 The 1500-electrode alpha-IMS implant The alpha-IMS device (Retina Implant AG, Reutlingen, Germany) has been tested in two clinical trials including a total of 47 patients. The 2nd of these, a multicenter international trial, is still ongoing [9–11]. It features 38  40 (~1500) squareshaped electrodes (50 x 50 um), measures 3 x 3.1 um covers a visual angle of 10 ̊ x10 ̊ (15 ̊ diagonally) [10].
@@ -23,15 +29,12 @@ The 1500-electrode alpha-IMS implant The alpha-IMS device (Retina Implant AG, Re
 => Electrodes grid is made of 1500, 38x40 of 50um each
 => Electrodes cover a 15degrees angle
 => alpha-IMS isn't better than Argus
+Light sensing is mediated by intraocular photodiodes, so it operates without an external camera. In contrast to approaches using an external camera such as the Argus II, intraocular light sensing has the advantage that normal eye movements can be used, instead of head scanning. In fact, large eye movements should be actively avoided by Argus II wearers, because of the perceived image displacements due to cortical feedback from the oculomotor system. Rehabilitation procedures, therefore, include training to keep a steady gaze, while scanning the environment by head movements.
+
+ A disadvantage of the alpha-IMS is the limited control over the stimulation parameters. Most importantly, the offset and gain can be adjusted jointly for all electrodes, but not for individual electrodes [10][(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926652/#R10)]. In contrast, the Argus II system allows for the adjustment of stimulation variables for each individual electrode.
 
 
-
-Figure 3. A part of the Argus II electrode array to show the theoretical grating visual acuity limit of the Argus II device. The electrodes have a diameter of 200 mm and center to-center electrode spacing is 575 mm. The finest grating that can be represented on an electrode grid with these dimensions has a cycle of 1150 mm on the retina. Assuming that 1 ̊ covers 288 mm retinal surface [63], the maximum visual acuity achievable with the Argus II is 4 ̊. Note that the Argus II array has 6  10 electrodes and the entire electrode grid spans approximately 20 ̊ of the field of view along the diagonal
-=> Argus electrode is 200 um big.  Spaced 575um and cover 288mm of the retina. Electrodes array are 6 * 10.
-=>Even though it represents 20 degree vision, it only is able to achieve 4 degrees vision.You just have to remember that because of the position of the electrodes, spaming 20 deg of the 360degres of the view field, the fact that the electrode grid cover a total of 1000 um on the retinal and you need 288um to cover one degree, the max accuity it can achieve is just 4 degrees
-	![[Pasted image 20220716191656.png]]
-
-
+-------------------------------
 
 
 The theoretical resolution of the alpha-IMS is 0.5 ̊ [10]; approximately eight-times better than the Argus II. In the first report on alpha-IMS performance, two out of three patients were able to perceive gratings with reported acuities of 2 and 5 ̊ [9], that is, no better than the best acuity reported in the Argus II study (1.1 ̊).
@@ -196,3 +199,5 @@ Earlier electrophysiological studies have predicted primate ganglion cell respon
 ### retinal degeneration
 Functional magnetic resonance imaging (fMRI) of the patients with [macular degeneration](https://www.sciencedirect.com/topics/medicine-and-dentistry/macular-degeneration "Learn more about macular degeneration from ScienceDirect's AI-generated Topic Pages") indicates that part of the cortex that normally responds to foveal visual inputs are strongly activated by the peripheral stimuli, confirming some level of neuroplasiticity in visually deprived cortex
 But other studies with PET scans suggest otherwise
+
+Hence, the functionality of present-day implants is not determined by limitations in in the number or density of the electrodes. Instead, factors such as the electrode-tissue interface [31](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926652/#R31), [32](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926652/#R32), severity of retinal degeneration and rewiring [33](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926652/#R33), cortical remodeling [34](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926652/#R34)], and psychological factors such as the patient’s preparedness for an intensive rehabilitation process [35](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926652/#R35)] may be more important. Indeed, cochlear implants, which have been available for decades [36](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926652/#R36)], were shown to perform almost equally well in terms of speech understanding when the number of channels was reduced from 20 to 7 [[37](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926652/#R37)]. As a consequence, cochlear implant engineering has mainly shifted its focus towards optimizing stimulation strategies, rather than maximizing electrode densities (e.g. [[38](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926652/#R38), [39](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926652/#R39)]). Although spatial resolution may be more important in retinal implants, we expect a similar trend to occur where much of the engineering efforts will go into improving image processing, such as the implementation of feature extraction paradigms where objects of interest such as edges [[40](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926652/#R40)] or obstacles [[41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3926652/#R41)] are overrepresented in the image to maximize the information contained in sparse stimuli. Optimizing the electrode-tissue interface and improved patient screening are two other aspects where much can be gained in the near future.
