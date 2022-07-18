@@ -157,7 +157,11 @@ As you can see, The first BOX will spreak the stimulus in the space around the e
 With this type of model, we can predict the phosphenes, and compare it to what the cpatitents have witness, and iterate again and again to improve our predictions!
 
 
-Great! Now that we l
+Great! Now that we have a functioning Retinal Prosthetics. Let's see what it can do! [As this study measured](https://www.intechopen.com/chapters/66090), we usually use biphasic pulse, around 0.45ms/phase at 20hz which is consistent with previous datas.
+As you can tell from the bike image, the data are filter, and appear as a lot of dots, that can be seen by the patients. You can se the dots have diferent brightness and size, which is exactly what we figured out!
+Argus -> Need to stay still and scan the surrounding. 
+For the Argus, because only a small part of the retina is connected with electrodes (wthich rerpesents 20 degree field of view), the patients can only see right in front
+
 
 
 	So then, how do we stimulate those RCGs? First of all, we have some limitation. The The electrode grid we have are very big, () and therefore, can stimulate them enough. If we try to reduce the electrodes, then it will increase the charge density, making the current higher. 
