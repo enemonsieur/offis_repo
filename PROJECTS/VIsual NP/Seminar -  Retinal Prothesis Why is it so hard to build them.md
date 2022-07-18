@@ -177,7 +177,9 @@ In stronksFunctionalPerformanceArgus2014, we can see that the measured VA is act
 
 
 ## FUTURE
-1. Understand the signal
+1. Understand the  neural code
+2. Image processing
+3. hardware improvement
 
 	So then, how do we stimulate those RCGs? First of all, we have some limitation. The The electrode grid we have are very big, () and therefore, can stimulate them enough. If we try to reduce the electrodes, then it will increase the charge density, making the current higher. 
 	
