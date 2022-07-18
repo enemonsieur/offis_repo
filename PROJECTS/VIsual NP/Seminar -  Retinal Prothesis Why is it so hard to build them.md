@@ -141,13 +141,14 @@ Because you have to remember phosphes are just big round pixels, and our image i
 A[s this study shows](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/),the brightness increases gradually from 1  to 7 times the threshold stimuli -> As measure by patients
 But then, we remember amplitude isn'T the only thing we modulate.
 Frequencies : 20 to 120Hz gives gradual increase in brightness but NOT in size
-This is important because we have different ways to represent
+This is important because we have different ways to represent phosphenes for patients. We don't have to just modulate the intensity and change the frequencies according to how the image we see change, but we can also change the frequencies to make objects appear brighter. 
+
 
 Now we have to be able to transduct that signal into vision right? In the eyes, This is called to phosphenes or seeing dots with the eyes because of stimulation. 
 How do we create phosphenes? Well, simple. We have to increase progressively our current, until a bit before the max charge, and see if the patient report seeing any ligh points. 
 
 
-
+And may be you're already seeing where I wanna go hehe. Now that we know how the 
 
 
 
