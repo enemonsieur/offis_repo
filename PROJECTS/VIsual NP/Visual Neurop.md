@@ -19,9 +19,9 @@ Challenges and Future:
 Why haven’t the retinal prothestics encountered as much success as the cochlear implants? The few that currently exist, Epiretinal and Subretinal prosthetics offer a mild improvement in visual accuity for patient. (how much) Current research is trying to improve it using different approaches:
 #retinalcochlea
 	-   Increasing the number of electrodes in the implant, 
-	- -   Designing better interfaces
-	- -   Finding better materials
-	- -   Improving the light encoding algorithms
+	-    Designing better interfaces
+	-    Finding better materials
+	-    Improving the light encoding algorithms
 
 
 
@@ -167,13 +167,10 @@ In a second phase, the chip, which contains 1500 diodes/electrodes, was activate
   epiretinal stimulations can stimulate by-passing fibres;
 the brain can understand this recovered visual information;
    increasing the pixel number does not only rely on increasing the number of electrodes. In the next paragraphs, we will therefore discuss how to increase the number of electrodes and their individual spatial resolution.
-              
-      - **Future challenges**
-          
-          
-          **The electrode distribution**
-          
-          **The design of the interface**
+g
+     **Future challenges**
+     **The electrode distribution**
+**The design of the interface**
           
           - the **Materials**
               
