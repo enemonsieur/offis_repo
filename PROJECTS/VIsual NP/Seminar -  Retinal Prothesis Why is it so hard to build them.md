@@ -160,7 +160,7 @@ With this type of model, we can predict the phosphenes, and compare it to what t
 Great! Now that we have a functioning Retinal Prosthetics. Let's see what it can do! [As this study measured](https://www.intechopen.com/chapters/66090), we usually use biphasic pulse, around 0.45ms/phase at 20hz which is consistent with previous datas.
 As you can tell from the bike image, the data are filter, and appear as a lot of dots, that can be seen by the patients. You can se the dots have diferent brightness and size, which is exactly what we figured out!
 Argus -> Need to stay still and scan the surrounding. 
-For the Argus, because only a small part of the retina is connected with electrodes (wthich rerpesents 20 degree field of view), the patients can only see right in front
+For the Argus, [because only a small part of the retina ](https://www.intechopen.com/chapters/66090#B57)is connected with electrodes (wthich rerpesents 20 degree field of view), the patients can only see right in front. But because the electrodes don't stimulate directly the retinal c
 
 
 
