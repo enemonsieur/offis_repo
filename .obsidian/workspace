@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Visual NP/Argus II.md",
+            "file": "PROJECTS/Visual NP/Visual Neurop.md",
             "mode": "source",
             "source": false
           }
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453,
-    "collapsed": true
+    "width": 453
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Visual NP/Argus II.md",
+                "file": "PROJECTS/Visual NP/Visual Neurop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +112,8 @@
   },
   "active": "6fbece61e4f5c59f",
   "lastOpenFiles": [
-    "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
     "PROJECTS/Visual NP/Argus II.md",
+    "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
     "PROJECTS/Visual NP/Type of Retinal P.md",
     "AREAS/Les Confiotes/Tâches Confiotes.md",
     "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
