@@ -137,7 +137,10 @@ So the next factor of interest would be the amplitude. How would the amplitude o
 - Size
 Because you have to remember phosphes are just big round pixels, and our image is actually pretty low. Like playing a gameboy/ Game like Pacman They can be big or small, brighter or darker. THis is all you can get from RP. Nocolor, no precized view. Just like the woman()
 
-A[s this study shows](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/),the brightness increases gradually from 1 uA to 7uA. This means
+
+A[s this study shows](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/),the brightness increases gradually from 1 uA to 7uA of stim. 
+But then, we remember amplitude isn'T the only thing we modulate.
+Frequencies : 20 to 120Hz gives f
 
 Now we have to be able to transduct that signal into vision right? In the eyes, This is called to phosphenes or seeing dots with the eyes because of stimulation. 
 How do we create phosphenes? Well, simple. We have to increase progressively our current, until a bit before the max charge, and see if the patient report seeing any ligh points. 
