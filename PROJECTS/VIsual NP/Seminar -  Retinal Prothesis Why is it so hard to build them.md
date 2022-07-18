@@ -130,7 +130,7 @@ THere are many factors to consider when stimulating the retina. If you look at t
 If you go directly on the retina, it's better because you'll stimulate the bipolar cells. You'll loose some signal processing, yeah, but it's a much safer procedure. 
 
 Ok. The electrode is placed. Now what?  Applying the current? But what's the number one danger of current?
-According to [this study](https://www.sciencedirect.com/science/article/pii/S0042698903004577?via%3Dihub)  the charge limit has been settle to 0.35 mC/cm2 . So what ever we do, we must not cross this for too long at least. But you all know that the flow of current varies with the proximity to the source. We've seen the equation in CI. Applying a current can result in a monstruosly high charge, if the electrodes is too close from the tissue! 
+According to [this study](https://www.sciencedirect.com/science/article/pii/S0042698903004577?via%3Dihub)  the charge limit has been settle to 0.35 mC/cm2 . (But turns out, for platinum grid like Argus,, it can be raised to 1mc/cm^2 @stronksFunctionalPerformanceArgus2014) So what ever we do, we must not cross this for too long at least. But you all know that the flow of current varies with the proximity to the source. We've seen the equation in CI. Applying a current can result in a monstruosly high charge, if the electrodes is too close from the tissue! 
 
 So the next factor of interest would be the amplitude. How would the amplitude of the electrodes affects the vision/phosphenes?
 - Brightness
@@ -164,7 +164,7 @@ Argus -> Need to stay still and scan the surrounding.
 *Flicker fusion in Argus 16 subjects was reported to be approximately 40 Hz for single electrode stimulation [43]. Available pulse rates in the Argus II are 3–60 Hz [49] and therefore fast enough to sustain stable percepts.*
 
 For the Argus, [because only a small part of the retina ](https://www.intechopen.com/chapters/66090#B57)is connected with electrodes (wthich rerpesents 20 degree field of view), the patients can only see right in front. But because the electrodes don't stimulate specifically the retinal cells (ON OFF cells, bipolar, retinotopy...)
-the true visual field is actually 4 degrees. 
+As for the ability to distinguish details --> 4degrees theory. Because of the spacing btwn electrodes
 But the visual accuity is evaluaed at 20/1262, which is actually better than predicted, thanks the computational programs + rehab etc..
 20/1262  means you can see the same amount of details, that someone would see 1262 feet away or almost 400 meters...
 
