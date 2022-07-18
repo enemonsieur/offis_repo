@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
+            "file": "PROJECTS/Visual NP/Argus II.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "retinalco",
+                "query": "epiretinal",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
+                "file": "PROJECTS/Visual NP/Argus II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,12 +111,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c9003d531739500",
+  "active": "b5245d75518b9d87",
   "lastOpenFiles": [
+    "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
     "PROJECTS/Visual NP/Type of Retinal P.md",
     "PROJECTS/Visual NP/Argus II.md",
     "PROJECTS/Visual NP/Visual Neurop.md",
-    "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
     "references notes/Changing the electrode distribution for a better RP.md",
     "AREAS/Les Confiotes/Tâches Confiotes.md",
     "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
