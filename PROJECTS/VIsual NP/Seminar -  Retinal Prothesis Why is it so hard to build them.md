@@ -149,7 +149,8 @@ How do we create phosphenes? Well, simple. We have to increase progressively our
 
 
 And may be you're already seeing where I wanna go hehe. Now that we know what are the modalities that affects the phosphenes, the pixels patients see, we can model the algorithm that's going to turn the images, into stimmuli and predict what the patients are going to see. Many models like that exis, but let's focus on one of them: The perceptual sensitivity model by[ the study here](https://www.sciencedirect.com/science/article/pii/S0042698903004577?via%3Dihub) Which predicts how different puls trains will results in different brighness
-As you can see, The first BOX will spreak the stimulus in the space around the electorde
+As you can see, 
+- The first BOX will spreak the stimulus in the space around the electorde
 - The second will use a low pass filter, using a time constant to predict the accumulation of charge overtime
 - The third willt ake this charge and convolve it to a gamma function, then half-rectifyit (very similar to CI model). This gives us the amplitude and frequency responsible for a brightness level.
 - The 4 will use a power non-linearity and a sigmoidal fxn 
