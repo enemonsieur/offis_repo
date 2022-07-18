@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
+            "file": "PROJECTS/Visual NP/Argus II.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "6fbece61e4f5c59f",
+        "id": "46771b27db6db565",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Visual NP/Argus II.md",
+            "file": "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#",
+                "query": "retinotopy",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,11 +110,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c9003d531739500",
+  "active": "46771b27db6db565",
   "lastOpenFiles": [
-    "PROJECTS/Visual NP/Visual Neurop.md",
     "PROJECTS/Visual NP/Argus II.md",
     "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
+    "PROJECTS/Visual NP/Visual Neurop.md",
     "references notes/Changing the electrode distribution for a better RP.md",
     "PROJECTS/Visual NP/Type of Retinal P.md",
     "AREAS/Les Confiotes/Tâches Confiotes.md",
