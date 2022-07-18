@@ -130,14 +130,14 @@ THere are many factors to consider when stimulating the retina. If you look at t
 If you go directly on the retina, it's better because you'll stimulate the bipolar cells. You'll loose some signal processing, yeah, but it's a much safer procedure. 
 
 Ok. The electrode is placed. Now what?  Applying the current? But what's the number one danger of current?
-According to [this study](https://www.sciencedirect.com/science/article/pii/S0042698903004577?via%3Dihub)  the charge limit has been settle to 0.35 mC/cm2 . So what ever we do, we must not cross this for too long at least. But you all know that the flow of current varies with the proximity to the source. We've seen the equation in CI. Applying a current can result in a monstruosly high charge, if the electrodes is too close from the tissue!
+According to [this study](https://www.sciencedirect.com/science/article/pii/S0042698903004577?via%3Dihub)  the charge limit has been settle to 0.35 mC/cm2 . So what ever we do, we must not cross this for too long at least. But you all know that the flow of current varies with the proximity to the source. We've seen the equation in CI. Applying a current can result in a monstruosly high charge, if the electrodes is too close from the tissue! 
 
 So the next factor of interest would be the amplitude. How would the amplitude of the electrodes affects the vision/phosphenes?
 - Brightness
 - Size
 Because you have to remember phosphes are just big round pixels, and our image is actually pretty low. Like playing a gameboy/ Game like Pacman They can be big or small, brighter or darker. THis is all you can get from RP. No color, no precized view. Just like the woman()
 
-
+This oder study show that the threshold to even witness a phosphene, when the electrodes are properly place correspond to a current of 173-902 uA or little bit below 1mA (CI was around 1.3mA)
 A[s this study shows](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/),the brightness increases gradually from 1 uA to 7uA of stim. 
 But then, we remember amplitude isn'T the only thing we modulate.
 Frequencies : 20 to 120Hz gives gradual increase in brightness but NOT in size
