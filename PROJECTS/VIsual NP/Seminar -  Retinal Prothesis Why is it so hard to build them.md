@@ -173,6 +173,7 @@ In stronksFunctionalPerformanceArgus2014, we can see that the measured VA is act
 - Letter recognitiion: 
 - Orientation: Studies on groups show that "the Argus II is capable of increasing the mobility of people unable to navigate or orient themselves without a guide dog or white cane." (just like this woman) (Dad) - But still complementary
 - Shape and object recognition: 
+- Letter reading
 
 
 	So then, how do we stimulate those RCGs? First of all, we have some limitation. The The electrode grid we have are very big, () and therefore, can stimulate them enough. If we try to reduce the electrodes, then it will increase the charge density, making the current higher. 
