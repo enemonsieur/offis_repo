@@ -135,7 +135,7 @@ According to [this study](https://www.sciencedirect.com/science/article/pii/S004
 So the next factor of interest would be the amplitude. How would the amplitude of the electrodes affects the vision/phosphenes?
 - Brightness
 - Size
-Because you have to remember phosphes are just big round pixels, and our image is actually pretty low. Like playing a gameboy/ Game like Pacman They can be big or small, brighter or darker. THis is all you can get from RP. Nocolor, no precized view. Just like the woman()
+Because you have to remember phosphes are just big round pixels, and our image is actually pretty low. Like playing a gameboy/ Game like Pacman They can be big or small, brighter or darker. THis is all you can get from RP. No color, no precized view. Just like the woman()
 
 
 A[s this study shows](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3292357/),the brightness increases gradually from 1 uA to 7uA of stim. 
