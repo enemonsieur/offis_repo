@@ -163,8 +163,10 @@ Argus -> Need to stay still and scan the surrounding.
 For the Argus, [because only a small part of the retina ](https://www.intechopen.com/chapters/66090#B57)is connected with electrodes (wthich rerpesents 20 degree field of view), the patients can only see right in front. But because the electrodes don't stimulate specifically the retinal cells (ON OFF cells, bipolar, retinotopy...)
 the true visual field is actually 4 degrees. 
 But the visual accuity is evaluaed at 20/1262, which is actually better than predicted, thanks the computational programs + rehab etc..
-20/1262  means you can see the same amount of details
-Now, with the
+20/1262  means you can see the same amount of details, that someone would see 1262 feet away or almost 400 meters...
+
+Now, with this very limited view, what can patients even do? It turns out... kinda lot. 
+
 
 
 	So then, how do we stimulate those RCGs? First of all, we have some limitation. The The electrode grid we have are very big, () and therefore, can stimulate them enough. If we try to reduce the electrodes, then it will increase the charge density, making the current higher. 
