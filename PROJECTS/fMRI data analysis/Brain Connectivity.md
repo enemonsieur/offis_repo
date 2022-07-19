@@ -1,3 +1,6 @@
+---
+status: [Highlight][ID questions/Blocks][Summarize/]
+---
 Functional spezialization: 
 - Somekind of localization of mental function -> PFC
 Functional integration
