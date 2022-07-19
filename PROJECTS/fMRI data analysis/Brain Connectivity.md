@@ -44,4 +44,12 @@ How do we measure the connectivity using voxels?
 	4. 
 	5. Assuming that the functional connectivity is the same during the period of scan, e.g. in restingstate, it is straightforward to calculate correlation coefficients between two brain regions to represent functional connectivity. In a more general regression form, the model can be expressed as: y ¼ β0 þ β1⋅xphysio þ ε
 	6. 
-8. 
+8. What's a seed region?
+	1. In most of task fMRI experiments, researchers design different task conditions within a scan run, so that the effect of interest becomes the differences of temporal dependencies between the conditions. 
+	2. We can combine eqs. 1and2to include both the time series of a **seed region** (the physiological variable) and the psychological variable into a regression model. Most importantly, the interaction term of the psychological and physiological variables can also be included.
+
+9. How's the regression coefficient different frm
+10. How do regression coefficient affects the PPI?
+11. How does regression coefficient differs in PPI and BSC?
+12. Why is correlation and decorrelation important in PPI?
+13. 
