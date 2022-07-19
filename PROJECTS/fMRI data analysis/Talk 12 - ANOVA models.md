@@ -1,6 +1,6 @@
 ---
 ANOVA MODELS: 
-alias: Lecture
+alias:  (ID questions/Blocks) (Summarize/Answer) (Revise 1-2-3) (Mindmap) 
 ---
  
  What are continuous covariates?
