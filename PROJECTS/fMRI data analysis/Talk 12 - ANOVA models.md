@@ -48,3 +48,8 @@ Thinkabout the sANOVA design matrixes anre understnad them, like the OW ANOVA, t
 Havent full rank.
 
 How do we call the column of ones in ANOVA? (Not dummies)
+	Offsets
+
+![[Pasted image 20220719194133.png]]
+	Why does La-b uses zeros on the offset, but the rest consider the offset
+		bc we are only interested in diff in activation?
