@@ -4,6 +4,7 @@ alias:  (ID questions/Blocks) (Summarize/Answer) (Revise 1-2-3) (Mindmap)
 ---
  
  What are continuous covariates?
+ 
 How does different contrast affect the interpretation of an ANOVA model?
 page 6 : what happen is that for each subject, we wanna see how much variance is explained by each parameter
 One way ANOVA explain how similar each group are between is other g1 -g2 g2-g3 g3-g1
@@ -42,6 +43,8 @@ On the other side certains contrasts are estimable, when we can combine the diff
 In this case, the SPM will be gray where the Betas aren't estimable. 
 
 ## To know: 
-Thinkabout the sANOVA design matrixes anre understad them, like the OW ANOVA, the first five. Understand what the betas are estimating? Which contrast are you selcting?
+Thinkabout the sANOVA design matrixes anre understnad them, like the OW ANOVA, the first five. Understand what the betas are estimating? Which contrast are you selecting?
 -What happen if the matrix have full rank?
 Havent full rank.
+
+How do we call the column of ones in ANOVA? (Not dummies)
