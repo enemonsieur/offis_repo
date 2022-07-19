@@ -44,12 +44,20 @@ In this case, the SPM will be gray where the Betas aren't estimable.
 
 ## To know: 
 Thinkabout the sANOVA design matrixes anre understnad them, like the OW ANOVA, the first five. Understand what the betas are estimating? Which contrast are you selecting?
--What happen if the matrix have full rank?
+	-What happen if the matrix have full rank?+
+		Theres an unique solution
 Havent full rank.
-
+	Xb 1 = Xb 2 with b 1≠ b 2 (different parameters).
+	 • The parameters are not therefore ‘unique’, ‘identifiable’ or ‘estimable’. 
+	 • For such models, XTX is not invertible so we must resort to generalised inverses (SPM uses the pseudo-inverse).
 How do we call the column of ones in ANOVA? (Not dummies)
 	Offsets
 
 ![[Pasted image 20220719194133.png]]
 	Why does La-b uses zeros on the offset, but the rest consider the offset
 		bc we are only interested in diff in activation?
+What does having a full rank means in term of matrix colums?
+	That some colums can be recreated by a LC of others
+What's an overparametized function?
+How can we find the solutions if the matrix X isnt full rank?
+	We use pseudo inverse, bc it's not invertible
