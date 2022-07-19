@@ -61,3 +61,9 @@ What does having a full rank means in term of matrix colums?
 What's an overparametized function?
 How can we find the solutions if the matrix X isnt full rank?
 	We use pseudo inverse, bc it's not invertible
+How does invertible/rank matrix affects our **Contrast Matrix?**
+	Because we can only interpret it if it's the LC or made of the LC of the ---> of the Design matrix X
+What does the unicity of the X solution means in term of C and T matrix?
+	That there's only one T matrix that * by X gives the C marix
+How do SPM analysis signal a non invertible matrix?
+	Appears gray
