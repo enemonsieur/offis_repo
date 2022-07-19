@@ -7,6 +7,16 @@
       "name": "Designing Stress",
       "parent": ""
     },
+    "3FJEDVEX": {
+      "collections": [],
+      "items": [
+        289,
+        292
+      ],
+      "key": "3FJEDVEX",
+      "name": "fMRI",
+      "parent": ""
+    },
     "9KT4RITS": {
       "collections": [],
       "items": [
@@ -37,7 +47,8 @@
         193,
         212,
         255,
-        273
+        273,
+        289
       ],
       "key": "B3ZHZ5UA",
       "name": "Visual NP",
@@ -1249,6 +1260,65 @@
       "url": "https://onlinelibrary.wiley.com/doi/10.1111/isj.12042",
       "version": 108,
       "volume": "25"
+    },
+    {
+      "DOI": "10.1007/s11682-020-00304-8",
+      "ISSN": "1931-7557, 1931-7565",
+      "accessDate": "2022-07-19T10:31:36Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-19T10:31:41Z",
+          "dateModified": "2022-07-19T10:31:43Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\TR9G74XU\\Di et al_2021_Understanding psychophysiological interaction and its relations to beta series.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Di et al_2021_Understanding psychophysiological interaction and its relations to beta series.pdf",
+          "uri": "http://zotero.org/users/9698946/items/TR9G74XU"
+        }
+      ],
+      "citationKey": "diUnderstandingPsychophysiologicalInteraction2021",
+      "citekey": "diUnderstandingPsychophysiologicalInteraction2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Xin",
+          "lastName": "Di"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zhiguo",
+          "lastName": "Zhang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bharat B.",
+          "lastName": "Biswal"
+        }
+      ],
+      "date": "04/2021",
+      "dateAdded": "2022-07-19T10:31:36Z",
+      "dateModified": "2022-07-19T10:31:36Z",
+      "issue": "2",
+      "itemID": 289,
+      "itemKey": "HHCDZJY8",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Brain Imaging and Behavior",
+      "key": "HHCDZJY8",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "958-973",
+      "publicationTitle": "Brain Imaging and Behavior",
+      "relations": [],
+      "select": "zotero://select/library/items/HHCDZJY8",
+      "tags": [],
+      "title": "Understanding psychophysiological interaction and its relations to beta series correlation",
+      "uri": "http://zotero.org/users/9698946/items/HHCDZJY8",
+      "url": "https://link.springer.com/10.1007/s11682-020-00304-8",
+      "version": 774,
+      "volume": "15"
     },
     {
       "DOI": "10.1016/j.preteyeres.2015.09.003",
@@ -2625,6 +2695,66 @@
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0169260719320528",
       "version": 214,
       "volume": "193"
+    },
+    {
+      "DOI": "10.1007/s11682-020-00304-8",
+      "ISSN": "1931-7557, 1931-7565",
+      "abstractNote": "Psychophysiological interaction (PPI) was proposed 20 years ago for study of task modulated connectivity on functional MRI (fMRI) data. A few modifications have since been made, but there remain misunderstandings on the method, as well as on its relations to a similar method named beta series correlation (BSC). Here, we explain what PPI measures and its relations to BSC. We first clarify that the interpretation of a regressor in a general linear model depends on not only itself but also on how other effects are modeled. In terms of PPI, it always reflects differences in connectivity between conditions, when the physiological variable is included as a covariate. Secondly, when there are multiple conditions, we explain how PPI models calculated from direct contrast between conditions could generate identical results as contrasting separate PPIs of each condition (a.k.a. “generalized” PPI). Thirdly, we explicit the deconvolution process that is used for PPI calculation, and how is it related to the trial-bytrial modeling for BSC, and illustrate the relations between PPI and those based upon BSC. In particular, when context sensitive changes in effective connectivity are present, they manifest as changes in correlations of observed trial-by-trial activations or functional connectivity. Therefore, BSC and PPI can detect similar connectivity differences. Lastly, we report empirical analyses using PPI and BSC on fMRI data of an event-related stop signal task to illustrate our points.",
+      "accessDate": "2022-07-19T10:35:49Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-07-19T10:35:47Z",
+          "dateModified": "2022-07-19T10:35:50Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\TK6DJXDZ\\Di et al. - 2021 - Understanding psychophysiological interaction and .pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Di et al. - 2021 - Understanding psychophysiological interaction and .pdf",
+          "uri": "http://zotero.org/users/9698946/items/TK6DJXDZ"
+        }
+      ],
+      "citationKey": "diUnderstandingPsychophysiologicalInteraction2021a",
+      "citekey": "diUnderstandingPsychophysiologicalInteraction2021a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Xin",
+          "lastName": "Di"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zhiguo",
+          "lastName": "Zhang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bharat B.",
+          "lastName": "Biswal"
+        }
+      ],
+      "date": "04/2021",
+      "dateAdded": "2022-07-19T10:35:49Z",
+      "dateModified": "2022-07-19T10:35:49Z",
+      "issue": "2",
+      "itemID": 292,
+      "itemKey": "RGQX45BK",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Brain Imaging and Behavior",
+      "key": "RGQX45BK",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "958-973",
+      "publicationTitle": "Brain Imaging and Behavior",
+      "relations": [],
+      "select": "zotero://select/library/items/RGQX45BK",
+      "tags": [],
+      "title": "Understanding psychophysiological interaction and its relations to beta series correlation",
+      "uri": "http://zotero.org/users/9698946/items/RGQX45BK",
+      "url": "https://link.springer.com/10.1007/s11682-020-00304-8",
+      "version": 780,
+      "volume": "15"
     },
     {
       "DOI": "10.1007/s10111-013-0256-9",
