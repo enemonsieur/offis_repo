@@ -12,4 +12,9 @@ What are the 3 types of influences?
 
 How do we measure the connectivity using voxels?
 	Find the vCorr within and between subjects?
+	1. Seed Voxel Correlation between
+	2. SWC within
+		1. Find the covariance/correlation of each voxels within all of the activated voxels of the brian
+	- Use the eigenvariate?
+- 
 
