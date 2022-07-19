@@ -16,5 +16,9 @@ How do we measure the connectivity using voxels?
 	2. SWC within
 		1. Find the covariance/correlation of each voxels within all of the activated voxels of the brian
 	- Use the eigenvariate?
+- Activation induced Correlation
+	- How does it affects finding the connectivity?
+	- What's the activation effect?
+- Beta series correlations
 - 
 
