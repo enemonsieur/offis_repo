@@ -6,3 +6,6 @@ Functional integration
 What we are analyzing is a bit of both. 
 
 # Functional Connectivity
+Do two different regions activated in the same time? Is one Bregion activating another one? Both of them? 
+What are the 3 types of influences?
+(Question that separate those 3 influences)
