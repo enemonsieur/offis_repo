@@ -110,44 +110,65 @@ By contrast, direct response marketing focuses heavily on the needs, thoughts an
 ## Develop and Make clear what your USP is
 The entire goal of your USP is to answer this question:
 
-Why should I buy from you rather than from
+**Why should I buy from you rather than from your nearest competitor?**
 
-your nearest competitor?
+Another good test is this: **if I removed the company name and logo from your website, would people still know that it’s you or could it be any other company in your industry?**
 
-Another good test is this: if I removed the company name and logo from your website, would people still
+The common place people go wrong with developing their USP is they say “quality” or “great service” is their USP. There are two things wrong with that:
 
-know that it’s you or could it be any other company in your industry?
+- Quality and great service are expectations, they are just part of good business practice—not something unique.
+- People only find out about your quality and great service after they’ve bought. A good USP is designed to attract prospects before they’ve made a purchasing decision. You know you’re marketing your business as a commodity when prospects start the conversation by asking you about price. Positioning yourself as a commodity and hence being shopped on price alone is a terrible position for a small business to be in. 
 
-The common place people go wrong with developing their USP is they say “quality” or “great service” is their
 
-USP. There are two things wrong with that:
+There are two questions I ask my clients when helping them develop their USP. Answering these two questions is the path towards marketing and financial success in your business.
+So the two questions you must ask and answer are:
 
-1
+- **Why should they buy?
+
+- **Why should they buy from me?**
+
+These are questions that should have clear, concise and quantifiable answers. Not wishy-washy nonsense like “we are the best” or “we have the highest quality.”
+What is the unique advantage you are offering? Now the uniqueness doesn’t have to be in the product itself. In fact, it would be fair to say that there are very few truly unique products. The uniqueness may be in the way it is packaged, delivered, supported or even sold.
+You need to position what you do in such a way that even if your competitor was operating directly opposite you, customers would cross the road to do business with you instead of your competitor.
+Do it really well and they may even stand in line overnight to do business with you instead of your competitor, like they do with Apple products.
+
+## Remember you're fighting against Inaction
+Understand that your prospect has essentially three options:
+
+Buy from you
+
+Buy from your competitor
+
+Do nothing
+
+You may think your competitors are your biggest problem, but in reality it’s more likely to be a fight against
+
+inertia. Therefore you need to first answer the question of why they should buy and in addition to why they
+
+should buy from YOU.
+
+We live in a sound bite, MTV generation which has to deal with thousands of messages each day. The
+
+importance of crafting your message in an immediately understandable and impactful way has never been
+
+more important.
+
+Can you explain your product and the unique benefit it offers in a single short sentence?
+
+You must understand a very important concept: confusion leads to lost sales. This is especially so when you
+
+have a complex product. Many business owners erroneously think that a confused customer will seek
+
+clarification or contact you for more information. Nothing could be further from the truth.
+
+When you
+
+confuse them, you lose them
 
 .
 
-Quality and great service are expectations, they are just part of good business practice—not
+People have too many options and too much information coming at them constantly and they’re rarely
 
-something unique.
+motivated enough to wade through a confused message.
 
-2
-
-.
-
-People only find out about your quality and great service
-
-after
-
-they’ve bought. A good USP is
-
-designed to attract prospects
-
-before
-
-they’ve made a purchasing decision.
-
-You know you’re marketing your business as a commodity when prospects start the conversation by asking
-
-you about price.
-
-Positioning yourself as a commodity and hence being shopped on price alone is a terrible position for a small
+![[Pasted image 20220720080054.png]]
