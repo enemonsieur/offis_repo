@@ -6,7 +6,7 @@ What are the different levels of significance?
 	Cluster ofvoexesl?
 	Set level? .
 	1. Voxel level of significance
-		There's no correlation between voxel,as there's idnependently activated. 
+		There's no correlation between voxel, as there's idnependently activated. 
 		This doesn't get information (spatial) about the signal. 
 		Because we smooth that shit out,the activation of the signal will spread to surrounding signals
 	2. Cluster level inference
