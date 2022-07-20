@@ -2,24 +2,19 @@ What is the point of doing a Statistical Analysis of the BOLD RESPONSE?![[Pasted
 	Create a generative model: Predicts the BOLDr, given the experimental values (light ON, sound OFF)
 
 
-X values comes from the design Matrix. BUt what is the design Matrix?
+X values comes from the design Matrix. But what is the design Matrix?
 	The design matrix is a matrix containing the different conditions that we apply to the brain, expressed as value, that we then weight with the Beta parameter, to predict how much those conditions affects the brain activity aka the BOLDr. 
 	The Design matrix contains in the 1st column the values of the experimental design
 	![[Pasted image 20220705084850.png]]
 	during the 84 blocks of time, we alternate OFF and ON auditory signal
 	In the second column its for the dummies
 	In the rest of them, it's the values of the different predictors Betas
-We perform analysis for each voxels, not of all. So that for every voxel, we have the entire BOLD response measure in Y, of lenght (N). This length correspond to the number of slices that we had.  which obviously can't be too small. (May be a slide every 0.5s)
-
-What does X, Y and B represents?
-	![[Pasted image 20220629150856.png]] #unclear 
 
 
-What does those regression coeff mean? Betas #reformulate
-	what we know is that we need the X(n,p), the part of the BOLD signal that vary because of one particular factor (may be when presented blue or light. Those Xnp when changing because of the weight Beta 
-
-
+What does LTI means?
+	LInear time invariant model
 Why would we convolve the LTI to the X? #reformulate 
+	Because the 
 	To have a Y' values, of how our BOLD signal is predicted to look like. Since every conditions will be represented in a HDR fashion.
 	This is done through convolution, by assuming a **linear time-invariant model.** This convolution operation is conceptually the same as the one that was used in the smoothing preprocessing step; that was a convolution in space with a Gaussian kernel, whilst here it is a convolution in time with the canonical HRF. The output of this mathematical operation is displayed in Fig
 	![[Pasted image 20220705085447.png]]
