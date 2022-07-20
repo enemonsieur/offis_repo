@@ -30,10 +30,7 @@ Why do we add Ones columns to the  X design Matrix?
 
 We convolve the HRF with the BOLD signal to get one column per conditions. #unclear (looks plain out false) Because it is. Mofo.
 
-During the convolution, what is LTI? 
-	![[Pasted image 20220701103125.png]]
-	It's the algorithm that we use, to transform a one time signal like (light ON for 10ms) into the BOLDr/HDR that he will create
-How do we convolve a signal time point ? (Think one point with an intensity) into a Hemodynamic Signal.
+**How do we convolve a signal time point ? (Think one point with an intensity) into a Hemodynamic Signal.**
 	1. We  split the input into different intermediate signals (with diffre)
 	2. You scale the intermediate inputs by the intensity of the input. 
 	3. Let's say there's 3  intermediate input. THey all get assign a HDR funcion. So we have 3 HDR function, seperate by different time frame
