@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/fMRI data analysis/Talk 13 - Perspectives on brain  connectivity.md",
+            "file": "PROJECTS/fMRI data analysis/Talk 12 - ANOVA models.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/fMRI data analysis/Talk 13 - Perspectives on brain  connectivity.md",
+                "file": "PROJECTS/fMRI data analysis/Talk 12 - ANOVA models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
+    "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
+    "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
     "PROJECTS/fMRI data analysis/Talk 14 - Brain Connectivity.md",
-    "PROJECTS/fMRI data analysis/Talk 12 - ANOVA models.md",
     "PROJECTS/fMRI data analysis/Talk 13 - Perspectives on brain  connectivity.md",
+    "PROJECTS/fMRI data analysis/Talk 12 - ANOVA models.md",
     "PROJECTS/fMRI data analysis/Talk 8 - Experimental Design.md",
     "AREAS/grey matters/Threads Twitter.md",
     "AREAS/Les Confiotes/Marketing Confiotes.md",
     "AREAS/grey matters/Work in Progress.md",
-    "AREAS/grey matters/Building a second brain - Tiago Forte.md",
-    "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
-    "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md"
+    "AREAS/grey matters/Building a second brain - Tiago Forte.md"
   ]
 }
