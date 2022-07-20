@@ -56,16 +56,14 @@ What does FWE means?
 	 Means: we look at the family of test and we wanna keep the alpha* level p-value to 0.05 for the entire family. 
  What do we take into account in FWerror?
 	 We take into account the internal and external smoothing. Because we don't have independent tests. That we take into account for correcting the voxels. The theory that helps explaining that is RFtheory
-What's the corrected p-value?
+What's the corrected p-value? #unclear 
 
 Random Field Theory: How does it do p-value correction  
-	Estimates the smoothness of your  t-image by recreating the filter, and base on that calculates the corrected p-value. 
-	The more the filter increases, the smoother the image was =>the more the corr happens on a longer distances => the smaller the p value becomes. A very smooth data means we gotta be VERY CONSERVATIVE
+	Estimates the smoothness of your t-image by recreating the filter, and base on that calculates the corrected p-value. 
+	The more the filter increases, the smoother the image was =>the more the corr happens on a longer distances => the smaller the p value becomes. A very smooth data means we gotta be VERY CONSERVATIVE #unclear
 What is R in the RFT
 	R is the Reso volume? the volume of the brain, than we calculate / smoothing function. To determine how smooth or correlated or dependent our data are. If its already pretty smooth, you won't have to correct the p value. 
 	The smaller the smoothness the bigger the p-value will be transform
-whats RFT takes into account?
-		It takes into account the smoothness of thedata
 What is Random Field Theory
 	It's a math formula to estimate corrected p-values for each clusters. It  kinda does it by estimating the Smoothness of the data (intrinsic and after smoothing), and the more it finds smoothness, the lower the p-value will be => and the higher the Uc will be.
 	Which means, too much smoothness in the data makes it hard to find FP and we have to be more conservative.
