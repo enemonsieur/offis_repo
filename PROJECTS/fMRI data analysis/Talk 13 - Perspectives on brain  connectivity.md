@@ -21,4 +21,17 @@ What the fuck is that?
 	And we compare that to the networks we measured in fMRI 
 	and we see if they match. (How much they match)
 How many types of Networkds do you know?
-	Regular, Hierachical, Modular...
+	Regular, Small work NW, Modular...
+What's the important NW our prof focused on?
+	Small world Nw
+	What the hell is a SWNW (small world network)
+	What's the diff beween a regular and a randomn network
+	What is p?
+		The prob that we find cutted edges
+	How is this p diff in regular and random?
+		The lower the p, the more regular (a lot of edges in the circle)
+		the higher the p, the more the p in the inside
+	How is SWNw?
+		Because of the clustering and the Path lenght are pretty equal??
+	High clustering, the neighbouring nodes are correlated, locally quite dense networks
+	But wenhave s
