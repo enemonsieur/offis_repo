@@ -17,11 +17,12 @@ What are the different levels of significance?
 	how do you know a cluster is stat. significant?
 		If its overall t-threshold is above k
 	How do we do decide what cluster and what level of activation are relevant?
-		You find the t-values of every voxels.  Do a plot by time and define a thresold Uc =krelevant for the cluster. 
+		You find the t-values of every voxels.  
+		Do a plot by time and define a thresold Uc = relevant for the cluster. 
 		Set the cluster threshold: Not too low nor too high
 		Lack of spatial specificity: You don't know which voxels are significant inside, so not too big cluster. 
 	3. Set level Inference
-	You wont kno which clusters are significants. They don't have a spatial definition. 
+	You wont know which clusters are significants. They don't have a spatial definition. 
 
 
 
@@ -29,7 +30,7 @@ What's a type I error?
 	a false positive error?
 		We rejected the null hypothesis, even though there was no difference between the two sets of data taken from the same distribution=> we assumed there was a stat sign. difference, where there wasn't. => We thought there were brain activation while there wasn't.
 
-	How's a type I error noted?
+How's a type I error noted?
 	alpha
 What's a type II error?
 	When we failed to reject the Ho, EVEN THOUGH there was a difference! (Bc well, the difference wasn'T big enough), which doesn't mean there's no difference between the data. Just that we can't prove, the two samples, taken from the same data, are significantly different => they may come from the same dataset => There's no activation of the voxel/cluster
@@ -39,14 +40,14 @@ Problem with the standart Ho significant vale is that it's easier to have false 
 What should we use to id voxels/cluster that are so active, that that can't be done by random?
 	Using Family Wise Error and
 
-How does Family wise Error works?
+How does Family wise Error works
 	What's FWE rate?
 		The chances of having 1+ FP anywhere in the image
 	What are 3 relevant types of FWE?
 		RFT, Parametric, Non-Parametric simulations
 
 
-Why is Bonferroni correction un useful for.. for what again?
+Why is Bonferroni correction unuseful for.. for what again?
 	 Bonferroni Correction: Divide the p>0.5 by the number of tests. So its like 0.5/1000 voxels 
 	 The problem is that it'll create a lot of FN (because it cuts too low, it demands a very high ttest to say: Yees, this isnt done by random noise)
 	 The data by itselfs have intrinsic smoothness + smoothings for gaussian and Bonferroni don't account for this correlation between voxels 
