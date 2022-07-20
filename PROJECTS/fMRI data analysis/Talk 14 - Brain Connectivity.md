@@ -61,6 +61,5 @@ How do we measure the connectivity using voxels?
 14. How can we model the temporal connection between brain regions?
 15.
 
-We can combine eqs.  to include both the time series of a seed region (the physiological variable) and the psychological variable into a regression model. Most importantly, the interaction term of the psychological and physiological variables can also be included. For the simplest scenario of only one psychological variable (two conditions), the psychophysiological interaction model can be expressed as: 
-
-Equation 3can be illustrated figuratively in Fig. 1D. Combine the two terms with xPhysio,eq.3can be expressed as: y ¼ β0 þ β1⋅xPsych þ β2 þ β3⋅xPsych ⋅xPhysio þ ε ð4Þ So that the relationship between the seed region xPhysio and test region y is: β2 + β3 ∙ xPsych, which is a linear function of xPsych. Therefore, a significant β3 represent significant task modulations on effective connectivity.
+In most of task fMRI experiments, researchers design different task conditions within a scan run, so that the effect of interest becomes the differences of temporal dependencies between the conditions. We can combine eqs. 1and2to include both the time series of a seed region (the physiological variable) and the psychological variable into a regression model. Most importantly, the interaction term of the psychological and physiological variables can also be included. For the simplest scenario of only one psychological variable (two conditions), the psychophysiological interaction model can be expressed as:
+![[Pasted image 20220720123708.png]]
