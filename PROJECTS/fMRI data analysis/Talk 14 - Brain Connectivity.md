@@ -58,4 +58,5 @@ How do we measure the connectivity using voxels?
 11. How do regression coefficient affects the PPI?
 12. How does regression coefficient differs in PPI and BSC?
 13. Why is correlation and decorrelation important in PPI?
-14. How can we model functionnal connectivity between tasks
+14. How can we model the temporal connection between brain regions?
+15.
