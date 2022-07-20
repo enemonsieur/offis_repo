@@ -103,11 +103,11 @@ What is  a full model?
 What is a reduce model?
 	
 	![[photo_2022-07-06_15-17-56.jpg]] 
-What model has a higher variance?
+**What model has a higher variance?**
 	The reduce model error is alwyas >= bc you need other parameter to reduce the variance
 	e^2r >= e^2
 
-What does the f-variance measure
+**What does the f-variance measure**
 	the f contrast is 2 sided
 	it calculates the diff between the variance estimates
 	We loose the directions
@@ -117,10 +117,10 @@ What does the f-variance measure
 	The Ho would be that every B are = 0 , so no change in the basal activity B1... b1 = 0
 	The H1 would be:
 
-How do you build a reduced model?
+**How do you build a reduced model?**
 	You assume that c'B=0.
 
-You ran ttest for each voxels and found f values as well. But now, how to you define the t values or f values as large? #unclear (What are we trying to do)
+**You ran ttest for each voxels and found f values as well. But now, how to you define the t values or f values as large? #unclear (What are we trying to do)**
 	Determine a threshold
 	What are the 2 types of threshold?
 		Extend threshold
@@ -128,9 +128,8 @@ You ran ttest for each voxels and found f values as well. But now, how to you de
 		What's the extend threshold? 
 			It means we need a min of adjacent voxels with large t-values
 		what is the height threshold? #unclear  
-What are the problem with these multiple comparions?
+**What are the problem with these multiple comparions?**
 	That by change you can have a lot of significan but random error. 
-	
 What can be solutions to the Multiple comparisons comming from having so much tests run in voxels?
 	Adapt the p value to the M.C = p= 0.5/100 = 0.005
 
@@ -139,13 +138,13 @@ If one voxel shows activation, there's a higher prob that the neighbour also are
 res = Y(:,1) - Y_pred;
 ![[Pasted image 20220708064157.png]]  contrast
 the contrast vector is a vector that express that oppposes the weights of our differents conditions. This means it express how we can contrast Condition A with condition B, saying that (for ex), Condition A differs from condition B. If this is false, then the contrasted activity (difference in the HDr) will be 0, which will validate the null Ho. 
-This can be rewrite in a linear comb so: cB1 - cB2 = 0 #excellent
+This can be rewrite in a linear comb so: cB1 - cB2 = 0 
 We can use 2 types of statistics to find if  our conditions differs from each other:
 - T-test: If we wanna find if two conditions have a different impact on the HDr or if we wanna see if a condition differs from baseline ex
 	- ![[Pasted image 20220708065432.png]]
 	- 
 - f-test: We use it by creating a reduce model excluding the parameter of interest. Then, we can add em and see if they improve our model prediction (of the BOLDr) or not. 
-- what the fuck is 2 sided difference? What are we exactly calculating with the f-test? 
+**- what the fuck is 2 sided difference? What are we exactly calculating with the f-test?** 
 	- The f statistic doesn't care about the sign: It can't tell you if the difference is positive or negative
 	- f-test compare the full model with the reduced model (without the B we want)
 	- We have thev ariance of the BOLDr that's explained by the reduced model. Now, adding the different parameter, how much more variance is explained? (Variance because it will deviate from the standard HDR of as well)

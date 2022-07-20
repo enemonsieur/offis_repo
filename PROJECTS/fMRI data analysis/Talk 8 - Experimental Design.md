@@ -2,7 +2,7 @@ what are the differents design types?
 	Categorical, factorial, parametric designs
 	 Blocked vs. event-related designs
 
-What are the 3 different design types?
+**What are the 3 different design types?**
 	• Categorical 
 	• Factorial designs 
 	• Parametric designs
