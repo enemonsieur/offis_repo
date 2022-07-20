@@ -28,7 +28,7 @@ How do we measure the connectivity using voxels?
 
 
 1. What's PPI?
-	Psychophysiological interaction (PPI) is **a brain connectivity analysis method. It estimates context-dependent changes in effective connectivity (coupling) between brain regions.
+	Psychophysiological interafction (PPI) is **a brain connectivity analysis method. It estimates context-dependent changes in effective connectivity (coupling) between brain regions.
 	what is effective connectivity?
 		- Effective connectivity **describes the causal influences that neural units exert over another**.
 		- **The influence that a node exerts over another under a network model of causal dynamics** and is inferred from a model of neuronal integration, which defines the mechanisms of neuronal coupling
@@ -48,11 +48,11 @@ How do we measure the connectivity using voxels?
 	2. 
 	3. 
 	4. 
-	5. Assuming that the functional connectivity is the same during the period of scan, e.g. in resting state, it is straightforward to calculate correlation coefficients between two brain regions to represent functional connectivity. In a more general regression form, the model can be expressed as: y ¼ β0 þ β1⋅xphysio þ ε
+	5. Assuming that the functional connectivity is the same during the period of scan, e.g. in resting state, it is straightforward to calculate correlation coefficients between two brain regions to represent functional connectivity. In a more general regression form, the model can be expressed as:  
 	6. 
 9. What's a seed region?
-	1. In most of task fMRI experiments, researchers design different task conditions within a scan run, so that the effect of interest becomes the differences of temporal dependencies between the conditions. 
-	2. We can combine eqs. 1and2to include both the time series of a **seed region** (the physiological variable) and the psychological variable into a regression model. Most importantly, the interaction term of the psychological and physiological variables can also be included.
+	1. The seed is **typically identified based on anatomical landmarks, coordinates, or the location of brain activity during a separate task**.
+	a **seed region** (the physiological variable) and the psychological variable into a regression model. 
 
 10. How's the regression coefficient different frm
 11. How do regression coefficient affects the PPI?
