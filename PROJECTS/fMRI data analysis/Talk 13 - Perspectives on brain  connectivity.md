@@ -55,4 +55,8 @@ Exemple: Streets connected to others: Few airports have many many links, and a l
 How can we grow Scale freenetworks?
 	You use prferential attachement
 	You start with one node, and add more and more edges to each - The richer get richers
+Why do we care bout that shit?
+	Bc it may be how Nw develop overtime...
+
+## Empirical Network
 
