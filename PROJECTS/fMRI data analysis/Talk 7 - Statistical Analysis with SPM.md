@@ -36,9 +36,6 @@ We convolve the HRF with the BOLD signal to get one column per conditions. #uncl
 	3. Let's say there's 3  intermediate input. THey all get assign a HDR funcion. So we have 3 HDR function, seperate by different time frame
 	4. In the end, we just sum all of those intermediate response to have the shaep of the final response
 
-**WHat's a block design #unclear**
-	Stimuli are rpesnetend after each other ex: 20 times at a particular condition (A) #unnecessary 
-
 **Why is there (mathematically) a large dependency between regressors? #unclear** 
 	If we change the x2 values, we will change the B2 value (so that the x2 and x1 are uncorrelated aka 90deg), but to predict the y vector we'll have to change the x1 as well. 
 	![[Pasted image 20220701110708.png]]
