@@ -34,4 +34,10 @@ What's the important NW our prof focused on?
 	How is SWNw?
 		Because of the clustering and the Path lenght are pretty equal??
 	High clustering, the neighbouring nodes are correlated, locally quite dense networks
-	But wenhave s
+	But we have  ashort path length
+	In SWnw, we have low path lenght but still high clustering
+	In SW networks there are shortcuts to reach furtehr destinations quite fast. Which means we need few of the shorts Cuts to reach a high path length.
+	But still, what is SWNw in term of path lenghts and Clusters? 
+The brain is neither a randomnor a regular Nw. Nor a heterogenious distributed network. Which means the degree distribution is quite middle and the majority of brain nodes have only few links. 
+Why do evolution favor SWNw?
+	To optimise cost e
