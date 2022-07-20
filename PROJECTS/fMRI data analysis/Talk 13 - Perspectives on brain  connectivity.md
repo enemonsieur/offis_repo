@@ -24,6 +24,7 @@ How many types of Networkds do you know?
 	Regular, Small work NW, Modular...
 What's the important NW our prof focused on?
 	Small world Nw
+## Small World Network
 	What the hell is a SWNW (small world network)
 	What's the diff beween a regular and a randomn network
 	What is p?
@@ -40,4 +41,13 @@ What's the important NW our prof focused on?
 	But still, what is SWNw in term of path lenghts and Clusters? 
 The brain is neither a randomnor a regular Nw. Nor a heterogenious distributed network. Which means the degree distribution is quite middle and the majority of brain nodes have only few links. 
 Why do evolution favor SWNw?
-	To optimise cost e
+	To optimise cost effective informationprocessing. 
+	If and edge cost axons etcc.. to create, we want less of them, and very clusters. But on the other hand, we wanna be able to go between brain regions without moving a lot so we need a bit of direct paths that connect ways paths
+
+## Scale-free Networks
+def
+	The dgree distribution follows a power law
+	![[Pasted image 20220720144722.png]]
+Like one or two nodes arevery connected, but the other one, really aren'T
+
+Exemple: Streets connected to others: Few airports have many many links, and a lot of local airports with small links
