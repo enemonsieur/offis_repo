@@ -22,19 +22,13 @@ What is autocorrelation? #unclear
 In our case, autocorrelation is not important because we consideror that the error values (that are not explained by the design matrix) are not correlated. 
 **How does the epsilon error term relate to autocorrelation?**
 The error is normaly distributed (gaussian)
-	Why is serial auto-correlation a problem for modeling the BOLD signal HDR-response:
-		
+**Why is serial auto-correlation a problem for modeling the BOLD signal HDR-response:**
 
-![[Pasted image 20220712173748.png]]
 ### Talk 7: Part 2 Statistical Analysis
 
-Why do we add Ones columns to the  X design Matrix? #unclear 
-	In case of a single subject analysis
+Why do we add Ones columns to the  X design Matrix? 
 
-What are the two dimensions of the X design Matrix?
-	The row dimension (n) is the time vector function 
-	The column dimension (p) contains the differents experimental design data like sound activated, or light on that influence the intensity of the BOL signal
-We convolve the HRF with the BOLD signal to get one column per conditions. #unclear (looks plain out false)
+We convolve the HRF with the BOLD signal to get one column per conditions. #unclear (looks plain out false) Because it is. Mofo.
 
 During the convolution, what is LTI? 
 	![[Pasted image 20220701103125.png]]
