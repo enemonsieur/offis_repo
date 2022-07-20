@@ -90,11 +90,6 @@ Why is FWError more conservative?
 There are FP and Tp in the Positive we find. Within those Positves, can we 'control' the number of FP, so we always have roughliy the same value of FP? We can do thatby ordering the p-values
 You can correct the p values by having multiple differe threshold, for each cluster.
 
-
-
-What's FWE correction
-	Prob of finding one or more false discoveries (Type I error), as we perform multiple voxels stat analysis.
-
 What are we looking for at a cluster level?
 	We look at the size of the activation and find its its randomn noise or not. 
 What's cluster building threshold?
