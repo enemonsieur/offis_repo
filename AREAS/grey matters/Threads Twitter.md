@@ -92,4 +92,62 @@ charging high fees for your work, when you look at the numbers it may be barely 
 making.
 
 
-LCD: Check your LCD 
+[LCD: Check your LCD ](https://docs.google.com/document/d/1ombzTUF8DZv9gQp052W3kKKrLE4ow3I9/edit)
+- Actually create an avatar with Hilaire and Ro of the #1 Type of Customer you have 
+
+
+## One Ads, One purpose
+My rule of thumb is one ad, one objective. If something in the ad isn’t helping you achieve that objective then it’s detracting from it and you should get rid of it. That includes sacred cows like your company name and company logo. Advertising space is valuable and these things taking up prime real estate in your ad space often detract from your message rather than enhance it. Rather than trying to sell directly from your ad, simply invite prospects to put their hand up and indicate interest. This lowers resistance and helps you build a marketing database—one of the most valuable assets in your business.
+Once your objective is clear, you need to communicate it to your reader. What exactly do you want them to do next? Do they call your toll free number to order? Do they call you or visit your website to request a free
+sample? Do they request a free report? You need a very clear call to action—not something wimpy and vague like “don’t hesitate to call us.”
+You need to be clear on what they should do next and what they will get in return. Also, give them multiple
+ways to take that action. For example if the call to action is to order your product, give them the ability to do it online, over the phone or even via a mail-in coupon. Different people have different preferences when it comes to modality of communication. Give them multiple means of response so they can choose the one they ID with
+
+
+
+By contrast, direct response marketing focuses heavily on the needs, thoughts and emotions of the target market. By doing this you enter the conversation already going on in the mind of your ideal prospect. You will resonate at a deeper level with your prospect and your ad will stand out from 99% of other ads that are just shouting and talking about themselves. Don’t be the advertising equivalent of that guy at the party obliviously talking about himself the whole night while his uninterested audience looks for the exit. Also, don’t leave anything to chance. Know exactly what you want your ad to achieve and the exact action you want your prospect to take.
+
+## Develop and Make clear what your USP is
+The entire goal of your USP is to answer this question:
+
+Why should I buy from you rather than from
+
+your nearest competitor?
+
+Another good test is this: if I removed the company name and logo from your website, would people still
+
+know that it’s you or could it be any other company in your industry?
+
+The common place people go wrong with developing their USP is they say “quality” or “great service” is their
+
+USP. There are two things wrong with that:
+
+1
+
+.
+
+Quality and great service are expectations, they are just part of good business practice—not
+
+something unique.
+
+2
+
+.
+
+People only find out about your quality and great service
+
+after
+
+they’ve bought. A good USP is
+
+designed to attract prospects
+
+before
+
+they’ve made a purchasing decision.
+
+You know you’re marketing your business as a commodity when prospects start the conversation by asking
+
+you about price.
+
+Positioning yourself as a commodity and hence being shopped on price alone is a terrible position for a small
