@@ -80,9 +80,6 @@ How do Non-Parametric works? #unclear
 False discovery rate
 Why do we take FDR rather than FWE?
 	Bc the FWE will often leave no data with significant results. It can be too conservative. 
-	Has to do with this false positive and negative
-	R is the total of FP and TP
-	We say, 5% of the voxels we measue are wrongly declared as FP
 What's FDR? #unclear NOT UNDERSTOOD EVEN WITH THE  BOOK
 	is the proportion of Type I errors among the rejected hypotheses FDR=P*(V/R)
 What does FDR depends on?
