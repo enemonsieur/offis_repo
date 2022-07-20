@@ -42,13 +42,13 @@ How do we measure the connectivity using voxels?
 6. What is effective connectivity?
 	1. According to the definition of effective connectivity (Karl J. Friston 1994), which refers to the directed effect that one brain region has on another under some model of neuronal coupling, a PPI can be regarded as a condition specific change in effective connectivity, under a simple general linear model (GLM) of interregional coupling.
 7. What does PPI measures between conditions?
-	1. In order to do so, we need to first clarify why the PPI method always **measure connectivity differences between conditions.**  /... / How PPI can measure the differences between the trial-by-trial dependency in one condition and the moment-to-moment dependency in the remaining time points. Because of this, the PPI differences between conditions and the BSC differences between conditions can, in principle, measure different aspects of taskrelated modulations of connectivity. We use real fMRI data of an event-related designed task to illustrate our points.
+	1. In order to do so, we need to first clarify why the PPI method always **measure connectivity differences between conditions.**  /... / How PPI can measure the differences between the trial-by-trial dependency in one condition and the moment-to-moment dependency in the remaining time points. 
 8. What is functional connectivity?
 	1. The term functional connectivity was first defined by Friston (Karl J. Friston 1994) as temporal correlations between spatially remote brain regions.
 	2. 
 	3. 
 	4. 
-	5. Assuming that the functional connectivity is the same during the period of scan, e.g. in restingstate, it is straightforward to calculate correlation coefficients between two brain regions to represent functional connectivity. In a more general regression form, the model can be expressed as: y ¼ β0 þ β1⋅xphysio þ ε
+	5. Assuming that the functional connectivity is the same during the period of scan, e.g. in resting state, it is straightforward to calculate correlation coefficients between two brain regions to represent functional connectivity. In a more general regression form, the model can be expressed as: y ¼ β0 þ β1⋅xphysio þ ε
 	6. 
 9. What's a seed region?
 	1. In most of task fMRI experiments, researchers design different task conditions within a scan run, so that the effect of interest becomes the differences of temporal dependencies between the conditions. 
