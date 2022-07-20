@@ -28,11 +28,12 @@ How do we measure the connectivity using voxels?
 
 
 1. What's PPI?
-	Psychophysiological interaction (PPI) is **a brain connectivity analysis method for functional brain imaging data, mainly functional magnetic resonance imaging (fMRI)**. It estimates context-dependent changes in effective connectivity (coupling) between brain regions.
+	Psychophysiological interaction (PPI) is **a brain connectivity analysis method. It estimates context-dependent changes in effective connectivity (coupling) between brain regions.
 	what is effective connectivity?
-	effective connectivity **describes the causal influences that neural units exert over another
-	**
+		- Effective connectivity **describes the causal influences that neural units exert over another**.
+		- **The influence that a node exerts over another under a network model of causal dynamics** and is inferred from a model of neuronal integration, which defines the mechanisms of neuronal coupling
 	1. How do the variable in PPI have to be? 
+		A PPI effect is defined as an interaction between the time series of a brain region (physiological variable) and a (or more) task design variable (psychological variable). Noises of both the physiological and psychological variables go into the interaction term, so that the interaction effect is much noisier than the main effects of task free connectivity (physiological main effect) and task activation (psychological main effect). This makes PPI analysis having lower statistical power than simple connectivity and conventional activation analysis. 
 	2. 
 3. What's the #1 function of PPI?
 4. What is BSC?
