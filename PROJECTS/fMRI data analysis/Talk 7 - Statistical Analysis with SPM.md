@@ -65,7 +65,7 @@ How can we confirm our hypothesis that: Are there differences in neural activity
 		NB: you need to use linear contrasts: ![[Pasted image 20220701121034.png]] #reformulate 
 
 
-Here's the Aufgabe
+**Here's the Aufgabe**
 	![[Pasted image 20220701122749.png]]
 	For the b, the contrast vector would be c = [ 1 1 -1 -1]
 	ATTENTION: The c vector represent the gesamt 4 regressors, not all  condition. this means the above c means, we used a condition with those 4 regressors at the same B1 is the parameter of Light on, tone ON
@@ -73,11 +73,11 @@ Here's the Aufgabe
 		The difference of the diffrence between TON LON - TONOFF LON  AND TON LOFF - TON LON has to be diff  from zero. In this case, that gives us the contrastfor the interaction effect.
 
 
-What arethe  3 types of problem created by applying a convolution to predict the HDR?
-	- : Convolution with HRF I think, bc its difficult to model multiple signals. #unclear 
+**What are the 3 types of problem created by applying a convolution to predict the HDR?**
+	- Convolution with HRF I think, bc its difficult to model multiple signals. #unclear 
 	- Serial Autocorrelation: related to the e
 	- Correlated regressors: There's some variance shared between the B's regressors so that if the X1 changes, the B1 and B2 will be affected #unclear 
-		- It can create multicolinearity. It can help to enlever signales related to movement. We use to do that, an ANCOVA,  where we add Betas related to the 6 movements, and remove the movements, from influencing the X
+		- It can create **multicolinearity**. It can help to enlever signales related to movement. We use to do that, an ANCOVA,  where we add Betas related to the 6 movements, and remove the movements, from influencing the X
 
 There's another point, a problem created during statistical analysis: Reducing noise in the low frequency range. What do we do for it?
 	apply a high pass filter
