@@ -68,3 +68,6 @@ In most of task fMRI experiments, researchers design different task conditions w
 	
 So that the relationship between the seed region xPhysio and test region y is: β2 + β3 ∙ xPsych, which is a linear function of xPsych. Therefore, a significant β3 represent significant task modulations on effective connectivity. Similar to the interpretation of task main effects, the interpretation of the PPI effect depends not only on the PPI itself, but also the on other regressors in the model. In eq. 3the main effect of time series xPhysio is included. We can think about the time series main effect xPhysio and interaction effect xPhysio ∙ xPsych as the second order counterparts of the constant effect and main effect of xPsych in eq. 1.
 What are the differences in effect between the Xphysio model and the Xpsychological model.
+
+bold signal and compute it
+then they deconvolve the interactions and reconv
