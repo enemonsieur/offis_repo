@@ -23,10 +23,66 @@ By far the biggest leverage point in any business is marketing
 . If you get 10% better at marketing, this can have an exponential or multiplying effect on the bottom line.
 Willie Sutton was a prolific American bank robber. During his forty-year criminal career he stole millions of dollars, and eventually spent more than half of his adult life in prison and also managed to escape three times. Sutton was asked by reporter Mitch Ohnstad why he robbed banks. According to Ohnstad, he replied,
 
-“Because that’s where the money is.” When it comes to business the reason we want to focus so heavily on
+“Because that’s where the money is.” When it comes to business the reason we want to focus so heavily on marketing is the same—because that’s where the money is.
 
-marketing is the same—because
+What are the key things that makes direct marketing work?
+	It’s **trackable**.
 
-that’s where the money is
+That is, when someone responds, you know which ad and which media was responsible for
 
-.
+generating the response. This is in direct contrast to mass media or “brand” marketing—no one will ever
+
+know what ad compelled you to buy that can of Coke, heck you may not even know yourself.
+
+It’s **measurable**.
+
+Since you know which ads are being responded to and how many sales you’ve received
+
+from each one, you can measure exactly how effective each ad is. You then drop or change ads that are not
+
+giving you a return on investment.
+
+It uses **compelling headlines** and sales copy.
+
+Direct response marketing has a compelling message of
+
+strong interest to your chosen prospects. It uses attention-grabbing headlines with strong sales copy that is
+
+“salesmanship in print.” Often the ad looks more like an editorial than an ad (hence making it at least three
+
+times more likely to get read).
+
+It targets a **specific audience or niche**.
+
+Prospects within specific verticals, geographic zones or niche
+
+markets are targeted. The ad aims to appeal to a narrow target market.
+
+It **makes a specific offer**.
+Usually the ad makes a specific value-packed offer. Often the aim is not necessarily to sell anything from the ad but to simply get the prospect to take the next action, such as requesting a free report. The offer focuses on the prospect rather than on the advertiser and talks about the prospect’s interests, desires, fears and frustrations. By contrast, mass media or “brand” marketing has a broad, one-size-fits-all marketing message and is focused on the advertiser.
+
+It **demands a response**.
+
+Direct response advertising has a “call to action,” compelling the prospect to do something specific. It also includes a means of response and “capture” of these responses. Interested, high probability prospects have easy ways to respond such as a regular phone number, a free recorded message line, a website, a fax back form, a reply card or coupons. When the prospect responds, as much of the person’s contact information as possible is captured so that they can be contacted beyond the initial response.
+
+**Multi-step, short-term follow-up.**
+
+In exchange for capturing the prospect’s details, valuable education and information on the prospect’s problem is offered. The information should carry with it a second “irresistible offer”—tied to whatever next step you want the prospect to take, such as calling to schedule an appointment or coming into the showroom or store. Then a series of follow-up “touches” via different media such as mail, e-mail, fax, and phone are made. Often there is a time or quantity limit on the offer.
+
+**Maintenance follow-up of unconverted leads.**
+
+People who do not respond within the short-term follow-
+
+up period may have many reasons for not “maturing” into buyers immediately. There is value in this bank of
+
+slow-to-mature prospects. They should be nurtured and continue hearing from you regularly.
+
+Direct response marketing is a very deep topic with many facets. The 1-Page Marketing Plan is a tool that
+
+helps you implement direct response marketing in your business without needing to spend years studying to
+
+become an expert.
+
+It’s a guided process that helps you create the key elements of a direct response campaign for your business
+
+quickly and easily.
