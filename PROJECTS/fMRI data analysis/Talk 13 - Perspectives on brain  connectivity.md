@@ -66,3 +66,6 @@ Why do we care bout that shit?
 	- Apply a threshold. Bigger than that is consider an actual, true edge between that nodes (obviously the correlation node1-tonode1 will always get the max threshold)
 	- The more you increase that shit (threshold), the fewer edges you find)
 	- For different threshold, you get different Corr matrix, and you can 
+	- Why do we used timeseries?
+		- To know that at different timeseries, the same B-regions/nodes are activated, so the correlation with those shits will be higher, the more they are correlated throughout the time-serie
+	- 
