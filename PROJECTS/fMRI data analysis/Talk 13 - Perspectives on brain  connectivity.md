@@ -69,3 +69,8 @@ Why do we care bout that shit?
 	- Why do we used timeseries?
 		- To know that at different timeseries, the same B-regions/nodes are activated, so the correlation with those shits will be higher, the more they are correlated throughout the time-serie
 	- 
+
+What are the types of connectiviy?
+	Strucutral: actually connect two brain areas. There's a goddamn physical link
+	Functional: Only stat. depencies, Some sith is happening at the same time, But we don't know if they are connected
+	Effective: Wait. But is there something affecting both of the connected areas? Is one influencing the other?
