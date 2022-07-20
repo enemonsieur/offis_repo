@@ -1,21 +1,22 @@
 ---
 Stat Inference: 
-alias:  (ID questions/Blocks) (Summarize/Answer) (Revise 1-2-3) (Mindmap) 
+alias: (Summarize/Answer) (Revise 1-2-3) (Mindmap) 
 ---
 What are the different levels of significance?
 	Voxel level
 	Cluster ofvoexesl?
-	Set level? .
-	1. Voxel level of significance
+	Set level? 
+	1. What does voxel level of significance implies?
 		There's no correlation between voxel, as there's idnependently activated. 
+	What type of inf don't we get with VL significance
 		This doesn't get information (spatial) about the signal. 
 		Because we smooth that shit out,the activation of the signal will spread to surrounding signals
 	2. Cluster level inference
 		1. what are clusters?
 			A group of contiguous voxels, with the t above a stat.level Uc
 	how do you know a cluster is stat. significant?
-		compare its size to the cluster size threshold k
-		Ho do we do decide what cluster and what level of activation are relevant?
+		If its overall t-threshold is above k
+	How do we do decide what cluster and what level of activation are relevant?
 		You find the t-values of every voxels.  Do a plot by time and define a thresold Uc =krelevant for the cluster. 
 		Set the cluster threshold: Not too low nor too high
 		Lack of spatial specificity: You don't know which voxels are significant inside, so not too big cluster. 
@@ -43,8 +44,7 @@ How does Family wise Error works?
 		The chances of having 1+ FP anywhere in the image
 	What are 3 relevant types of FWE?
 		RFT, Parametric, Non-Parametric simulations
-		
-		
+
 
 Why is Bonferroni correction un useful for.. for what again?
 	 Bonferroni Correction: Divide the p>0.5 by the number of tests. So its like 0.5/1000 voxels 
@@ -70,7 +70,6 @@ What is Random Field Theory
 	Which means, too much smoothness in the data makes it hard to find FP and we have to be more conservative.
 What are some issues with Random Field Theory?
 	The demands a lot of assumption and don't work well for low smoothed datas. 
-
 What are parametric designs?
 	Methods like the Monte Carlo, similar to RFT but they don't rely on approximate results. They are comp. intensive
 What are non-parametric approches in FWER?
