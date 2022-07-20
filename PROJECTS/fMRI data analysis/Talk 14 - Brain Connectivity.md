@@ -70,4 +70,4 @@ So that the relationship between the seed region xPhysio and test region y is: Î
 What are the differences in effect between the Xphysio model and the Xpsychological model.
 
 bold signal and compute it
-then they deconvolve the interactions and reconv
+then they deconvolve the interactions in the neural level and reconvolve that
