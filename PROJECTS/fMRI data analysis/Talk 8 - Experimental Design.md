@@ -29,8 +29,8 @@ Explain in your own what Factorial design is:
 		![[Pasted image 20220705204513.png]]
 
 What is it that parametric design do that Factorial design doesn't
- Instead of switching the signal of Tchatse with his House, you gradually change the expression of Andys face
+	 Instead of switching the signal of Tchatse with his House, you gradually change the expression of Andys face
 
 
 
-What are 3 advantages of Block over Even related design?
+**What are 3 advantages of Block over Even related design?**
