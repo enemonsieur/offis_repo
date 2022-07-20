@@ -9,8 +9,8 @@ Why you shouldn't take too many notes
 	5. Don't note because it's the notes for entrepreuneurship. Your projects are constantly changign. IT's get lost in the process. 
 
 #marketing
-Alan Dib - 1PMP
-The 64/4 Rule
+# Alan Dib - 1PMP ^37edb4
+The 64/4 Rule 
 
 If you think the 80/20 is exciting, the 64/4 rule will blow your mind. You see we can apply the 80/20 rule to the rule itself. So we take 80% of 80 and 20% of 20 and end up with the 64/4 rule.
 
@@ -171,4 +171,4 @@ People have too many options and too much information coming at them constantly 
 
 motivated enough to wade through a confused message.
 
-![[Pasted image 20220720080054.png]]
+![[Pasted image 20220720080054.png]]Check this out. This is the differnce between a 1dollar and a 3 dollars coffee. Why not do the same for Les Confiotes ? Make it more remarkable - Make it more like an experience. 

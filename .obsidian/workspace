@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "epiretinal",
+                "query": "\"Allan Dib - 1PMP Key notes for our business\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,20 +95,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
+    "AREAS/Les Confiotes/Marketing Confiotes.md",
+    "AREAS/grey matters/Threads Twitter.md",
+    "AREAS/grey matters/Work in Progress.md",
+    "AREAS/grey matters/Building a second brain - Tiago Forte.md",
+    "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
     "PROJECTS/fMRI data analysis/Talk 12 - ANOVA models.md",
     "PROJECTS/fMRI data analysis/Talk 13 - Perspectives on brain  connectivity.md",
     "PROJECTS/fMRI data analysis/Talk 14 - Brain Connectivity.md",
     "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
-    "PROJECTS/Visual NP/Visual Neurop.md",
-    "PROJECTS/Visual NP/Seminar -  Retinal Prothesis Why is it so hard to build them.md",
-    "PROJECTS/Visual NP/Type of Retinal P.md",
-    "PROJECTS/Visual NP/Argus II.md",
-    "references notes/Changing the electrode distribution for a better RP.md",
-    "AREAS/Les Confiotes/Tâches Confiotes.md"
+    "PROJECTS/Visual NP/Visual Neurop.md"
   ]
 }
