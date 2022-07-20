@@ -14,16 +14,16 @@ X values comes from the design Matrix. But what is the design Matrix?
 What does LTI means?
 	LInear time invariant model
 Why would we convolve the LTI to the X? #reformulate 
-	Because the 
-	To have a Y' values, of how our BOLD signal is predicted to look like. Since every conditions will be represented in a HDR fashion.
-	This is done through convolution, by assuming a **linear time-invariant model.** This convolution operation is conceptually the same as the one that was used in the smoothing preprocessing step; that was a convolution in space with a Gaussian kernel, whilst here it is a convolution in time with the canonical HRF. The output of this mathematical operation is displayed in Fig
+	Because the neural activation of every voxel is always expressed in HRF. So if the Y changes because of a X.Beta(say, 0,3), it will always be express in the shape of the HRF
+	
 	![[Pasted image 20220705085447.png]]
 What is autocorrelation? #unclear 
 	In our case, its when the variance of a voxel, correlates with the variance of this voxel, but over time. This means, after 1s, the prob that the intensity of the e-errort and e-error-t-1 are similar is pretty high, meaning they autocorrelates. 
 In our case, autocorrelation is not important because we consideror that the error values (that are not explained by the design matrix) are not correlated. 
-How does the epsilon error term relate to autocorrelation?
-	the error is normaly distributed (gaussian)
-	Why is serial auto-correlation a problem for modeling the BOLD signal HDR-response: #unclear 
+**How does the epsilon error term relate to autocorrelation?**
+The error is normaly distributed (gaussian)
+	Why is serial auto-correlation a problem for modeling the BOLD signal HDR-response:
+		
 
 ![[Pasted image 20220712173748.png]]
 ### Talk 7: Part 2 Statistical Analysis
