@@ -46,8 +46,13 @@ Why do evolution favor SWNw?
 
 ## Scale-free Networks
 def
-	The dgree distribution follows a power law
+	The dgree distribution follows a power law p.36
 	![[Pasted image 20220720144722.png]]
 Like one or two nodes arevery connected, but the other one, really aren'T
 
 Exemple: Streets connected to others: Few airports have many many links, and a lot of local airports with small links
+
+How can we grow Scale freenetworks?
+	You use prferential attachement
+	You start with one node, and add more and more edges to each - The richer get richers
+
