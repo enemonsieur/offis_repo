@@ -63,3 +63,5 @@ How do we measure the connectivity using voxels?
 
 In most of task fMRI experiments, researchers design different task conditions within a scan run, so that the effect of interest becomes the differences of temporal dependencies between the conditions. We can combine eqs. 1and2to include both the time series of a seed region (the physiological variable) and the psychological variable into a regression model. Most importantly, the interaction term of the psychological and physiological variables can also be included. For the simplest scenario of only one psychological variable (two conditions), the psychophysiological interaction model can be expressed as:
 ![[Pasted image 20220720123708.png]]
+	- Is Y the overall BOLD response?
+	- Is  all Beta modelling the difference in response from two different seeds in 2 different conditions?
