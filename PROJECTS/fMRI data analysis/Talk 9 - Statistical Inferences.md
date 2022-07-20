@@ -1,5 +1,6 @@
 ---
-current state: "note-taking Chap7- Russel","2nd-Level Y=XB"
+Stat Inference: 
+alias:  (ID questions/Blocks) (Summarize/Answer) (Revise 1-2-3) (Mindmap) 
 ---
 What are the different levels of significance?
 	Voxel level

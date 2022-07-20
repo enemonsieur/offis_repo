@@ -1,8 +1,7 @@
--------------------------
-**status**: 
- ( ~~Highlight~~) (ID questions/Blocks) (Summarize/Answer) (Revise 1-2-3) (Mindmap)
- 
------------------------------------------------------------------------------------------
+---
+status: 
+ (Summarize/Answer) (Revise 1-2-3) (Mindmap)
+---
 
 Functional spezialization: 
 - Somekind of localization of mental function -> PFC
