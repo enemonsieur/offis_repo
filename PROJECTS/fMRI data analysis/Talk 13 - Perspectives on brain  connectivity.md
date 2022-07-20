@@ -59,4 +59,10 @@ Why do we care bout that shit?
 	Bc it may be how Nw develop overtime...
 
 ## Empirical Network
-
+## How are brain maps analyzed
+- we subdivide brains in different parcels
+- Then compute the time series in ONe parcel (how the HDr changes in time?)
+- Use a correlation map to get a node by node correlation matrix. 
+	- Apply a threshold. Bigger than that is consider an actual, true edge between that nodes (obviously the correlation node1-tonode1 will always get the max threshold)
+	- The more you increase that shit (threshold), the fewer edges you find)
+	- For different threshold, you get different Corr matrix, and you can 
