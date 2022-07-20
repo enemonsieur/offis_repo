@@ -67,4 +67,29 @@ It’s a guided process that helps you create the key elements of a direct respo
 	- Health
 	- Patriotics
 	- Good Experiences
-Who's the most
+Who's the most PVP 
+### PVP
+P - Personal fulfillment:
+
+How much do you enjoy dealing with this type of customer? Sometimes we work
+
+with “pain in the butt” type customers just because of the money. Here you rate how much you enjoy
+
+working with this market segment.
+
+V - Value To The Marketplace:
+
+How much does this market segment value your work? Are they willing to
+
+pay you a lot of  for your work?
+
+P - Profitability:
+
+How profitable is the work you do for this market segment? Sometimes even when you are
+
+charging high fees for your work, when you look at the numbers it may be barely profitable or even loss
+
+making.
+
+
+LCD: Check your LCD 
