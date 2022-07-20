@@ -33,15 +33,16 @@ How do we measure the connectivity using voxels?
 		- Effective connectivity **describes the causal influences that neural units exert over another**.
 		- **The influence that a node exerts over another under a network model of causal dynamics** and is inferred from a model of neuronal integration, which defines the mechanisms of neuronal coupling
 	1. How do the variable in PPI have to be? 
-		A PPI effect is defined as an interaction between the time series of a brain region (physiological variable) and a (or more) task design variable (psychological variable). Noises of both the physiological and psychological variables go into the interaction term, so that the interaction effect is much noisier than the main effects of task free connectivity (physiological main effect) and task activation (psychological main effect). This makes PPI analysis having lower statistical power than simple connectivity and conventional activation analysis. 
+		A PPI effect is defined as an interaction between the time series of a brain region (physiological variable) and a (or more) task design variable (psychological variable). Noises of both the physiological and psychological variables go into the interaction term, so that the interaction effect is much noisier than the main effects of task free connectivity (physiological main effect) and task activation (psychological main effect). This makes PPI analysis having lower statistical power than simple connectivity and conventional activation analysis. [Di, Biswal  2017](https://www.frontiersin.org/articles/10.3389/fnins.2017.00573/full)
 	2. 
 3. What's the #1 function of PPI?
+	See how the nodes in the brain interact with each other as the tasks they are handling change
 4. What is BSC?
 5. What is the single most important thing that differenciate BSC from PPI?
 6. What is effective connectivity?
 	1. According to the definition of effective connectivity (Karl J. Friston 1994), which refers to the directed effect that one brain region has on another under some model of neuronal coupling, a PPI can be regarded as a condition specific change in effective connectivity, under a simple general linear model (GLM) of interregional coupling.
 7. What does PPI measures between conditions?
-	1. In order to do so, we need to first clarify why the PPI method always measure connectivity differences between conditions. In addition, we explain the deconvolution process implemented in the calculation of PPI, which can help to understand how PPI can measure the differences between the trial-by-trial dependency in one condition and the moment-to-moment dependency in the remaining time points. Because of this, the PPI differences between conditions and the BSC differences between conditions can, in principle, measure different aspects of taskrelated modulations of connectivity. We use real fMRI data of an event-related designed task to illustrate our points.
+	1. In order to do so, we need to first clarify why the PPI method always **measure connectivity differences between conditions.**  /.../ how PPI can measure the differences between the trial-by-trial dependency in one condition and the moment-to-moment dependency in the remaining time points. Because of this, the PPI differences between conditions and the BSC differences between conditions can, in principle, measure different aspects of taskrelated modulations of connectivity. We use real fMRI data of an event-related designed task to illustrate our points.
 8. What is functional connectivity?
 	1. The term functional connectivity was first defined by Friston (Karl J. Friston 1994) as temporal correlations between spatially remote brain regions.
 	2. 
@@ -53,8 +54,8 @@ How do we measure the connectivity using voxels?
 	1. In most of task fMRI experiments, researchers design different task conditions within a scan run, so that the effect of interest becomes the differences of temporal dependencies between the conditions. 
 	2. We can combine eqs. 1and2to include both the time series of a **seed region** (the physiological variable) and the psychological variable into a regression model. Most importantly, the interaction term of the psychological and physiological variables can also be included.
 
-9. How's the regression coefficient different frm
-10. How do regression coefficient affects the PPI?
-11. How does regression coefficient differs in PPI and BSC?
-12. Why is correlation and decorrelation important in PPI?
-13. 
+10. How's the regression coefficient different frm
+11. How do regression coefficient affects the PPI?
+12. How does regression coefficient differs in PPI and BSC?
+13. Why is correlation and decorrelation important in PPI?
+14. 
