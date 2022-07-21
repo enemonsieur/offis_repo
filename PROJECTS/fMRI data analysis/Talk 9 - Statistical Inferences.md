@@ -8,7 +8,7 @@ alias: (Summarize/Answer) (Revise 1-2-3) (Mindmap)
 	1. When there'S a srong correlation within the data, there's a higher  chance that if one data has a significant t>alpha, the other also are, therefore, Because of the much lower threshold of Bonferroni, Many Positive will be missed = False Negative = conservative
 **3. one tail, two tails** 
 4. what does the 2nd Level Y means??
-5. What is the Level 1 contrast test meausring?
+**5. What is the Level 1 contrast test meausring?**
 	1. 
 6. how do you know a cluster is stat. significant?
 	1. When the p-corrected value of the cluster crosses the k-threshold
