@@ -2,6 +2,13 @@
 Stat Inference: 
 alias: (Summarize/Answer) (Revise 1-2-3) (Mindmap) 
 ---
+
+1. region of xxx analysis
+2. Bonferroni - conservative - overcorrection
+3. one tail, two tails
+4. FDR definition
+5. 
+
 What are the different levels of significance?
 	Voxel level
 	Cluster ofvoexesl?
