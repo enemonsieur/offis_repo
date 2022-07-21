@@ -9,7 +9,9 @@ alias: (Summarize/Answer) (Revise 1-2-3) (Mindmap)
 **3. one tail, two tails** 
 4. what does the 2nd Level Y means??
 5. What is the Level 1 contrast test meausring?
-6. 	how do you know a cluster is stat. significant?
+	1. 
+6. how do you know a cluster is stat. significant?
+	1. When the p-corrected value of the cluster crosses the k-threshold
 7. How does Family wise Error works helps correcting the p-value
 8. How do Non-Parametric helps correcting the p-value
 9. What does controlling means in the FDR?
