@@ -50,4 +50,3 @@ Statistical Power computation
 What if the c' contrast we took for the second level is actually -1?
 	Because the mean would be just the mean of the diffferents B1-B2 (to contrast the ttest) for evety suject, reversing it will just reverse the Betas to B2-B1. 
 	It'D stille give the same number, -2,3 or 2.3 just now we are contrasting the LIGHT ON versus OFF instead of Light OFF vs ON.
-When we find the means B1 B2 at seocnd level, representting the two groups, we can take the constrast level to test the diferent between the groups by using the contrast level:] or the reverse.
