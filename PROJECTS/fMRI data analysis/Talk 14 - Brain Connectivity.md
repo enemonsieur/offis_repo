@@ -74,3 +74,4 @@ then they deconvolve the interactions in the neural level and reconvolve that
 differnces Event related deconvolve - bad correct estimate of N.activity
 block d- is good. 
 So show the diff. 
+
