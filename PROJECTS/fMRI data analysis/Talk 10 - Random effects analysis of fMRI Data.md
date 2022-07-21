@@ -34,10 +34,9 @@ Then we wanna minimize the betas that we found from each subjects so that we hav
 
 Why do we have zeros and 1 here? 
 	![[Pasted image 20220711132138.png]]
-	In this matrix we have two groups of participants,with different conditions. That means we need 2 Betas, one to model the first group, the second
-?? It depends, it could be any constrast rate like [1 -1] this will give us a ttest of c'B/ std(c'B) = B1 - B2 /std(B1-B2). Because  well, this is the contrast right?
-
-
+	In this matrix we have two groups of participants,with different conditions. That means we need 2 Betas, one to model the first group, the second the others
+What kind of contrast do we apply in to find the different in activation between 2 groups?
+	 c = [1 -1] a ttest of c'B/ std(c'B) = B1 - B2 /std(B1-B2), to find the difference between the 2 groups.
 
 
 Region of interest Masks
@@ -51,4 +50,4 @@ Statistical Power computation
 What if the c' contrast we took for the second level is actually -1?
 	Because the mean would be just the mean of the diffferents B1-B2 (to contrast the ttest) for evety suject, reversing it will just reverse the Betas to B2-B1. 
 	It'D stille give the same number, -2,3 or 2.3 just now we are contrasting the LIGHT ON versus OFF instead of Light OFF vs ON.
-When we find the means B1 B2 at seocnd level, representting the two groups, we can take the constrast level to test the diferent between the groups by using the contrast level: c = [1 -1] or the reverse.
+When we find the means B1 B2 at seocnd level, representting the two groups, we can take the constrast level to test the diferent between the groups by using the contrast level:] or the reverse.
