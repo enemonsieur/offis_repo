@@ -1,4 +1,4 @@
-What is the point of doing a Statistical Analysis of the BOLD RESPONSE?![[Pasted image 20220705084056.png]]
+cWhat is the point of doing a Statistical Analysis of the BOLD RESPONSE?![[Pasted image 20220705084056.png]]
 	Create a generative model: Predicts the BOLDr, given the experimental values (light ON, sound OFF)
 
 
