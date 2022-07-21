@@ -3,13 +3,15 @@ Stat Inference:
 alias: (Summarize/Answer) (Revise 1-2-3) (Mindmap) 
 ---
 
-1. region of xxx analysis
-2. Bonferroni - conservative - overcorrection
+1. How does the Regions of analysis helps us 
+2. What does overcorrection means in the Bonferroni test?
 3. one tail, two tails
-4. FDR definition
-5. what does the 2nd Level means?
-6. Level 1 contrast test
-7. 
+5. what does the 2nd Level Y means??
+6. What is the Level 1 contrast test meausring?
+7. 	how do you know a cluster is stat. significant?
+8. How does Family wise Error works helps correcting the p-value
+9. How do Non-Parametric helps correcting the p-value
+10. What does controlling means in the FDR?
 
 What are the different levels of significance?
 	Voxel level
