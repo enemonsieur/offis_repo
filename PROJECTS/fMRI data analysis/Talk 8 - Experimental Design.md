@@ -1,4 +1,6 @@
 1. ADv disadv Block vsEvent related design
+2. What's SOA
+	1. 
 what are the differents design types?
 	Categorical, factorial, parametric designs
 	 Blocked vs. event-related designs
