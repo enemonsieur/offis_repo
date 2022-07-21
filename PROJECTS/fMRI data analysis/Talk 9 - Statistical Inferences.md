@@ -3,7 +3,7 @@ Stat Inference:
 alias: (Summarize/Answer) (Revise 1-2-3) (Mindmap) 
 ---
 
-1. How does the Regions of analysis helps us 
+1. How does the Regions of analysis helps us do stat inferences?
 2. What does overcorrection means in the Bonferroni test?
 3. one tail, two tails
 5. what does the 2nd Level Y means??
