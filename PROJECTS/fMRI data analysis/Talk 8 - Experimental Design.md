@@ -1,3 +1,4 @@
+1. ADv disadv Block vsEvent related design
 what are the differents design types?
 	Categorical, factorial, parametric designs
 	 Blocked vs. event-related designs
