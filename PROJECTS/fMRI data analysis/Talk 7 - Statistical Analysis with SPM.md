@@ -108,6 +108,7 @@ What is a reduce model?
 	e^2r >= e^2
 
 **What does the f-variance measure**
+	3 stuff.
 	the f contrast is 2 sided
 	it calculates the diff between the variance estimates
 	We loose the directions
