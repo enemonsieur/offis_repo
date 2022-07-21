@@ -25,7 +25,8 @@ What's the second level analysis?
 What's Y in the 2nd level?
 	The contrast images/values of every subject, obtained by contrasting certain parameters.
 
-What 
+What does Beta at the second level represents?
+	The 
 	The become the B-weighteds, that we found by analysing every subjects in the first level
 		it represent the  contrast image of different subjects.
 		for each subjec we have their Sm, which represent the  Y of the 2nd level analysis.. so that we have Subject m = c1 * B1,m + cnBn,m
