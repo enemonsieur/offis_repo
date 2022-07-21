@@ -12,9 +12,12 @@ What is random effect models?
 	The influence of the var in the 1st and 2nd levels on the distribution of the population
 
 What are the contrasts rate and contrast images?
+What is the contrast vector?
+	A linear combination of the regressors
 What's the first level analysis?
+	It's using the regression model to model the response of the OLD signal, using our Conditions in the design matrix and measuring their influences with the Regressor vector 
 What's the second level analysis?
-	Group analysis
+	It's modeling the 
 		![[Pasted image 20220711125716.png]]
 
 
