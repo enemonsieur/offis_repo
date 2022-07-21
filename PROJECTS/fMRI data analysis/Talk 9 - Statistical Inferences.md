@@ -12,6 +12,7 @@ alias: (Summarize/Answer) (Revise 1-2-3) (Mindmap)
 8. How does Family wise Error works helps correcting the p-value
 9. How do Non-Parametric helps correcting the p-value
 10. What does controlling means in the FDR?
+- The FWE is a measure of Type 1 errors over multiple tests
 
 What are the different levels of significance?
 	Voxel level
