@@ -75,4 +75,5 @@ differnces Event related deconvolve - bad correct estimate of N.activity
 block d- is good. 
 So show the diff. 
 
- 
+![[Pasted image 20220721175153.png]]
+This equation models the BOLDr Y of the prefrontal cortex, using the psychophysical response of the hippocampus (the seed region) XPsy
