@@ -26,16 +26,10 @@ What's Y in the 2nd level?
 	The contrast images/values of every subject, obtained by contrasting certain parameters.
 
 What does Beta at the second level represents?
-	The 
-	The become the B-weighteds, that we found by analysing every subjects in the first level
-		it represent the  contrast image of different subjects.
-		for each subjec we have their Sm, which represent the  Y of the 2nd level analysis.. so that we have Subject m = c1 * B1,m + cnBn,m
-	In Y 2nd level, we redo a ttest=  cB/std(cB). caö dB d- And we wanna know where's the mean difference larger than zero
-	The 
+	Since the Y is the ttest of every subject, we need a way to model their average response. With X DMatrix =ones, we can find a unique Beta, that models the average response of the subjects, which is the mean of the Y's
+How do we find the ttest in the first level?
 
-
-
-Then we wanna minimise the betas that we found from each subjects so that we have a mean of
+Then we wanna minimize the betas that we found from each subjects so that we have a mean of
 What are the dimensions of Y
 	they have numbers, representing different participants. And the d2 is 1 because we find the weighted sum of all the Beta so we have 1,n(subjects). This isjust for one voexels right??
 
