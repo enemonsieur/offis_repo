@@ -75,3 +75,4 @@ differnces Event related deconvolve - bad correct estimate of N.activity
 block d- is good. 
 So show the diff. 
 
+ 
