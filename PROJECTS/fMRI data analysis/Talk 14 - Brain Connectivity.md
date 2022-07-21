@@ -76,4 +76,5 @@ block d- is good.
 So show the diff. 
 
 ![[Pasted image 20220721175153.png]]
-This equation models the BOLDr Y of the prefrontal cortex, using the psychophysical response of the hippocampus (the seed region) XPsy
+This equation models the BOLDr Y of the prefrontal cortex, using the psychophysical response of the hippocampus (the seed region) XPsych and XPhysio. 
+In this model, By combining the change in condition (Remembering  a maze or not. 0 1) with the physiological response of another brain region  (The HDR*)
