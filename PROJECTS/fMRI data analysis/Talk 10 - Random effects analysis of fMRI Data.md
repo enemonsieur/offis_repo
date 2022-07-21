@@ -17,17 +17,18 @@ What is the contrast vector?
 What's the first level analysis?
 	It's using the regression model to model the response of the OLD signal, using our Conditions in the design matrix and measuring their influences with the Regressor vector 
 What's the second level analysis?
-	It's modeling the 
+	It's modeling the difference in brain activations levels (ttest) when having different groups. In this case, the regressors model the mean activation of the groups
 		![[Pasted image 20220711125716.png]]
 
 
-How do they differ?
+
 What's Y in the 2nd level?
+	The contrast images/values of every subject, obtained by contrasting certain parameters.
+
+What 
 	The become the B-weighteds, that we found by analysing every subjects in the first level
 		it represent the  contrast image of different subjects.
-		They are the weighted sum of the Betas from the 1st level, which gives the difference btwen light ON OFF for ONE subject: s1= c1* B1,1+ cn* Bn,1. Is this difference larger than zero? That is the question
-			B1,1 is the index for Betas
-			Then for each subjec we have their Sm, which represent the  Y of the 2nd level analysis.. so that we have Subject m = c1 * B1,m + cnBn,m
+		for each subjec we have their Sm, which represent the  Y of the 2nd level analysis.. so that we have Subject m = c1 * B1,m + cnBn,m
 	In Y 2nd level, we redo a ttest=  cB/std(cB). caö dB d- And we wanna know where's the mean difference larger than zero
 	The 
 
