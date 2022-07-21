@@ -78,3 +78,7 @@ So show the diff.
 ![[Pasted image 20220721175153.png]]
 This equation models the BOLDr Y of the prefrontal cortex, using the psychophysical response of the hippocampus (the seed region) XPsych and XPhysio. 
 In this model, By combining the change in condition (Remembering  a maze or not. 0 1) with the physiological response of another brain region  (The HDR*)
+
+
+. Using functional imaging data, researchers can investigate not only which individual brain areas are involved in a task, but also how information flows between brain areas ([Stephan, 2004](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3375893/#nss055-B19); [Friston, 2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3375893/#nss055-B10); [Smith _et al._., 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3375893/#nss055-B18)) and how functional areas can change their connectivity to participate in different networks at different times ([Smith _et al._., 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3375893/#nss055-B18)), or under different behavioural circumstances
+ PPIs analysis concerns task-specific increases in the relationship between different brain areas’ activity ([Friston _et al._., 1997](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3375893/#nss055-B8)). PPI is a measure of what is generally referred to as functional connectivity—a statistical dependence between activity in between brain areas.
