@@ -5,13 +5,14 @@ alias: (Summarize/Answer) (Revise 1-2-3) (Mindmap)
 
 1. How does the Regions of analysis helps us do stat inferences?
 2. What does overcorrection means in the Bonferroni test?
-3. one tail, two tails
-5. what does the 2nd Level Y means??
-6. What is the Level 1 contrast test meausring?
-7. 	how do you know a cluster is stat. significant?
-8. How does Family wise Error works helps correcting the p-value
-9. How do Non-Parametric helps correcting the p-value
-10. What does controlling means in the FDR?
+	1. When there'S a srong correlation within the data, there's a higher  chance that if one data has a significant t>alpha, the other also are, therefore, Because of the much lower threshold of Bonferroni, Many Positive will be missed = False Negative = conservative
+**3. one tail, two tails** 
+4. what does the 2nd Level Y means??
+5. What is the Level 1 contrast test meausring?
+6. 	how do you know a cluster is stat. significant?
+7. How does Family wise Error works helps correcting the p-value
+8. How do Non-Parametric helps correcting the p-value
+9. What does controlling means in the FDR?
 - The FWE is a measure of Type 1 errors over multiple tests
 
 What are the different levels of significance?
