@@ -30,13 +30,14 @@ Why do we add Ones columns to the  X design Matrix?
 
 We convolve the HRF with the BOLD signal to get one column per conditions. #unclear (looks plain out false) Because it is. Mofo.
 
-**How do we convolve a signal time point ? (Think one point with an intensity) into a Hemodynamic Signal.**
+How do we convolve a signal time point ? (Think one point with an intensity) into a Hemodynamic Signal.
 	1. We  split the input into different intermediate signals (with diffre)
 	2. You scale the intermediate inputs by the intensity of the input. 
 	3. Let's say there's 3  intermediate input. THey all get assign a HDR funcion. So we have 3 HDR function, seperate by different time frame
-	4. In the end, we just sum all of those intermediate response to have the shaep of the final response
+	4. In the end, we just sum all of those intermediate response to have the shape of the final response
 
-**Why is there (mathematically) a large dependency between regressors? #unclear** 
+Why is there (mathematically) a large dependency between regressors? #unclear
+	talking about regressors modelling the phsyical parameters like 6 heads
 	If we change the x2 values, we will change the B2 value (so that the x2 and x1 are uncorrelated aka 90deg), but to predict the y vector we'll have to change the x1 as well. 
 	![[Pasted image 20220701110708.png]]
 questions: Why do we use Identity matrix for the e
