@@ -8,7 +8,8 @@ alias: (Summarize/Answer) (Revise 1-2-3) (Mindmap)
 3. one tail, two tails
 4. FDR definition
 5. what does the 2nd Level means?
-6. Level 1 contrast tests
+6. Level 1 contrast test
+7. 
 
 What are the different levels of significance?
 	Voxel level
