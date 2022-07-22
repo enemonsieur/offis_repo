@@ -47,4 +47,10 @@ What are the models of fxn connectivity
 ----
 ANOVA models. 
 How to investigate the main efecets in multiple condtions? 
-		
+Where in the brain is there more activation of cars vs flowers? 
+ CarB CarR FlowerB FlowerR
+ 1        0       0              0
+ 0        1       0              0
+ etc...
+ 
+ 
