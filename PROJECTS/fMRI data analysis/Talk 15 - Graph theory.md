@@ -42,4 +42,6 @@ How to compute time resolved analysis
 How are the resting state networks related to taks network?
 
 Structural and fxn connectivity:
-1. 
+What are the models of fxn connectivity
+
+
