@@ -45,6 +45,7 @@ Structural and fxn connectivity:
 What are the models of fxn connectivity
 
 ----
+# Capital importance
 ANOVA models. 
 How to investigate the main efecets in multiple condtions? 
 Where in the brain is there more activation of cars vs flowers? 
@@ -53,4 +54,5 @@ Where in the brain is there more activation of cars vs flowers?
  0        1       0              0
  etc...
  
+ 11 -1-1 is cars - flowers activations
  
