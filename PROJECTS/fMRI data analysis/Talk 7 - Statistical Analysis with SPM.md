@@ -3,35 +3,19 @@ what the fuck is 2 sided difference? What are we exactly calculating with the f-
 	- The f statistic doesn't care about the sign: It can't tell you if the difference is positive or negative
 	- f-test compare the full model with the reduced model (without the B we want)
 	- We have the variance of the BOLDr that's explained by the reduced model. Now, adding the different parameter, how much more variance is explained? (Variance because it will deviate from the standard HDR of as well)
+## Relearn Full vs reduced matrix
 
-
-**Why is correlated regressors a problem? #reformulate** 
-	Because by avoiding large correlation in our design matrix we can avoid having to change all of the Xs and Betas?
-	2. Ancova**
 **How do we make sure we don't filter our interesting frequencies (design matrix) because of the high pass filter**
 	By choosing the frequency of repeting our signal (like Light ON) frequently enough not to fall in the noise frequencies. This is I think> 72 seconds
-**What are the 3 types of problem created by applying a convolution to predict the HDR?**
-	- Convolution with HRF I think, bc its difficult to model multiple signals. #unclear 
-	- Serial Autocorrelation: related to the e
-	- Correlated regressors: There's some variance shared between the B's regressors so that if the X1 changes, the B1 and B2 will be affected #unclear 
-		- It can create **multicolinearity**. It can help to enlever signales related to movement. We use to do that, an ANCOVA,  where we add Betas related to the 6 movements, and remove the movements, from influencing the X
 **What does the f-variance measure**
-	3 stuff.
-	the f contrast is 2 sided
-	it calculates the diff between the variance estimates
-	We loose the directions
-	1 0 0 0 
-	0 1 0 0
-	0 0 1 0 By having this as DMatrix, we tryna see if any of the regressors  are able to reduce the error matrix. 
-	The Ho would be that every B are = 0 , so no change in the basal activity B1... b1 = 0
-	The H1 would be:
-
 **How do you build a reduced model?**
 	You assume that c'B=0.
 
 What problem do we run into while convolving HRF?
 	1. We have to take long signal delay so that the HRF won't mix
 	2. Serial Auto-correlation: Signal at any time point  can be prolonged to the subsequent time points, which increases the likelihood of obtaining false positives in task studies
+	3. Correlated regressors because of movement
+	4. Noise in the low frequency range bc of aliasing effect, below 0.02 Hz
 
 
 cWhat is the point of doing a Statistical Analysis of the BOLD RESPONSE?![[Pasted image 20220705084056.png]]
@@ -83,9 +67,6 @@ What does covariance means? #unclear
  Why do we have to do Convolution with  HRF?
 	 Because even when we apply a short signal, we always get a long response 4-6 s and we have to model every signal as such
 
-**How is correlated regressor a problem? #reformulate** 
-	Because by applying a HRF conv. We created a correlation between the different regressors. 
-	This create **multicolinearity**
 
 Why is there noise in the low frequency range of our measured signal? #unclear
 	Because the sampling rate is so low we cant detect high frequencyies. This creates a low frequency. Basically its due to: Aliasing and/or the way we sample data
