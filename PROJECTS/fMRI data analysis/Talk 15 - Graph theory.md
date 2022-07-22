@@ -15,3 +15,11 @@
 
 How do functional parcellation works?
 	it doesn't limits to the anomtical parts.
+What's the problem that arise with fxn connectivity
+	inderect correlation P.10
+How do we correct that?
+	Use partial correlation. By taking only the residuals between the correlation btwn regions to find the correlation, so that will eliminate the indirect correlation. 
+		PS: I didn't get SHIT!
+What's the problem with partial correlation?
+	Bc it can force two ID nodes to become correlated: Berkson's paradox. 
+	p.11
