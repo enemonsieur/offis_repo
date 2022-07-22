@@ -21,9 +21,11 @@ Some parameters are uniquely definie. Can we combine X design matrix by a matrix
 
 What is the condition to be able to find a contrast vector?
 	If it can be express as a LC of the rows of X
-In this big matrix there are many Beta estiamteives that measure different interactions. But if qwe wanna find th ediffernece betqeen A1 and A2 in general,, we have to combine the different rowns of the design matrix to correct the main efect of A (look again)
+	Can we obtain it, by combining the --> of X?
+In this big matrix there are many Beta estiamteives that measure different interactions. But if  we wanna find th ediffernece betqeen A1 and A2 in general,, we have to combine the different rowns of the design matrix to correct the main efect of A (look again)
 
-If it's not estimable, there'd be a grey box. at the level of the column 
+In SPM, what happen if the contrast vector isn't estimable?
+	If it's not estimable, there'd be a grey box. at the level of the column 
 
 The Dmatrix are often overparameterize bc they don't have full ranks, bc we can predict a colum with the param of others. In this case we can't inverse the matrix, and can't apply the formula tu find the exact B-estimates. 
 We can use the pseudoinverse, but the model wont be uniquely estimated. 
@@ -32,7 +34,7 @@ On the other side certains contrasts are estimable, when we can combine the diff
 In this case, the SPM will be gray where the Betas aren't estimable. 
 
 ## To know: 
-Thinkabout the sANOVA design matrixes anre understnad them, like the OW ANOVA, the first five. Understand what the betas are estimating? Which contrast are you selecting?
+Thinkabout the sANOVA design matrixes are understnad them, like the OW ANOVA, the first five. Understand what the betas are estimating? Which contrast are you selecting?
 	-What happen if the matrix have full rank?+
 		Theres an unique solution
 Havent full rank.
