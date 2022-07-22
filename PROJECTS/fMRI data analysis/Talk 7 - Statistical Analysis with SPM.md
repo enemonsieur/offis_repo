@@ -1,4 +1,4 @@
-**- what the fuck is 2 sided difference? What are we exactly calculating with the f-test?** 
+**what the fuck is 2 sided difference? What are we exactly calculating with the f-test?** 
 	- The f statistic doesn't care about the sign: It can't tell you if the difference is positive or negative
 	- f-test compare the full model with the reduced model (without the B we want)
 	- We have thev ariance of the BOLDr that's explained by the reduced model. Now, adding the different parameter, how much more variance is explained? (Variance because it will deviate from the standard HDR of as well)
