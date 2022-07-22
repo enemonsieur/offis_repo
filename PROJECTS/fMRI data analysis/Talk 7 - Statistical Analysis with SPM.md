@@ -4,8 +4,7 @@ what the fuck is 2 sided difference? What are we exactly calculating with the f-
 	- f-test compare the full model with the reduced model (without the B we want)
 	- We have the variance of the BOLDr that's explained by the reduced model. Now, adding the different parameter, how much more variance is explained? (Variance because it will deviate from the standard HDR of as well)
 
-**Why is serial auto-correlation a problem for modeling the BOLD signal HDR-response:**
-**How does the epsilon error term relate to autocorrelation?
+
 **Why is correlated regressors a problem? #reformulate** 
 	Because by avoiding large correlation in our design matrix we can avoid having to change all of the Xs and Betas?
 	2. Ancova**
@@ -32,7 +31,7 @@ what the fuck is 2 sided difference? What are we exactly calculating with the f-
 
 What problem do we run into while convolving HRF?
 	1. We have to take long signal delay so that the HRF won't mix
-	2. Serial Auto-correlation: Since the HRF
+	2. Serial Auto-correlation: Signal at any time point  can be prolonged to the subsequent time points, which increases the likelihood of obtaining false positives in task studies
 
 
 cWhat is the point of doing a Statistical Analysis of the BOLD RESPONSE?![[Pasted image 20220705084056.png]]
