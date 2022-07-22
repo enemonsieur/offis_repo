@@ -4,6 +4,7 @@ alias:  (ID questions/Blocks) (Summarize/Answer) (Revise 1-2-3) (Mindmap)
 ---
  
  What are continuous covariates?
+	 covariate that can be 1 0.5 3.4 etc...
  
 How does different contrast affect the interpretation of an ANOVA model?
 page 6 : what happen is that for each subject, we wanna see how much variance is explained by each parameter
