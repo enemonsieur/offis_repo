@@ -1,4 +1,4 @@
-**what the fuck is 2 sided difference? What are we exactly calculating with the f-test?** 
+what the fuck is 2 sided difference? What are we exactly calculating with the f-test?
 	- The f-test uses ANOVA to find if there's a diff between two populations
 	- The f statistic doesn't care about the sign: It can't tell you if the difference is positive or negative
 	- f-test compare the full model with the reduced model (without the B we want)
@@ -30,7 +30,9 @@
 **How do you build a reduced model?**
 	You assume that c'B=0.
 
-
+What problem do we run into while convolving HRF?
+	1. We have to take long signal delay so that the HRF won't mix
+	2. Serial Auto-correlation: Since the HRF
 
 
 cWhat is the point of doing a Statistical Analysis of the BOLD RESPONSE?![[Pasted image 20220705084056.png]]
