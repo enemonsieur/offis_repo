@@ -8,5 +8,10 @@
 4. Why do we parcelate the brain again? (into mean time series)
 	1. To reduce the data space
 	2. But how do we do that?
-		1. We use anatomical landmarks ex(we know where the gyri is) = **anatomical parcelation**. To do so, weuse the anatomical labelling of activations.
-		2. More recently: **functional parcelation** the parcels have differents volumes and sizes, and there's a corr btwen volume size <-> Mutual information?The higher the volume, the higher the correlation. 
+		- We use anatomical landmarks ex(we know where the gyri is) = **anatomical parcelation**. To do so, weuse the anatomical labelling of activations.
+		- More recently: **functional parcelation** the parcels have differents volumes and sizes, and there's a corr btwen volume size <-> Mutual information?The higher the volume, the higher the correlation. 
+		- But why bigger regions correlates with other regions?
+			Many voxels averaged reduce the noise, so the t-series is less effected bynoise, so its more likely to find corr with brain areas (since noise has zero corr, the bigger area, the lesser noise, the higher the correlation with other stuff )
+
+How do functional parcellation works?
+	it doesn't limits to the anomtical parts.
