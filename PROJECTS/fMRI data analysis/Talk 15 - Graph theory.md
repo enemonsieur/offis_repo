@@ -36,3 +36,8 @@ Why are movement correction important for defining links in graph theory?
 	- Interpolate the data point affected by noise: Use ICA-AROMA (P14)
 
 Now how are links defined?
+How to compute time resolved analysis
+	Use a certain sliding window and just shift tha tshit ofter time to compute thte fcn connectivity of this time windows
+
+How are the resting state networks related to taks network?
+	
