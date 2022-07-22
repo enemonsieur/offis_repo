@@ -28,3 +28,7 @@ What's the problem with partial correlation?
 	Created by Granger-causaliting, originally about the stock prices. 
 	If we wanna predictX1 at time t, we have to go backward in the timeseries, and predict X1, but we can also use the inormation of X2 in the past to predict it. (Check the p.12)
 	The past can predict the future, but not the contrary. 
+
+Why are movement correction important for defining links in graph theory?
+	- bc movements affect long distance corr in Physical space - they reduce those corr. But increase the corr. between brain region that are closed increase
+	- Therefore you should add parm. to check the mvm
