@@ -1,3 +1,37 @@
+**- what the fuck is 2 sided difference? What are we exactly calculating with the f-test?** 
+	- The f statistic doesn't care about the sign: It can't tell you if the difference is positive or negative
+	- f-test compare the full model with the reduced model (without the B we want)
+	- We have thev ariance of the BOLDr that's explained by the reduced model. Now, adding the different parameter, how much more variance is explained? (Variance because it will deviate from the standard HDR of as well)
+
+**Why is serial auto-correlation a problem for modeling the BOLD signal HDR-response:**
+**How does the epsilon error term relate to autocorrelation?
+**Why is correlated regressors a problem? #reformulate** 
+	Because by avoiding large correlation in our design matrix we can avoid having to change all of the Xs and Betas?
+	2. Ancova**
+**How do we make sure we don't filter our interesting frequencies (design matrix) because of the high pass filter**
+	By choosing the frequency of repeting our signal (like Light ON) frequently enough not to fall in the noise frequencies. This is I think> 72 seconds
+**What are the 3 types of problem created by applying a convolution to predict the HDR?**
+	- Convolution with HRF I think, bc its difficult to model multiple signals. #unclear 
+	- Serial Autocorrelation: related to the e
+	- Correlated regressors: There's some variance shared between the B's regressors so that if the X1 changes, the B1 and B2 will be affected #unclear 
+		- It can create **multicolinearity**. It can help to enlever signales related to movement. We use to do that, an ANCOVA,  where we add Betas related to the 6 movements, and remove the movements, from influencing the X
+**What does the f-variance measure**
+	3 stuff.
+	the f contrast is 2 sided
+	it calculates the diff between the variance estimates
+	We loose the directions
+	1 0 0 0 
+	0 1 0 0
+	0 0 1 0 By having this as DMatrix, we tryna see if any of the regressors  are able to reduce the error matrix. 
+	The Ho would be that every B are = 0 , so no change in the basal activity B1... b1 = 0
+	The H1 would be:
+
+**How do you build a reduced model?**
+	You assume that c'B=0.
+
+
+
+
 cWhat is the point of doing a Statistical Analysis of the BOLD RESPONSE?![[Pasted image 20220705084056.png]]
 	Create a generative model: Predicts the BOLDr, given the experimental values (light ON, sound OFF)
 
@@ -20,9 +54,9 @@ Why would we convolve the LTI to the X? #reformulate
 What is autocorrelation? #unclear 
 	In our case, its when the variance of a voxel, correlates with the variance of this voxel, but over time. This means, after 1s, the prob that the intensity of the e-errort and e-error-t-1 are similar is pretty high, meaning they autocorrelates. 
 In our case, autocorrelation is not important because we consideror that the error values (that are not explained by the design matrix) are not correlated. 
-**How does the epsilon error term relate to autocorrelation?**
+
 The error is normaly distributed (gaussian)
-**Why is serial auto-correlation a problem for modeling the BOLD signal HDR-response:**
+
 
 ### Talk 7: Part 2 Statistical Analysis
 
@@ -42,9 +76,6 @@ Why is there (mathematically) a large dependency between regressors? #unclear
 	![[Pasted image 20220701110708.png]]
 questions: Why do we use Identity matrix for the e
 whats kind of values are in the design matrix? For example?
-**Why is correlated regressors a problem? #reformulate** 
-	Because by avoiding large correlation in our design matrix we can avoid having to change all of the Xs and Betas?
-	2. Ancova
 What does covariance means? #unclear  
 
  Why do we have to do Convolution with  HRF?
@@ -58,8 +89,7 @@ Why is there noise in the low frequency range of our measured signal? #unclear
 	Because the sampling rate is so low we cant detect high frequencyies. This creates a low frequency. Basically its due to: Aliasing and/or the way we sample data
 How do we get rid of low frequency?
 	By applying a high pass filter.
-**How do we make sure we don't filter our interesting frequencies (design matrix) because of the high pass filter**
-	By choosing the frequency of repeting our signal (like Light ON) frequently enough not to fall in the noise frequencies. This is I think> 72 seconds
+
 
 How can we confirm our hypothesis that: Are there differences in neural activity between conditions
 	Find if the BETA1 is larger than the BETA 2 (substract)
@@ -74,11 +104,6 @@ How can we confirm our hypothesis that: Are there differences in neural activity
 		The difference of the diffrence between TON LON - TONOFF LON  AND TON LOFF - TON LON has to be diff  from zero. In this case, that gives us the contrastfor the interaction effect.
 
 
-**What are the 3 types of problem created by applying a convolution to predict the HDR?**
-	- Convolution with HRF I think, bc its difficult to model multiple signals. #unclear 
-	- Serial Autocorrelation: related to the e
-	- Correlated regressors: There's some variance shared between the B's regressors so that if the X1 changes, the B1 and B2 will be affected #unclear 
-		- It can create **multicolinearity**. It can help to enlever signales related to movement. We use to do that, an ANCOVA,  where we add Betas related to the 6 movements, and remove the movements, from influencing the X
 
 There's another point, a problem created during statistical analysis: Reducing noise in the low frequency range. What do we do for it?
 	apply a high pass filter
@@ -108,19 +133,7 @@ What is a reduce model?
 	The reduce model error is alwyas >= bc you need other parameter to reduce the variance
 	e^2r >= e^2
 
-**What does the f-variance measure**
-	3 stuff.
-	the f contrast is 2 sided
-	it calculates the diff between the variance estimates
-	We loose the directions
-	1 0 0 0 
-	0 1 0 0
-	0 0 1 0 By having this as DMatrix, we tryna see if any of the regressors  are able to reduce the error matrix. 
-	The Ho would be that every B are = 0 , so no change in the basal activity B1... b1 = 0
-	The H1 would be:
 
-**How do you build a reduced model?**
-	You assume that c'B=0.
 
 **You ran ttest for each voxels and found f values as well. But now, how to you define the t values or f values as large? #unclear (What are we trying to do)**
 	Determine a threshold
@@ -146,7 +159,3 @@ We can use 2 types of statistics to find if  our conditions differs from each ot
 	- ![[Pasted image 20220708065432.png]]
 	- 
 - f-test: We use it by creating a reduce model excluding the parameter of interest. Then, we can add em and see if they improve our model prediction (of the BOLDr) or not. 
-**- what the fuck is 2 sided difference? What are we exactly calculating with the f-test?** 
-	- The f statistic doesn't care about the sign: It can't tell you if the difference is positive or negative
-	- f-test compare the full model with the reduced model (without the B we want)
-	- We have thev ariance of the BOLDr that's explained by the reduced model. Now, adding the different parameter, how much more variance is explained? (Variance because it will deviate from the standard HDR of as well)
