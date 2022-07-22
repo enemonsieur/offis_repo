@@ -24,6 +24,7 @@ What's the problem with partial correlation?
 	- Bc it can force two ID nodes to become correlated: Berkson's paradox. 
 	p.11
 	- This can create a very high correlation 
-What is DERIVING DIRECTIONALITY?
+**What is DERIVING DIRECTIONALITY?**
 	Created by Granger-causaliting, originally about the stock prices. 
-	If we wanna predictX1 at time t, we have to go backward in the timeseries, and predict X1, but we can also use the inormation of X2 in the past to predict it. (Check the )
+	If we wanna predictX1 at time t, we have to go backward in the timeseries, and predict X1, but we can also use the inormation of X2 in the past to predict it. (Check the p.12)
+	The past can predict the future, but not the contrary. 
