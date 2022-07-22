@@ -44,4 +44,7 @@ How are the resting state networks related to taks network?
 Structural and fxn connectivity:
 What are the models of fxn connectivity
 
- 
+----
+ANOVA models. 
+How to investigate the main efecets in multiple condtions? 
+		
