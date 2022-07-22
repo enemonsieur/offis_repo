@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/fMRI data analysis/Talk 14 - Brain Connectivity.md",
+            "file": "PROJECTS/fMRI data analysis/Talk 15 - Graph theory.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/fMRI data analysis/Talk 14 - Brain Connectivity.md",
+                "file": "PROJECTS/fMRI data analysis/Talk 15 - Graph theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,8 @@
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
-    "PROJECTS/fMRI data analysis/REVISION PLAN.md",
     "PROJECTS/fMRI data analysis/Talk 14 - Brain Connectivity.md",
+    "PROJECTS/fMRI data analysis/REVISION PLAN.md",
     "AREAS/Les Confiotes/Marketing Confiotes.md",
     "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
     "PROJECTS/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
