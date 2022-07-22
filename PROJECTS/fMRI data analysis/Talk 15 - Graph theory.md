@@ -40,4 +40,6 @@ How to compute time resolved analysis
 	Use a certain sliding window and just shift tha tshit ofter time to compute thte fcn connectivity of this time windows
 
 How are the resting state networks related to taks network?
-	
+
+Structural and fxn connectivity:
+1. 
