@@ -56,7 +56,7 @@ What happen if we directly map the T2 images with the template?
 ### normalization
  #lineartransformation
 what kind of maths operation do we do with normalization?
-	linear and non linear(warping) trasformation
+	linear and non linear(warping) transformation
 what for?
 	to put the HD t1 image to the MNI template
 
