@@ -20,5 +20,10 @@ Dans son frigo il y'a beaucoup de produits étrangers de luxe comme du fois gras
 
 
 ## Craft Les confiotes Message
-Pourquoiq 
+Pourquoi Anne Ndame devrait acheter chez nous et pas chez d'autres? 
+
+Si on enlève le logo de nos posts Facebook/WA est-ce que les clients vont toujours nous reconnaître ? 
+La qualité n'est pas un USP, c'est la base. La qualité vient après l'achat, ca ne créé pas les ventes. Ca ne convainc pas à l'achat. 
+- Qu'est ce qui fait que Anne Ndame ne parle même pas de prix ? Quels besoins on peut particulièrement satisfaire pour Anne Ndame, que 
+
 
