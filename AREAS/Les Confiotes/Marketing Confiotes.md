@@ -37,5 +37,9 @@ La qualité n'est pas un USP, c'est la base. La qualité vient après l'achat, c
 Utilise la formule : "Tu vois comment [problème que les gens ont] ?" Et bien ce qu'on fait c'est [Solution au problème]. D'ailleurs [Preuve par exemple ]
 - Tu vois comment c'est difficile de trouver un produit Camerounais qu'on peut proposer à ses enfants et consommer sans qu'ils se plaignent que le goût change ou que c'est différent ? Et bien ce qu'on fait c'est qu'on propose des sirops 100% MIC depuis plus de 30 ans qui entrent aussi bien dans le petit déjeuner ou le diner de la famille. Récemment même on a un client depuis 10 ans qui est revenu regoûter nos sirops et étaient choqué que ce soit "comme à l'époque".
 - Tu vois comme c'est difficile de finir une tontine sans que tes cotontinières ne critiquent tes repas ou tes vins? Et que tu es obligée d'en faire toujours plus ? Et bien ce qu'on fait c'est plannifier une liste de cocktails à base de nos sirops et liqueurs  100% MIC, pour en mettre plein la vue aux évènements et leur faire te donner l'attalaku pendant des mois. D'ailleurs on parle encore de la fête de ma soeur il y'a 5 ans ou des mixologues on créé des cocktails MIC incroyables. 
-- 
+
+### Créer une Offre de la mort
+- Quel problème on est 200% sur on peut résoudre pour les clients ? Si on leur disait: Payer nous après que ca ait marché, Quel genre de problèmes que nos clients ont est ce qu'on eest sur qu'on va résoudre?
+- Les gens n'achètent pas les assurances, mais la tranquilité d'esprit. Les gens n'achètent pas les liqueurs pour se saouler mais... Les gens n'achètent pas les sirops pour se désaltérer mais...
+- Que veulent réelleement nos clients? Qu'est ce que nos clients achètent régulièrement, 
 
