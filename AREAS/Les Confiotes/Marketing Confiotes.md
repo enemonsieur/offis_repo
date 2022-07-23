@@ -31,5 +31,7 @@ La qualité n'est pas un USP, c'est la base. La qualité vient après l'achat, c
 	- Qu'est ce que les liqueurs de notre genre "apportent" qux clients?
 	- Qu'est ce que les sirops de notre genre apportent aux clients?
 - Si Nos clients sont des revendeurs, qu'est ce qu'ils veulent faire avec nos sirops ? Quel serait le meilleur moyen de les aider à atteindre cet objectif? (Ex: Coffrets MIC Annick Ngamaleu)
+- Comment est-ce qu'on peut être plus remarquables? Avec quel genre de cocktails on peut surprendre ? Avec quels genre d'ajout dans notre livraison ? Avec quel genre de présentation de nos produits on peut surprendre ? 
+
 
 
