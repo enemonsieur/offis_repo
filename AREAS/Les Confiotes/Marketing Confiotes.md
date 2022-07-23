@@ -34,7 +34,8 @@ La qualité n'est pas un USP, c'est la base. La qualité vient après l'achat, c
 - Comment est-ce qu'on peut être plus remarquables? Avec quel genre de cocktails on peut surprendre ? Avec quels genre d'ajout dans notre livraison ? Avec quel genre de présentation de nos produits on peut surprendre ? De quelle facon on peut parler du produits pour que les gens se disent: WOW. Ca c'est surprenant. 
 
 ### Elevator Pitch
-Utilise la formule : "Tu vois comment [problème que les gens ont] ?" Et bien ce qu'on fait c'est [Solution au pr]
+Utilise la formule : "Tu vois comment [problème que les gens ont] ?" Et bien ce qu'on fait c'est [Solution au problème]. D'ailleurs [Preuve par exemple ]
+- Tu vois comment c'est difficile de trouver un produit Camerounais qu'on peut proposer à ses enfants et consommer sans qu'ils se plaignent que le goût change ou que c'est différent ? Et bien ce qu'on fait c'est qu'on propose des sirops 100% MIC depuis plus de 30 ans qui entrent aussi bien dans le petit déjeuner ou le diner de la famille. Récemment même on a un client 
 
 
 
