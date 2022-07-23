@@ -24,6 +24,9 @@ Pourquoi Anne Ndame devrait acheter chez nous et pas chez d'autres?
 
 Si on enlève le logo de nos posts Facebook/WA est-ce que les clients vont toujours nous reconnaître ? 
 La qualité n'est pas un USP, c'est la base. La qualité vient après l'achat, ca ne créé pas les ventes. Ca ne convainc pas à l'achat. 
-- Qu'est ce qui fait que Anne Ndame ne parle même pas de prix ? Quels besoins on peut particulièrement satisfaire pour Anne Ndame, que 
+- Qu'est ce qui fait que Anne Ndame ne parle même pas de prix ? Quels besoins on peut particulièrement satisfaire pour Anne Ndame, que Rouge D'hibiscus ne pourra pas satisfaire ? 
+- Pourquoi Anne Ndame devrait acheter des sirops/liqueurs ? 
+- Pourquoi Anne Ndame devrait achezer les sirops et liquers les confiotes ?
+- 
 
 
