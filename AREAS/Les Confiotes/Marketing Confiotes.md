@@ -41,5 +41,9 @@ Utilise la formule : "Tu vois comment [problème que les gens ont] ?" Et bien ce
 ### Créer une Offre de la mort
 - Quel problème on est 200% sur on peut résoudre pour les clients ? Si on leur disait: Payer nous après que ca ait marché, Quel genre de problèmes que nos clients ont est ce qu'on eest sur qu'on va résoudre?
 - Les gens n'achètent pas les assurances, mais la tranquilité d'esprit. Les gens n'achètent pas les liqueurs pour se saouler mais... Les gens n'achètent pas les sirops pour se désaltérer mais...
-- Que veulent réelleement nos clients? Qu'est ce que nos clients achètent régulièrement, 
+- Que veulent réelleement nos clients? Qu'est ce que nos clients achètent régulièrement, et peut-on déduire pourquoi ils achètent ca?
+
+1. Quelle Offre peut on offrir pour le segment qui représente nos meilleurs clients ? Comment on peut adresser exactement un problème qu'ils ont?
+2. Quelles autres offres on peut ajouter à côté pour un peu moins du prix ? 
+3. Soyons clair sur le point de douleur des clients. Qu'est ce qui est insupportable pour eux de faire ? (Un de nos clients c'était de payer par OM)
 
