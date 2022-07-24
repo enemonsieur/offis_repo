@@ -16,11 +16,10 @@ what the fuck is 2 sided difference? What are we exactly calculating with the f-
 	Question 3:
 		The difference of the diffrence between TON LON - TONOFF LON  AND TON LOFF - TON LON has to be diff  from zero. In this case, that gives us the contrastfor the interaction effect.
 **How do we make sure we don't filter our interesting frequencies (design matrix) because of the high pass filter**
-	By choosing the frequency of repeting our signal (like Light ON) frequently enough not to fall in the noise frequencies. This is I think> 72 seconds
+	By choosing the frequency of repeting our signal (like Light ON) frequently enough not to fall in the noise frequencies. This is I think> 20sseconds
 **What does the f-variance measure**
 	The difference between variance estimates, to explain, how much did our conditions (Ligh, sound) can explain the variance of the BOLD signal
 **How do you build a reduced model?**
-	You assume that c'B=0.
 How do we convolve a signal time point ? (Think one point with an intensity) into a Hemodynamic Signal.
 	1. We  split the input into different intermediate signals (with diffre)
 	2. You scale the intermediate inputs by the intensity of the input. 
