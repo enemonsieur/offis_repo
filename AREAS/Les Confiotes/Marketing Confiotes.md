@@ -119,3 +119,10 @@ Il faut Evaluer absolument le Life Time Customer Value:
 	1. Comment s'excuser au prêt de clients dissatissfaits
 
 ## Convertir en ventes
+1. Arrêter de faire tant de propositions de ventes, mais plutot d'éduquer: 
+	1. Video Ads: proposer une liste de cocktails made in Cameroon délicieux à faire chez soi. 
+	2. Éduquer les clients sur les avantages de nos produits et la facon dont on les sert
+
+2. Créer la confiance: Avoir l'air plus pro avec des catalogues, des flyers, un meilleur Logo, un compte Whatsapp bien fait, changer le Facebook Profile Pic, Donner un numéro de commande pour chacun de nos clients ?, 
+3. Créer des garanties outrageuses pour que les gens fassent le pas: 
+	1. Qu
