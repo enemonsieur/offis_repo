@@ -4,16 +4,20 @@
 4. What's cognitive substraction
 5. How are the stimuli presented in Block design?
 	1. IN fucking blocks of information
-2. How's block design different from ERD
+6. How's block design different from ERD
 	1. ERRD stim are presented much shortly than blocks
-**2. Why is block better than ERD?**
+7. Why is block better than ERD?**
 	1. Why does block has a higher stat power?
 	2. Better when different conditions involve performing different tasks
 	3. Why is ERD better?
 		1. Because the brain doesnt habituate to the signal and decreases its BOLD
-2. The HRF acts as whats kind of filter?
+8. The HRF acts as whats kind of filter?
 	1. LP. Therefore how does it affect the experiment?
 		Experimental variance must be present at sufficient low frequencies to pass
+9. How long should be the block design?
+	1. 14-20s to avoid noise. 
+10. How long should exp. Be?
+	1. 6 blocks
 
 what are the differents design types?
 	Categorical, factorial, parametric designs
