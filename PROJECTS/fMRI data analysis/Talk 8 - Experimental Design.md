@@ -18,6 +18,7 @@
 	1. 14-20s to avoid noise. 
 10. How long should exp. Be?
 	1. 6 blocks
+	2. Why should your blocks be random?
 
 what are the differents design types?
 	Categorical, factorial, parametric designs
