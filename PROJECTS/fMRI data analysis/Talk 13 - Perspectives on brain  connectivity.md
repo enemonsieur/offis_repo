@@ -33,14 +33,20 @@ What's the important NW our prof focused on?
 	Small world Nw
 ## Small World Network
 What the hell is a SWNW (small world network)
-	A network with high Clustering coeff (each node has lots edges), but
+	A network with high Clustering coeff (each node has lots edges), but the path length (reaching far nodes) is almost equal to random(lot of shortcuts to all nodes
+
 What's the diff beween a regular and a randomn network
-	What is p?
+	Regular: Lot of clusters, hard to reach far away nodes
+	Random: Almost no clusters, as easy to reach far away nodes than close nodes
+
+
+SCALE FREE NETWORK
+What is p?
 		The prob that we find cutted edges
-	How is this p diff in regular and random?
+How is this p diff in regular and random?
 		The lower the p, the more regular (a lot of edges in the circle)
 		the higher the p, the more the p in the inside
-	How is SWNw?
+How is SWNw?
 		Because of the clustering and the Path lenght are pretty equal??
 	High clustering, the neighbouring nodes are correlated, locally quite dense networks
 	But we have  ashort path length
