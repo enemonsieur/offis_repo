@@ -61,5 +61,6 @@ Utilise la formule : "Tu vois comment [problème que les gens ont] ?" Et bien ce
 1. Quelle Offre peut on offrir pour le segment qui représente nos meilleurs clients ? Comment on peut adresser exactement un problème qu'ils ont?
 2. Quelles autres offres on peut ajouter à côté pour un peu moins du prix ? 
 3. Soyons clair sur le point de douleur des clients. Qu'est ce qui est insupportable pour eux de faire ? (Un de nos clients c'était de payer par OM)
-4. Travaillons sur le copywriting
+	1.  Travaillons sur le copywriting
+	2. 
 
