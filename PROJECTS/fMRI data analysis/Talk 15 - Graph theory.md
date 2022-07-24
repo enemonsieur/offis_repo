@@ -9,7 +9,7 @@
 	   - To get mean time series of those regions. 
 	   - They use a low pass filter and focus on frequencies componetnts below 0.1 Hz. Which is surprising bc we are supposed to recieve a lot of noise in the low-pass filter.
 	   - This is bc long range autocorrelation, low freq autocorr. isn't just noise. ex: herzt coefficient?
-	   - This means, we use LPf to take the information about long range communication, to see if neural networks communicate between each other. 
+	   - This means, we use LPF to take the information about long range communication, to see if neural networks communicate between each other. 
 - We can use a pearson correlation to find the regions by regions connectivity matrix, and by changing the threshold, we can find the connections between the brain graphs.
 
 4. Why do we parcelate the brain again? (into mean time series)
