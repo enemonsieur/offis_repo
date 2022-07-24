@@ -18,7 +18,7 @@ Elle accompagne ses deux enfants au karaté et à la danse avant de partir se re
 Elle va parfois aux foires que ses amies lui ont recommandé et elle achète des vases. 
 Dans son frigo il y'a beaucoup de produits étrangers de luxe comme du fois gras et plusieurs assortiment de fromage, mais aussi des épices CMR comme du poivre de penja.
 
-#''# PVP
+## PVP
 1⃣ ceux qui achète pour consommer avec les gens et les ebahir
 - j aime travailler 9
 - rapportent à 7
@@ -33,7 +33,7 @@ Dans son frigo il y'a beaucoup de produits étrangers de luxe comme du fois gras
 - j aime 8
 - rapporte 8
 - marché vaste 8
-- 
+ 
 ## Craft Les confiotes Message
 Pourquoi Anne Ndame devrait acheter chez nous et pas chez d'autres? 
 
