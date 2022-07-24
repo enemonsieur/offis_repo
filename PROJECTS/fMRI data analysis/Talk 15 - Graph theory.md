@@ -3,8 +3,9 @@
 	   - To get mean time series of those regions. 
 	   - They use a low pass filter and focus on frequencies componetnts below 0.1 Hz. Which is surprising bc we are supposed to recieve a lot of noise in the low-pass filter.
 	   - This is bc long range autocorrelation, low freq autocorr. isn't just noise. ex: herzt coefficient?
-- We can use a pearson correlation to find the regions by regions cnnectivity matrix, and by changing the threshold, we can find the connections between the brain graphs.
-3. How do we model nodes and edges?
+	   - This means, we use LPf to take the information about long range communication, to see if neural networks communicate between each other. 
+- We can use a pearson correlation to find the regions by regions connectivity matrix, and by changing the threshold, we can find the connections between the brain graphs.
+
 4. Why do we parcelate the brain again? (into mean time series)
 	1. To reduce the data space
 	2. But how do we do that?
@@ -23,7 +24,7 @@ How do we correct that?
 What's the problem with partial correlation?
 	- Bc it can force two ID nodes to become correlated: Berkson's paradox. 
 	p.11
-	- This can create a very high correlation 
+	- This can create a very high correlation  #unclear 
 **What is DERIVING DIRECTIONALITY?**
 	It's an equation to predict the future of one signal X2, using information of the past of another signal X1
 	Created by Granger-causaliting, originally about the stock prices. 
@@ -38,7 +39,7 @@ Why are movement correction important for defining links in graph theory?
 	- Interpolate the data point affected by noise: Use ICA-AROMA (P14)
 
 Now how are links defined?
-How to compute time resolved analysis
+How to compute **time resolved analysis**
 	Use a certain sliding window and just shift tha tshit ofter time to compute thte fcn connectivity of this time windows
 
 How are the resting state networks related to taks network?
