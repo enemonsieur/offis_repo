@@ -2,16 +2,21 @@
 2. What's SOA
 3. Why do we need a comparison?
 4. What's cognitive substraction
-5. 
-	1. 
+5. How are the stimuli presented in Block design?
+	1. IN fucking blocks of information
+2. How's block design different from ERD
+	1. ERRD stim are presented much shortly than blocks
+2. Why is block better than ERD?
+3. 
+
 what are the differents design types?
 	Categorical, factorial, parametric designs
 	 Blocked vs. event-related designs
 
 **What are the 3 different design types?**
-	• Categorical 
-	• Factorial designs 
-	• Parametric designs
+	• Categorical : 2 categories of stimulu: Face vs Houses
+	• Factorial designs : Contrast different factors: Familiarity vs Stimulus
+	• Parametric designs: We gradually change the stim to see if the activity changes
 
 
 Why is it important to have an element to compare when doing a design?
