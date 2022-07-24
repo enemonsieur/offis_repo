@@ -20,6 +20,8 @@ How often a certain pattern appear in a network
 	Each of the patterns has a meaning and we have to udnerstand them (p28)
 Wha the fuck is modularity?
 	It's when a network has a lot of edges connected with closed cluster, but not that much between away clusters
+What's a path length?
+	The number of edges connecting two networks
 # Benchmark Networks
 What the fuck is that?
 	A method to generate some networks that have specific properties
@@ -30,8 +32,9 @@ How many types of Networkds do you know?
 What's the important NW our prof focused on?
 	Small world Nw
 ## Small World Network
-	What the hell is a SWNW (small world network)
-	What's the diff beween a regular and a randomn network
+What the hell is a SWNW (small world network)
+	A network with high Clustering coeff (each node has lots edges), but
+What's the diff beween a regular and a randomn network
 	What is p?
 		The prob that we find cutted edges
 	How is this p diff in regular and random?
