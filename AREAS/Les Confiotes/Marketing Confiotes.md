@@ -98,4 +98,7 @@ Il faut Evaluer absolument le Life Time Customer Value:
 	1. ![[Pasted image 20220724121432.png]]
 9 fois.
 3. Comment préparer nos prospects à reconnaître la valeur de nos produits ?
-	1. Offre leur des informations qui resolvent leur problème ()
+	1. Offre leur des informations qui resolvent leur problème (
+	2. Quelles informations de valeur est-ce que nos clients veulent ? #Hilaire peut réétudier les réactions aux posts
+	3. A quelle fréquence faie des offres d'achat?
+4. 
