@@ -44,21 +44,15 @@ SCALE FREE NETWORK
 How are they define?
 	They have a central node with a looot of edges and then less and less nodes with high degree. 
 	
-What is p?
+What is p? #unclear
 		The prob that we find cutted edges
 How is this p diff in regular and random?
 		The lower the p, the more regular (a lot of edges in the circle)
 		the higher the p, the more the p in the inside
-How is SWNw?
-		Because of the clustering and the Path lenght are pretty equal??
-	High clustering, the neighbouring nodes are correlated, locally quite dense networks
-	But we have  ashort path length
-	In SWnw, we have low path lenght but still high clustering
-	In SW networks there are shortcuts to reach furtehr destinations quite fast. Which means we need few of the shorts Cuts to reach a high path length.
-	But still, what is SWNw in term of path lenghts and Clusters? 
+
 The brain is neither a randomnor a regular Nw. Nor a heterogenious distributed network. Which means the degree distribution is quite middle and the majority of brain nodes have only few links. 
 Why do evolution favor SWNw?
-	To optimise cost effective informationprocessing. 
+	To optimise cost effective information processing. 
 	If and edge cost axons etcc.. to create, we want less of them, and very clusters. But on the other hand, we wanna be able to go between brain regions without moving a lot so we need a bit of direct paths that connect ways paths
 
 ## Scale-free Networks
@@ -69,7 +63,7 @@ Like one or two nodes arevery connected, but the other one, really aren'T
 
 Exemple: Streets connected to others: Few airports have many many links, and a lot of local airports with small links
 
-How can we grow Scale freenetworks?
+How can we grow Scale free networks?
 	You use prferential attachement
 	You start with one node, and add more and more edges to each - The richer get richers
 Why do we care bout that shit?
