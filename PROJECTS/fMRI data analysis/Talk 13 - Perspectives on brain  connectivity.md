@@ -41,6 +41,9 @@ What's the diff beween a regular and a randomn network
 
 
 SCALE FREE NETWORK
+How are they define?
+	They have a central node with a looot of edges and then less and less nodes with high degree. 
+	
 What is p?
 		The prob that we find cutted edges
 How is this p diff in regular and random?
