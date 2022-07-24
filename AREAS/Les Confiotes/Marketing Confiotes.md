@@ -83,7 +83,7 @@ Il faut Evaluer absolument le Life Time Customer Value:
 	- Evaluer les changements à faire: Titre, Photos, Propositions
 - Les canaux marketing sont: Bouche à Oreille (beaucoup de nos clients découvrent comme ca.), Facebook. Comment obtenir 3 autres canaux Marketing?
 
-# During
+# DURING
 ## Capture des prospects
 - Améliorons et détaillons notre campagne pour mettre des clients dans notre lead:
 	1. Whatsapp numéro
@@ -106,4 +106,16 @@ Il faut Evaluer absolument le Life Time Customer Value:
 5. Comment déterminer qu'un prospect est "mature"
 6. Quel genre de contenu on peut produire pour les "éduquer", qui soit réutilisable? Combien
 
-### Créer un Cadeau choc
+### Créer un Cadeau choc ??
+
+
+
+
+7. Quels actions journalières, hebdomadaires et mensuelles on doit  effecteur?
+	1. 3 posts
+	2. Ajouter les clients dans le CRM
+	3. Biweekly: Envoyer un post "par catégorie" aux clients
+8. Quels sont les autres parties du business clients relation qu'on peut automatiser
+	1. Comment s'excuser au prêt de clients dissatissfaits
+
+## Convertir en ventes
