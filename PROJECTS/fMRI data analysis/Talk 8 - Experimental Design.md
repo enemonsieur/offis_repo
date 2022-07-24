@@ -24,7 +24,9 @@
 12. How do we call the timelapse between the S1 and S2
 	Stimulus Onset Asynchrony
 13. How closed should 2 event be?
-14. 
+	1. Min 2s, around 16-20
+2. What happens if the stimulus presented at the same time as the samplig rate? (or a multiple of that time)
+	1. 
 
 what are the differents design types?
 	Categorical, factorial, parametric designs
