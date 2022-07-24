@@ -8,6 +8,7 @@ what the fuck is 2 sided difference? What are we exactly calculating with the f-
 **How do we make sure we don't filter our interesting frequencies (design matrix) because of the high pass filter**
 	By choosing the frequency of repeting our signal (like Light ON) frequently enough not to fall in the noise frequencies. This is I think> 72 seconds
 **What does the f-variance measure**
+	The difference between variance estimates, to explain, how much did our conditions (Ligh, sound) can explain the variance of the BOLD signal
 **How do you build a reduced model?**
 	You assume that c'B=0.
 
