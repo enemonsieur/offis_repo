@@ -25,9 +25,10 @@ What's the problem with partial correlation?
 	p.11
 	- This can create a very high correlation 
 **What is DERIVING DIRECTIONALITY?**
-	It's an equation to predict the future of one signal X2, using information of the past of another
+	It's an equation to predict the future of one signal X2, using information of the past of another signal X1
 	Created by Granger-causaliting, originally about the stock prices. 
-	If we wanna predictX1 at time t, we have to go backward in the timeseries, and predict X1, but we can also use the inormation of X2 in the past to predict it. (Check the p.12)
+	If we wanna predict X1 at time t, we have to go backward in the timeseries, and predict X1, but we can also use the inormation of X2 in the past to predict it. (Check the p.12)
+What's impossible to do with Granger causality
 	The past can predict the future, but not the contrary. 
 
 Why are movement correction important for defining links in graph theory?
@@ -47,13 +48,13 @@ What are the models of fxn connectivity
 
 ----
 # Capital importance
-ANOVA models. 
-How to investigate the main efecets in multiple condtions? 
+ANOVA models. #fmriquestion 
+How to investigate the main effects in multiple condtions? 
 Where in the brain is there more activation of cars vs flowers? 
  CarB CarR FlowerB FlowerR
  1        0       0              0
  0        1       0              0
  etc...
  
- 11 -1-1 is cars - flowers activations
+ 1 1 -1-1 is cars - flowers activations
  
