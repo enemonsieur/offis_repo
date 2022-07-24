@@ -8,8 +8,12 @@ Local efficiency
 Clustering coefficient?
 	prevalence of certain edges compare to possible edges
 	This means are the bacteria cells connected to the maximum number of bacterias cells possible? Like the skin or is it more like a streptocok?
-Between centrality?
-	Do we have to cross a certain nodes to connecct 2 nodes by the shortest pathway
+Betweenness centrality?
+	It's like, take a node, take the shortest paths in the modules that passes through. For all the shortest paths inthe network, how much of them passes thourgh this MOFO node?
+What's Degree?
+	The degree of that shit is the number of links connected to the node. The more links a node has, the hgiher the degree. Is like Social Currency, the more friends, the cooler you are
+What's a Hub?
+	A MOFO Node that's like a celebrity (high degree)
 
 How often a certain pattern appear in a network
 	Is a triangle pattern appears often? Pyramidal? pentagonal---
