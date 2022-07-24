@@ -7,9 +7,9 @@ Local efficiency
 	Clustering surrounding a certain nodes
 Clustering coefficient?
 	prevalence of certain edges compare to possible edges
+	This means are the bacteria cells connected to the maximum number of bacterias cells possible? Like 
 Between centrality?
 	Do we have to cross a certain nodes to connecct 2 nodes by the shortest pathway
-
 
 How often a certain pattern appear in a network
 	Is a triangle pattern appears often? Pyramidal? pentagonal---
