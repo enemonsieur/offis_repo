@@ -76,3 +76,9 @@ Il faut se focaliser sur le ROI:
 Il faut Evaluer absolument le Life Time Customer Value: 
 - Combien un customer nous rapporte généralement? Combien de fois il va commander sur un an?
 - Et en fonction de ca, il faut ajuster les ROI
+- Ne crééons plus de Budget Marketing, mais mesurons immédiatement combien ca nous rapporte, chaque semaine
+	- Toujours demander au client d'où il vient
+	- Noter L'origine des ventes dans le cahier client/vente
+	- Faire un rapport/semaine du ROI du marketing
+	- Evaluer les changements à faire: Titre, Photos, Propositions
+- Les canaux marketing sont: Bouche à O
