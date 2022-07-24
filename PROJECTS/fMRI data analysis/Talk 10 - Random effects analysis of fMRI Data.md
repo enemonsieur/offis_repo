@@ -20,8 +20,6 @@ What's the second level analysis?
 	It's modeling the difference in brain activations levels (ttest) when having different groups. In this case, the regressors model the mean activation of the groups
 		![[Pasted image 20220711125716.png]]
 
-
-
 What's Y in the 2nd level?
 	The contrast images/values of every subject, obtained by contrasting certain parameters.
 
