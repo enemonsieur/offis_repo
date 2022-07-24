@@ -20,7 +20,9 @@ But how do we do that?
 		- But why bigger regions correlates with other regions?
 			Many voxels averaged reduce the noise, so the t-series is less effected bynoise, so its more likely to find corr with brain areas (since noise has zero corr, the bigger area, the lesser noise, the higher the correlation with other stuff )
 How do we definie the edges/notes using functionnal connectivity?
-	We turn time series into F.bands
+	We turn time series into F.bands, and we compare eacht T-Series in each frequency ranges with a connectivity matrix (using for ex. The pearson correlation)
+
+	
 How do functional parcellation works?
 	it doesn't limits to the anomtical parts.
 What's the problem that arise with fxn connectivity
@@ -41,7 +43,7 @@ What's impossible to do with Granger causality
 
 
 Now how are links defined?
-How to compute **time resolved analysis**
+**How to compute **time resolved analysis****
 	Use a certain sliding window and just shift tha tshit ofter time to compute thte fcn connectivity of this time windows
 
 How are the resting state networks related to taks network?
