@@ -21,8 +21,10 @@
 	2. Why should your blocks be random?
 11. In ERD, How close together should events be presented?
 	1. until the BOLDr is back to baseline
-How do we call the timelapse between the S1 and S2
+12. How do we call the timelapse between the S1 and S2
 	Stimulus Onset Asynchrony
+13. How closed should 2 event be?
+14. 
 
 what are the differents design types?
 	Categorical, factorial, parametric designs
