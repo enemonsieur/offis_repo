@@ -1,5 +1,11 @@
-1. Why do we do slice timing? 
-2. Why do we parcelate the brain in different Brain regions
+**1. Why do we do slice timing?**
+**2. Why are movement correction important for defining links in graph theory?**
+	- bc movements affect long distance corr in Physical space - they reduce those corr. But increase the corr. between brain region that are closed increase
+	- Therefore you should add parm. to check the mvmt parameters. computing framewise displacement (the mvmt parameters) and DVARDS (take the images, make a Root mean squared, and if there's a large change that means, there's more movement in the change of our Betas/Analysis... basically you're fucked.)
+	- Delete the images that are really affected by noise (pretty violent)
+	- Interpolate the data point affected by noise: Use ICA-AROMA (P14)
+
+3. Why do we parcelate the brain in different Brain regions
 	   - To get mean time series of those regions. 
 	   - They use a low pass filter and focus on frequencies componetnts below 0.1 Hz. Which is surprising bc we are supposed to recieve a lot of noise in the low-pass filter.
 	   - This is bc long range autocorrelation, low freq autocorr. isn't just noise. ex: herzt coefficient?
@@ -32,11 +38,6 @@ What's the problem with partial correlation?
 What's impossible to do with Granger causality
 	The past can predict the future, but not the contrary. 
 
-Why are movement correction important for defining links in graph theory?
-	- bc movements affect long distance corr in Physical space - they reduce those corr. But increase the corr. between brain region that are closed increase
-	- Therefore you should add parm. to check the mvmt parameters. computing framewise displacement (the mvmt parameters) and DVARDS (take the images, make a Root mean squared, and if there's a large change that means, there's more movement in the change of our Betas/Analysis... basically you're fucked.)
-	- Delete the images that are really affected by noise (pretty violent)
-	- Interpolate the data point affected by noise: Use ICA-AROMA (P14)
 
 Now how are links defined?
 How to compute **time resolved analysis**
