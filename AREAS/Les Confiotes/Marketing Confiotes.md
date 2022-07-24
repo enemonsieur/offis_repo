@@ -85,3 +85,12 @@ Il faut Evaluer absolument le Life Time Customer Value:
 
 # During
 ## Capture des prospects
+- Améliorons et détaillons notre campagne pour mettre des clients dans notre lead:
+	1. Whatsapp numéro
+	2. Likes sur Facebook
+	3. Eux qui enregistrent notre whatsapp
+	4. Instagram?
+	5. Adresse E-mail?
+- Créons des Campagnes qui veulent: 1. Faire qu'ils entre dans nos inbox Facebook/Whatsapp pour demander plus d'informations. 2. Leur donne un quelque chose (échantillon?) 3. Cocktail Liste CMR? (Faire un questionnaire pour voir si nos clients sont intéressés) 4. Une petite vidéo pour reconnaitre des produits MIC naturels? Les meilleurs ? Tout ca disponible sur notre whatsapp- et obtenir le plus d'infos sur eux.
+## Manager notre CRM
+1. Mss
