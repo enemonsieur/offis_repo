@@ -101,6 +101,9 @@ Il faut Evaluer absolument le Life Time Customer Value:
 	1. Offre leur des informations qui resolvent leur problème (
 	2. Quelles informations de valeur est-ce que nos clients veulent ? #Hilaire peut réétudier les réactions aux posts
 	3. A quelle fréquence faie des offres d'achat?
+### Créer une infrastructure Marketing
 4. Avoir des messages d'Intro pour chaque nouveau client qui présente l'entreprise
 5. Comment déterminer qu'un prospect est "mature"
-6. Quel genre de contenu on peut produire pour les "éduquer", qui soit réutilisable? COmbien
+6. Quel genre de contenu on peut produire pour les "éduquer", qui soit réutilisable? Combien
+
+### Créer un Cadeau choc
