@@ -18,7 +18,22 @@ Elle accompagne ses deux enfants au karaté et à la danse avant de partir se re
 Elle va parfois aux foires que ses amies lui ont recommandé et elle achète des vases. 
 Dans son frigo il y'a beaucoup de produits étrangers de luxe comme du fois gras et plusieurs assortiment de fromage, mais aussi des épices CMR comme du poivre de penja.
 
+## PVP
+1⃣ ceux qui achète pour consommer avec les gens et les ebahir
+- j aime travailler 9
+- rapportent à 7
+- marché vaste  7
 
+2⃣ Ceux qui consomment sain et MIC
+- j'aime 7
+- rapporte 5
+- marché vaste 4
+
+3⃣les business
+- j aime 8
+- rapporte 8
+- marché vaste 8
+- 
 ## Craft Les confiotes Message
 Pourquoi Anne Ndame devrait acheter chez nous et pas chez d'autres? 
 
@@ -28,7 +43,7 @@ La qualité n'est pas un USP, c'est la base. La qualité vient après l'achat, c
 - Pourquoi Anne Ndame devrait acheter des sirops/liqueurs ? 
 - Pourquoi Anne Ndame devrait achezer les sirops et liquers les confiotes ?
 - Les gens ne veulent pas les sirops/liqueurs, ils veulent ce qu'ils pensent que les sirops et liqueurs vont leur apporter. 
-	- Qu'est ce que les liqueurs de notre genre "apportent" qux clients?
+	- Qu'est ce que les liqueurs de notre genre "apportent" aux clients?
 	- Qu'est ce que les sirops de notre genre apportent aux clients?
 - Si Nos clients sont des revendeurs, qu'est ce qu'ils veulent faire avec nos sirops ? Quel serait le meilleur moyen de les aider à atteindre cet objectif? (Ex: Coffrets MIC Annick Ngamaleu)
 - Comment est-ce qu'on peut être plus remarquables? Avec quel genre de cocktails on peut surprendre ? Avec quels genre d'ajout dans notre livraison ? Avec quel genre de présentation de nos produits on peut surprendre ? De quelle facon on peut parler du produits pour que les gens se disent: WOW. Ca c'est surprenant. 
