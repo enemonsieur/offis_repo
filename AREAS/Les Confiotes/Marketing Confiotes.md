@@ -18,7 +18,7 @@ Elle accompagne ses deux enfants au karaté et à la danse avant de partir se re
 Elle va parfois aux foires que ses amies lui ont recommandé et elle achète des vases. 
 Dans son frigo il y'a beaucoup de produits étrangers de luxe comme du fois gras et plusieurs assortiment de fromage, mais aussi des épices CMR comme du poivre de penja.
 
-## PVP
+#''# PVP
 1⃣ ceux qui achète pour consommer avec les gens et les ebahir
 - j aime travailler 9
 - rapportent à 7
@@ -63,7 +63,13 @@ Utilise la formule : "Tu vois comment [problème que les gens ont] ?" Et bien ce
 3. Soyons clair sur le point de douleur des clients. Qu'est ce qui est insupportable pour eux de faire ? (Un de nos clients c'était de payer par OM)
 4. **Travaillons sur le copywriting** : Résume Contagious/Switch etc...
 5. Parle ouvertement des risques de faire du business avec nous, quelles sont les risques que les clients ont avant de commander
-	1. Mauvaise livraison,
-	2. Mauvais Produi
+	1. Mauvaise livraison, Mauvais Produit..
+	2. Parle clairement des gens qui ne devraient PAS acheter chez nous: Qui  n'ont que faire des produits naturels, qui ne sont pas gourmands, qui ne sont pas curieux des saveurs du Cameroun
 
 
+
+
+## Publicités
+Il faut se focaliser sur le ROI: 
+- Combien ca va nous couter (Hilaire)
+- Combien il faudra gagner pour couvrir ces coûts ()
