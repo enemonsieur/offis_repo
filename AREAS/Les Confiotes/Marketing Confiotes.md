@@ -93,4 +93,9 @@ Il faut Evaluer absolument le Life Time Customer Value:
 	5. Adresse E-mail?
 - Créons des Campagnes qui veulent: 1. Faire qu'ils entre dans nos inbox Facebook/Whatsapp pour demander plus d'informations. 2. Leur donne un quelque chose (échantillon?) 3. Cocktail Liste CMR? (Faire un questionnaire pour voir si nos clients sont intéressés) 4. Une petite vidéo pour reconnaitre des produits MIC naturels? Les meilleurs ? Tout ca disponible sur notre whatsapp- et obtenir le plus d'infos sur eux.
 ## Manager notre CRM
-1. Mss
+1. Messages "persos" 1 fois par mois. 
+2. Combien de fois devons nous contacter nos clients en moyenne ?
+	1. ![[Pasted image 20220724121432.png]]
+9 fois.
+3. Comment préparer nos prospects à reconnaître la valeur de nos produits ?
+	1. Offre leur des informations qui resolvent leur problème ()
