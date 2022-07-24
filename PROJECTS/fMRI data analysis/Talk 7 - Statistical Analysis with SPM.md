@@ -4,20 +4,29 @@ what the fuck is 2 sided difference? What are we exactly calculating with the f-
 	- f-test compare the full model with the reduced model (without the B we want)
 	- We have the variance of the BOLDr that's explained by the reduced model. Now, adding the different parameter, how much more variance is explained? (Variance because it will deviate from the standard HDR of as well)
 ## Relearn Full vs reduced matrix
-
+**Here's the Aufgabe**
+	![[Pasted image 20220701122749.png]]
+	For the b, the contrast vector would be c = [ 1 1 -1 -1]
+	ATTENTION: The c vector represent the gesamt 4 regressors, not all  condition. this means the above c means, we used a condition with those 4 regressors at the same B1 is the parameter of Light on, tone ON
+	Question 3:
+		The difference of the diffrence between TON LON - TONOFF LON  AND TON LOFF - TON LON has to be diff  from zero. In this case, that gives us the contrastfor the interaction effect.
 **How do we make sure we don't filter our interesting frequencies (design matrix) because of the high pass filter**
 	By choosing the frequency of repeting our signal (like Light ON) frequently enough not to fall in the noise frequencies. This is I think> 72 seconds
 **What does the f-variance measure**
 	The difference between variance estimates, to explain, how much did our conditions (Ligh, sound) can explain the variance of the BOLD signal
 **How do you build a reduced model?**
 	You assume that c'B=0.
-
+How do we convolve a signal time point ? (Think one point with an intensity) into a Hemodynamic Signal.
+	1. We  split the input into different intermediate signals (with diffre)
+	2. You scale the intermediate inputs by the intensity of the input. 
+	3. Let's say there's 3  intermediate input. THey all get assign a HDR funcion. So we have 3 HDR function, seperate by different time frame
+	4. In the end, we just sum all of those intermediate response to have the shape of the final response
 What problem do we run into while convolving HRF?
 	1. We have to take long signal delay so that the HRF won't mix
 	2. Serial Auto-correlation: Signal at any time point  can be prolonged to the subsequent time points, which increases the likelihood of obtaining false positives in task studies
 	3. Correlated regressors because of movement
 	4. Noise in the low frequency range bc of aliasing effect, below 0.02 Hz
-
+What does covariance means? #unclear  
 
 cWhat is the point of doing a Statistical Analysis of the BOLD RESPONSE?![[Pasted image 20220705084056.png]]
 	Create a generative model: Predicts the BOLDr, given the experimental values (light ON, sound OFF)
@@ -30,46 +39,29 @@ X values comes from the design Matrix. But what is the design Matrix?
 	during the 84 blocks of time, we alternate OFF and ON auditory signal
 	In the second column its for the dummies
 	In the rest of them, it's the values of the different predictors Betas
-
-
 What does LTI means?
 	LInear time invariant model
-Why would we convolve the LTI to the X? #reformulate 
+Why would we convolve the LTI to the X?  
 	Because the neural activation of every voxel is always expressed in HRF. So if the Y changes because of a X.Beta(say, 0,3), it will always be express in the shape of the HRF
 	
 	![[Pasted image 20220705085447.png]]
-What is autocorrelation? #unclear 
+What is autocorrelation?   
 	In our case, its when the variance of a voxel, correlates with the variance of this voxel, but over time. This means, after 1s, the prob that the intensity of the e-errort and e-error-t-1 are similar is pretty high, meaning they autocorrelates. 
-In our case, autocorrelation is not important because we consideror that the error values (that are not explained by the design matrix) are not correlated. 
-
-The error is normaly distributed (gaussian)
+In our case, autocorrelation is not important because we consideror that the error values (that are not explained by the design matrix) are not correlated. The error is normaly distributed (gaussian)
 
 
 ### Talk 7: Part 2 Statistical Analysis
 
-Why do we add Ones columns to the  X design Matrix? 
-
+Why do we add Ones columns to the  X design Matrix? #fmriquestion
+	It's the intercept that models the offset
 We convolve the HRF with the BOLD signal to get one column per conditions. #unclear (looks plain out false) Because it is. Mofo.
-
-How do we convolve a signal time point ? (Think one point with an intensity) into a Hemodynamic Signal.
-	1. We  split the input into different intermediate signals (with diffre)
-	2. You scale the intermediate inputs by the intensity of the input. 
-	3. Let's say there's 3  intermediate input. THey all get assign a HDR funcion. So we have 3 HDR function, seperate by different time frame
-	4. In the end, we just sum all of those intermediate response to have the shape of the final response
-
 Why is there (mathematically) a large dependency between regressors? #unclear
 	talking about regressors modelling the phsyical parameters like 6 heads
 	If we change the x2 values, we will change the B2 value (so that the x2 and x1 are uncorrelated aka 90deg), but to predict the y vector we'll have to change the x1 as well. 
 	![[Pasted image 20220701110708.png]]
 questions: Why do we use Identity matrix for the e
 whats kind of values are in the design matrix? For example?
-What does covariance means? #unclear  
-
- Why do we have to do Convolution with  HRF?
-	 Because even when we apply a short signal, we always get a long response 4-6 s and we have to model every signal as such
-
-
-Why is there noise in the low frequency range of our measured signal? #unclear
+Why is there noise in the low frequency range of our measured signal? #fmriquestion 
 	Because the sampling rate is so low we cant detect high frequencyies. This creates a low frequency. Basically its due to: Aliasing and/or the way we sample data
 How do we get rid of low frequency?
 	By applying a high pass filter.
@@ -80,12 +72,7 @@ How can we confirm our hypothesis that: Are there differences in neural activity
 		NB: you need to use linear contrasts: ![[Pasted image 20220701121034.png]] #reformulate 
 
 
-**Here's the Aufgabe**
-	![[Pasted image 20220701122749.png]]
-	For the b, the contrast vector would be c = [ 1 1 -1 -1]
-	ATTENTION: The c vector represent the gesamt 4 regressors, not all  condition. this means the above c means, we used a condition with those 4 regressors at the same B1 is the parameter of Light on, tone ON
-	Question 3:
-		The difference of the diffrence between TON LON - TONOFF LON  AND TON LOFF - TON LON has to be diff  from zero. In this case, that gives us the contrastfor the interaction effect.
+
 
 
 
