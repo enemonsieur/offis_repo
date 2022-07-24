@@ -1,5 +1,8 @@
 1. ADv disadv Block vsEvent related design
 2. What's SOA
+3. Why do we need a comparison?
+4. What's cognitive substraction
+5. 
 	1. 
 what are the differents design types?
 	Categorical, factorial, parametric designs
