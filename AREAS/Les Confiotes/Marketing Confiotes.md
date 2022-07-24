@@ -72,4 +72,7 @@ Utilise la formule : "Tu vois comment [problème que les gens ont] ?" Et bien ce
 ## Publicités
 Il faut se focaliser sur le ROI: 
 - Combien ca va nous couter (Hilaire)
-- Combien il faudra gagner pour couvrir ces coûts ()
+- Combien il faudra gagner pour couvrir ces coûts, en prenant compte de la livraison, du paiement des employés et des autres marges. (DDK)
+Il faut Evaluer absolument le Life Time Customer Value: 
+- Combien un customer nous rapporte généralement? Combien de fois il va commander sur un an?
+- Et en fonction de ca, il faut ajuster les ROI
