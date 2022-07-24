@@ -7,7 +7,8 @@
 2. How's block design different from ERD
 	1. ERRD stim are presented much shortly than blocks
 2. Why is block better than ERD?
-3. 
+	1. Why does block has a higher stat power?
+	2. 
 
 what are the differents design types?
 	Categorical, factorial, parametric designs
