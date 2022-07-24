@@ -25,6 +25,7 @@ What's the problem with partial correlation?
 	p.11
 	- This can create a very high correlation 
 **What is DERIVING DIRECTIONALITY?**
+	It's an equation to predict the future of one signal X2, using information of the past of another
 	Created by Granger-causaliting, originally about the stock prices. 
 	If we wanna predictX1 at time t, we have to go backward in the timeseries, and predict X1, but we can also use the inormation of X2 in the past to predict it. (Check the p.12)
 	The past can predict the future, but not the contrary. 
