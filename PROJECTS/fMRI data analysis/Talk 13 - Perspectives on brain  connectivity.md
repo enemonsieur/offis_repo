@@ -7,14 +7,15 @@ Local efficiency
 	Clustering surrounding a certain nodes
 Clustering coefficient?
 	prevalence of certain edges compare to possible edges
-	This means are the bacteria cells connected to the maximum number of bacterias cells possible? Like 
+	This means are the bacteria cells connected to the maximum number of bacterias cells possible? Like the skin or is it more like a streptocok?
 Between centrality?
 	Do we have to cross a certain nodes to connecct 2 nodes by the shortest pathway
 
 How often a certain pattern appear in a network
 	Is a triangle pattern appears often? Pyramidal? pentagonal---
 	Each of the patterns has a meaning and we have to udnerstand them (p28)
-
+Wha the fuck is modularity?
+	It's when a network has a lot of edges connected with closed cluster, but not that much between away clusters
 # Benchmark Networks
 What the fuck is that?
 	A method to generate some networks that have specific properties
