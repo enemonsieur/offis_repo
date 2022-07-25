@@ -20,6 +20,10 @@ what the fuck is 2 sided difference? What are we exactly calculating with the f-
 **What does the f-variance measure**
 	The difference between variance estimates, to explain, how much did our conditions (Ligh, sound) can explain the variance of the BOLD signal
 **How do you build a reduced model?**
+Why are the first images of pre-processing discard?
+	s because much of the very large signal change that they contain is due to the time it takes for magnetisation to reach equilibrium.
+
+
 How do we convolve a signal time point ? (Think one point with an intensity) into a Hemodynamic Signal.
 	1. We  split the input into different intermediate signals (with diffre)
 	2. You scale the intermediate inputs by the intensity of the input. 
@@ -36,7 +40,8 @@ cWhat is the point of doing a Statistical Analysis of the BOLD RESPONSE?
 	![[Pasted image 20220705084056.png]]
 	Create a generative model: Predicts the BOLDr, given the experimental values (light ON, sound OFF)
 what's in the header of NIfTI?
-	
+	meta informations about the voxel size, the # of voxels in each directions and data type
+
 
 X values comes from the design Matrix. But what is the design Matrix?
 	The design matrix is a matrix containing the different conditions that we apply to the brain, expressed as value, that we then weight with the Beta parameter, to predict how much those conditions affects the brain activity aka the BOLDr. 
