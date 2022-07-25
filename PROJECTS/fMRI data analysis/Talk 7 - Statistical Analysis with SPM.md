@@ -35,7 +35,8 @@ What does covariance means? #unclear
 cWhat is the point of doing a Statistical Analysis of the BOLD RESPONSE?
 	![[Pasted image 20220705084056.png]]
 	Create a generative model: Predicts the BOLDr, given the experimental values (light ON, sound OFF)
-
+what's in the header of NIfTI?
+	
 
 X values comes from the design Matrix. But what is the design Matrix?
 	The design matrix is a matrix containing the different conditions that we apply to the brain, expressed as value, that we then weight with the Beta parameter, to predict how much those conditions affects the brain activity aka the BOLDr. 
