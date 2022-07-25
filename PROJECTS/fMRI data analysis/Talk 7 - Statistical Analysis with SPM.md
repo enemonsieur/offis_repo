@@ -28,6 +28,12 @@ How do you remove non-linear effects of te motion parameters during realignment?
 
 WHat's segmentation?
 	The process of classifying voxels into different tissue types is called segmentation
+
+4 reasons to smooth that shit?
+	1. increase SNR
+	2. Normally distribute errors/noise
+	3. Needed for RFT
+	4. Better Anato-Fxn overlap accros subjects
 What does spatial smoothing consist of?
 	Spatial smoothing consists of applying a spatial low-pass fi lter to the data. Typically, this takes the form of a 3D Gaussian kernel, parameterised by its full width at half maximum (FWHM) along the three directions. In other words, the intensity at each voxel is replaced by a weighted average of itself and its neighbouring voxels, where the weights follow a Gaussian shape centred on the given voxel. The underlying mathematical operation is a convolution, and the effect of smoothing with different kernel sizes is illustrated in
 How do we convolve a signal time point ? (Think one point with an intensity) into a Hemodynamic Signal.
