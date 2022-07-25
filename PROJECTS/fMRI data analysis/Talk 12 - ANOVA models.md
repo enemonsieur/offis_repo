@@ -62,3 +62,7 @@ How do SPM analysis signal a non invertible matrix?
 MORE
 - The Betas have to be uniquely definie. I f they means mutluple things, then you can't gueess what they mean. 
 - What about the contrasts matrix? How do they have to be? 
+- Which contrasts are uniquely defined?
+	- The SPM does that shit alone. And estimate it or not. 
+	- Why are only certain contrasts estimatable? Some of them but no all of them
+- f-test: Full and reduced model. 
