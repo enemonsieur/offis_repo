@@ -36,7 +36,7 @@ what are the differents design types?
 	Categorical, factorial, parametric designs
 	 Blocked vs. event-related designs
 
-**What are the 3 different design types?**
+**What are the 3 different design types?** #fmriquestion 
 	• Categorical : 2 categories of stimulu: Face vs Houses
 	• Factorial designs : Contrast different factors: Familiarity vs Stimulus
 	• Parametric designs: We gradually change the stim to see if the activity changes
