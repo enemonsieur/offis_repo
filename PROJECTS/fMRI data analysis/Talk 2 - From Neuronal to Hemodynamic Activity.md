@@ -8,4 +8,5 @@ Why is the spatial resolution of fMRI limited?
 
 What other factors can influence BOLD signal?
 	Influence of hormones
+	Neurons can influence blood flow in anticipation of upcoming events
 	
