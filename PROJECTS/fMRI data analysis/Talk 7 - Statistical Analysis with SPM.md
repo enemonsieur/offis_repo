@@ -26,7 +26,10 @@ Why are the first images of pre-processing discard?
 How do you remove non-linear effects of te motion parameters during realignment?
 	One solution is to use the movement parameter estimates as covariates of no interest during the modelling of the data. This will effectively remove any signal that is correlated with functions of the movement parameters but can still be problematic if the movement effects are correlated with the experimental design
 
-
+WHat's segmentation?
+	The process of classifying voxels into different tissue types is called segmentation
+What does spatial smoothing consist of?
+	Spatial smoothing consists of applying a spatial low-pass fi lter to the data. Typically, this takes the form of a 3D Gaussian kernel, parameterised by its full width at half maximum (FWHM) along the three directions. In other words, the intensity at each voxel is replaced by a weighted average of itself and its neighbouring voxels, where the weights follow a Gaussian shape centred on the given voxel. The underlying mathematical operation is a convolution, and the effect of smoothing with different kernel sizes is illustrated in
 How do we convolve a signal time point ? (Think one point with an intensity) into a Hemodynamic Signal.
 	1. We  split the input into different intermediate signals (with diffre)
 	2. You scale the intermediate inputs by the intensity of the input. 
