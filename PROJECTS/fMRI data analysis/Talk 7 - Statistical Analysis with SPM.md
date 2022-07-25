@@ -23,6 +23,9 @@ what the fuck is 2 sided difference? What are we exactly calculating with the f-
 Why are the first images of pre-processing discard?
 	s because much of the very large signal change that they contain is due to the time it takes for magnetisation to reach equilibrium.
 
+How do you remove non-linear effects of te motion parameters during realignment?
+	One solution is to use the movement parameter estimates as covariates of no interest during the modelling of the data. This will effectively remove any signal that is correlated with functions of the movement parameters but can still be problematic if the movement effects are correlated with the experimental design
+
 
 How do we convolve a signal time point ? (Think one point with an intensity) into a Hemodynamic Signal.
 	1. We  split the input into different intermediate signals (with diffre)
