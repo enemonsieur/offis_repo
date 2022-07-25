@@ -59,7 +59,7 @@ What does the unicity of the X solution means in term of C and T matrix?
 How do SPM analysis signal a non invertible matrix?
 	Appears gray
 
-MORE
+#fmriquestion 
 - The Betas have to be uniquely definie. I f they means mutluple things, then you can't gueess what they mean. 
 - What about the contrasts matrix? How do they have to be? 
 - Which contrasts are uniquely defined?
