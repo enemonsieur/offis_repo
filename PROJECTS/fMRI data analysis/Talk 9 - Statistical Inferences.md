@@ -3,6 +3,7 @@ Stat Inference:
 alias: (Summarize/Answer) (Revise 1-2-3) (Mindmap) 
 ---
 FWR: Prob of number of errors we're gonna make, FDR Number of errors we make
+- What's the R-Resel is a theoritical voxel that takes the smoothness and the Volume of the data in account to correct for the p-value for multiple "subjects"
 **Why do we take FDR rather than FWE?**
 	Bc the FWE will often leave no data with significant results. It can be too conservative. 
 **What's FDR?**
