@@ -4,6 +4,8 @@
 	1. Detecting the change of N.A. through the change in its BOLD signal. 
 
 3. **Explain the 3 models of hemodynamic activity. Which model is the most likely?**
+4. What happens when you decrease the TR?
+	
 ![[Pasted image 20220704122623.png]]
 
 What makes a neuron use energy?
