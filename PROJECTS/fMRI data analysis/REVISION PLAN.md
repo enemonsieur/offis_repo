@@ -7,3 +7,7 @@
 27 - 3h  - Mindmap 5 6 
 28 - 8h Mindmap everything - Redo complex questions
 29-07 - 3h Review Mindmap
+
+Coregistration 1: registration algorithm moves the images around to test different overlays of the anatomical (T1) and functional(T2*) images ![](https://elearning.uni-oldenburg.de/assets/images/icons/green/accept.svg "correct") , matching the bright voxels on one image with the dark voxels of another image, and the dark with the bright until it finds a match that cannot be improved upon (cost function)
+
+Segmentation goal
