@@ -2,6 +2,9 @@
 alias: Factorial design
 ---
 ## Random vs Fixed effects analysis
+- **18. What is the statistical approach to a second-level analysis and which assumptions have to be met?**
+	- THat the measurements are independants btwn groups So that they don'T change correlatively
+	- That there's san unequal variance between groups. 
 Its helpful if you have bad models on the first level. ex: The onsets of the lights are wrong (measure time points when there's no light).
 
 Does the error from the 1st level has an effect on the 2nd level? 
