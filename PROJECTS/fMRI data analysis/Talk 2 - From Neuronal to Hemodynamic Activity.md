@@ -5,7 +5,7 @@
 
 3. **Explain the 3 models of hemodynamic activity. Which model is the most likely?**
 4. What happens when you decrease the TR?
-	
+	Makes it faster. The H20 or Fat getsm more energy and can flip back
 ![[Pasted image 20220704122623.png]]
 
 What makes a neuron use energy?
