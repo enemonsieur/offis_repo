@@ -28,6 +28,7 @@ What are the different levels of significance?
 	Voxel level
 	Cluster of voxels?
 	Set level? 
+w
 	1. What does voxel level of significance implies?
 		There's no correlation between voxel, as there's independently activated. 
 	What type of inf don't we get with VL significance
