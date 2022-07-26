@@ -1,6 +1,8 @@
 
 1. Vascular response to NA
-2. Attends
+2. **What is the basis of FMRI?**
+	1. Det
+3. **Explain the 3 models of hemodynamic activity. Which model is the most likely?**
 ![[Pasted image 20220704122623.png]]
 
 What makes a neuron use energy?
