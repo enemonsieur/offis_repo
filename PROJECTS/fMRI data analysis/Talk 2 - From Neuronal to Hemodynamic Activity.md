@@ -1,6 +1,6 @@
 
 1. Vascular response to NA
-	1. 
+2. Attends
 ![[Pasted image 20220704122623.png]]
 
 What makes a neuron use energy?
