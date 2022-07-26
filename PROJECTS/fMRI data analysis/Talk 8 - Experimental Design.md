@@ -6,21 +6,24 @@ alias: (Summarize/Answer) (Revise 1-2) (Mindmap)
 	1. Cat
 	2. Par
 	3. Fact
-2. 
-2. ADv disadv Block vsEvent related design
-3. What's SOA
-4. Why do we need a comparison?
-5. What's cognitive substraction
-6. How are the stimuli presented in Block design?
+
+2. What's cognitive substraction
+	1. Is the comparison of ON vs OFF tasks Brain activity. T
+3. 
+4. ADv disadv Block vsEvent related design
+5. What's SOA
+6. Why do we need a comparison?
+7. What's cognitive substraction
+8. How are the stimuli presented in Block design?
 	1. IN fucking blocks of information
-7. How's block design different from ERD
+9. How's block design different from ERD
 	1. ERRD stim are presented much shortly than blocks
-8. Why is block better than ERD?**
+10. Why is block better than ERD?**
 	1. Why does block has a higher stat power?
 	2. Better when different conditions involve performing different tasks
 	3. Why is ERD better?
 		1. Because the brain doesnt habituate to the signal and decreases its BOLD
-9. The HRF acts as whats kind of filter?
+11. The HRF acts as whats kind of filter?
 	1. LP. Therefore how does it affect the experiment?
 		Experimental variance must be present at sufficient low frequencies to pass
 9. How long should be the block design?
