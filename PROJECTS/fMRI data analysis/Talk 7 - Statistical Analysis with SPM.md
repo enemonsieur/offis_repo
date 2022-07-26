@@ -29,7 +29,7 @@ How do you remove non-linear effects of te motion parameters during realignment?
 WHat's segmentation?
 	The process of classifying voxels into different tissue types is called segmentation
 
-4 reasons to smooth that shit?
+4 reasons to smoothing that shit?
 	1. increase SNR
 	2. Normally distribute errors/noise
 	3. Needed for RFT
