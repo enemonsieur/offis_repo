@@ -4,6 +4,8 @@ What are the 5 steps of data #preprocessing
 - Realignment dont correct motions  artifacts smaller than 3mm 
 - T2 time is the time for 63% of the TM to be lost
 - T1 37% to recover
+- What'S slice timing
+	- It's a method to correct for the time differences between the brain slices, of the same brain image
 ### DICOM import
 What  is a NIftI image? #unclear 
 	an image ...
