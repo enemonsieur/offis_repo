@@ -3,7 +3,7 @@ alias: Factorial design
 ---
 ## Random vs Fixed effects analysis
 -  **On what factor do the beta values depend on in the 2nd level analysis ?**
-	When the  matrix is overparameterize this leads to depencies, so its not full rank.  So there's not unique solutions
+	When the  matrix is overparameterize this leads to depencies, so its not full rank.  So there's not unique solutions to the Betas
 -  What is the statistical approach to a second-level analysis and which assumptions have to be met?**
 	- GLM and Statistical testing.
 	- THat the measurements are independants btwn groups So that they don'T change correlatively
