@@ -2,6 +2,7 @@
 Experimental Design: 
 alias: (Summarize/Answer) (Revise 1-2) (Mindmap) 
 ---
+1. what are different design
 1. ADv disadv Block vsEvent related design
 2. What's SOA
 3. Why do we need a comparison?
