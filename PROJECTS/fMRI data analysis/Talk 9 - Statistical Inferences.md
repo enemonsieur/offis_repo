@@ -62,16 +62,9 @@ How does Family wise Error works
 		RFT, Parametric, Non-Parametric simulations
 
 
-Why is Bonferroni correction unuseful for.. for what again?
-	 Bonferroni Correction: Divide the p>0.5 by the number of tests. So its like 0.5/1000 voxels 
-	 The problem is that it'll create a lot of FN (because it cuts too low, it demands a very high ttest to say: Yees, this isnt done by random noise)
-	 The data by itselfs have intrinsic smoothness + smoothings for gaussian and Bonferroni don't account for this correlation between voxels 
-
-What does FWE means?
-	 Means: we look at the family of test and we wanna keep the alpha* level p-value to 0.05 for the entire family. 
  What do we take into account in FWerror?
-	 We take into account the internal and external smoothing. Because we don't have independent tests. That we take into account for correcting the voxels. The theory that helps explaining that is RFtheory
-What's the corrected p-value? #unclear 
+	 We take into account the internal and external smoothing. Because we don't have independent tests. That we take into account for correcting the voxels
+
 
 Random Field Theory: How does it do p-value correction  
 	Estimates the smoothness of your t-image by recreating the filter, and base on that calculates the corrected p-value. 
