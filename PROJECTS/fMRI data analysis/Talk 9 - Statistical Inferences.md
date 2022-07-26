@@ -2,6 +2,7 @@
 Stat Inference: 
 alias: (Summarize/Answer) (Revise 1-2-3) (Mindmap) 
 ---
+FWR: Prob of number of errors we're gonna make, FDR Number of errors we make
 **Why do we take FDR rather than FWE?**
 	Bc the FWE will often leave no data with significant results. It can be too conservative. 
 **What's FDR?**
