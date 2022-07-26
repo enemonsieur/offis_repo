@@ -5,8 +5,8 @@ alias: (Summarize/Answer) (Revise 1-2-3) (Mindmap)
 
 1. How does the Regions of analysis helps us do stat inferences?
 2. What does overcorrection means in the Bonferroni test?
-	1. When there's a srong correlation within the data, there's a higher  chance that if one data has a significant t>alpha, the other also are, therefore, Because of the much lower threshold of Bonferroni, Many Positive will be missed = False Negative = conservative
-**3. one tail, two tails** 
+	1. When there's a strong correlation within the data, there's a higher  chance that if one data has a significant t>alpha, the other also are, therefore, Because of the much lower threshold of Bonferroni, Many Positive will be missed = False Negative = conservative
+
 4. what does the 2nd Level Y means??
 **5. What is the Level 1 contrast test meausring?**
 	1. 
@@ -19,10 +19,10 @@ alias: (Summarize/Answer) (Revise 1-2-3) (Mindmap)
 
 What are the different levels of significance?
 	Voxel level
-	Cluster ofvoexesl?
+	Cluster of voxels?
 	Set level? 
 	1. What does voxel level of significance implies?
-		There's no correlation between voxel, as there's idnependently activated. 
+		There's no correlation between voxel, as there's independently activated. 
 	What type of inf don't we get with VL significance
 		This doesn't get information (spatial) about the signal. 
 		Because we smooth that shit out,the activation of the signal will spread to surrounding signals
