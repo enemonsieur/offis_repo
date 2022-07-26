@@ -84,21 +84,17 @@ How do Non-Parametric works?
 	Now the question is, how many of those say... 300  new 
 
 False discovery rate
-Why do we take FDR rather than FWE?
+**Why do we take FDR rather than FWE?**
 	Bc the FWE will often leave no data with significant results. It can be too conservative. 
-What's FDR? #unclear NOT UNDERSTOOD EVEN WITH THE  BOOK
-	is the proportion of Type I errors among the rejected hypotheses FDR=P*(V/R)
-What does FDR depends on?
-	Cutt off P-values
-What do we wanna control in FDR?
-	the number of FP within the total positive values. Because we know in that there's are some FP, so we wanna make sure its not too big.
-Why is FWError more conservative?
+**What's FDR?**
+	FDR-controlling procedures are designed to control the FDR, which is the expected proportion of "discoveries" (rejected null hypotheses) that are false (incorrect rejections of the null).[1] Equivalently, the FDR is the expected ratio of the number of false positive classifications (false discoveries) to the total number of positive classifications (rejections of the null). 
+
+**Why is FWError more conservative?**
 
 There are FP and Tp in the Positive we find. Within those Positves, can we 'control' the number of FP, so we always have roughliy the same value of FP? We can do thatby ordering the p-values
 You can correct the p values by having multiple differe threshold, for each cluster
 
-What are we looking for at a cluster level?
-	We look at the size of the activation and find its its randomn noise or not. 
+
 What's cluster building threshold?
 	It decides how big our clusters are, a low threshold will give us a very large cluster. And higher t. will give many cluster?
 How does FWE and FDR helps in cluster levels? 
