@@ -1,7 +1,7 @@
 
 1. Vascular response to NA
 2. **What is the basis of FMRI?**
-	1. Det
+	1. Detecting the change of N.A. through the change in its BOLD responseT1 and T2* signals when they are disrupt by deOHb
 3. **Explain the 3 models of hemodynamic activity. Which model is the most likely?**
 ![[Pasted image 20220704122623.png]]
 
