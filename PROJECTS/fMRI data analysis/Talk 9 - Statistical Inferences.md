@@ -2,8 +2,15 @@
 Stat Inference: 
 alias: (Summarize/Answer) (Revise 1-2-3) (Mindmap) 
 ---
+**Why do we take FDR rather than FWE?**
+	Bc the FWE will often leave no data with significant results. It can be too conservative. 
+**What's FDR?**
+	FDR-controlling procedures are designed to control the FDR, which is the expected proportion of "discoveries" (rejected null hypotheses) that are false (incorrect rejections of the null).[1] Equivalently, the FDR is the expected ratio of the number of false positive classifications (false discoveries) to the total number of positive classifications (rejections of the null). 
+	We can do thatby ordering the p-values
+	You can correct the p values by having multiple differe threshold, for each cluster
 
-1. How does the Regions of analysis helps us do stat inferences?
+**Why is FWError more conservative?**
+
 2. What does overcorrection means in the Bonferroni test?
 	1. When there's a strong correlation within the data, there's a higher  chance that if one data has a significant t>alpha, the other also are, therefore, Because of the much lower threshold of Bonferroni, Many Positive will be missed = False Negative = conservative
 
@@ -83,16 +90,6 @@ How do Non-Parametric works?
 	It works will the assuption that the Ho is correct, for example, that t-groups of High Low performers don't differ. So that their BOLDr are the same. If it's true, shufflling 1 or 2 in the other group, won't change the BOLDr of the 2 groups. Now we reshuffle that shit till every new test statistic curve possible is created.
 	Now the question is, how many of those say... 300  new 
 
-False discovery rate
-**Why do we take FDR rather than FWE?**
-	Bc the FWE will often leave no data with significant results. It can be too conservative. 
-**What's FDR?**
-	FDR-controlling procedures are designed to control the FDR, which is the expected proportion of "discoveries" (rejected null hypotheses) that are false (incorrect rejections of the null).[1] Equivalently, the FDR is the expected ratio of the number of false positive classifications (false discoveries) to the total number of positive classifications (rejections of the null). 
-
-**Why is FWError more conservative?**
-
-There are FP and Tp in the Positive we find. Within those Positves, can we 'control' the number of FP, so we always have roughliy the same value of FP? We can do thatby ordering the p-values
-You can correct the p values by having multiple differe threshold, for each cluster
 
 
 What's cluster building threshold?
