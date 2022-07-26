@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/fMRI data analysis/Talk 3 - BOLD Signal.md",
+            "file": "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fmri questio",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/fMRI data analysis/Talk 3 - BOLD Signal.md",
+                "file": "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
+    "PROJECTS/fMRI data analysis/Talk 3 - BOLD Signal.md",
     "PROJECTS/fMRI data analysis/REVISION PLAN.md",
     "PROJECTS/fMRI data analysis/Talk 9 - Statistical Inferences.md",
     "PROJECTS/fMRI data analysis/Talk 13 - Perspectives on brain  connectivity.md",
@@ -108,7 +110,6 @@
     "PROJECTS/fMRI data analysis/Talk 7 - Statistical Analysis with SPM.md",
     "PROJECTS/fMRI data analysis/Talk 8 - Experimental Design.md",
     "PROJECTS/fMRI data analysis/Talk 12 - ANOVA models.md",
-    "PROJECTS/fMRI data analysis/Talk 3 - BOLD Signal.md",
     "PROJECTS/fMRI data analysis/Talk 2 - From Neuronal to Hemodynamic Activity.md",
     "PROJECTS/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md"
   ]
