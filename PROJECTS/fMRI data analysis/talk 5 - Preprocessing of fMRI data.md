@@ -1,7 +1,9 @@
 #fMRI
 What are the 5 steps of data #preprocessing
 	1 - Realignment 2 - Coregistration 3 - Segmentation 4 - Normalization 5 - Smoothing
-
+- Realignment dont correct motions  artifacts smaller than 3mm 
+- T2 time is the time for 63% of the TM to be lost
+- T1 37% to recover
 ### DICOM import
 What  is a NIftI image? #unclear 
 	an image ...
