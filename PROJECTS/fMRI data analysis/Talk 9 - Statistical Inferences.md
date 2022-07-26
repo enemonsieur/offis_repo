@@ -29,7 +29,7 @@ What are the different levels of significance?
 	2. Cluster level inference
 		1. what are clusters?
 			A group of contiguous voxels, with the t above a stat.level Uc
-	how do you know a cluster is stat. significant?
+	**how do you know a cluster is stat. significant?**
 		If its overall t-threshold is above k
 	How do we do decide what cluster and what level of activation are relevant?
 		You find the t-values of every voxels.  
@@ -57,7 +57,7 @@ What should we use to id voxels/cluster that are so active, that that can't be d
 
 How does Family wise Error works
 	What's FWE rate?
-		The chances of having 1+ FP anywhere in the image
+		probability of making one or more false discoveries, or type I errors when performing multiple hypotheses tests.
 	What are 3 relevant types of FWE?
 		RFT, Parametric, Non-Parametric simulations
 
