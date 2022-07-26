@@ -11,6 +11,7 @@ What are the 2 datas contained in the NiFItI image?
 
 Why should we discard the first seconds of acquire datas?
 	 This is because much of the very large signal change that the images contain is due to the time it takes for magnetisation to reach equilibrium. 
+Input f-nii
 ### #realignment
 In which cases do we use realignment
 	because heads movements can change the aligments of T2 images from each others
@@ -21,7 +22,7 @@ how many parameters do we use and what are they
 what procedure do we use to realignment the images
 	mean-squared difference
 	motion correction algorithm
-
+output rf* (estimate from reslice)
 
 ### coregistration  #coregistration
 what's the point of coregistration?
