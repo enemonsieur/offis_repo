@@ -2,7 +2,9 @@
 alias: Factorial design
 ---
 ## Random vs Fixed effects analysis
-- **18. What is the statistical approach to a second-level analysis and which assumptions have to be met?**
+-  **On what factor do the beta values depend on in the 2nd level analysis ?
+	
+-  What is the statistical approach to a second-level analysis and which assumptions have to be met?**
 	- GLM and Statistical testing.
 	- THat the measurements are independants btwn groups So that they don'T change correlatively
 	- That there's san unequal variance between groups. 
