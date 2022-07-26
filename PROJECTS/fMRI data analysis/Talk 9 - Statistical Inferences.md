@@ -69,9 +69,7 @@ How does Family wise Error works
 Random Field Theory: How does it do p-value correction  
 	Estimates the smoothness of your t-image by recreating the filter, and base on that calculates the corrected p-value. 
 	The more the filter increases, the smoother the image was =>the more the corr happens on a longer distances => the smaller the p value becomes. A very smooth data means we gotta be VERY CONSERVATIVE #unclear
-What is R in the RFT
-	R is the Reso volume? the volume of the brain, than we calculate / smoothing function. To determine how smooth or correlated or dependent our data are. If its already pretty smooth, you won't have to correct the p value. 
-	The smaller the smoothness the bigger the p-value will be transform
+
 What is Random Field Theory
 	It's a math formula to estimate corrected p-values for each clusters. It  kinda does it by estimating the Smoothness of the data (intrinsic and after smoothing), and the more it finds smoothness, the lower the p-value will be => and the higher the Uc will be.
 	Which means, too much smoothness in the data makes it hard to find FP and we have to be more conservative.
@@ -81,7 +79,7 @@ What are parametric designs?
 	Methods like the Monte Carlo, similar to RFT but they don't rely on approximate results. They are comp. intensive
 What are non-parametric approches in FWER?
 	They use the data itselfs to recreate empirical new distribution of the test statistic
-How do Non-Parametric works? #unclear
+How do Non-Parametric works? 
 	It works will the assuption that the Ho is correct, for example, that t-groups of High Low performers don't differ. So that their BOLDr are the same. If it's true, shufflling 1 or 2 in the other group, won't change the BOLDr of the 2 groups. Now we reshuffle that shit till every new test statistic curve possible is created.
 	Now the question is, how many of those say... 300  new 
 
