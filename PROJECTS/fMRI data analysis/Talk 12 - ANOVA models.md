@@ -1,8 +1,9 @@
 ---
 ANOVA MODELS: 
-alias:  (ID questions/Blocks) (Summarize/Answer) (Revise 1-2-3) (Mindmap) 
+alias:   (Summarize/Answer) (Revise 1-2-3) (Mindmap) 
 ---
- 
+-  **On what factor do the beta values depend on in the 2nd level analysis ?**
+	When the  matrix is overparameterize this leads to depencies, so its not full rank.  So there's not unique solutions to the Betas
  What are continuous covariates?
 	 covariate that can be 1 0.5 3.4 etc...
  
