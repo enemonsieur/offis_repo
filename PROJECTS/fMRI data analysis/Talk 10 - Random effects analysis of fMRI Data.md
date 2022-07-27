@@ -2,7 +2,9 @@
 alias: Factorial design
 ---
 ## Random vs Fixed effects analysis
-
+How to improve the VAR on the 2nd level
+	Improve model quality
+	Increase the number of subjects. 
 -  What is the statistical approach to a second-level analysis and which assumptions have to be met?**
 	- GLM and Statistical testing.
 	- THat the measurements are independants btwn groups So that they don'T change correlatively
