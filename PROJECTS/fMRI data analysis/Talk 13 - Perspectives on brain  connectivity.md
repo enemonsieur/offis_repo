@@ -6,7 +6,7 @@ alias:  (ID questions/Blocks) (Summarize/Answer) (Revise 1-2-3) (Mindmap)
 Local efficiency
 	Clustering surrounding a certain nodes
 Clustering coefficient?
-	prevalence of certain edges compare to possible edges
+	prevalence of certain edges of the neighbours of the NODE compare to possible edges of the neighbour of the nodes. 
 	This means are the bacteria cells connected to the maximum number of bacterias cells possible? Like the skin or is it more like a streptocok?
 Betweenness centrality?
 	It's like, take a node, take the shortest paths in the modules that passes through. For all the shortest paths inthe network, how much of them passes thourgh this MOFO node?
