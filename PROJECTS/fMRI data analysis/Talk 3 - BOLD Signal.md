@@ -1,3 +1,4 @@
+The Balloon model is used in the BOLD signal to mach he neural activity
 why does the oxy-deoxy ratio increases during brain activity
 	bc brain consume oxygen, which first decreases the ratio, but then capillary flow increases, blood rushes trhough the zone and the ratio increases #boldresponse 
 how many seconds after the signal does the Hb ratio increases?
