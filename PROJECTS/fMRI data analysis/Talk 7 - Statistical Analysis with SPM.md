@@ -4,7 +4,7 @@ what the fuck is 2 sided difference? What are we exactly calculating with the f-
 	- f-test compare the full model with the reduced model (without the B we want)
 	- We have the variance of the BOLDr that's explained by the reduced model. Now, adding the different parameter, how much more variance is explained? (Variance because it will deviate from the standard HDR of as well)
  Relearn Full vs reduced matrix
- **What model has a higher variance?**
+ ****What model has a higher variance?****
 	The reduce model error is alwyas >= bc you need other parameter to reduce the variance
 	e^2r >= e^2
 
@@ -14,17 +14,17 @@ What's in the design matrix (regressors)
 	Regressors : ---- convolved with the HRF
 - **What does it mean that we assume to deal with an linear time-invariant (LTI) system in fMRI data analysis?**
 	That we are able to surperpose the signal, therefore convolve it, and scale it, that if we increase the stim, then we get a proportional increase in signal
-**Here's the Aufgabe**
+Here's the Aufgabe
 	![[Pasted image 20220701122749.png]]
 	For the b, the contrast vector would be c = [ 1 1 -1 -1]
 	ATTENTION: The c vector represent the gesamt 4 regressors, not all  condition. this means the above c means, we used a condition with those 4 regressors at the same B1 is the parameter of Light on, tone ON
 	Question 3:
 		The difference of the diffrence between TON LON - TONOFF LON  AND TON LOFF - TON LON has to be diff  from zero. In this case, that gives us the contrastfor the interaction effect.
-**How do we make sure we don't filter our interesting frequencies (design matrix) because of the high pass filter**
+How do we make sure we don't filter our interesting frequencies (design matrix) because of the high pass filter
 	By choosing the frequency of repeting our signal (like Light ON) frequently enough not to fall in the noise frequencies. This is I think> 20sseconds
-**What does the f-variance measure**
+What does the f-variance measure
 	The difference between variance estimates, to explain, how much did our conditions (Ligh, sound) can explain the variance of the BOLD signal
-**How do you build a reduced model?**
+How do you build a reduced model?
 Why are the first images of pre-processing discard?
 	s because much of the very large signal change that they contain is due to the time it takes for magnetisation to reach equilibrium.
 
