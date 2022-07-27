@@ -14,7 +14,8 @@ What's Degree?
 	The degree of that shit is the number of links connected to the node. The more links a node has, the hgiher the degree. Is like Social Currency, the more friends, the cooler you are
 What's a Hub?
 	A MOFO Node that's like a celebrity (high degree)
-
+Global efficiency?
+	
 How often a certain pattern appear in a network
 	Is a triangle pattern appears often? Pyramidal? pentagonal---
 	Each of the patterns has a meaning and we have to udnerstand them (p28)
