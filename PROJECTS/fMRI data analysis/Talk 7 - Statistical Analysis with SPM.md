@@ -7,6 +7,9 @@ what the fuck is 2 sided difference? What are we exactly calculating with the f-
  **What model has a higher variance?**
 	The reduce model error is alwyas >= bc you need other parameter to reduce the variance
 	e^2r >= e^2
+
+The t test is always one sided. But the f-test in 2 sided bc we compare the variances
+Then why is the f-test don't care about the sign?
 What's in the design matrix (regressors)
 	Regressors : ---- convolved with the HRF
 - **What does it mean that we assume to deal with an linear time-invariant (LTI) system in fMRI data analysis?**
