@@ -1,4 +1,4 @@
-
+- Work the T2 T1 fat and stuff
 1. Vascular response to NA
 2. **What is the basis of FMRI?**
 	1. Detecting the change of N.A. through the change in its BOLD signal. 
