@@ -2,7 +2,7 @@
 status: 
  (Summarize/Answer) (Revise 1-2-3) (Mindmap)
 ---
-
+**- Parcels and functional connectivities approaches**
 Functional spezialization: 
 - Somekind of localization of mental function -> PFC
 Functional integration
