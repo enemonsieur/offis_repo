@@ -12,10 +12,10 @@ Coregistration 1: registration algorithm moves the images around to test differe
 
 Segmentation goal
 
-I- Do all of the questions once and list the ones that are complex down here. (1h)
-10.
+I- ~~Do all of the questions once and list the ones that are complex down here. (1h)
+10.~~
 
-II- Learn deeply all the confusing questions, + Preprocessing step + Image contrast + Clustering coeff
+II- Learn deeply all the confusing questions, + ~~Preprocessing step~~ + Image contrast + Clustering coeff
 (2h)
 
 III- Rewrite all the questions + All the preprocessing steps + Describe Image contrast (3h)
