@@ -12,3 +12,4 @@ Coregistration 1: registration algorithm moves the images around to test differe
 
 Segmentation goal
 
+I- Do all of the questions
