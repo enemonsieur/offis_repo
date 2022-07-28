@@ -28,4 +28,4 @@ IV- (tomorrow):
 18.
 20.
 21.
-preprocessing: 3, 5,
+preprocessing: 3, 5,6,7,8,
