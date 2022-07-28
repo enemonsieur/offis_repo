@@ -31,3 +31,4 @@ IV- (tomorrow):
 preprocessing: 3, 5,6,7,8,
 **DESIGN MATRIX - STATISTICS**: 2,6
 4. It's the difference in BOLD signal between two conditions, that infers fuctional specification. Because the brain is always active
+6. Test stats hypothesis by contrasting the weights of our conditions
