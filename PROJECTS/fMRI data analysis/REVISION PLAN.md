@@ -24,3 +24,5 @@ IV- (tomorrow):
 
 ---------
 12. Measures BOLD changes in the MRI signal following neural activity
+17.
+18.
