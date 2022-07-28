@@ -24,8 +24,6 @@ IV- (tomorrow):
 
 ---------
  
-preprocessing: 
-**DESIGN MATRIX - STATISTICS**:  al between two conditions, that infers fuctional specification. Because the brain is always active
-6. Test stats hypothesis by contrasting the weights of our conditions
+
 **BRAIN CONNECTIVITY**
-1, 2,3,4,5,9,12,15
+9,12,15
