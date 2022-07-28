@@ -26,4 +26,4 @@ IV- (tomorrow):
  
 
 **BRAIN CONNECTIVITY**
-9,12,15
+15
