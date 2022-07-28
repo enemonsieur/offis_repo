@@ -29,3 +29,5 @@ IV- (tomorrow):
 20.
 21.
 preprocessing: 3, 5,6,7,8,
+**DESIGN MATRIX - STATISTICS**: 2,
+4. It's the difference in BOLD signal between two conditions, that infers the ac
