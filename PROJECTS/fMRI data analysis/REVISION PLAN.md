@@ -23,9 +23,6 @@ III- Rewrite all the questions + All the preprocessing steps + Describe Image co
 IV- (tomorrow): 
 
 ---------
-12. Measures BOLD changes in the MRI signal following neural activity
-17.
-18.
 20.
 21.
 preprocessing: 3, 5,6,7,8,
