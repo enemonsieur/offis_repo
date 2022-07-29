@@ -18,7 +18,7 @@ I- ~~Do all of the questions once and list the ones that are complex down here. 
 II- ~~Learn deeply all the confusing questions,~~ + ~~Preprocessing step + Image contrast + Clustering coeff~~
 (2h)
 
-III- Rewrite all the questions + All the preprocessing steps + Describe Image contrast (3h)
+III- Rewrite all the questions + A  ll the preprocessing steps + Describe Image contrast (3h)
 
 IV- (tomorrow): 
 
