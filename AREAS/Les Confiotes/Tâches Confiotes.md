@@ -20,4 +20,5 @@
 - Formaliser les stocks
 - CRM -
 
-1. 
+1. Objectif1: Produce an awesome packaging that will make people viraly curious
+2. Objective 2: Develop the 
