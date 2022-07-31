@@ -61,7 +61,7 @@ Utilise la formule : "Tu vois comment [problème que les gens ont] ?" Et bien ce
 1. Quelle Offre peut on offrir pour le segment qui représente nos meilleurs clients ? Comment on peut adresser exactement un problème qu'ils ont?
 2. Quelles autres offres on peut ajouter à côté pour un peu moins du prix ? 
 3. Soyons clair sur le point de douleur des clients. Qu'est ce qui est insupportable pour eux de faire ? (Un de nos clients c'était de payer par OM)
-4. **Travaillons sur le copywriting** : Résume Contagious/Switch etc...
+4. **Travaillons sur le copywriting** #confiotesP1 : Résume Contagious/Switch etc...
 5. Parle ouvertement des risques de faire du business avec nous, quelles sont les risques que les clients ont avant de commander
 	1. Mauvaise livraison, Mauvais Produit..
 	2. Parle clairement des gens qui ne devraient PAS acheter chez nous: Qui  n'ont que faire des produits naturels, qui ne sont pas gourmands, qui ne sont pas curieux des saveurs du Cameroun
