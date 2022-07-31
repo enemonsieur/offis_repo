@@ -170,3 +170,13 @@ d'écraser des iphones, des balles de golf etc...
 ## Augmenter le Customer Lifetime Value 
 CLV: La quantité totale d'argent qu'un customer rapportera. 
 Priorité: Mesurer le CLV d'un client
+- Augmenter les prix permettra d'augmenter  notre CLV. Quels changements dans notre service on pourrait effectuer pour justifier cette augmentation?
+	- Etiquettes
+	- Bouteilles
+- Vente complémentaire: Quels compléments est-ce qu'on peut ajouter pour des personnes qui achètent un de nos packs ?
+	- Supposons qu'un client achète une liqueur de gingembre. On peut lui dire que 30% des clients achètent aussi un petit sirop de bitacola pour faire un cocktail. Et du coup augmenter la vente
+	- 
+
+- Ascencion: Comment convaincre un client d'acheter nos produits de haute qualité ? Quels produits de plus haute qualité peut-on créer?
+	- Ca peut aider les clients à ne pas s'ennuyer et aller voir ailleurs
+	- "10% des clients seraient prêt à payer 10x plus cher"
