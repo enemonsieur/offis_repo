@@ -218,4 +218,10 @@ Discuter avec les gens qui peuvent naturellement rediriger nos clients vers nous
 3. Les personnes qui organisent des mariages
 4. Pensons à: Ceux qui ont nos clients avant nous.
 
+
+
+
+
+
+
 ![[Pasted image 20220731142326.png]]
