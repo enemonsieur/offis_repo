@@ -191,5 +191,10 @@ Priorité: Mesurer le CLV d'un client
 			 et si c'est correct, présentons des excuses et expliquons comment on va corriger ca. 
 		4. S'ils recommencent à commander, faisons un suivi pourqu'ils se sentent roi.
 	Autre Idée: Créér une offre avec marge minimale rien que pour eux ou même quelque chose de gratuit. 
+- Avoir nos chiffres #confiotesP1 
+	- Leads: Comment mesurer les Leads qui arrivent par semaine ? Combien de clients nous contactent par semaine
+	- Conversion Rate: Quel % de leads finissent par acheter?
+	- Average transaction Value: Combien en moyenne un nouveau lead va nous payer ?
+	- Break-even: Combien on doit faire par mois pour subvenir à nos besoins ?
 
-		
+![[Pasted image 20220731140509.png]]
