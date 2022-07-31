@@ -154,4 +154,9 @@ d'écraser des iphones, des balles de golf etc...
 - Créér des relations avec des clients pour etre la personne chez qui on va, pour avoir des infos sur la santé, les cocktails, les produits MIC... 
 - Est-ce qu'un blog ou des vidéos Youtube pourrait aider ? Que regarde régulièrement notre cible client  ?
 - Parler ouvertement des difficultés et de comment on les dépasse: Par exemple, combien de Bita Cola entrent dans la composition
-- Expliquer ce
+- Expliquer les procédés de fabrication
+- Produire des contenus qui aident les gens à voir et comprendre l'envers du décors 
+
+## Créér des Systèmes pour automatiser les tâches
+- Comment constamment attirer de nouveaux potentiels clients sur Facebook, Via les foires, Via les anciens clients (bouche à oreille)
+- 
