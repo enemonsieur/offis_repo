@@ -21,4 +21,5 @@
 - CRM -
 
 1. Objectif1: Produce an awesome packaging that will make people viraly curious
-2. Objective 2: Develop the 
+	1. 
+2. Objective 2: Automate our marketing funnel by pumping the team with all the knowledge they need
