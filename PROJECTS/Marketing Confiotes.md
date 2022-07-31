@@ -1,6 +1,6 @@
 [[Threads Twitter#^37edb4]]
 
-1 PMP
+MARKETING PLAN
 # Before
 ## Target Market
 
