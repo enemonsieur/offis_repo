@@ -179,4 +179,10 @@ Priorité: Mesurer le CLV d'un client
 
 - Ascencion: Comment convaincre un client d'acheter nos produits de haute qualité ? Quels produits de plus haute qualité peut-on créer?
 	- Ca peut aider les clients à ne pas s'ennuyer et aller voir ailleurs
-	- "10% des clients seraient prêt à payer 10x plus cher"
+	- "10% des clients seraient prêt à payer 10x plus cher" On pourrait proposer un service: Bar Made in Cameroon avec des assortiments de produits pour des évènements comme Mariage / Réception avec le Mixologue en plus. 
+- Fréquence: 
+	- Quels reminders on peut automatiser pour les relancer ? (Une liste de content ou de réduction pour une commande similaire (6 gingembres) chaque 6 mois). Envoyer un reminder à Mr Miguel, pour qu'il ait10% de moins sur sa commande habituelle. 
+**- Réactiver les nouveaux clients: #confiotesP1**
+	- Idée pour réactiver les anciens:
+		1. Parcourir la BDD
+		2. Trouve rel
