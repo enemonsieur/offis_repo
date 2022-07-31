@@ -82,6 +82,7 @@ Il faut Evaluer absolument le Life Time Customer Value:
 	- Faire un rapport/semaine du ROI du marketing
 	- Evaluer les changements à faire: Titre, Photos, Propositions
 - Les canaux marketing sont: Bouche à Oreille (beaucoup de nos clients découvrent comme ca.), Facebook. Comment obtenir 3 autres canaux Marketing?
+----
 
 # DURING
 ## Capture des prospects
