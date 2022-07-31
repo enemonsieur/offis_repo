@@ -210,3 +210,10 @@ OPTION 2
 1. Après avoir pris leur commande, promettons les de faire un super job. 
 2. Ajoutons qu'on aura aussi besoin de leur service, parce que c'est sur ca qu'on dépend pour maintenir et améliorer la qualité.
 3. Leur dire que s'ils sont 100% satisfait par notre service, on apprécriait qu'ils pensent à 3 personnes a qui on pourrait donner une très bonne expérience 
+
+OPTION 3
+Discuter avec les gens qui peuvent naturellement rediriger nos clients vers nous:
+1. Des clients régulier des Barman
+2. Des gens qui achètent régulièrement du MIC dans les distris
+3. Les personnes qui organisent des mariages
+4. Pensons à: Ceux qui ont nos clients avant nous. 
