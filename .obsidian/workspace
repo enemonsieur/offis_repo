@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Marketing Confiotes.md",
+            "file": "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
             "mode": "source",
             "source": false
           }
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453,
-    "collapsed": true
+    "width": 453
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Marketing Confiotes.md",
+                "file": "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +113,15 @@
   },
   "active": "adf291f20aeac45e",
   "lastOpenFiles": [
-    "AREAS/Les Confiotes/Tâches Confiotes.md",
+    "AREAS/grey matters/Threads Twitter.md",
     "PROJECTS/Marketing Confiotes.md",
+    "AREAS/Les Confiotes/Tâches Confiotes.md",
     "ARCHIVES/fMRI data analysis/REVISION PLAN.md",
     "ARCHIVES/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
     "ARCHIVES/fMRI data analysis/Talk 12 - ANOVA models.md",
     "ARCHIVES/fMRI data analysis/Talk 13 - Perspectives on brain  connectivity.md",
     "ARCHIVES/fMRI data analysis/Talk 15 - Graph theory.md",
     "ARCHIVES/fMRI data analysis/Talk 14 - Brain Connectivity.md",
-    "ARCHIVES/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md",
-    "ARCHIVES/fMRI data analysis/Talk 9 - Statistical Inferences.md"
+    "ARCHIVES/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md"
   ]
 }
