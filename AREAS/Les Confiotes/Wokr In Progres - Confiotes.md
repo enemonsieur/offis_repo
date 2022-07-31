@@ -1,3 +1,7 @@
+31-07
+- Pouvoir avoir une vue d'ensemble du travail qu'on fait
+	- des endoits dans le drive ou on peut uploader les tâches etc...
+
 AUFGABEN
 - Redéfinir notre business model.
 - Réorganiser notre google sheet
