@@ -143,3 +143,10 @@ Il faut Evaluer absolument le Life Time Customer Value:
 - Exemple: Will it blend fait des videos sur des "Blender", mais rendent le concept fascinant en essayant 
 d'écraser des iphones, des balles de golf etc...
 - Exemple 2: Un restaurant propose de raccompagner directement les gens  pour qu'ils n'aientnpas à se soucier de l'alcool 
+- Qu'elle partie du business on peut rendre "cool " "surprenant" et qui change de l'ordinaire.
+- More: Lire Contagious de Johan Berger
+### Réduire La friction pendant le service
+- Y'a t'il une partie de notre service comme les livraisons qu'on peut rendre plus rapide? Utilisant la technologie ? Est-ce qu'on a les moyens de faire suivre la livraison ? De faciliter les décisions concernant le choix des clients ? Faciliter le paiement par OM etc... 
+- Qu'est ce qui est fatiguant pour nos clients ? Qu'est ce que nos clients vont commencer à faire et abandonner ? Histoire qu'on trouve un moyen d'automatiser la tâche pour eux ?
+	- Exemple: Un client durant l'interview a affirmé détester payer par OM. On aurait pu l'aider en payant cash directement au livreur. 
+- 
