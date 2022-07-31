@@ -201,6 +201,12 @@ Priorité: Mesurer le CLV d'un client
 ## Références#
 Comment orchestrer et encourager les clients à nous référer ? Les confiotes c'est 80% de ca. 
 Vu que nos clients sont assez snob et ne font pas facilement confiance 
+OPTION 1
 1. Envoyer des whatsapp demandant de nous présenter à des amis ou des clients
 2. Leur dire que ca a été un plaisir de travailler avec eux. 
-3. Faire une grosse offr
+3. Leur faire une grosse offre: Si votre ami commande, il aura 7000 F sur son premier achat off. 
+4. Leur expliquer pourquoi c'est important pour notre survie: Une des raisons pour lesquelles nous fonctionnons depuis 30+ ans, et maintenons cette qualité (sans additifs) c'est parce que nos clients nous font suffisamment confiances, pour nous référer à leur amis. 
+OPTION 2
+1. Après avoir pris leur commande, promettons les de faire un super job. 
+2. Ajoutons qu'on aura aussi besoin de leur service, parce que c'est sur ca qu'on dépend pour maintenir et améliorer la qualité.
+3. Leur dire que s'ils sont 100% satisfait par notre service, on apprécriait qu'ils pensent à 3 personnes a qui on pourrait donner une très bonne expérience 
