@@ -216,4 +216,6 @@ Discuter avec les gens qui peuvent naturellement rediriger nos clients vers nous
 1. Des clients régulier des Barman
 2. Des gens qui achètent régulièrement du MIC dans les distris
 3. Les personnes qui organisent des mariages
-4. Pensons à: Ceux qui ont nos clients avant nous. 
+4. Pensons à: Ceux qui ont nos clients avant nous.
+
+![[Pasted image 20220731142326.png]]
