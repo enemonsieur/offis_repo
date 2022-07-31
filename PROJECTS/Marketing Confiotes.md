@@ -158,5 +158,15 @@ d'écraser des iphones, des balles de golf etc...
 - Produire des contenus qui aident les gens à voir et comprendre l'envers du décors 
 
 ## Créér des Systèmes pour automatiser les tâches
-- Comment constamment attirer de nouveaux potentiels clients sur Facebook, Via les foires, Via les anciens clients (bouche à oreille)
-- 
+- Comment constamment attirer de nouveaux potentiels clients sur Facebook, Via les foires, Via les anciens clients (bouche à oreille): Comment amener plus de clients à apprécier notre qualité, et aussi notre Service. 
+- **L'Administration, Les ventes, Les livraisons, le marketing**
+1. Quels sont les différentes Opérations que l'on fait régulièrement ? 
+2. Quels sont les rôles qui sont remplis dans notre business (Pas les gens qui les font , mais les rôles)
+3. Peut-on les transformer en checklist? (lire The Checklist Manifesto)
+	1. relancer des clients
+	2. Livraison régulière
+	3. Ajouter les clients dans la database
+	4. Créer du nouveau contenu de haute qualité
+## Augmenter le Customer Lifetime Value 
+CLV: La quantité totale d'argent qu'un customer rapportera. 
+Priorité: Mesurer le CLV d'un client
