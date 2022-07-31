@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
+                "file": "AREAS/Les Confiotes/Tâches Confiotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +111,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "adf291f20aeac45e",
+  "active": "1c9003d531739500",
   "lastOpenFiles": [
+    "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
     "AREAS/grey matters/Threads Twitter.md",
     "PROJECTS/Marketing Confiotes.md",
     "AREAS/Les Confiotes/Tâches Confiotes.md",
@@ -121,7 +122,6 @@
     "ARCHIVES/fMRI data analysis/Talk 12 - ANOVA models.md",
     "ARCHIVES/fMRI data analysis/Talk 13 - Perspectives on brain  connectivity.md",
     "ARCHIVES/fMRI data analysis/Talk 15 - Graph theory.md",
-    "ARCHIVES/fMRI data analysis/Talk 14 - Brain Connectivity.md",
-    "ARCHIVES/fMRI data analysis/Talk 5 - Preprocessing of fMRI data.md"
+    "ARCHIVES/fMRI data analysis/Talk 14 - Brain Connectivity.md"
   ]
 }
