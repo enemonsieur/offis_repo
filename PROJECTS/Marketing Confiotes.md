@@ -102,7 +102,7 @@ Il faut Evaluer absolument le Life Time Customer Value:
 	1. Offre leur des informations qui resolvent leur problème (
 	2. Quelles informations de valeur est-ce que nos clients veulent ? #Hilaire peut réétudier les réactions aux posts
 	3. A quelle fréquence faie des offres d'achat?
-### Créer une infrastructure Marketing
+### Créer une infrastructure Marketing #confiotesP1 
 4. Avoir des messages d'Intro pour chaque nouveau client qui présente l'entreprise
 5. Comment déterminer qu'un prospect est "mature"
 6. Quel genre de contenu on peut produire pour les "éduquer", qui soit réutilisable? Combien
@@ -128,7 +128,7 @@ Il faut Evaluer absolument le Life Time Customer Value:
 3. Créer des garanties outrageuses pour que les gens fassent le pas: 
 	1. Quand on relance les gens de videos Ads, on peut faire un 100% remboursé s'ils n'ont pas aimé, juste couvrir les frais de moto
 	2. Trouver les plus grosses peurs des clients et proposer une garantie pour ca, à chaque fois qu'on fait une offre: Pour la tontine, que les clients soient impressionés. Qu'ils ne trouvent pas ca déguelasse #dimitri (les critiques de sa mère)
-4. PRICING: #confiotesP1  Standard, premiuem (50% plus cher), Ultrapremium
+4. PRICING: #confiotesP1  Standard, premium (50% plus cher), Ultrapremium
 5. Qu'est ce qu'on peut donner comme "échantillon": Venir déguster à X Y Z. Dégustations dans nos points de vente toujours. Quoi d'autre ?
 
 # AFTER
