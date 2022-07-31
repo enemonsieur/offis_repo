@@ -1,6 +1,9 @@
 31-07
 - Pouvoir avoir une vue d'ensemble du travail qu'on fait
 	- des endoits dans le drive ou on peut uploader les tâches etc...
+	- Aussi clairement que possible #ddk
+	- Kr depend
+	- prochaine action
 
 AUFGABEN
 - Redéfinir notre business model.
