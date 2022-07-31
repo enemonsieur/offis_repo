@@ -128,7 +128,7 @@ Il faut Evaluer absolument le Life Time Customer Value:
 3. Créer des garanties outrageuses pour que les gens fassent le pas: 
 	1. Quand on relance les gens de videos Ads, on peut faire un 100% remboursé s'ils n'ont pas aimé, juste couvrir les frais de moto
 	2. Trouver les plus grosses peurs des clients et proposer une garantie pour ca, à chaque fois qu'on fait une offre: Pour la tontine, que les clients soient impressionés. Qu'ils ne trouvent pas ca déguelasse #dimitri (les critiques de sa mère)
-4. PRICING: Standard, premiuem (50% plus cher), Ultrapremium
+4. PRICING: #confiotesP1  Standard, premiuem (50% plus cher), Ultrapremium
 5. Qu'est ce qu'on peut donner comme "échantillon": Venir déguster à X Y Z. Dégustations dans nos points de vente toujours. Quoi d'autre ?
 
 # AFTER
