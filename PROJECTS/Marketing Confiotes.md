@@ -196,5 +196,11 @@ Priorité: Mesurer le CLV d'un client
 	- Conversion Rate: Quel % de leads finissent par acheter?
 	- Average transaction Value: Combien en moyenne un nouveau lead va nous payer ?
 	- Break-even: Combien on doit faire par mois pour subvenir à nos besoins ?
+	![[Pasted image 20220731140509.png]]
 
-![[Pasted image 20220731140509.png]]
+## Références#
+Comment orchestrer et encourager les clients à nous référer ? Les confiotes c'est 80% de ca. 
+Vu que nos clients sont assez snob et ne font pas facilement confiance 
+1. Envoyer des whatsapp demandant de nous présenter à des amis ou des clients
+2. Leur dire que ca a été un plaisir de travailler avec eux. 
+3. Faire une grosse offr
