@@ -131,3 +131,9 @@ Il faut Evaluer absolument le Life Time Customer Value:
 5. Qu'est ce qu'on peut donner comme "échantillon": Venir déguster à X Y Z. Dégustations dans nos points de vente toujours. Quoi d'autre ?
 
 # AFTER
+##  Offrir une expérience hors du commun
+
+-  Avoir des Superfans (lire super fans)
+- Comment donner au client ce dont il a besoin et non ce qu'il demande ?
+	Veux: des cocktails beau et qu'ils pourront montrer à leurs amis. Besoin: ?
+	Veux: Offrir des paniers qui 
