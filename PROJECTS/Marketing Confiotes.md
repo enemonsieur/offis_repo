@@ -136,4 +136,10 @@ Il faut Evaluer absolument le Life Time Customer Value:
 -  Avoir des Superfans (lire super fans)
 - Comment donner au client ce dont il a besoin et non ce qu'il demande ?
 	Veux: des cocktails beau et qu'ils pourront montrer à leurs amis. Besoin: ?
-	Veux: Offrir des paniers qui 
+	Veux: Offrir des paniers qui rappellent l'afrique à leurs relations importantes Besoin: ?
+	Veux: Consommer des produits qui améliorent la santé. Besoin ?
+### Créer un vrai théatre autour du produit
+- Les clients ne veulent pas juste être servis. Ils veulent être divertis. Ils veulent qu'on leur change de leur routine. Qu'est ce que les confiotes peuvent faire pour ca ? 
+- Exemple: Will it blend fait des videos sur des "Blender", mais rendent le concept fascinant en essayant 
+d'écraser des iphones, des balles de golf etc...
+- Exemple 2: Un restaurant propose de raccompagner directement les gens  pour qu'ils n'aientnpas à se soucier de l'alcool 
