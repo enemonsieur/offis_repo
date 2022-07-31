@@ -19,3 +19,5 @@
 # Dimitri
 - Formaliser les stocks
 - CRM -
+
+1. 
