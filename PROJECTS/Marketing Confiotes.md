@@ -149,4 +149,9 @@ d'écraser des iphones, des balles de golf etc...
 - Y'a t'il une partie de notre service comme les livraisons qu'on peut rendre plus rapide? Utilisant la technologie ? Est-ce qu'on a les moyens de faire suivre la livraison ? De faciliter les décisions concernant le choix des clients ? Faciliter le paiement par OM etc... 
 - Qu'est ce qui est fatiguant pour nos clients ? Qu'est ce que nos clients vont commencer à faire et abandonner ? Histoire qu'on trouve un moyen d'automatiser la tâche pour eux ?
 	- Exemple: Un client durant l'interview a affirmé détester payer par OM. On aurait pu l'aider en payant cash directement au livreur. 
-- 
+- Proposition: Quelles données excel on peut utiliser pour mieux servir les clients ? De facon plus individuelle. 
+### Devinir une voix pour nos groupes
+- Créér des relations avec des clients pour etre la personne chez qui on va, pour avoir des infos sur la santé, les cocktails, les produits MIC... 
+- Est-ce qu'un blog ou des vidéos Youtube pourrait aider ? Que regarde régulièrement notre cible client  ?
+- Parler ouvertement des difficultés et de comment on les dépasse: Par exemple, combien de Bita Cola entrent dans la composition
+- Expliquer ce
