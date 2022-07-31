@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/Les Confiotes/Tâches Confiotes.md",
+                "file": "PROJECTS/Marketing Confiotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +112,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c9003d531739500",
+  "active": "adf291f20aeac45e",
   "lastOpenFiles": [
-    "PROJECTS/Marketing Confiotes.md",
     "AREAS/Les Confiotes/Tâches Confiotes.md",
+    "PROJECTS/Marketing Confiotes.md",
     "ARCHIVES/fMRI data analysis/REVISION PLAN.md",
     "ARCHIVES/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
     "ARCHIVES/fMRI data analysis/Talk 12 - ANOVA models.md",

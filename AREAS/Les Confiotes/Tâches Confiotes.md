@@ -29,4 +29,5 @@
 		1. Whatsapp interaction
 		2. Refreshing old clients
 	3. KR#2
-	3. Working with Ro to create offers based on our target market
+	3. Working with Ro to create offers based on our target market#
+	KR#3: Create one compelling offer for our most important micro-niche (Anne Ndame)
