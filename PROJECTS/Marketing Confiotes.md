@@ -185,4 +185,11 @@ Priorité: Mesurer le CLV d'un client
 **- Réactiver les nouveaux clients: #confiotesP1**
 	- Idée pour réactiver les anciens:
 		1. Parcourir la BDD
-		2. Trouve rel
+		2. Trouver les anciens clients de plus de 6 mois
+		3. Écrire un texte qui attire leur attention: "Je te pense" "J'ai fait quelque chose de mal" avec un texte
+			1.  demandons-leur pourquoi ils ne sont pas revenus. Si c'est quelque chose qu'on a fait
+			 et si c'est correct, présentons des excuses et expliquons comment on va corriger ca. 
+		4. S'ils recommencent à commander, faisons un suivi pourqu'ils se sentent roi.
+	Autre Idée: Créér une offre avec marge minimale rien que pour eux ou même quelque chose de gratuit. 
+
+		
