@@ -32,7 +32,7 @@ Standard NASA-TLX questionnaire (Appendix 1) was used as an assessment tool to m
 
 # Features finding
 ![[stress detection using ECG and EMG#^00cfb3]]
-=> We extract 3 leads (I II III)*25 features for the ECG. 
+=> We extract 3 leads (I II III) * 25 features for the ECG. 
 - We remove unnecessary features to improve algo accuracy. We use the RSFS method for that:
 
 "Besides, in the SFFS method, the gain of a feature is computed by including or excluding it from an existing set of features, but in the random subset feature selection (RSFS) method, each feature is evaluated in terms of its average usefulness with other feature combinations. The steps of the RSFS method summarized as follows:" [[@pourmohammadiStressDetectionUsing2020]]
