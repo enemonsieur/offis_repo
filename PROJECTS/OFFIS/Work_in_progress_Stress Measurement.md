@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## Stress creating Task
 
 - [ ] Find stress creating factors in the litterature
+- [ ] Add them in a new document
 
 
 ## Reinforcement Learning
@@ -18,6 +19,7 @@ kanban-plugin: basic
 - [ ] EEG ECG Eye Tracking Methodology
 - [ ] Add the relevant litterature
 - [ ] Read the lit and understand the main steps
+- [ ] Create a mind map on miro for the experiment
 
 
 
