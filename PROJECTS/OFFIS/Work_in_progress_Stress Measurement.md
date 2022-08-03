@@ -6,6 +6,16 @@ kanban-plugin: basic
 
 ## 
 
+- [ ] Stress creating Task
+
+
+## Reinforcement Learning
+
+
+
+## 
+
+- [ ] EEG ECG Eye Tracking Methodology
 
 
 
