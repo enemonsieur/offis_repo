@@ -7,11 +7,9 @@
         "id": "1c9003d531739500",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "AREAS/Les Confiotes/Event O'Lakan.md",
-            "mode": "source",
-            "source": false
+            "file": "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/Les Confiotes/Event O'Lakan.md",
+                "file": "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +99,15 @@
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
-    "PROJECTS/Marketing Confiotes.md",
-    "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
-    "AREAS/Les Confiotes/Tâches Confiotes.md",
-    "AREAS/grey matters/Threads Twitter.md",
-    "ARCHIVES/fMRI data analysis/REVISION PLAN.md",
-    "ARCHIVES/fMRI data analysis/Talk 10 - Random effects analysis of fMRI Data.md",
-    "ARCHIVES/fMRI data analysis/Talk 12 - ANOVA models.md",
-    "ARCHIVES/fMRI data analysis/Talk 13 - Perspectives on brain  connectivity.md",
-    "ARCHIVES/fMRI data analysis/Talk 15 - Graph theory.md",
-    "ARCHIVES/fMRI data analysis/Talk 14 - Brain Connectivity.md"
+    "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
+    "AREAS/Buildding a second brain.md",
+    "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
+    "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
+    "PROJECTS/OFFIS/220627_1 differences between type of stress.md",
+    "PROJECTS/OFFIS/220627_1 differences between type of stress 1.md",
+    "PROJECTS/OFFIS/25032022_NASA TLX.md",
+    "PROJECTS/OFFIS/25032022_Measuring stress.md",
+    "PROJECTS/OFFIS/stress differences understanding.md",
+    "AREAS/Les Confiotes/Event O'Lakan.md"
   ]
 }
