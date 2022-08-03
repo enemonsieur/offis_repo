@@ -7,5 +7,5 @@
 	4. Donner un point si la personne réussit.
 	5. Après chaque round, une personne est éliminée. Et le nombre de produits à différiencier augmente. Exemple: - Sirop passion - Sirop Citron - Sirop Coco
 	6. A la fin, le gagnant remporte un petit sirop+ liqueurs
-	7.
-4. Tester différents cocktails
+
+A faire: 2 visuels pour O'Lakam et Les confiotes
