@@ -7,9 +7,11 @@
         "id": "1c9003d531739500",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md"
+            "file": "PROJECTS/OFFIS/Untitled.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
+                "file": "PROJECTS/OFFIS/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +101,8 @@
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
-    "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
+    "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
     "@bitkinaAbilityEyetrackingMetrics2021.md",
     "AREAS/Buildding a second brain.md",
