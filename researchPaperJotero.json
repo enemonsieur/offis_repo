@@ -2,7 +2,11 @@
   "collections": {
     "2GYJSXXR": {
       "collections": [],
-      "items": [],
+      "items": [
+        372,
+        374,
+        376
+      ],
       "key": "2GYJSXXR",
       "name": "Designing Stress",
       "parent": ""
@@ -1262,6 +1266,61 @@
       "volume": "25"
     },
     {
+      "DOI": "10.1037/0893-3200.20.4.690",
+      "ISSN": "1939-1293, 0893-3200",
+      "abstractNote": "This study examined daily ﬂuctuations in marital behavior (anger and withdrawal) as a function of same-day job stressors, using hierarchical linear modeling (HLM). Forty-three couples provided daily diary reports of their workload and negative social interactions at work on 5 consecutive days. Within-subject analyses demonstrate that husbands and wives reported greater marital anger and withdrawal following negative social interactions at work, and wives reported greater marital anger and withdrawal following days of heavy workload. Mediation analyses provide support for the negative mood spillover hypothesis (e.g., workload no longer predicted wives’ marital anger when controlling for negative mood). Betweensubjects analyses suggest that spouses in high-conﬂict families may be especially vulnerable to the effects of job stressors on marital interaction.",
+      "accessDate": "2022-08-04T07:35:29Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-04T07:35:23Z",
+          "dateModified": "2022-08-04T07:35:29Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\P7KEN2JJ\\Story and Repetti - 2006 - Daily occupational stressors and marital behavior..pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Story and Repetti - 2006 - Daily occupational stressors and marital behavior..pdf",
+          "uri": "http://zotero.org/users/9698946/items/P7KEN2JJ"
+        }
+      ],
+      "citationKey": "storyDailyOccupationalStressors2006",
+      "citekey": "storyDailyOccupationalStressors2006",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lisa B.",
+          "lastName": "Story"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rena",
+          "lastName": "Repetti"
+        }
+      ],
+      "date": "2006",
+      "dateAdded": "2022-08-04T07:35:29Z",
+      "dateModified": "2022-08-04T07:35:29Z",
+      "issue": "4",
+      "itemID": 376,
+      "itemKey": "H8J8SFIT",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Journal of Family Psychology",
+      "key": "H8J8SFIT",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "690-700",
+      "publicationTitle": "Journal of Family Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/H8J8SFIT",
+      "tags": [],
+      "title": "Daily occupational stressors and marital behavior.",
+      "uri": "http://zotero.org/users/9698946/items/H8J8SFIT",
+      "url": "http://doi.apa.org/getdoi.cfm?doi=10.1037/0893-3200.20.4.690",
+      "version": 1079,
+      "volume": "20"
+    },
+    {
       "DOI": "10.1007/s11682-020-00304-8",
       "ISSN": "1931-7557, 1931-7565",
       "accessDate": "2022-07-19T10:31:36Z",
@@ -1426,6 +1485,27 @@
       "title": "THE IMPACT OF WORKLOAD AND TECHNOLOGY COMPETENCE ON TECHNOSTRESS AND PERFORMANCE OF EMPLOYEES",
       "uri": "http://zotero.org/users/9698946/items/HT4RJVS5",
       "version": 109
+    },
+    {
+      "charset": "",
+      "contentType": "application/pdf",
+      "dateAdded": "2022-08-04T07:29:52Z",
+      "dateModified": "2022-08-04T07:29:52Z",
+      "defaultPath": "files/372/Nursing Open - 2020 - Hendy - Predictive factors affecting stress among nurses providing care at COVID‐19 isolation.pdf",
+      "filename": "Nursing Open - 2020 - Hendy - Predictive factors affecting stress among nurses providing care at COVID‐19 isolation.pdf",
+      "itemID": 372,
+      "itemKey": "IFAINTFL",
+      "itemType": "attachment",
+      "key": "IFAINTFL",
+      "libraryID": 1,
+      "linkMode": "imported_file",
+      "localPath": "C:\\Users\\ene Monsieur\\Zotero\\storage\\IFAINTFL\\Nursing Open - 2020 - Hendy - Predictive factors affecting stress among nurses providing care at COVID‐19 isolation.pdf",
+      "relations": [],
+      "select": "zotero://select/library/items/IFAINTFL",
+      "tags": [],
+      "title": "Nursing Open - 2020 - Hendy - Predictive factors affecting stress among nurses providing care at COVID‐19 isolation.pdf",
+      "uri": "http://zotero.org/users/9698946/items/IFAINTFL",
+      "version": 1072
     },
     {
       "DOI": "10.1080/19488300.2011.609524",
@@ -3026,6 +3106,61 @@
       "url": "http://link.springer.com/10.1007/978-3-030-49044-7",
       "version": 80,
       "volume": "12186"
+    },
+    {
+      "DOI": "10.1111/j.1741-3737.2007.00428.x",
+      "ISSN": "0022-2445, 1741-3737",
+      "accessDate": "2022-08-04T07:35:16Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-04T07:35:02Z",
+          "dateModified": "2022-08-04T07:35:17Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\8KTLM62P\\Lavee and Ben-Ari - 2007 - Relationship of Dyadic Closeness With Work-Related.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Lavee and Ben-Ari - 2007 - Relationship of Dyadic Closeness With Work-Related.pdf",
+          "uri": "http://zotero.org/users/9698946/items/8KTLM62P"
+        }
+      ],
+      "citationKey": "laveeRelationshipDyadicCloseness2007",
+      "citekey": "laveeRelationshipDyadicCloseness2007",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yoav",
+          "lastName": "Lavee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adital",
+          "lastName": "Ben-Ari"
+        }
+      ],
+      "date": "11/2007",
+      "dateAdded": "2022-08-04T07:35:16Z",
+      "dateModified": "2022-08-04T07:35:16Z",
+      "issue": "4",
+      "itemID": 374,
+      "itemKey": "VYAXKP4H",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "J Marriage and Family",
+      "key": "VYAXKP4H",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "1021-1035",
+      "publicationTitle": "Journal of Marriage and Family",
+      "relations": [],
+      "select": "zotero://select/library/items/VYAXKP4H",
+      "shortTitle": "Relationship of Dyadic Closeness With Work-Related Stress",
+      "tags": [],
+      "title": "Relationship of Dyadic Closeness With Work-Related Stress: A Daily Diary Study",
+      "uri": "http://zotero.org/users/9698946/items/VYAXKP4H",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1741-3737.2007.00428.x",
+      "version": 1076,
+      "volume": "69"
     },
     {
       "DOI": "10.1586/17469899.2.2.145",
