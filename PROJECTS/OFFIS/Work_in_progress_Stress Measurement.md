@@ -6,7 +6,8 @@ kanban-plugin: basic
 
 ## Stress creating Task
 
-- [ ] Find stress creating factors in the litterature
+- [ ] [[Find stress creating factors in the litterature]]
+- [ ] When do people find themselves to be stressed?
 - [ ] Add them in a new document
 
 

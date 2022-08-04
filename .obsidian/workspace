@@ -7,11 +7,9 @@
         "id": "1c9003d531739500",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "PROJECTS/OFFIS/Untitled.md",
-            "mode": "source",
-            "source": false
+            "file": "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/OFFIS/Untitled.md",
+                "file": "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +99,15 @@
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
+    "Find stress creating factors in the litterature.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
+    "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
     "@bitkinaAbilityEyetrackingMetrics2021.md",
     "AREAS/Buildding a second brain.md",
     "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
     "PROJECTS/OFFIS/220627_1 differences between type of stress.md",
-    "PROJECTS/OFFIS/220627_1 differences between type of stress 1.md",
-    "PROJECTS/OFFIS/25032022_NASA TLX.md",
-    "PROJECTS/OFFIS/25032022_Measuring stress.md"
+    "PROJECTS/OFFIS/220627_1 differences between type of stress 1.md"
   ]
 }
