@@ -1,14 +1,9 @@
 31-07
-- Pouvoir avoir une vue d'ensemble du travail qu'on fait
-	- des endoits dans le drive ou on peut uploader les tâches etc...
-	- Aussi clairement que possible #ddk
-	- Kr depend
-	- prochaine action
+ 
 
 AUFGABEN
 - Redéfinir notre business model.
-- Réorganiser notre google sheet
-- Advance Eunice's OKR
+ - Advance Eunice's OKR
 - Discuter des Clients Business
 - Améliorer l'expérience client
 [[Innovations Confiotes]] - Sac en tissus, imprimer des trucs dessus en Black and White, Faire une ébauche

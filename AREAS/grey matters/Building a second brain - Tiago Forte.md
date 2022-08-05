@@ -1,6 +1,7 @@
 #Book 
  #notetaking
 	 What  job would you hire your personnal assiant for? 
+		 To organize my ideas for my contents and plan the work in progres sof ev
 		 Remember the most important events constantly
 		 
 		 

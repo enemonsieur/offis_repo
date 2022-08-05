@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Marketing Confiotes.md",
+            "file": "AREAS/grey matters/Building a second brain - Tiago Forte.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Marketing Confiotes.md",
+                "file": "AREAS/grey matters/Building a second brain - Tiago Forte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
-    "AREAS/Buildding a second brain.md",
+    "AREAS/Les Confiotes/Work In Progres - Confiotes.md",
     "AREAS/Les Confiotes/Event O'Lakan.md",
-    "AREAS/Les Confiotes/Wokr In Progres - Confiotes.md",
+    "PROJECTS/Marketing Confiotes.md",
+    "AREAS/Buildding a second brain.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
     "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "Find stress creating factors in the litterature.md",
     "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
-    "@bitkinaAbilityEyetrackingMetrics2021.md",
-    "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md"
+    "@bitkinaAbilityEyetrackingMetrics2021.md"
   ]
 }
