@@ -5,6 +5,7 @@ alias: [ECG Eye Tracking EEG]
 ###### links:  
 
 # Signal Acquisition
+## ECG
 "ECG signal was acquired using the ECG v.12 device manufactured by Bayamed"
 "The SX230 surface electrode and Skintact F-55 electrode were used to acquire the EMG and ECG signals, respectively." [[@bitkinaAbilityEyetrackingMetrics2021]]
 
@@ -31,6 +32,10 @@ Standard NASA-TLX questionnaire (Appendix 1) was used as an assessment tool to m
 "Data preparation and analysis were performed using Mathworks MATLAB 2019a and the HRV Tool [58] for ECG data and SMIs BeGaze for eye-tracking data. IBM SPSS 25 was used for statistical analysis." [[@blasingInfluenceIncreasingTask2021]]
 
 # Features finding
+Previously, in emotion research, ECG signals of 0100 Hz and 010 Hz were considered in assessing the states.31,32 ECG signals of 010 Hz were separated into eight equally spaced sub-bands with nonoverlapping intervals to obtain a maximum mean classification accuracy of 75%[[[...] ]
+the maximum mean classification rate of 79% and 76% is achieved using the support vector machine (SVM) and k-nearest neighbor (kNN) classifiers on distinguishing stress and the emotional states of a car driver through ECG signal of 0-100 Hz. Usually, in HRV, the range 0-0.5 Hz is considered to analyze the stress due to the ANS and stress relationships.
+=> To find the best results, the study used signal from 0 to 10Hz, and seperated them in sub-bands. This lead to a 
+
 ![[stress detection using ECG and EMG#^00cfb3]]
 => We extract 3 leads (I II III) * 25 features for the ECG. 
 - We remove unnecessary features to improve algo accuracy. We use the RSFS method for that:
