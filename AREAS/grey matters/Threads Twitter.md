@@ -1,5 +1,12 @@
 IDEAS for twitter threads
 
+# Learn Marketing
+5 years ago, I believed Marketing was the most pointless think in the world. 
+After dozens of books read, I believe it's the most important. 
+1. Wheter you're a researcher in economics or maths, or just working in an industrie you alwyas need to sell someone your ideas: Your boss, subventions, etc... It# 
+
+Here are the 5 lessons that made me make marketing my top priority
+
 # Listening to music
 Thread on listening to music for focus
 Thread sur la lecture et pourquoi lacher les livres - Most of the time if I find it hard to find time/energy to read, its because no book excites me. 
