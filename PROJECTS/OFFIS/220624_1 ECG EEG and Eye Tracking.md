@@ -53,8 +53,8 @@ Standard NASA-TLX questionnaire (Appendix 1) was used as an assessment tool to m
 - ![[@blasingInfluenceIncreasingTask2021]]
 "Logistic regression analysis was performed to classify high and low workload levels through eye-tracking metrics using IBM SPSS Statistics Version 25 Software"
 
-NASA-TLX workload scores were divided into the low (0–50) and high (51–100) levels. In the presented research, the Nasa-TLX scale is normalized to a number between 0 and 100. Point 50 is the midpoint of the scale, which was selected as a cutofffor workload level classification (low and high) and labeled as neutral considering the verbal anchor for the midpoint. In this type of scale, the middle value (midpoint) can be used as a cutoff (Zheng et al., 2011; McDonald et al., 2014). In the lo gistic model, the dependent variable was coded as a “0′′ event in case of low workload, and the high workload was a “1′′ event; independent variables were 24 extracted eye-tracking metrics.
-=:
+"NASA-TLX workload scores were divided into the low (0–50) and high (51–100) levels. In the presented research, the Nasa-TLX scale is normalized to a number between 0 and 100. Point 50 is the midpoint of the scale, which was selected as a cutofffor workload level classification (low and high) and labeled as neutral considering the verbal anchor for the midpoint. In this type of scale, the middle value (midpoint) can be used as a cutoff (Zheng et al., 2011; McDonald et al., 2014). In the lo gistic model, the dependent variable was coded as a “0′′ event in case of low workload, and the high workload was a “1′′ event; independent variables were 24 extracted eye-tracking metrics.""
+=> we transform the NASA scale into metrics from 0 to 100. and define a cut off at the middle to implement a logistic regression model as 0= low workload 1= high workload
 
 
 .[[@bitkinaAbilityEyetrackingMetrics2021]]
