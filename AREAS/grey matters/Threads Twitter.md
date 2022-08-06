@@ -33,7 +33,8 @@ Why you shouldn't take too many notes
 
 #marketing
 # Speed Reading
-Most people think they don't read enough because of their reading speed therefore try to speed reading. Here a 5 reasons why reading a lot has nothing to do with reading speed
+Most people think they don't read enough because of their reading speed therefore try to speed reading. Here a 5 reasons why you can't read fast
+1. You are reading boring books. Be honest. You don't really enjoy reading 25 pasges of "System1 System2" a day. Think about reading 30 pages of a textbook vs reading Harry Potter. Its not the same engagement. The second you loose your 
 2
 # Alan Dib - 1PMP ^37edb4
 The 64/4 Rule 
