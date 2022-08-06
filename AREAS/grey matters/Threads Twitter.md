@@ -7,9 +7,22 @@ Dump that shit.
 1. Focusing is hard. So most people put on music to help them. But it's easy to get distracted if you pick the wrong music. According to science, here are the 5 appropriate type of music per situation
 2. Lo-Fi Beats: Works when you're about to do a creative work like writing/coding, and when you aren't low in energy. Instrumental music, slow beat musics block just enough internal distraction to help youf ocus
 3. Brown Noise: IMO superior to white noise, really helps if you wanna do heavy reading/writing/speaking. Because even instrumental music seriously disrupt your phonological loop (the subvocal part of your brain). Brown Noise frees you from the external noise 
-4. Lyrical music (Pop, Rock, Afrobeats): Let's face it. Sometimes, you have no energy.  You can't think for 5 minutes straight.. Music you enjoy will raise your arousal level (increasing noradrenaline and dopamine) and making you much more focus
+4. Lyrical music (Pop, Rock, Afrobeats): Let's face it. Sometimes, you have no energy.  You can't think for 5 minutes straight.. Music you enjoy will raise your arousal level (increasing noradrenaline and dopamine) and making you more engaged, with more energy.
+5. 
 
-# d
+# Books
+Reading 3 to 5 books at the same time helped me diving deep on each of them. 
+If you think that you'll get confused and less productive by doing that,, here are 5 ways how it helped me read 50 books a year. 
+
+Last year I read 47 books. Reading 3-5 books at the same time helped me  reach that goal. Here's how: 
+
+1- Book boredom: We'll devour the first 50 pages of a book in 2 days, then get to a boring part. Force ourselves to read more and read slower an slower.
+By reading multiple books, you can switch to let your mind digest the information, so it's ready to learn more
+
+2-Different books, different moods: Book reading is like eating. You may be full of eating steaks but there's still place for dessert: Having a easier book when your getting back home, tire, or more challenging on a sunday afternoon ensure you're always reading. 
+
+
+
 Why you shouldn't take too many notes
 	1. It's easy to never enact on the notes,even if you manage to do that
 	2. What's the point of writing that much, if you never review 1% of it?
@@ -19,6 +32,9 @@ Why you shouldn't take too many notes
 	5. Don't note because it's the notes for entrepreuneurship. Your projects are constantly changign. IT's get lost in the process. 
 
 #marketing
+# Speed Reading
+Most people think reading faster is the key to learning more. This coul
+2
 # Alan Dib - 1PMP ^37edb4
 The 64/4 Rule 
 
