@@ -1,9 +1,10 @@
 IDEAS for twitter threads
 
+
 # Learn Marketing
 5 years ago, I believed Marketing was the most pointless think in the world. 
 After dozens of books read, I believe it's the most important. 
-1. eElevator Pitch: You know how sometimes your colleagues ask you about what you're working on, and in the middle of explanation you see his brain just turn down? Well what an Elevator Pitch does is it explain you idea by explaining why should people care (problem) giving a brief explanation on how to solve that problem (solution) and providing some proofs of that. For example, I just described the Elevator Pitch using the elevator pitch and it made perfect sense to you. :)
+1. Elevator Pitch: You know how sometimes your colleagues ask you about what you're working on, and in the middle of explanation you see his brain just turn down? Well what an Elevator Pitch does is it explain you idea by explaining why should people care (problem) giving a brief explanation on how to solve that problem (solution) and providing some proofs of that. For example, I just described the Elevator Pitch using the elevator pitch and it made perfect sense to you. :)
 2. 
 
 Here are the 5 lessons that made me make marketing my top priority
