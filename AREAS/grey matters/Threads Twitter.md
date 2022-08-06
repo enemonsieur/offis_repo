@@ -6,7 +6,7 @@ Thread sur la lecture et pourquoi lacher les livres - Most of the time if I find
 Dump that shit. 
 1. Focusing is hard. So most people put on music to help them. But it's easy to get distracted if you pick the wrong music. According to science, here are the 5 appropriate type of music per situation
 2. Lo-Fi Beats: Works when you're about to do a creative work like writing/coding, and when you aren't low in energy. Instrumental music, slow beat musics block just enough internal distraction to help youf ocus
-3. Brown Noise: IMO superior to white noise, really helps if you wanna do heavy reading/writing/speaking. Because even instrumne
+3. Brown Noise: IMO superior to white noise, really helps if you wanna do heavy reading/writing/speaking. Because even instrumental music seriously disrupt your phonological loop(the subvocal part of your brain). Brown Noise Frees you from the external noise
 
 
 # d
