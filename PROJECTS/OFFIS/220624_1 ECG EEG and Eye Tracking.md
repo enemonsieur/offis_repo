@@ -22,6 +22,7 @@ The metrics tracked are: maximal, minimal, mean, and standard deviation of gaze 
 Standard NASA-TLX questionnaire (Appendix 1) was used as an assessment tool to measure the subjective driving workload with a score scale of 0 –100. The survey was conducted in the form of a written questionnaire after driving experiments for each participan
 [[@bitkinaAbilityEyetrackingMetrics2021]]
 
+# EEG
 
 - Stroop Task was used to induce stress. 
 [[@pourmohammadiStressDetectionUsing2020]]
