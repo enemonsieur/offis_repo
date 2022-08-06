@@ -11,8 +11,10 @@ alias: [ECG Eye Tracking EEG]
 
 "In accordance to the guidelines for HR and HRV measurement in occupational science [57] for ECG measurement, a 1-channel Faros eMotion 180◦ Holter ECG with 1000 Hz sampling frequency was used. Eye-tracking data were recorded using SensoMotoric Instruments (SMI) Eye-Tracking Glasses 2 Wireless. Sampling frequency for binocular recording was 60 Hz using the inbuilt infrared sensors." [[@blasingInfluenceIncreasingTask2021]]
 
-The wearable eye-tracker of Tobii Pro Glasses 2 was used to record the driver’s glance and pupil behavior with Corneal reflection and dark pupil techniques (Tobiipro, 2021). [[@bitkinaAbilityEyetrackingMetrics2021]]
+## Eye Tracker
+"The wearable eye-tracker of Tobii Pro Glasses 2 was used to record the driver’s glance and pupil behavior with Corneal reflection and dark pupil techniques (Tobiipro, 2021)." [[@bitkinaAbilityEyetrackingMetrics2021]]
 
+The metrics tracked are: maximal, minimal, mean, and standard deviation of gaze point (on x/y axis), gaze duration, gaze fixation (on x/y axis), and pupil diameter.
 
 "The state-trait anxiety inventory (STAI)  questionnaire was utilized to measure the self-reported stress of participants."
 -> To measure stress as reported by participants we use the STAI. Stress is measured before and after the experiment. [[@bitkinaAbilityEyetrackingMetrics2021]]
@@ -32,9 +34,9 @@ Standard NASA-TLX questionnaire (Appendix 1) was used as an assessment tool to m
 "Data preparation and analysis were performed using Mathworks MATLAB 2019a and the HRV Tool [58] for ECG data and SMIs BeGaze for eye-tracking data. IBM SPSS 25 was used for statistical analysis." [[@blasingInfluenceIncreasingTask2021]]
 
 # Features finding
-Previously, in emotion research, ECG signals of 0100 Hz and 010 Hz were considered in assessing the states.31,32 ECG signals of 010 Hz were separated into eight equally spaced sub-bands with nonoverlapping intervals to obtain a maximum mean classification accuracy of 75%[[[...] ]
-the maximum mean classification rate of 79% and 76% is achieved using the support vector machine (SVM) and k-nearest neighbor (kNN) classifiers on distinguishing stress and the emotional states of a car driver through ECG signal of 0-100 Hz. Usually, in HRV, the range 0-0.5 Hz is considered to analyze the stress due to the ANS and stress relationships.
-=> To find the best results, the study used signal from 0 to 10Hz, and seperated them in sub-bands. This lead to a 
+![[Detection of human stress]]
+=> To find the best results, the study used signal from 0 to 10Hz, and seperated them in sub-bands. This lead to rougly 80% accuracy in the models they used (SVM and k-nearest neighbor) [[@karthikeyanDETECTIONHUMANSTRESS2013]]
+
 
 ![[stress detection using ECG and EMG#^00cfb3]]
 => We extract 3 leads (I II III) * 25 features for the ECG. 
