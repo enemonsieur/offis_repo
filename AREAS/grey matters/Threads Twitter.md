@@ -33,7 +33,7 @@ Why you shouldn't take too many notes
 
 #marketing
 # Speed Reading
-Most people think reading faster is the key to learning more. This coul
+Most people think they don't read enough because of their reading speed therefore try to speed reading. Here a 5 reasons why reading a lot has nothing to do with reading speed
 2
 # Alan Dib - 1PMP ^37edb4
 The 64/4 Rule 
