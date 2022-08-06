@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/grey matters/ADHD research.md",
+            "file": "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/grey matters/ADHD research.md",
+                "file": "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
+    "AREAS/grey matters/ADHD research.md",
     "PROJECTS/Threads Twitter.md",
     "AREAS/Learning Machine Learning/220620_1_BCI class.md",
     "AREAS/grey matters/Work in Progress.md",
@@ -109,7 +110,6 @@
     "AREAS/Les Confiotes/Work In Progres - Confiotes.md",
     "AREAS/Les Confiotes/Event O'Lakan.md",
     "PROJECTS/Marketing Confiotes.md",
-    "AREAS/Buildding a second brain.md",
-    "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md"
+    "AREAS/Buildding a second brain.md"
   ]
 }

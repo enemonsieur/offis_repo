@@ -113,7 +113,10 @@
     "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
     "label": "BetterBibTeX JSON",
     "options": {
-      "exportNotes": true
+      "exportFileData": false,
+      "exportNotes": true,
+      "keepUpdated": false,
+      "worker": true
     },
     "preferences": {
       "DOIandURL": "both",
@@ -200,8 +203,7 @@
       "testing": false,
       "verbatimFields": "url,doi,file,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/, /^bdsk-url-[0-9]+$/",
       "warnBulkModify": 10,
-      "warnTitleCased": false,
-      "worker": true
+      "warnTitleCased": false
     }
   },
   "items": [
@@ -3560,7 +3562,7 @@
     }
   ],
   "version": {
-    "bbt": "6.7.17",
+    "bbt": "6.7.19",
     "zotero": "6.0.10"
   }
 }
