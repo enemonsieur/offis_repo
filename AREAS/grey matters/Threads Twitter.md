@@ -1,5 +1,13 @@
 IDEAS for twitter threads
 
+# Listening to music
+Thread on listening to music for focus
+Thread sur la lecture et pourquoi lacher les livres - Most of the time if I find it hard to find time/energy to read, its because no book excites me. 
+Dump that shit. 
+1. Focusing is hard. Most people 
+
+
+# d
 Why you shouldn't take too many notes
 	1. It's easy to never enact on the notes,even if you manage to do that
 	2. What's the point of writing that much, if you never review 1% of it?
