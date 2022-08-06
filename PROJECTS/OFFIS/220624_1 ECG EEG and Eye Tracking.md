@@ -2,7 +2,7 @@
 alias: [ECG Eye Tracking EEG]
 ---
 ###### tags: #ecg #eeg #eyetracker 
-###### links:  
+###### links:  @giannakakisReviewPsychologicalStress2022
 
 # Signal Acquisition
 ## ECG
