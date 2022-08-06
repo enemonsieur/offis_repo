@@ -34,8 +34,10 @@ Why you shouldn't take too many notes
 #marketing
 # Speed Reading
 Most people think they don't read enough because of their reading speed therefore try to speed reading. Here a 5 reasons why you can't read fast
-1. You are reading boring books. Be honest. You don't really enjoy reading 25 pasges of "System1 System2" a day. Think about reading 30 pages of a textbook vs reading Harry Potter. Its not the same engagement. The second you loose your 
-2
+1. You are reading boring books. Be honest. You don't really enjoy reading 25 pasges of "System1 System2" a day. Think about reading 30 pages of a textbook vs reading Harry Potter. Its not the same engagement. The second you loose your engagement, reading becomes excruciating torture. 
+2. You don't read nearly engouh: Most people think they have to read 2 -3 hours a day like when they were kids to learn stuff. Your average book takes 7 hours to read. Which means, if you read just 30 minutes a day, you can put down 2 books per month down. You don't HAVE to read for long to finish books. You just have to read constantly.
+3. You're trying to force yourself to read fast. Reading is the most natural pace. We had 20+ years of experience doing that and we are mostly very good at it. But trying to force yourself to read even faster will just disrupt your natural pace and make your
+
 # Alan Dib - 1PMP ^37edb4
 The 64/4 Rule 
 
