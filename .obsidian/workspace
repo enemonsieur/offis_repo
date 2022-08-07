@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Videos Tiktok.md",
+            "file": "AREAS/SPort/Muscu.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Videos Tiktok.md",
+                "file": "AREAS/SPort/Muscu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
+    "PROJECTS/Videos Tiktok.md",
     "PROJECTS/Threads Twitter.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
@@ -109,7 +110,6 @@
     "AREAS/Learning Machine Learning/220620_1_BCI class.md",
     "AREAS/grey matters/Work in Progress.md",
     "ARCHIVES/Templates/Papers.md",
-    "AREAS/grey matters/Building a second brain - Tiago Forte.md",
-    "AREAS/Les Confiotes/Work In Progres - Confiotes.md"
+    "AREAS/grey matters/Building a second brain - Tiago Forte.md"
   ]
 }
