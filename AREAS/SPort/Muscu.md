@@ -9,4 +9,13 @@ WEEK 1:
 12 sets of tibialis anterior
 8 sets of direct glutes training
 12 sets of pecs
-15 sets 
+12 sets delts (more on back delts)
+15 sets directs latissimus dorsi
+8 sets trapezius direct
+
+Total: 116 sets = 23 sets/session = 6 exercises
+
+Day 1: 
+- 3 sets of squats 10KG + 2 WU
+- 3 sets of DL 5-10 KG +WU
+- 
