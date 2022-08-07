@@ -1,12 +1,17 @@
 IDEAS for twitter threads
 
 # Organize your notes
-Value Hook: I've been running a youtube channel for 3 years now. And everytime I stop because  can stick to a publishing content: I spend a long time creating good videos that get no vues so I'm discouraged, I create small content that I have  to do very often but publishing that often demands a lot of focus, and a point life gets in and I can't get back on track. I've been looking for ways to finally stick to a publishing content (ANY publishing content) until I read the book Building a second Brain by Tiago Forte. It doesn't only give me a framework to take better notes, but a solution for all of the thousands of highlights, notes and links that I've been accumulating for years
+Value Hook: I've been running a youtube channel for 3 years now. And everytime I stop because  can stick to a publishing content: I spend a long time creating good videos that get no vues so I'm discouraged, I create small content that I have  to do very often but publishing that often demands a lot of focus, and a point life gets in and I can't get back on track. I've been looking for ways to finally stick to a publishing content (ANY publishing content) until I read the book Building a second Brain by Tiago Forte. It doesn't only give me a framework to take better notes, but a solution for all of the thousands of highlights, notes and links that I've been accumulating in 30+ apps (and never read), to move them from raw material all the way to publishable content. All of that while spending the minimal amount of time organizing.
+
+Here are the 3 insights from his book that will finally make us stick to that goddamn schedule:
+1. CODE : description +
+2. PARA
+3. Intermediate Packages
 # Learn Marketing
 5 years ago, I believed Marketing was the most pointless think in the world. 
 After dozens of books read, I believe it's the most important. 
 1. Elevator Pitch: You know how sometimes your colleagues ask you about what you're working on, and in the middle of explanation you see his brain just turn down? Well what an Elevator Pitch does is it explain you idea by explaining why should people care (problem) giving a brief explanation on how to solve that problem (solution) and providing some proofs of that. For example, I just described the Elevator Pitch using the elevator pitch and it made perfect sense to you. :)
-2. 
+2. Creating personnas
 
 Here are the 5 lessons that made me make marketing my top priority
 
