@@ -1,7 +1,7 @@
 IDEAS for twitter threads
 
 # Organize your notes
-Value Hook: I've been running a youtube channel for 3 years now. And everytime I stop because  can stick to a publishing content: I spend a long time creating good videos that get no vues so I'm discouraged, I create small content that I have  to do very often but 
+Value Hook: I've been running a youtube channel for 3 years now. And everytime I stop because  can stick to a publishing content: I spend a long time creating good videos that get no vues so I'm discouraged, I create small content that I have  to do very often but publishing that often demands a lot of focus, and a point life gets in and I can't get back on track. I've been looking for ways to finally stick to a publishing content (ANY publishing content) until I read the book Building a second Brain by Tiago Forte. It doesn't only give me a framework to take better notes, but a solution for all of the thousands of highlights, notes and links that I've been accumulating for years
 # Learn Marketing
 5 years ago, I believed Marketing was the most pointless think in the world. 
 After dozens of books read, I believe it's the most important. 
