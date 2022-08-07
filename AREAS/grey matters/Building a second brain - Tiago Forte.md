@@ -1,9 +1,9 @@
 #Book 
  #notetaking
-	 What  job would you hire your personnal assiant for? 
+	 What  job would you hire your personnal assissant for? 
 		 To organize my ideas for my contents and plan the work in progress of every content
 
-		 
+
 code: **Collect** only and always note things that resonnate with you in a deeper level. it doesnt matter if its usefull today or later. Just write it #notetaking 
 	**Organize**: the best way to organize content is only with stuff  you care about now. Jote them all in the current task you're working  like your language cours or grey matters newsletter and tag them approprietly
 **Distill**: as Sönhe Akrens said the best way to distill is to always resume the notes so that you won't have to walk through them again. You'll really just have to read few comprehensible note and don't go back into rereading. Actually. IT works for school, work, and personnal project. Having to reread stuffs just to understand what they mean is a waste of time. 

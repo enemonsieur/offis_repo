@@ -1,6 +1,6 @@
 IDEAS for twitter threads
 
-
+# 
 # Learn Marketing
 5 years ago, I believed Marketing was the most pointless think in the world. 
 After dozens of books read, I believe it's the most important. 

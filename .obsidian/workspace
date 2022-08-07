@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Marketing Confiotes.md",
+            "file": "AREAS/grey matters/Building a second brain - Tiago Forte.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f6b14418ccf3d216",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PROJECTS/Threads Twitter.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "twitter",
+                "query": "second brain",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453
+    "width": 453,
+    "collapsed": true
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Marketing Confiotes.md",
+                "file": "PROJECTS/Threads Twitter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c9003d531739500",
+  "active": "f6b14418ccf3d216",
   "lastOpenFiles": [
+    "PROJECTS/Threads Twitter.md",
+    "AREAS/grey matters/Building a second brain - Tiago Forte.md",
+    "ARCHIVES/Templates/Papers.md",
+    "PROJECTS/Marketing Confiotes.md",
     "AREAS/SPort/Muscu.md",
     "PROJECTS/Videos Tiktok.md",
-    "PROJECTS/Threads Twitter.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
     "@karthikeyanDETECTIONHUMANSTRESS2013.md",
-    "AREAS/grey matters/ADHD research.md",
-    "AREAS/Learning Machine Learning/220620_1_BCI class.md",
-    "AREAS/grey matters/Work in Progress.md",
-    "ARCHIVES/Templates/Papers.md"
+    "AREAS/grey matters/ADHD research.md"
   ]
 }
