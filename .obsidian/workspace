@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Threads Twitter.md",
+            "file": "AREAS/SPort/Muscu.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "second brain",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453,
-    "collapsed": true
+    "width": 453
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Threads Twitter.md",
+                "file": "AREAS/SPort/Muscu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +113,8 @@
   },
   "active": "f6b14418ccf3d216",
   "lastOpenFiles": [
-    "AREAS/grey matters/Building a second brain - Tiago Forte.md",
     "PROJECTS/Threads Twitter.md",
+    "AREAS/grey matters/Building a second brain - Tiago Forte.md",
     "ARCHIVES/Templates/Papers.md",
     "PROJECTS/Marketing Confiotes.md",
     "AREAS/SPort/Muscu.md",
