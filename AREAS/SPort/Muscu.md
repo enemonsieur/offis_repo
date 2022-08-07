@@ -18,4 +18,8 @@ Total: 116 sets = 23 sets/session = 6 exercises
 Day 1: 
 - 3 sets of squats 10KG + 2 WU
 - 3 sets of DL 5-10 KG +WU
-- 
+- 3 sets tibialis + 3 sets Lats
+- 5 sets RLDL* 20 KG
+- 4 sets Biceps curls (check the exact number)
+
+Day 2
