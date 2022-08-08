@@ -8,7 +8,9 @@
         385,
         390,
         391,
-        393
+        393,
+        395,
+        396
       ],
       "key": "2GYJSXXR",
       "name": "Designing Stress",
@@ -250,6 +252,70 @@
       "title": "Validation of a Short Stress State Questionnaire",
       "uri": "http://zotero.org/users/9698946/items/2MFPNA9Y",
       "version": 281
+    },
+    {
+      "DOI": "10.3389/fpsyg.2021.698526",
+      "ISSN": "1664-1078",
+      "abstractNote": "According to the self-determination theory, individuals' basic psychological needs for autonomy, competence, and relatedness should be satisfied for optimal psychological growth. The satisfaction of these needs seems to vary due to changes in a person's social context, and the outcomes of the satisfaction of these needs also vary along with the needs. Despite several studies investigating daily and weekly variations in need satisfaction and its correlates, no systematic investigation exists. This study aimed to conduct a narrative synthesis of existing quantitative diary studies of basic psychological needs in the work context. We specifically aimed to evaluate if psychological need satisfaction varies daily and weekly and judge whether they vary more daily or weekly. Additionally, we also aimed to review the literature regarding the relations between daily or weekly variations in need satisfaction and its assumed antecedents and outcomes. We included peer-reviewed articles in English that measured work-related basic psychological needs using a quantitative diary study design. Database searching (Web of Science, ScienceDirect, EBSCOhost, and Scopus) led to the extraction of 2 251 records by February 2020. Duplicates were removed, the remaining records were screened (\n              n\n              = 820), and 30 articles were assessed using eligibility criteria. Two authors individually conducted the screening and eligibility processes to manage selection bias. In total, 21 articles were included in the final review. The review indicated that basic psychological need satisfaction showed considerable within-person variation and was more dynamic daily (compared to weekly). Job demands, job resources, organisational resources, and individual characteristics appeared to associate with these variations. The organisational context seemed to matter the most for need satisfaction. Variations in need satisfaction were also related to employee well-being, performance, and motivation. Despite the small number of published studies (particularly for weekly studies), our results indicate that researchers should pay attention to within-person variations in need satisfaction. Measuring daily need satisfaction could be prioritised. Different antecedents and outcomes seem to be associated with different needs. Thus, when needs are viewed as distinct constructs instead of unidimensional ones, one can derive greater insights. The study is funded by the National Research Foundation.",
+      "accessDate": "2022-08-08T10:33:12Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-08T10:33:20Z",
+          "dateModified": "2022-08-08T10:33:21Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\4TISRZP6\\Coxen et al_2021_Basic Psychological Needs in the Work Context.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Coxen et al_2021_Basic Psychological Needs in the Work Context.pdf",
+          "uri": "http://zotero.org/users/9698946/items/4TISRZP6"
+        }
+      ],
+      "citationKey": "coxenBasicPsychologicalNeeds2021",
+      "citekey": "coxenBasicPsychologicalNeeds2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lynelle",
+          "lastName": "Coxen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Leoni",
+          "lastName": "van der Vaart"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anja",
+          "lastName": "Van den Broeck"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sebastiaan",
+          "lastName": "Rothmann"
+        }
+      ],
+      "date": "2021-10-18",
+      "dateAdded": "2022-08-08T10:33:12Z",
+      "dateModified": "2022-08-08T10:33:12Z",
+      "itemID": 396,
+      "itemKey": "4Z2JE2C8",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Front. Psychol.",
+      "key": "4Z2JE2C8",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "698526",
+      "publicationTitle": "Frontiers in Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/4Z2JE2C8",
+      "shortTitle": "Basic Psychological Needs in the Work Context",
+      "tags": [],
+      "title": "Basic Psychological Needs in the Work Context: A Systematic Literature Review of Diary Studies",
+      "uri": "http://zotero.org/users/9698946/items/4Z2JE2C8",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.698526/full",
+      "version": 1129,
+      "volume": "12"
     },
     {
       "DOI": "10.1080/00140139308967972",
@@ -1736,6 +1802,27 @@
       "title": "Schellhammer, Stefan; Haines, Russell; Klein, Stefan (2013)",
       "uri": "http://zotero.org/users/9698946/items/JBL2CAN3",
       "version": 20
+    },
+    {
+      "charset": "",
+      "contentType": "application/pdf",
+      "dateAdded": "2022-08-08T10:29:51Z",
+      "dateModified": "2022-08-08T10:29:51Z",
+      "defaultPath": "files/395/Stress-at-work.pdf",
+      "filename": "Stress-at-work.pdf",
+      "itemID": 395,
+      "itemKey": "JD388AG7",
+      "itemType": "attachment",
+      "key": "JD388AG7",
+      "libraryID": 1,
+      "linkMode": "imported_file",
+      "localPath": "C:\\Users\\ene Monsieur\\Zotero\\storage\\JD388AG7\\Stress-at-work.pdf",
+      "relations": [],
+      "select": "zotero://select/library/items/JD388AG7",
+      "tags": [],
+      "title": "Stress-at-work.pdf",
+      "uri": "http://zotero.org/users/9698946/items/JD388AG7",
+      "version": 1127
     },
     {
       "abstractNote": "Introduction: The working environment is one of the most important recourses of occupational stress. The importance of management of occupational stress is recognized, besides all by Occupational health and safety since it has been found to be related not only with loss of productivity and loss of working hours but with the arousal of diseases and occupational accidents.\nPurpose: The aim of this systematic review was the examination of the sources and consequences of occupational stress on nurses’ adequacy, productivity, efficiency. Material –method: A systematic review was made in “European Agency for Safety and Health at Work”, “National Institute for Occupational Safety and Health (NIOSH)”, “Job Stress Network” web sites for various publications and abstracts around the exact theme and the “Occupational and Environmental Medicine Journal” using as key words «stress, occupational stress, and Nursing».\nResults: A number of aspects of working life have been linked to stress. Aspects of the work itself can be stressful, namely work overload and role-based factors such as lack of power, role ambiguity, and role conﬂict. Threats to career development and achievement, including threat of redundancy, being undervalued and unclear promotion prospects are stressful. Stress is associated with reduced efficiency, decreased capacity to perform, a lack of concern for the organisation and colleagues.\nConclusions: During last decade there has been increasing recognition of the stress experienced by hospital nursing staff . Although some stressful situations are specific to a particular type of hospital unit, nurses are subject to more general stress which arises from the physical, psychological, and social aspects of the work environment. High levels of stress result in staff burnout and turnover and adversely affect patient care. Interventions that are targeted at sources of occupational stress seem to be required in order to support nurses.",
