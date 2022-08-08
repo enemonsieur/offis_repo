@@ -19,7 +19,9 @@
         405,
         407,
         408,
-        411
+        411,
+        413,
+        416
       ],
       "key": "2GYJSXXR",
       "name": "Designing Stress",
@@ -426,6 +428,56 @@
       "uri": "http://zotero.org/users/9698946/items/8TIY4XQN",
       "url": "https://doi.org/10.1111/isj.12042",
       "version": 16
+    },
+    {
+      "DOI": "10.5901/ajis.2013.v2n8p247",
+      "ISSN": "22813993, 22814612",
+      "accessDate": "2022-08-08T11:08:40Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-08T11:08:42Z",
+          "dateModified": "2022-08-08T11:08:42Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\GZ7YGTZF\\Aziz_2013_Factors Causing Stress.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Aziz_2013_Factors Causing Stress.pdf",
+          "uri": "http://zotero.org/users/9698946/items/GZ7YGTZF"
+        }
+      ],
+      "citationKey": "azizFactorsCausingStress2013",
+      "citekey": "azizFactorsCausingStress2013",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mohsin",
+          "lastName": "Aziz"
+        }
+      ],
+      "date": "2013-10-1",
+      "dateAdded": "2022-08-08T11:08:40Z",
+      "dateModified": "2022-08-08T11:08:48Z",
+      "itemID": 413,
+      "itemKey": "8VUZ742Y",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "AJIS",
+      "key": "8VUZ742Y",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "publicationTitle": "Academic Journal of Interdisciplinary Studies",
+      "relations": [],
+      "select": "zotero://select/library/items/8VUZ742Y",
+      "shortTitle": "Factors Causing Stress",
+      "tags": [
+        {
+          "tag": "2"
+        }
+      ],
+      "title": "Factors Causing Stress: A Study of Indian Call Centres",
+      "uri": "http://zotero.org/users/9698946/items/8VUZ742Y",
+      "url": "https://www.richtmann.org/journal/index.php/ajis/article/view/729",
+      "version": 1156
     },
     {
       "DOI": "10.1080/19488300.2011.609524",
@@ -2719,6 +2771,40 @@
       "title": "Impact of Technostress on End-User Satisfaction and Performance",
       "uri": "http://zotero.org/users/9698946/items/NK3MB4Y7",
       "version": 23
+    },
+    {
+      "attachments": [
+        {
+          "dateAdded": "2022-08-08T11:09:56Z",
+          "dateModified": "2022-08-08T11:09:58Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\6DWMUBIR\\LITERATURE REVIEW.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "LITERATURE REVIEW.pdf",
+          "uri": "http://zotero.org/users/9698946/items/6DWMUBIR"
+        }
+      ],
+      "citationKey": "LITERATUREREVIEW",
+      "citekey": "LITERATUREREVIEW",
+      "creators": [],
+      "dateAdded": "2022-08-08T11:09:57Z",
+      "dateModified": "2022-08-08T11:09:57Z",
+      "itemID": 416,
+      "itemKey": "NV3TNHVR",
+      "itemType": "journalArticle",
+      "key": "NV3TNHVR",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "17",
+      "relations": [],
+      "select": "zotero://select/library/items/NV3TNHVR",
+      "tags": [],
+      "title": "LITERATURE REVIEW",
+      "uri": "http://zotero.org/users/9698946/items/NV3TNHVR",
+      "version": 1160
     },
     {
       "attachments": [

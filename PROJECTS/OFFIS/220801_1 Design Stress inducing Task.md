@@ -1,0 +1,1 @@
+Is the stress inducing factors has to be on a daily basis? Like 
