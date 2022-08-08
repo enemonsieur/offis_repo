@@ -16,14 +16,12 @@
         }
       },
       {
-        "id": "e5206d253724f067",
+        "id": "70e1dc6143b73405",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "PROJECTS/Threads Twitter.md",
-            "mode": "source",
-            "source": false
+            "file": "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md"
           }
         }
       }
@@ -113,15 +111,15 @@
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
-    "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
+    "PROJECTS/Threads Twitter.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
+    "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
     "AREAS/SPort/Muscu.md",
     "Found  20 articles relevant to stress factors.md",
     "AREAS/Les Confiotes/Innovations Confiotes.md",
     "PROJECTS/Marketing Confiotes.md",
     "AREAS/grey matters/Building a second brain - Tiago Forte.md",
-    "PROJECTS/Threads Twitter.md",
     "Building a second brain - Tiago Forte^e3ac1b.md"
   ]
 }
