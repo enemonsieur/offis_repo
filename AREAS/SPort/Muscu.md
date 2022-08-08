@@ -33,4 +33,9 @@ Day 2
 
 Day3
 - Squats: 3 * 10 * 12reps
-- Hip thrust 3* 
+- Hip thrust 3 * 80  kg 
+- Tibialis raises 3 * BW OL * 10
+- Nordic curls 3 * 5
+- Biceps Curls 41kg * 2 (spider) 2 sets hammer curl
+- Rows 3* 12 * RPE 8
+- Romanian DL? 3 sets
