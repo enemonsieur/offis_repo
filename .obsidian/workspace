@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
+            "file": "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
+                "file": "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
+    "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
     "AREAS/Les Confiotes/Innovations Confiotes.md",
@@ -121,7 +122,6 @@
     "PROJECTS/Threads Twitter.md",
     "Building a second brain - Tiago Forte^e3ac1b.md",
     "AREAS/SPort/Muscu.md",
-    "ARCHIVES/Templates/Papers.md",
-    "PROJECTS/Videos Tiktok.md"
+    "ARCHIVES/Templates/Papers.md"
   ]
 }
