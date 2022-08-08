@@ -2,7 +2,7 @@
 Est ce que HIlaire peut ajouter un KR complémentaire pour les publications. Comment mesurer le contenu engageant.
 Reformuler la formulation 
 Hilaire: Laurianne + Travailler sur le contenu pour Anne Ndame
-Dimitri: 
+Dimitri: Terminer les marges.
 
 
 31-07
