@@ -4,10 +4,10 @@
 		 To organize my ideas for my contents and plan the work in progress of every content
 
 How to turn any snippets into actual content?
-CODE framework
+CODE framework ^e3ac1b
 
 **Collect** only and always note things that resonate with you in a deeper level. it doesnt matter if its usefull today or later. Just write it #notetaking 
-=>Too often people just highlight 200 pages, wanna read a document to make sure they don't miss any key insights etc... What ends up happening is that they have a lot of small notes, links everywhere and there's no way they'll go through all that. 
+=>Too often people just highlight 200 pages, wanna read a document to make sure they don't miss any key insights etc... What ends up happening is that they have a lot of small notes, links everywhere and there's no way they'll go through all that. Here's the thing: It's not about how many links you have, it's about the quality of the insights you can find in each article. If you even find one that seriously contradict your belief, you'll be extremely lucky. Then you can always add a link to review the content later. But let's face it: how often do you feel like you should revisit an old content that didn't resonate with you? Almost NEVER. This is why you have to focus on the most important stuff
 **Organize**: the best way to organize content is only with stuff  you care about now. Jote them all in the current task you're working  like your language cours or grey matters newsletter and tag them approprietly:
 => Focus on the task you are currently doing. (better analogy for that) Put the information you learn, into the next actionable document: If you're working on ADHD for a video put it there. Not in the neuroscience document. Your 2nd Brain isn't there to structure your life like a library, it's there to make you publish shit.
 **Distill**: as Sönhe Akrens said the best way to distill is to always resume the notes so that you won't have to walk through them again. You'll really just have to read few comprehensible note and don't go back into rereading. Actually. IT works for school, work, and personnal project. Having to reread stuffs just to understand what they mean is a waste of time. 

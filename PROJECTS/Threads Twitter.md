@@ -7,6 +7,7 @@ As a content creator, my job is to constantly turn articles, youtube videos and 
 
 Here are 3 insights from  "Building a second brain" by @fortelabs to turn your note-taking into a sustainable content publisher
 Here are the 3 insights from his book that will finally make us stick to that goddamn schedule:
+[[Building a second brain - Tiago Forte#^e3ac1b]]
 1. CODE : description +
 2. PARA
 3. Intermediate Packages
