@@ -7,7 +7,12 @@ The reason why it took me so long to have a decent body is the same why no one i
 
 In this thread I'm gonna explain how you can stick to a sport schedule not for weeks, but years without hating yourself. 
 
-
+As Dr Eric Helms said, the most important thing in training is convinience. Most people follow the workouts because they have to and don't enjoy it. I never liked football nor Basketball even though everybody think I play basket. I discovered muscu 6 years ago accidently and it perfectly meshed with my life and objectives:
+- Pushing you through your limits
+- Clear ways of measuring progres
+- Very science-based
+- Make me feel more focus
+Had one of them have not be present, I'd
 
 # Organize your notes
 Value Hook: I've been running a youtube channel for 3 years now. And everytime I stop because  cant stick to a publishing content: I spend a long time creating good videos that get no vues so I'm discouraged, I create small content that I have  to do very often but publishing that often demands a lot of focus, and a point life gets in and I can't get back on track. I've been looking for ways to finally stick to a publishing content (ANY publishing content) until I read the book Building a second Brain by Tiago Forte. It doesn't only give me a framework to take better notes, but a solution for all of the thousands of highlights, notes and links that I've been accumulating in 30+ apps (and never read), to move them from raw material all the way to publishable content. All of that while spending the minimal amount of time organizing.
