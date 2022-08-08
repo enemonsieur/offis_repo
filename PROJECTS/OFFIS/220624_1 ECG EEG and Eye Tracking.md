@@ -23,7 +23,9 @@ Standard NASA-TLX questionnaire (Appendix 1) was used as an assessment tool to m
 [[@bitkinaAbilityEyetrackingMetrics2021]]
 
 # EEG
+EEG asymmetry index is a robust stress feature revealing emotional arousal [28] implicated in many studies to differentially dissociate psychological states [29]. The EEG asymmetry index is the subtraction of the alpha’s power natural logarithm of the right hemisphere from that of the left hemisphere, as provided by the equation
 
+The most common positions used in the estimation of alpha asymmetry are channels F3-F4 as they are located above the dorsolateral prefrontal cortex [30], [31], a region directly affected by stressful conditions [32]. However, there are stress studies employing lateral (e.g., F7-F8 [33]), anterior (e.g., Fp1-Fp2 [34], [35]), and posterior pairs (e.g., C3-C4, O1O2 [29], T5-T6 [35]) as shown in Fig. 5.
 - Stroop Task was used to induce stress. 
 [[@pourmohammadiStressDetectionUsing2020]]
 
