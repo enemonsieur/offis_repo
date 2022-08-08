@@ -1,4 +1,11 @@
 IDEAS for twitter threads
+# Keep your sport schedule
+This is not your normal body transformation. In only 6 
+(space)
+years. I managed to change your body. 
+The reason why it took me so long to have a decent body is the same why no one is able to stick to a sport routine. 
+
+In this thread I'm gonna explain how you can stick to a sport schedule not for weeks, but years without hating yourself. 
 
 # Organize your notes
 Value Hook: I've been running a youtube channel for 3 years now. And everytime I stop because  cant stick to a publishing content: I spend a long time creating good videos that get no vues so I'm discouraged, I create small content that I have  to do very often but publishing that often demands a lot of focus, and a point life gets in and I can't get back on track. I've been looking for ways to finally stick to a publishing content (ANY publishing content) until I read the book Building a second Brain by Tiago Forte. It doesn't only give me a framework to take better notes, but a solution for all of the thousands of highlights, notes and links that I've been accumulating in 30+ apps (and never read), to move them from raw material all the way to publishable content. All of that while spending the minimal amount of time organizing.
