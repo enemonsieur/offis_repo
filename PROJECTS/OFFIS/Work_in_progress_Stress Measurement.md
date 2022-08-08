@@ -9,6 +9,9 @@ kanban-plugin: basic
 - [ ] [[Find stress creating factors in the litterature]]
 - [ ] When do people find themselves to be stressed?
 - [ ] Add them in a new document
+- [ ] [[Found  20 articles relevant to stress factors]]
+- [ ] Not found: Journal studies of stress factors
+- [ ] Todo: Isolate the study with the factors most relevants to the expirment
 
 
 ## Reinforcement Learning
