@@ -1,5 +1,5 @@
 08 08
-Est ce que HIlaire peut ajouter les cours
+Est ce que HIlaire peut ajouter un KR complémentaire pour les publications. Comment mesurer le contenu engageant.
 
 31-07
  
