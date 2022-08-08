@@ -1,5 +1,6 @@
 08 08
 Est ce que HIlaire peut ajouter un KR complémentaire pour les publications. Comment mesurer le contenu engageant.
+Reformuler la formulation 
 
 31-07
  
