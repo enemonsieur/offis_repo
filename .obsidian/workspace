@@ -7,9 +7,11 @@
         "id": "1c9003d531739500",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md"
+            "file": "AREAS/SPort/Muscu.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
+                "file": "AREAS/SPort/Muscu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +113,8 @@
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
-    "Found  20 articles relevant to stress factors.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
+    "Found  20 articles relevant to stress factors.md",
     "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "AREAS/Les Confiotes/Innovations Confiotes.md",
