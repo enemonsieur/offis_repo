@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Threads Twitter.md",
+            "file": "AREAS/Sport/Muscu.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thread",
+                "query": "sport",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,13 +61,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 453,
-    "collapsed": true
+    "width": 453
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Threads Twitter.md",
+                "file": "AREAS/Sport/Muscu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,14 +113,14 @@
   },
   "active": "70e1dc6143b73405",
   "lastOpenFiles": [
-    "PROJECTS/OFFIS/25032022_Measuring stress.md",
     "PROJECTS/Threads Twitter.md",
+    "PROJECTS/OFFIS/25032022_Measuring stress.md",
     "AREAS/Les Confiotes/Work In Progres - Confiotes.md",
     "AREAS/Les Confiotes/Innovations Confiotes.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
-    "AREAS/SPort/Muscu.md",
+    "AREAS/Sport/Muscu.md",
     "Found  20 articles relevant to stress factors.md",
     "PROJECTS/Marketing Confiotes.md"
   ]

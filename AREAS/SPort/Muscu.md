@@ -16,10 +16,21 @@ WEEK 1:
 Total: 116 sets = 23 sets/session = 6 exercises
 
 Day 1: 
-- 3 sets of squats 10KG + 2 WU
-- 3 sets of DL 5-10 KG +WU
-- 3 sets tibialis + 3 sets Lats
-- 5 sets RLDL* 20 KG
-- 4 sets Biceps curls (check the exact number)
+ 
+- 3 sets of squats Barre-5-10kg
+- 3 sets of DL Barre- (16-24kg SLDL)
+- 3 sets tibialis + 3 sets Calves Raises
+- ~~5 sets RLDL* 20 KG (back ndem)~~
+- 4 sets Biceps curls 41kg(9) 38(12-10)
 
 Day 2
+4 sets BP 20 kg --> 4 sets 5kg 10kg 15 kg * 2 (mal au pec)
+6 sets pull ups 3 variations (slow, focus on top, volume): 8-6-4-7
+3 sets lat pulldowns: 3* 70 -11-12-12
+1 sets Shoulder Press 15
+3 flies pecs -> 7kg 7-6-7
+3 sets triceps extensions 36 12 * 4 reps
+
+Day3
+- Squats: 3 * 10 * 12reps
+- Hip thrust 3* 
