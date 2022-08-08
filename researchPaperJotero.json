@@ -2759,7 +2759,18 @@
       "DOI": "10.1109/EMBC.2017.8037542",
       "ISBN": "978-1-5090-2809-2",
       "accessDate": "2022-07-03T09:39:46Z",
-      "attachments": [],
+      "attachments": [
+        {
+          "dateAdded": "2022-08-08T15:51:01Z",
+          "dateModified": "2022-08-08T15:51:02Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\UBWH9HI7\\Dimitrakopoulos et al_2017_A mental fatigue index based on regression using mulitband EEG features with.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Dimitrakopoulos et al_2017_A mental fatigue index based on regression using mulitband EEG features with.pdf",
+          "uri": "http://zotero.org/users/9698946/items/UBWH9HI7"
+        }
+      ],
       "citationKey": "dimitrakopoulosMentalFatigueIndex2017",
       "citekey": "dimitrakopoulosMentalFatigueIndex2017",
       "conferenceName": "2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
