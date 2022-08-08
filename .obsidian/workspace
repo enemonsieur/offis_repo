@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "refer",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +61,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 453,
-    "collapsed": true
+    "width": 453
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -112,7 +112,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c9003d531739500",
+  "active": "b5245d75518b9d87",
   "lastOpenFiles": [
     "PROJECTS/Threads Twitter.md",
     "AREAS/grey matters/Building a second brain - Tiago Forte.md",
