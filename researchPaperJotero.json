@@ -5,7 +5,8 @@
       "items": [
         374,
         376,
-        385
+        385,
+        390
       ],
       "key": "2GYJSXXR",
       "name": "Designing Stress",
@@ -1733,6 +1734,47 @@
       "title": "Schellhammer, Stefan; Haines, Russell; Klein, Stefan (2013)",
       "uri": "http://zotero.org/users/9698946/items/JBL2CAN3",
       "version": 20
+    },
+    {
+      "abstractNote": "Introduction: The working environment is one of the most important recourses of occupational stress. The importance of management of occupational stress is recognized, besides all by Occupational health and safety since it has been found to be related not only with loss of productivity and loss of working hours but with the arousal of diseases and occupational accidents.\nPurpose: The aim of this systematic review was the examination of the sources and consequences of occupational stress on nurses’ adequacy, productivity, efficiency. Material –method: A systematic review was made in “European Agency for Safety and Health at Work”, “National Institute for Occupational Safety and Health (NIOSH)”, “Job Stress Network” web sites for various publications and abstracts around the exact theme and the “Occupational and Environmental Medicine Journal” using as key words «stress, occupational stress, and Nursing».\nResults: A number of aspects of working life have been linked to stress. Aspects of the work itself can be stressful, namely work overload and role-based factors such as lack of power, role ambiguity, and role conﬂict. Threats to career development and achievement, including threat of redundancy, being undervalued and unclear promotion prospects are stressful. Stress is associated with reduced efficiency, decreased capacity to perform, a lack of concern for the organisation and colleagues.\nConclusions: During last decade there has been increasing recognition of the stress experienced by hospital nursing staff . Although some stressful situations are specific to a particular type of hospital unit, nurses are subject to more general stress which arises from the physical, psychological, and social aspects of the work environment. High levels of stress result in staff burnout and turnover and adversely affect patient care. Interventions that are targeted at sources of occupational stress seem to be required in order to support nurses.",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-08T10:19:01Z",
+          "dateModified": "2022-08-08T10:19:03Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\F743SHT5\\Rn - Sources and effects of Work-related stress in nurs.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Rn - Sources and effects of Work-related stress in nurs.pdf",
+          "uri": "http://zotero.org/users/9698946/items/F743SHT5"
+        }
+      ],
+      "citationKey": "rnSourcesEffectsWorkrelated",
+      "citekey": "rnSourcesEffectsWorkrelated",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Captain",
+          "lastName": "Rn"
+        }
+      ],
+      "dateAdded": "2022-08-08T10:19:03Z",
+      "dateModified": "2022-08-08T10:19:03Z",
+      "itemID": 390,
+      "itemKey": "JGA4T5M6",
+      "itemType": "journalArticle",
+      "key": "JGA4T5M6",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "1",
+      "relations": [],
+      "select": "zotero://select/library/items/JGA4T5M6",
+      "tags": [],
+      "title": "Sources and effects of Work-related stress in nursing",
+      "uri": "http://zotero.org/users/9698946/items/JGA4T5M6",
+      "version": 1115
     },
     {
       "ISBN": "978-1-4757-0886-8 978-1-4757-0884-4",
