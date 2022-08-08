@@ -6,7 +6,9 @@
         374,
         376,
         385,
-        390
+        390,
+        391,
+        393
       ],
       "key": "2GYJSXXR",
       "name": "Designing Stress",
@@ -1777,6 +1779,60 @@
       "version": 1115
     },
     {
+      "DOI": "10.1002/smi.2460080206",
+      "ISSN": "07488386, 10991700",
+      "accessDate": "2022-08-08T10:23:20Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-08T10:23:48Z",
+          "dateModified": "2022-08-08T10:23:49Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\Q62PJYXV\\Tyler_Cushway_1992_Stress, coping and mental well-being in hospital nurses.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Tyler_Cushway_1992_Stress, coping and mental well-being in hospital nurses.pdf",
+          "uri": "http://zotero.org/users/9698946/items/Q62PJYXV"
+        }
+      ],
+      "citationKey": "tylerStressCopingMental1992",
+      "citekey": "tylerStressCopingMental1992",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Patrick",
+          "lastName": "Tyler"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Delia",
+          "lastName": "Cushway"
+        }
+      ],
+      "date": "04/1992",
+      "dateAdded": "2022-08-08T10:23:20Z",
+      "dateModified": "2022-08-08T10:23:20Z",
+      "issue": "2",
+      "itemID": 393,
+      "itemKey": "JHB5J57D",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Stress Med.",
+      "key": "JHB5J57D",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "91-98",
+      "publicationTitle": "Stress Medicine",
+      "relations": [],
+      "select": "zotero://select/library/items/JHB5J57D",
+      "tags": [],
+      "title": "Stress, coping and mental well-being in hospital nurses",
+      "uri": "http://zotero.org/users/9698946/items/JHB5J57D",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/smi.2460080206",
+      "version": 1122,
+      "volume": "8"
+    },
+    {
       "ISBN": "978-1-4757-0886-8 978-1-4757-0884-4",
       "accessDate": "2022-07-03T11:09:09Z",
       "attachments": [],
@@ -3239,6 +3295,61 @@
       "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1741-3737.2007.00428.x",
       "version": 1076,
       "volume": "69"
+    },
+    {
+      "DOI": "10.1016/S0277-9536(97)00109-3",
+      "ISSN": "02779536",
+      "accessDate": "2022-08-08T10:20:12Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-08T10:22:24Z",
+          "dateModified": "2022-08-08T10:22:25Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\XUQLGPN6\\Hillhouse_Adler_1997_Investigating stress effect patterns in hospital staff nurses.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Hillhouse_Adler_1997_Investigating stress effect patterns in hospital staff nurses.pdf",
+          "uri": "http://zotero.org/users/9698946/items/XUQLGPN6"
+        }
+      ],
+      "citationKey": "hillhouseInvestigatingStressEffect1997",
+      "citekey": "hillhouseInvestigatingStressEffect1997",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Joel J.",
+          "lastName": "Hillhouse"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christine M.",
+          "lastName": "Adler"
+        }
+      ],
+      "date": "12/1997",
+      "dateAdded": "2022-08-08T10:20:12Z",
+      "dateModified": "2022-08-08T10:20:12Z",
+      "issue": "12",
+      "itemID": 391,
+      "itemKey": "W3CGSJSW",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Social Science & Medicine",
+      "key": "W3CGSJSW",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "1781-1788",
+      "publicationTitle": "Social Science & Medicine",
+      "relations": [],
+      "select": "zotero://select/library/items/W3CGSJSW",
+      "shortTitle": "Investigating stress effect patterns in hospital staff nurses",
+      "tags": [],
+      "title": "Investigating stress effect patterns in hospital staff nurses: Results of a cluster analysis",
+      "uri": "http://zotero.org/users/9698946/items/W3CGSJSW",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0277953697001093",
+      "version": 1118,
+      "volume": "45"
     },
     {
       "DOI": "10.1586/17469899.2.2.145",
