@@ -3,9 +3,9 @@
     "2GYJSXXR": {
       "collections": [],
       "items": [
-        372,
         374,
-        376
+        376,
+        385
       ],
       "key": "2GYJSXXR",
       "name": "Designing Stress",
@@ -940,6 +940,61 @@
       "volume": "19"
     },
     {
+      "DOI": "10.1080/13594320344000093",
+      "ISSN": "1359-432X, 1464-0643",
+      "accessDate": "2022-08-08T09:53:40Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-08T09:53:43Z",
+          "dateModified": "2022-08-08T09:53:44Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\DFEAQ9MZ\\Cropley_Millward Purvis_2003_Job strain and rumination about work issues during leisure time.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Cropley_Millward Purvis_2003_Job strain and rumination about work issues during leisure time.pdf",
+          "uri": "http://zotero.org/users/9698946/items/DFEAQ9MZ"
+        }
+      ],
+      "citationKey": "cropleyJobStrainRumination2003",
+      "citekey": "cropleyJobStrainRumination2003",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Cropley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lynne",
+          "lastName": "Millward Purvis"
+        }
+      ],
+      "date": "09/2003",
+      "dateAdded": "2022-08-08T09:53:40Z",
+      "dateModified": "2022-08-08T09:53:40Z",
+      "issue": "3",
+      "itemID": 385,
+      "itemKey": "FY37N3KQ",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "European Journal of Work and Organizational Psychology",
+      "key": "FY37N3KQ",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "195-207",
+      "publicationTitle": "European Journal of Work and Organizational Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/FY37N3KQ",
+      "shortTitle": "Job strain and rumination about work issues during leisure time",
+      "tags": [],
+      "title": "Job strain and rumination about work issues during leisure time: A diary study",
+      "uri": "http://zotero.org/users/9698946/items/FY37N3KQ",
+      "url": "http://www.tandfonline.com/doi/abs/10.1080/13594320344000093",
+      "version": 1108,
+      "volume": "12"
+    },
+    {
       "DOI": "10.2753/MIS0742-1222240109",
       "ISSN": "0742-1222, 1557-928X",
       "accessDate": "2022-06-23T14:40:34Z",
@@ -1487,27 +1542,6 @@
       "title": "THE IMPACT OF WORKLOAD AND TECHNOLOGY COMPETENCE ON TECHNOSTRESS AND PERFORMANCE OF EMPLOYEES",
       "uri": "http://zotero.org/users/9698946/items/HT4RJVS5",
       "version": 109
-    },
-    {
-      "charset": "",
-      "contentType": "application/pdf",
-      "dateAdded": "2022-08-04T07:29:52Z",
-      "dateModified": "2022-08-04T07:29:52Z",
-      "defaultPath": "files/372/Nursing Open - 2020 - Hendy - Predictive factors affecting stress among nurses providing care at COVID‐19 isolation.pdf",
-      "filename": "Nursing Open - 2020 - Hendy - Predictive factors affecting stress among nurses providing care at COVID‐19 isolation.pdf",
-      "itemID": 372,
-      "itemKey": "IFAINTFL",
-      "itemType": "attachment",
-      "key": "IFAINTFL",
-      "libraryID": 1,
-      "linkMode": "imported_file",
-      "localPath": "C:\\Users\\ene Monsieur\\Zotero\\storage\\IFAINTFL\\Nursing Open - 2020 - Hendy - Predictive factors affecting stress among nurses providing care at COVID‐19 isolation.pdf",
-      "relations": [],
-      "select": "zotero://select/library/items/IFAINTFL",
-      "tags": [],
-      "title": "Nursing Open - 2020 - Hendy - Predictive factors affecting stress among nurses providing care at COVID‐19 isolation.pdf",
-      "uri": "http://zotero.org/users/9698946/items/IFAINTFL",
-      "version": 1072
     },
     {
       "DOI": "10.1080/19488300.2011.609524",
