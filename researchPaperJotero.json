@@ -15,7 +15,11 @@
         400,
         401,
         402,
-        403
+        403,
+        405,
+        407,
+        408,
+        411
       ],
       "key": "2GYJSXXR",
       "name": "Designing Stress",
@@ -753,6 +757,74 @@
       "title": "Cognitive Slips-Failures and Daily Stress: Further Investigations with the Short Stress State Questionnaire",
       "uri": "http://zotero.org/users/9698946/items/BCESRUA3",
       "version": 411
+    },
+    {
+      "attachments": [
+        {
+          "dateAdded": "2022-08-08T11:05:11Z",
+          "dateModified": "2022-08-08T11:05:13Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\EICJ79KR\\Madipelli et al. - 2022 - Factors Causing Work Life Imbalance among Working .pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Madipelli et al. - 2022 - Factors Causing Work Life Imbalance among Working .pdf",
+          "uri": "http://zotero.org/users/9698946/items/EICJ79KR"
+        }
+      ],
+      "citationKey": "madipelliFactorsCausingWork2022",
+      "citekey": "madipelliFactorsCausingWork2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Saritha",
+          "lastName": "Madipelli"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "V S Veluri",
+          "lastName": "Sarma"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Y",
+          "lastName": "Chinnappaiah"
+        }
+      ],
+      "date": "2022",
+      "dateAdded": "2022-08-08T11:05:13Z",
+      "dateModified": "2022-08-08T11:05:43Z",
+      "itemID": 411,
+      "itemKey": "CC8Y26EY",
+      "itemType": "journalArticle",
+      "key": "CC8Y26EY",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "libraryID": 1,
+      "notes": [
+        {
+          "dateAdded": "2022-08-08T11:05:21Z",
+          "dateModified": "2022-08-08T11:05:21Z",
+          "itemType": "note",
+          "key": "R7ECGRM2",
+          "note": "",
+          "parentItem": "CC8Y26EY",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/users/9698946/items/R7ECGRM2",
+          "version": 1154
+        }
+      ],
+      "pages": "14",
+      "relations": [],
+      "select": "zotero://select/library/items/CC8Y26EY",
+      "tags": [
+        {
+          "tag": "3"
+        }
+      ],
+      "title": "Factors Causing Work Life Imbalance among Working Women-A Study on School Teachers",
+      "uri": "http://zotero.org/users/9698946/items/CC8Y26EY",
+      "version": 1155
     },
     {
       "DOI": "10.1016/j.anr.2012.08.004",
@@ -3138,6 +3210,58 @@
       "volume": "16"
     },
     {
+      "DOI": "10.1136/oem.59.1.67",
+      "ISSN": "13510711",
+      "accessDate": "2022-08-08T11:00:52Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-08T11:00:49Z",
+          "dateModified": "2022-08-08T11:00:52Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\VLTRIZJD\\Michie - 2002 - CAUSES AND MANAGEMENT OF STRESS AT WORK.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Michie - 2002 - CAUSES AND MANAGEMENT OF STRESS AT WORK.pdf",
+          "uri": "http://zotero.org/users/9698946/items/VLTRIZJD"
+        }
+      ],
+      "citationKey": "michieCAUSESMANAGEMENTSTRESS2002",
+      "citekey": "michieCAUSESMANAGEMENTSTRESS2002",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "S",
+          "lastName": "Michie"
+        }
+      ],
+      "date": "2002-1-1",
+      "dateAdded": "2022-08-08T11:00:52Z",
+      "dateModified": "2022-08-08T11:01:12Z",
+      "issue": "1",
+      "itemID": 405,
+      "itemKey": "T9MJEAYX",
+      "itemType": "journalArticle",
+      "key": "T9MJEAYX",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "67-72",
+      "publicationTitle": "Occupational and Environmental Medicine",
+      "relations": [],
+      "select": "zotero://select/library/items/T9MJEAYX",
+      "tags": [
+        {
+          "tag": "1"
+        }
+      ],
+      "title": "CAUSES AND MANAGEMENT OF STRESS AT WORK",
+      "uri": "http://zotero.org/users/9698946/items/T9MJEAYX",
+      "url": "https://oem.bmj.com/lookup/doi/10.1136/oem.59.1.67",
+      "version": 1143,
+      "volume": "59"
+    },
+    {
       "DOI": "10.1027/1015-5759/a000200",
       "ISSN": "1015-5759, 2151-2426",
       "abstractNote": "Conscious appraisals of stress, or stress states, are an important aspect of human performance. This article presents evidence supporting the validity and measurement characteristics of a short multidimensional self-report measure of stress state, the Short Stress State Questionnaire (SSSQ; Helton, 2004 ). The SSSQ measures task engagement, distress, and worry. A confirmatory factor analysis of the SSSQ using data pooled from multiple samples suggests the SSSQ does have a three factor structure and post-task changes are not due to changes in factor structure, but to mean level changes (state changes). In addition, the SSSQ demonstrates sensitivity to task stressors in line with hypotheses. Different task conditions elicited unique patterns of stress state on the three factors of the SSSQ in line with prior predictions. The 24-item SSSQ is a valid measure of stress state which may be useful to researchers interested in conscious appraisals of task-related stress.",
@@ -4041,6 +4165,130 @@
       "url": "https://www.worldscientific.com/doi/abs/10.1142/S0219519413500383",
       "version": 616,
       "volume": "13"
+    },
+    {
+      "abstractNote": "Purpose: The purpose of this study is to identify the potential factors that cause stress, and how they affect the job performance of employees in banking sector of Pakistan. Design/Methodology: In this study a survey has been conducted with the help of questionnaire in which a likert scale and in depth face to face interviews have been used. Findings: Findings of the study shows that lower salaries, increased workload, market competition, management, peer support and behavior, longer time frames at work, lack of acknowledgement, public dealing and higher targets are the factors which causes stress and they negatively effects the performance of bank workers.",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-08T11:01:59Z",
+          "dateModified": "2022-08-08T11:02:01Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\DHW64EAZ\\Badar - 2011 - Factors Causing Stress and Impact on Job Performan.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Badar - 2011 - Factors Causing Stress and Impact on Job Performan.pdf",
+          "uri": "http://zotero.org/users/9698946/items/DHW64EAZ"
+        }
+      ],
+      "citationKey": "badarFactorsCausingStress2011",
+      "citekey": "badarFactorsCausingStress2011",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Muhammad Rashid",
+          "lastName": "Badar"
+        }
+      ],
+      "date": "2011",
+      "dateAdded": "2022-08-08T11:02:01Z",
+      "dateModified": "2022-08-08T11:02:01Z",
+      "itemID": 407,
+      "itemKey": "ZRC99RY5",
+      "itemType": "journalArticle",
+      "key": "ZRC99RY5",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "10",
+      "publicationTitle": "European Journal of Business and Management",
+      "relations": [],
+      "select": "zotero://select/library/items/ZRC99RY5",
+      "tags": [],
+      "title": "Factors Causing Stress and Impact on Job Performance, “A Case Study of Banks of Bahawalpur, Pakistan”",
+      "uri": "http://zotero.org/users/9698946/items/ZRC99RY5",
+      "version": 1144,
+      "volume": "3"
+    },
+    {
+      "DOI": "10.1186/s12889-021-12354-8",
+      "ISSN": "1471-2458",
+      "abstractNote": "Abstract\n            \n              Background\n              While chronic workplace stress is known to be associated with health-related outcomes like mental and cardiovascular diseases, research about day-to-day occupational stress is limited. This systematic review includes studies assessing stress exposures as work environment risk factors and stress outcomes, measured via self-perceived questionnaires and physiological stress detection. These measures needed to be assessed repeatedly or continuously via Ecological Momentary Assessment (EMA) or similar methods carried out in real-world work environments, to be included in this review. The objective was to identify work environment risk factors causing day-to-day stress.\n            \n            \n              Methods\n              The search strategies were applied in seven databases resulting in 11833 records after deduplication, of which 41 studies were included in a qualitative synthesis. Associations were evaluated by correlational analyses.\n            \n            \n              Results\n              The most commonly measured work environment risk factor was work intensity, while stress was most often framed as an affective response. Measures from these two dimensions were also most frequently correlated with each other and most of their correlation coefficients were statistically significant, making work intensity a major risk factor for day-to-day workplace stress.\n            \n            \n              Conclusions\n              This review reveals a diversity in methodological approaches in data collection and data analysis. More studies combining self-perceived stress exposures and outcomes with physiological measures are warranted.",
+      "accessDate": "2022-08-08T11:03:03Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-08T11:03:04Z",
+          "dateModified": "2022-08-08T11:03:04Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\CJQ85GXJ\\Lukan et al_2022_Work environment risk factors causing day-to-day stress in occupational settings.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Lukan et al_2022_Work environment risk factors causing day-to-day stress in occupational settings.pdf",
+          "uri": "http://zotero.org/users/9698946/items/CJQ85GXJ"
+        }
+      ],
+      "citationKey": "lukanWorkEnvironmentRisk2022",
+      "citekey": "lukanWorkEnvironmentRisk2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Junoš",
+          "lastName": "Lukan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Larissa",
+          "lastName": "Bolliger"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nele S.",
+          "lastName": "Pauwels"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mitja",
+          "lastName": "Luštrek"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dirk De",
+          "lastName": "Bacquer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Els",
+          "lastName": "Clays"
+        }
+      ],
+      "date": "12/2022",
+      "dateAdded": "2022-08-08T11:03:03Z",
+      "dateModified": "2022-08-08T11:03:12Z",
+      "issue": "1",
+      "itemID": 408,
+      "itemKey": "ZRPWDFLH",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "BMC Public Health",
+      "key": "ZRPWDFLH",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "240",
+      "publicationTitle": "BMC Public Health",
+      "relations": [],
+      "select": "zotero://select/library/items/ZRPWDFLH",
+      "shortTitle": "Work environment risk factors causing day-to-day stress in occupational settings",
+      "tags": [
+        {
+          "tag": "2"
+        }
+      ],
+      "title": "Work environment risk factors causing day-to-day stress in occupational settings: a systematic review",
+      "uri": "http://zotero.org/users/9698946/items/ZRPWDFLH",
+      "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-12354-8",
+      "version": 1150,
+      "volume": "22"
     }
   ],
   "version": {
