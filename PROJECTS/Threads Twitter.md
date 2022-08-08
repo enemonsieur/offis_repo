@@ -5,7 +5,7 @@ Value Hook: I've been running a youtube channel for 3 years now. And everytime I
 
 As a content creator, my job is to constantly turn articles, youtube videos and books I read into insights for your audience. Instead, I always research materials only when I'm creating a video and usually can't keep up for more than a few weeks.
 
-Here are 3 insights from  "Building a second brain"by @fortelabs to turn your note-taking into a sustainable content publisher
+Here are 3 insights from  "Building a second brain" by @fortelabs to turn your note-taking into a sustainable content publisher
 Here are the 3 insights from his book that will finally make us stick to that goddamn schedule:
 1. CODE : description +
 2. PARA
