@@ -10,7 +10,9 @@
         391,
         393,
         395,
-        396
+        396,
+        399,
+        400
       ],
       "key": "2GYJSXXR",
       "name": "Designing Stress",
@@ -3439,6 +3441,45 @@
       "volume": "45"
     },
     {
+      "DOI": "10.1080/13594320500513939",
+      "abstractNote": "Previous research has suggested that psychological detachment from work during off-job time is important in order to recover from stress encountered at the job. Psychological detachment refers to an individual's experience of being mentally away from work, to make a pause in thinking about work-related issues, thus to “switch off”. This study examines job stressors, job involvement, and recovery-related self-efficacy as predictors of psychological detachment in a sample of 148 school teachers. Psychological detachment was assessed by self-reports and by ratings provided by family members. Multiple regression analysis showed that workload, job involvement, and recovery-related self-efficacy were significant predictors of both self-rated and family-rated psychological detachment. The study findings suggest that with respect to practical implications it is crucial to manage workload and to increase recovery-related self-efficacy.",
+      "attachments": [],
+      "citationKey": "sonnentagPsychologicalDetachmentWork2006",
+      "citekey": "sonnentagPsychologicalDetachmentWork2006",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Sabine",
+          "lastName": "Sonnentag"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Undine",
+          "lastName": "Kruel"
+        }
+      ],
+      "date": "2006-06-01",
+      "dateAdded": "2022-08-08T10:39:16Z",
+      "dateModified": "2022-08-08T10:39:16Z",
+      "extra": "DOI: 10.1080/13594320500513939\nMAG ID: 1989300751",
+      "issue": "2",
+      "itemID": 400,
+      "itemKey": "X3UA9DPS",
+      "itemType": "journalArticle",
+      "key": "X3UA9DPS",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "197-217",
+      "publicationTitle": "European Journal of Work and Organizational Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/X3UA9DPS",
+      "tags": [],
+      "title": "Psychological detachment from work during off-job time: The role of job stressors, job involvement, and recovery-related self-efficacy",
+      "uri": "http://zotero.org/users/9698946/items/X3UA9DPS",
+      "version": 1136,
+      "volume": "15"
+    },
+    {
       "DOI": "10.1586/17469899.2.2.145",
       "ISSN": "1746-9899, 1746-9902",
       "abstractNote": "If future success for a clinically useful therapeutic device is linked to the research activity within a field, then there is great promise for a retinal neuroprosthesis. The number of research groups contributing in important ways to the vision prosthesis knowledge base is growing at an exponential rate. However, as detailed previously, there are many technological challenges and biological unknowns that stand in the way of creating such a device. In this editorial, we have touched on a number of critical issues, including parallelization of stimulus encoding and delivery, the neural–electrode interface, device biocompatibility and the plasticity at the visual system in relation to the psychophysics of visual perception. This is by no means a comprehensive list.",
@@ -3493,6 +3534,61 @@
       "url": "http://www.tandfonline.com/doi/full/10.1586/17469899.2.2.145",
       "version": 518,
       "volume": "2"
+    },
+    {
+      "DOI": "10.1080/13594320344000093",
+      "ISSN": "1359-432X, 1464-0643",
+      "accessDate": "2022-08-08T10:35:16Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-08T10:35:14Z",
+          "dateModified": "2022-08-08T10:35:16Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\FRLNPR6G\\Cropley and Millward Purvis - 2003 - Job strain and rumination about work issues during.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Cropley and Millward Purvis - 2003 - Job strain and rumination about work issues during.pdf",
+          "uri": "http://zotero.org/users/9698946/items/FRLNPR6G"
+        }
+      ],
+      "citationKey": "cropleyJobStrainRumination2003a",
+      "citekey": "cropleyJobStrainRumination2003a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Cropley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lynne",
+          "lastName": "Millward Purvis"
+        }
+      ],
+      "date": "09/2003",
+      "dateAdded": "2022-08-08T10:35:16Z",
+      "dateModified": "2022-08-08T10:35:16Z",
+      "issue": "3",
+      "itemID": 399,
+      "itemKey": "Y4TV5IHJ",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "European Journal of Work and Organizational Psychology",
+      "key": "Y4TV5IHJ",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "195-207",
+      "publicationTitle": "European Journal of Work and Organizational Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/Y4TV5IHJ",
+      "shortTitle": "Job strain and rumination about work issues during leisure time",
+      "tags": [],
+      "title": "Job strain and rumination about work issues during leisure time: A diary study",
+      "uri": "http://zotero.org/users/9698946/items/Y4TV5IHJ",
+      "url": "http://www.tandfonline.com/doi/abs/10.1080/13594320344000093",
+      "version": 1133,
+      "volume": "12"
     },
     {
       "DOI": "10.1007/s00420-018-1352-1",
