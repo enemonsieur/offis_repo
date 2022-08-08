@@ -1,1 +1,1 @@
-Is the stress inducing factors has to be on a daily basis? Like 
+Is the stress inducing factors has to be on a daily basis? Like specific things happening (change in work environment, working with a hard task) Or more global like LT satisfaction, lack of career advancement, or working with difficult collegues?
