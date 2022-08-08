@@ -12,7 +12,9 @@ As Dr Eric Helms said, the most important thing in training is convinience. Most
 - Clear ways of measuring progres
 - Very science-based
 - Make me feel more focus
-Had one of them have not be present, I'd have gave up in a month. If you have a sport you enjoy, just get better at it and your health will take care of itself. FOcus on the job y
+Had one of them have not be present, I'd have gave up in a month. If you have a sport you enjoy, just get better at it and your health will take care of itself. FOcus on the sport you like. Your health will take care of itself. 
+
+- I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
 Value Hook: I've been running a youtube channel for 3 years now. And everytime I stop because  cant stick to a publishing content: I spend a long time creating good videos that get no vues so I'm discouraged, I create small content that I have  to do very often but publishing that often demands a lot of focus, and a point life gets in and I can't get back on track. I've been looking for ways to finally stick to a publishing content (ANY publishing content) until I read the book Building a second Brain by Tiago Forte. It doesn't only give me a framework to take better notes, but a solution for all of the thousands of highlights, notes and links that I've been accumulating in 30+ apps (and never read), to move them from raw material all the way to publishable content. All of that while spending the minimal amount of time organizing.
 
