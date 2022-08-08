@@ -66,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453
+    "width": 453,
+    "collapsed": true
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -114,12 +115,12 @@
   },
   "active": "70e1dc6143b73405",
   "lastOpenFiles": [
+    "PROJECTS/OFFIS/25032022_Measuring stress.md",
+    "PROJECTS/Threads Twitter.md",
     "AREAS/Les Confiotes/Work In Progres - Confiotes.md",
     "AREAS/Les Confiotes/Innovations Confiotes.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
-    "PROJECTS/OFFIS/25032022_Measuring stress.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
-    "PROJECTS/Threads Twitter.md",
     "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
     "AREAS/SPort/Muscu.md",
     "Found  20 articles relevant to stress factors.md",
