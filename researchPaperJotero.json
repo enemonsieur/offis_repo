@@ -12,7 +12,10 @@
         395,
         396,
         399,
-        400
+        400,
+        401,
+        402,
+        403
       ],
       "key": "2GYJSXXR",
       "name": "Designing Stress",
@@ -254,6 +257,37 @@
       "title": "Validation of a Short Stress State Questionnaire",
       "uri": "http://zotero.org/users/9698946/items/2MFPNA9Y",
       "version": 281
+    },
+    {
+      "DOI": "10.4324/9780203765425-6",
+      "abstractNote": "Working activities are always productive in more \nthan one respect. Concrete or imaginary objects \nare converted into a product as a result of working \nactivities and in perfonning the activities people \nare altered. The outcome may be positive, i .e .  the \ntask has been completed successful ly and people \nhave developed their ski l l s  or have found satisfac\ntion through working activities. However, the \noutcome of work may also fai l  to meet the \nstandards specified in the work assignment or a \nperson 's  state may take a turn for the worse in \nperforming the task. Positive outcomes are not \nl ikely to be associated with the term \"load\", \nalthough meeting task demands is always taxing \nand requires effort, for demands are made on the \nabil ities and on the wil l ingness to dedicate these \nabil ities to the task. Thus, exposure to task \ndemands does not necessari ly have to be con\nceived of as a predominantly negative process, \nalthough it usually is. The term workload tends to \nbe associated with decrements in performance or \nwi l l ingness to perform, or with the risk of impairment of the wel l-being and health of the task \noperator. We wi l l  adhere to this convention.",
+      "attachments": [],
+      "citationKey": "meijmanPsychologicalAspectsWorkload1998",
+      "citekey": "meijmanPsychologicalAspectsWorkload1998",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "T.F.",
+          "lastName": "Meijman"
+        }
+      ],
+      "date": "1998-01-01",
+      "dateAdded": "2022-08-08T10:44:46Z",
+      "dateModified": "2022-08-08T10:44:46Z",
+      "extra": "DOI: 10.4324/9780203765425-6\nMAG ID: 2530355104",
+      "itemID": 403,
+      "itemKey": "37R4N4VP",
+      "itemType": "journalArticle",
+      "key": "37R4N4VP",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "5-34",
+      "relations": [],
+      "select": "zotero://select/library/items/37R4N4VP",
+      "tags": [],
+      "title": "Psychological Aspects of Workload",
+      "uri": "http://zotero.org/users/9698946/items/37R4N4VP",
+      "version": 1139
     },
     {
       "DOI": "10.3389/fpsyg.2021.698526",
@@ -3534,6 +3568,84 @@
       "url": "http://www.tandfonline.com/doi/full/10.1586/17469899.2.2.145",
       "version": 518,
       "volume": "2"
+    },
+    {
+      "DOI": "10.1108/02683940710733115",
+      "abstractNote": "Purpose – The purpose of this paper is to give a state‐of‐the art overview of the Job Demands‐Resources (JD‐R) modelDesign/methodology/approach – The strengths and weaknesses of the demand‐control model and the effort‐reward imbalance model regarding their predictive value for employee well being are discussed. The paper then introduces the more flexible JD‐R model and discusses its basic premises.Findings – The paper provides an overview of the studies that have been conducted with the JD‐R model. It discusses evidence for each of the model's main propositions. The JD‐R model can be used as a tool for human resource management. A two‐stage approach can highlight the strengths and weaknesses of individuals, work groups, departments, and organizations at large.Originality/value – This paper challenges existing stress models, and focuses on both negative and positive indicators of employee well being. In addition, it outlines how the JD‐R model can be applied to a wide range of occupations, and be used to i...",
+      "attachments": [],
+      "citationKey": "bakkerJobDemandsresourcesModel2007",
+      "citekey": "bakkerJobDemandsresourcesModel2007",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Arnold B.",
+          "lastName": "Bakker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Evangelia",
+          "lastName": "Demerouti"
+        }
+      ],
+      "date": "2007-04-03",
+      "dateAdded": "2022-08-08T10:41:50Z",
+      "dateModified": "2022-08-08T10:41:50Z",
+      "extra": "DOI: 10.1108/02683940710733115\nMAG ID: 2010348352",
+      "issue": "3",
+      "itemID": 401,
+      "itemKey": "X8HXA5BC",
+      "itemType": "journalArticle",
+      "key": "X8HXA5BC",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "309-328",
+      "publicationTitle": "Journal of Managerial Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/X8HXA5BC",
+      "tags": [],
+      "title": "The job demands-resources model : state of the art",
+      "uri": "http://zotero.org/users/9698946/items/X8HXA5BC",
+      "version": 1137,
+      "volume": "22"
+    },
+    {
+      "DOI": "10.1037/1076-8998.12.3.204",
+      "abstractNote": "Drawing on the mood regulation and job-stress recovery literature, four self-report measures for assessing how individuals unwind and recuperate from work during leisure time were developed (Study 1). Confirmatory factor analyses with a calibration and a cross-validation sample (total N 930) showed that four recovery experiences can be differentiated: psychological detachment from work, relaxation, mastery, and control (Study 2). Examination of the nomological net in a subsample of Study 2 (N 271) revealed moderate relations of the recovery experiences with measures of job stressors and psychological well-being; relations with coping and personality variables were generally low (Study 3). Potential applications for the future use of these short 4-item measures in longitudinal and diary research are discussed.",
+      "attachments": [],
+      "citationKey": "sonnentagRecoveryExperienceQuestionnaire2007",
+      "citekey": "sonnentagRecoveryExperienceQuestionnaire2007",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Sabine",
+          "lastName": "Sonnentag"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Charlotte",
+          "lastName": "Fritz"
+        }
+      ],
+      "date": "2007-07-01",
+      "dateAdded": "2022-08-08T10:43:46Z",
+      "dateModified": "2022-08-08T10:43:46Z",
+      "extra": "DOI: 10.1037/1076-8998.12.3.204\nMAG ID: 2104513260\nPMID: 17638488",
+      "issue": "3",
+      "itemID": 402,
+      "itemKey": "XNT29RGZ",
+      "itemType": "journalArticle",
+      "key": "XNT29RGZ",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "204-221",
+      "publicationTitle": "Journal of Occupational Health Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/XNT29RGZ",
+      "tags": [],
+      "title": "The Recovery Experience Questionnaire: Development and validation of a measure for assessing recuperation and unwinding from work.",
+      "uri": "http://zotero.org/users/9698946/items/XNT29RGZ",
+      "version": 1138,
+      "volume": "12"
     },
     {
       "DOI": "10.1080/13594320344000093",
