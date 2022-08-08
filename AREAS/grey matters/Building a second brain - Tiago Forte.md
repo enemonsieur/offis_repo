@@ -3,11 +3,13 @@
 	 What  job would you hire your personnal assissant for? 
 		 To organize my ideas for my contents and plan the work in progress of every content
 
-How to turn any snip
+How to turn any snippets into actual content?
 CODE framework
 
 **Collect** only and always note things that resonate with you in a deeper level. it doesnt matter if its usefull today or later. Just write it #notetaking 
-**Organize**: the best way to organize content is only with stuff  you care about now. Jote them all in the current task you're working  like your language cours or grey matters newsletter and tag them approprietly
+=>Too often people just highlight 200 pages, wanna read a document to make sure they don't miss any key insights etc... What ends up happening is that they have a lot of small notes, links everywhere and there's no way they'll go through all that. 
+**Organize**: the best way to organize content is only with stuff  you care about now. Jote them all in the current task you're working  like your language cours or grey matters newsletter and tag them approprietly:
+=> Focus on the task you are currently doing. (better analogy for that) Put the information you learn, into the next actionable document: If you're working on ADHD for a video put it there. Not in the neuroscience document. Your 2nd Brain isn't there to structure your life like a library, it's there to make you publish shit.
 **Distill**: as Sönhe Akrens said the best way to distill is to always resume the notes so that you won't have to walk through them again. You'll really just have to read few comprehensible note and don't go back into rereading. Actually. IT works for school, work, and personnal project. Having to reread stuffs just to understand what they mean is a waste of time. 
 **Express**: As always, knowledge is best remember when we use it. Don't waste time hoarding notes if you're nto gonna create something. Samething with school or whatever. Always learn the way you're going to publish
 #notetaking an error I've always make is not organizing the most importnat. For example my matlab. Had I organize  all my matlab file,s I'd be easily able to go trough usefull bit of coedes and snatch them back. Its extremely essential to have them well noted, and tags, and even basically organized so I can come back to them fast and learn them.
