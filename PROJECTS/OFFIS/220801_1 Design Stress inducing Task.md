@@ -1,1 +1,2 @@
 Is the stress inducing factors has to be on a daily basis? Like specific things happening (change in work environment, working with a hard task) Or more global like LT satisfaction, lack of career advancement, or working with difficult collegues?
+- Are those factors related to our study? In the sense that we have to manipulate them to increase sense, or is it more of a review
