@@ -19,10 +19,10 @@ Use heart rate to stay in Zone 1 throughout cool-down.
 ## Week 1: 3hours 9minutes to 4h56 
 - 2 hours 30 minutes - Low intensity
 - 21 minutes - High intensity (zone 4)
-- Mardi: Fast finish Run 3 (25 min) 
-	- 5 minutes Zone 1 
-	- 20 minutes Zone 2 
-	- 10 minutes Zone 3
+- Mardi: Short interval Run 2 (25 min) 
+	5 minutes Zone 1 
+	5 minutes Zone 2 8 x (1 minute Zone 5/2 minutes Zone 1) 
+	5 minutes Zone 1
 - Mercredi: Foundation Run 3 30 min
 	- 5 minutes in Zone 1 
 	- 20 minutes in Zone 2
@@ -33,7 +33,7 @@ Use heart rate to stay in Zone 1 throughout cool-down.
 	- 5 minutes Zone 2
 	- 5 x (1 minute Zone 5/2 minutes Zone 1)
 	- 5 minutes Zone 1
-- Samedi: Recovery run 3
+- Samedi: Recovery run 3 30 min
 	- Zone 1 all the way down
 - Dimanche: Long run 2
 	- 1 mile in Zone 1
