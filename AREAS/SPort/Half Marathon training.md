@@ -42,11 +42,13 @@ Zone 4: VO2 max (HIIT ) : 163-168
 Zone 5: Speed (HIT): 169+
 WORKOUT DETAILS
 
+
 Recovery run: After a challenging workout
 Foundation runs:  5min Z1 to Z2 to 5min Z2
+Tempo run: Between warm up and cool down: Z1 Z2 then 1/2 in Z3 then back in Z2, Z1
 zone 3 usually: warm-up + 15-40 minutes steady Z3 - cool down
 Cruise intervals: multiple shorters Z3 in the middle
-Fast finish: Foundational run + 5-15min Z3 intheend
+Fast finish: Z1 5min + Z2 66% + 5-15min Z3 intheend
 HIIT : 2-8min Z4
 HIT: 30-90 s
 
