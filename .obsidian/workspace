@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/Building a second brain - Tiago Forte.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "8fabb1e563a2e9ca",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PROJECTS/Threads Twitter.md",
+            "file": "PROJECTS/OFFIS/25032022_Measuring stress.md",
             "mode": "source",
             "source": false
           }
@@ -61,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 453,
-    "collapsed": true
+    "width": 453
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/Building a second brain - Tiago Forte.md",
+                "file": "PROJECTS/OFFIS/25032022_Measuring stress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +101,15 @@
   },
   "active": "1c9003d531739500",
   "lastOpenFiles": [
-    "PROJECTS/Threads Twitter.md",
-    "AREAS/Building a second brain - Tiago Forte.md",
-    "AREAS/Sport/Muscu.md",
-    "AREAS/Sport/Half Marathon training.md",
-    "AREAS/Les Confiotes/Event O'Lakan.md",
-    "AREAS/Les Confiotes/Tâches Confiotes.md",
-    "AREAS/Les Confiotes/MVP etiquette confiotes.md",
+    "PROJECTS/OFFIS/25032022_NASA TLX.md",
     "PROJECTS/OFFIS/25032022_Measuring stress.md",
-    "AREAS/Les Confiotes/Work In Progres - Confiotes.md",
-    "AREAS/Les Confiotes/Innovations Confiotes.md"
+    "PROJECTS/OFFIS/220627_1 differences between type of stress 1.md",
+    "PROJECTS/OFFIS/220627_1 differences between type of stress.md",
+    "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
+    "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
+    "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
+    "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
+    "AREAS/Building a second brain - Tiago Forte.md",
+    "PROJECTS/Threads Twitter.md"
   ]
 }
