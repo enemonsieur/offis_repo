@@ -16,10 +16,12 @@ Use perceived effort (1–2) to make the initial adjustment to Zone 1 for the co
 Use heart rate to stay in Zone 1 throughout cool-down.  
 
  10 weeks (normally 15 weeks so skip a bit)till half marathon
-Week 1: 3hours 9minutes to 4h56 
+## Week 1: 3hours 9minutes to 4h56 
 - 2 hours 30 minutes - Low intensity
 - 21 minutes - High intensity (zone 4)
+- Mardi: Fast finish Run 1
 
+### 
 W2: 3.5 H
 W3:  3.8H
 W4: 3.3 H
@@ -58,3 +60,9 @@ Z2: 3 4
 Z3: 5.5 6
 Z4:  7 8 , for 1 km intervals
 Z5: 9 10 for 600 m intervals
+
+![[Pasted image 20220809152245.png]]
+![[Pasted image 20220809152300.png]]
+![[Pasted image 20220809152315.png]]
+![[Pasted image 20220809152325.png]]
+![[Pasted image 20220809152335.png]]
