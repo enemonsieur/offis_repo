@@ -23,17 +23,7 @@ Standard NASA-TLX questionnaire (Appendix 1) was used as an assessment tool to m
 [[@bitkinaAbilityEyetrackingMetrics2021]]
 
 # EEG
-EEG asymmetry index is a robust stress feature revealing emotional arousal [28] implicated in many studies to differentially dissociate psychological states [29]. The EEG asymmetry index is the subtraction of the alpha’s power natural logarithm of the right hemisphere from that of the left hemisphere, as provided by the equation:
-![[Pasted image 20220808174441.png]]
 
-The most common positions used in the estimation of alpha asymmetry are channels F3-F4 as they are located above the dorsolateral prefrontal cortex [30], [31], a region directly affected by stressful conditions [32]. However, there are stress studies employing lateral (e.g., F7-F8 [33]), anterior (e.g., Fp1-Fp2 [34], [35]), and posterior pairs (e.g., C3-C4, O1O2 [29], T5-T6 [35]) as shown in Fig. 5.
-The majority of studies support the notion that in stress state there is generally greater frontal right alpha activity in relation to the left alpha activity [26]
-
-
-Although there are some conflicting results in spectral features, stress conditions are considered to decrease the alpha activity [29], [35], [44], [45], [46], [47], [48], [49] and increase the beta activity waves [47], [50]
-An index that integrates the variations of both alpha and beta rhythms is reflected in the beta to alpha power ratio (b/a ratio) being a measure of cognitive load associated with the arousal dimension [52]. Increased beta/alpha relative power ratio is commonly expected in stress groups [30].
-
-Power of higher frequency rhythms (such as gamma band) may provide a sensitive index of stress response magnitude (relative power in the gamma band recorded from prefrontal electrodes [35]), although caution is advised when interpreting results in this frequency range due to the potential of contamination by myogenic activity.
 - Stroop Task was used to induce stress. 
 [[@pourmohammadiStressDetectionUsing2020]]
 
@@ -59,6 +49,24 @@ Power of higher frequency rhythms (such as gamma band) may provide a sensitive i
 
 "the following metrics were extracted and used in the analysis: maximal, minimal, mean, and standard deviation of gaze point (on x/y axis), gaze duration, gaze fixation (on x/y axis), and pupil diameter. Extracted eye-tracking metrics with abbreviations used in the analysis are shown in Table 1." [[@blasingInfluenceIncreasingTask2021]]
 	![[Pasted image 20220707085847.png]]
+
+
+## EEG
+"In this phase, we estimated the channel-averaged power spectral density (PSD) in Delta (1–4 Hz), Theta (4–8 Hz), Alpha (8–13 Hz), Beta (13–25 Hz), and Gamma (25–45 Hz) bands, the RG, and the Alpha asymmetry (AA). Prior to the estimation of the spectral power, we applied a Tukey window to ease edge effects. Formulae for RG and AA are presented in Eqs 1 and 2."
+=>Extract the different frequencies bands, the RG and the alpha asymmetry.
+
+EEG asymmetry index is a robust stress feature revealing emotional arousal [28] implicated in many studies to differentially dissociate psychological states [29]. The EEG asymmetry index is the subtraction of the alpha’s power natural logarithm of the right hemisphere from that of the left hemisphere, as provided by the equation:
+![[Pasted image 20220808174441.png]]
+
+The most common positions used in the estimation of alpha asymmetry are channels F3-F4 as they are located above the dorsolateral prefrontal cortex [30], [31], a region directly affected by stressful conditions [32]. However, there are stress studies employing lateral (e.g., F7-F8 [33]), anterior (e.g., Fp1-Fp2 [34], [35]), and posterior pairs (e.g., C3-C4, O1O2 [29], T5-T6 [35]) as shown in Fig. 5.
+The majority of studies support the notion that in stress state there is generally greater frontal right alpha activity in relation to the left alpha activity [26]
+
+
+Although there are some conflicting results in spectral features, stress conditions are considered to decrease the alpha activity [29], [35], [44], [45], [46], [47], [48], [49] and increase the beta activity waves [47], [50]
+An index that integrates the variations of both alpha and beta rhythms is reflected in the beta to alpha power ratio (b/a ratio) being a measure of cognitive load associated with the arousal dimension [52]. Increased beta/alpha relative power ratio is commonly expected in stress groups [30].
+
+Power of higher frequency rhythms (such as gamma band) may provide a sensitive index of stress response magnitude (relative power in the gamma band recorded from prefrontal electrodes [35]), although caution is advised when interpreting results in this frequency range due to the potential of contamination by myogenic activity.
+
 # Stress Prediction
 - We classify the predicting features using the SVM
 - ![[@blasingInfluenceIncreasingTask2021]]
