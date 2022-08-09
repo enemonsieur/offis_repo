@@ -53,7 +53,8 @@ It's based on the fact that only the most important ideas stick. But you don't h
 - Test: CAN YOU GET THE GIST OF IT at a glance?
 - Progressive summarization: Instead of agressively try to note every part of a book, try to capture links for article or explanations or audios from professor. Put them in the appropriate folder. 
 	- Then later, find your usual links you see. Highlight the most important passages, NEVER more than 10 % of the whole stuff. And add them in a common storage. You may want to include stuff that resonate with you but you can't explain why. 
-	- Then comment 20% max of those highlights in a way that'd be easy to contextualize and that your future sefl will immediately grasp
+	- Then comment 20
+	- % max of those highlights in a way that'd be easy to contextualize and that your future sefl will immediately grasp
 
 How do I make my notes more discoverable? How do I convince my futur self that does note s are worth rereading? May be by having a summary of the most important points. And the action steps. 
 

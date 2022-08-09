@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
+            "file": "AREAS/Building a second brain - Tiago Forte.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8405ed403741aadc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PROJECTS/Threads Twitter.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453
+    "width": 453,
+    "collapsed": true
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
+                "file": "PROJECTS/Threads Twitter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6847ef6816785da9",
+  "active": "8405ed403741aadc",
   "lastOpenFiles": [
+    "AREAS/Building a second brain - Tiago Forte.md",
+    "PROJECTS/Threads Twitter.md",
+    "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
     "PROJECTS/OFFIS/25032022_Measuring stress.md",
     "![[Pasted.md",
     "PROJECTS/OFFIS/25032022_NASA TLX.md",
     "PROJECTS/OFFIS/220627_1 differences between type of stress 1.md",
-    "PROJECTS/OFFIS/220627_1 differences between type of stress.md",
-    "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
-    "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
-    "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md"
+    "PROJECTS/OFFIS/220627_1 differences between type of stress.md"
   ]
 }

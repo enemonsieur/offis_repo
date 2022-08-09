@@ -30,7 +30,8 @@ Here are the 3 insights from his book that will finally make us stick to that go
 => Make your notes future-proof: Is Distilling the most overlooked issue with content creators? Do they only c/p notes and have to reread them and re-understand them? Hence the formula, make your notes future-proof. Your jobs when distilling is to convince your future self that this information is worth digging in : Summarize the most important points, have a Intermediate package.
 => Not all information matter: People highlight and save like crazy, which blur the most important gems and make'em procrastinate. Instead, they should have a framework to decide what matter and what not and it's simple: Inspiring-Procedures-References (RIP)
 	=> Progressive Summarization: Because the best stuff always stick in your mind a day or two, so you don't have to write everything back in your Projects. If you completely forget about it, may be it wasn't worth it. 
-
+	=> Here are some ways to only exerpt the highest insights in your reading: The 10% rule: Highlight around 10% of  your reading. Then later, add around 10% of those highlight in your notes. Don't try to add more at a certain moment. Then later, summarize the key points of 10% of those notes. Etc. With this framework, you are forced to take the most relevant points NOW and ditch the other. 
+=> Instead of sharing an article to your friends, that they'd never read, apply this framework to give them the 10% best highlights or a summary of the key points of the articles: They
 
 # Learn Marketing
 5 years ago, I believed Marketing was the most pointless think in the world. 
