@@ -23,7 +23,22 @@ Use heart rate to stay in Zone 1 throughout cool-down.
 	- 5 minutes Zone 1 
 	- 20 minutes Zone 2 
 	- 10 minutes Zone 3
-- Mercredi: Foundation Run5 minutes in Zone 1 Low intensity: 25 minutes (25:00) 15 minutes in Zone 2 5 minutes in Zone 1
+- Mercredi: Foundation Run 3 30 min
+	- 5 minutes in Zone 1 
+	- 20 minutes in Zone 2
+	- 5 minutes in Zone 1
+- Jeudi: Foundation Run 2 25 min
+- Vendredi: Speed Play Run 2 30 min
+	- 5 minutes Zone 1 
+	- 5 minutes Zone 2
+	- 5 x (1 minute Zone 5/2 minutes Zone 1)
+	- 5 minutes Zone 1
+- Samedi: Recovery run 3
+	- Zone 1 all the way down
+- Dimanche: Long run 2
+	- 1 mile in Zone 1
+	- 5.5 miles in Zone 2
+	- 0.5 mile in Zone 1
 
 ### 
 W2: 3.5 H
