@@ -26,6 +26,12 @@ Week 1: 3hours 9minutes to 4h56
 Recovery every 3 week
 
 ## TRAINGING ZONES
-Zone 1: Low areobic (warm up) : 120-128
-Zone 2: Moderate aerobic (80%) : 
+Zone 1: Low areobic (warm up,cool down, recovery) : 120-128
+Zone 2: Moderate aerobic (Foundational runs, Long runs) : 129-142
+Zone 3: Threshold Lactate (Tempo runs, Cruise intervals, fast finish runs): 153-160
+Zone 4: VO2 max : 163-168
+Zone 5: Speed: 169+
 WORKOUT DETAILS
+
+zone 3 usually: warm-up + 15-40 minutes steady Z3 - cool down
+Cruise intervals: multiple shrot
