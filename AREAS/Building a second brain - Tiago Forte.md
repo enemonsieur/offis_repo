@@ -11,6 +11,7 @@
 **Distill:** as Sönhe Akrens said the best way to distill is to always summarize the notes so that you won't have to walk through them again. You'll really just have to read few comprehensible note and don't go back into rereading. Actually. IT works for school, work, and personnal project. Having to reread stuffs just to understand what they mean is a waste of time. 
 **Express**: As always, knowledge is best remember when we use it. Don't waste time hoarding notes if you're not gonna create something. Samething with school or whatever. Always learn the way you're going to publish. Always learn with the purpose  of creating. => Intermediate packages
 #notetaking an error I've always make is not organizing the most importnat. For example my matlab. Had I organize  all my matlab file,s I'd be easily able to go trough usefull bit of coedes and snatch them back. Its extremely essential to have them well noted, and tags, and even basically organized so I can come back to them fast and learn them.
+Also I should have moved all of the MATLAB files out of my repository, and add the PSTH in the ressources. For future intermediate packages.
 	#journaling I dont have to write everytingI want I can also just write how I briefly fell, why  I think I feel like that and what I could do to change it
 	#productivity what are the most important problems I have to work on?
 		How can I learn better and faster
@@ -24,9 +25,10 @@
 
 
 how do I know if I should #notetaking 
-	Does it inspire me? Gut feeling
-	Is there a step by step process inside that I know I'd like to have so that I wont have to think in the futre? Is there a reference, a diagram that'd make my life easier?
-		For example to invest money - guide of brokey, invest in NFTs
+Does it inspire me? Gut feeling.
+Is there a step by step process inside that I know I'd like to have so that I wont have to think in the futre?
+Is there a reference, a diagram that'd make my life easier? For example to invest money - guide of brokey, invest in NFTs
+
 
 #para Use the Para method to store notes:
 - Projects
@@ -34,9 +36,10 @@ how do I know if I should #notetaking
 - Resources
 - Archives
 
-- Always try to put your notes in the most actionnable steps. Am besten, all your notes must finish into a project you're currently working on. 
+- Always try to put your notes in the most actionnable steps. **Am besten, all your notes must finish into a project you're currently working on.** 
 
 Don't organize notes based on where they come from: Dont put theses current notes in your  "book fucking folder" just because It came from book. Organize them based on how currently usefull they are: Management notes, fMRI notes, neuroscience for content notes, neurosciences in general notes (ressources)
+=> Re-read that shit. 
 
 **- Quantum note taking** : Take notes that will survive the quantum jump into the future. If the insights arrive messed up and hard to find, understand, or even remember, youre future self will never give a fuck. 
 

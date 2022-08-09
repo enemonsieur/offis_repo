@@ -27,7 +27,8 @@ Here are the 3 insights from his book that will finally make us stick to that go
 2. PARA
 3. Intermediate Packages
 
-=> Is Distilling the most overlooked issue with content creators? Do they only c/p notes and have to reread them and re-understand them? Hence the formula, make your notes future-proof. 
+=> Make your notes future-proof: Is Distilling the most overlooked issue with content creators? Do they only c/p notes and have to reread them and re-understand them? Hence the formula, make your notes future-proof. 
+=> Not all information matter: People highlight and save like crazy, which blur the most important gems and make'em procrastinate. Instead, they should have a framework to decide what matter and what not and it's simple: Inspiring-Procedures-References (RIP)
 # Learn Marketing
 5 years ago, I believed Marketing was the most pointless think in the world. 
 After dozens of books read, I believe it's the most important. 
