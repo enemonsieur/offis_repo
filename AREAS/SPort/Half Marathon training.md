@@ -14,4 +14,8 @@ Use perceived effort (3–4) to make the initial adjustment to Zone 2 after each
 Use heart rate to stay in Zone 2 throughout each recovery period between speed play segments.  
 Use perceived effort (1–2) to make the initial adjustment to Zone 1 for the cool-down.  
 Use heart rate to stay in Zone 1 throughout cool-down.  
- 
+
+ 10 weeks till half marathon
+Week 1: 3hours 9minutes - 4h56
+- 2 hours 30 minutes - Low intensity
+- 42 minutes - High intensity (zone 4)
