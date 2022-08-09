@@ -20,6 +20,11 @@ Week 1: 3hours 9minutes to 4h56
 - 2 hours 30 minutes - Low intensity
 - 21 minutes - High intensity (zone 4)
 
+W2: 3.5 H
+W3:  3.8H
+W4: 3.3 H
+W5: 3.8 H
+W6: 4.
 6 weeks base phase
 8 week peak phase
 1 week taper phase
@@ -43,5 +48,5 @@ HIT: 30-90 s
 Z1: RPE 1 2
 Z2: 3 4
 Z3: 5.5 6
-Z4:  7 8
-Z5: 9 10
+Z4:  7 8 , for 1 km intervals
+Z5: 9 10 for 600 m intervals
