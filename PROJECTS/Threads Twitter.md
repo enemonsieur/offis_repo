@@ -27,8 +27,11 @@ Here are the 3 insights from his book that will finally make us stick to that go
 2. PARA
 3. Intermediate Packages
 
-=> Make your notes future-proof: Is Distilling the most overlooked issue with content creators? Do they only c/p notes and have to reread them and re-understand them? Hence the formula, make your notes future-proof. 
+=> Make your notes future-proof: Is Distilling the most overlooked issue with content creators? Do they only c/p notes and have to reread them and re-understand them? Hence the formula, make your notes future-proof. Your jobs when distilling is to convince your future self that this information is worth digging in : Summarize the most important points, have a Intermediate package.
 => Not all information matter: People highlight and save like crazy, which blur the most important gems and make'em procrastinate. Instead, they should have a framework to decide what matter and what not and it's simple: Inspiring-Procedures-References (RIP)
+	=> Progressive Summarization: Because the best stuff always stick in your mind a day or two, so you don't have to write everything back in your Projects. If you completely forget about it, may be it wasn't worth it. 
+
+
 # Learn Marketing
 5 years ago, I believed Marketing was the most pointless think in the world. 
 After dozens of books read, I believe it's the most important. 
