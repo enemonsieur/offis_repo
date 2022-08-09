@@ -15,7 +15,17 @@ Use heart rate to stay in Zone 2 throughout each recovery period between speed p
 Use perceived effort (1–2) to make the initial adjustment to Zone 1 for the cool-down.  
 Use heart rate to stay in Zone 1 throughout cool-down.  
 
- 10 weeks till half marathon
-Week 1: 3hours 9minutes - 4h56
+ 10 weeks (normally 15 weeks so skip a bit)till half marathon
+Week 1: 3hours 9minutes to 4h56 
 - 2 hours 30 minutes - Low intensity
-- 42 minutes - High intensity (zone 4)
+- 21 minutes - High intensity (zone 4)
+
+6 weeks base phase
+8 week peak phase
+1 week taper phase
+Recovery every 3 week
+
+## TRAINGING ZONES
+Zone 1: Low areobic (warm up) : 120-128
+Zone 2: Moderate aerobic (80%) : 
+WORKOUT DETAILS
