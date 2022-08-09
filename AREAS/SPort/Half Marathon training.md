@@ -24,7 +24,11 @@ W2: 3.5 H
 W3:  3.8H
 W4: 3.3 H
 W5: 3.8 H
-W6: 4.
+W6: 4.2 H
+W7: 4.6 H
+W8: 3.8 H
+W9: 4.5 H
+W10:  5 H
 6 weeks base phase
 8 week peak phase
 1 week taper phase
@@ -38,6 +42,8 @@ Zone 4: VO2 max (HIIT ) : 163-168
 Zone 5: Speed (HIT): 169+
 WORKOUT DETAILS
 
+Recovery run: After a challenging workout
+Foundation runs:  5min Z1 to Z2 to 5min Z2
 zone 3 usually: warm-up + 15-40 minutes steady Z3 - cool down
 Cruise intervals: multiple shorters Z3 in the middle
 Fast finish: Foundational run + 5-15min Z3 intheend
