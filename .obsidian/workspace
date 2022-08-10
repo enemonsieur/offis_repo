@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/Building a second brain - Tiago Forte.md",
+            "file": "AREAS/Sport/muscu.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "twitter",
+                "query": "muscu",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453,
-    "collapsed": true
+    "width": 453
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/Building a second brain - Tiago Forte.md",
+                "file": "AREAS/Sport/muscu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +101,15 @@
   },
   "active": "6847ef6816785da9",
   "lastOpenFiles": [
-    "PROJECTS/Threads Twitter.md",
+    "AREAS/Sport/half marathon training.md",
+    "AREAS/Sport/muscu.md",
     "AREAS/Building a second brain - Tiago Forte.md",
+    "PROJECTS/Threads Twitter.md",
     "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
     "PROJECTS/OFFIS/25032022_Measuring stress.md",
     "![[Pasted.md",
-    "PROJECTS/OFFIS/25032022_NASA TLX.md",
-    "PROJECTS/OFFIS/220627_1 differences between type of stress 1.md",
-    "PROJECTS/OFFIS/220627_1 differences between type of stress.md"
+    "PROJECTS/OFFIS/25032022_NASA TLX.md"
   ]
 }

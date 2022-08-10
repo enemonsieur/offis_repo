@@ -35,7 +35,7 @@ Use heart rate to stay in Zone 1 throughout cool-down.
 	- 5 minutes Zone 1
 - Samedi: Recovery run 3 30 min
 	- Zone 1 all the way down
-- Dimanche: Long run 2
+- Dimanche: Long run 2: 11 Km
 	- 1 mile in Zone 1
 	- 5.5 miles in Zone 2
 	- 0.5 mile in Zone 1
