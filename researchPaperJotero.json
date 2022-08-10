@@ -76,6 +76,15 @@
       "name": "Visual NP",
       "parent": ""
     },
+    "JY49GWIZ": {
+      "collections": [],
+      "items": [
+        485
+      ],
+      "key": "JY49GWIZ",
+      "name": "Factors creating stress in experiment",
+      "parent": ""
+    },
     "NELM3556": {
       "collections": [],
       "items": [
@@ -4151,6 +4160,72 @@
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0169814121001116",
       "version": 564,
       "volume": "86"
+    },
+    {
+      "DOI": "10.3390/ijerph17020394",
+      "ISSN": "1660-4601",
+      "abstractNote": "A growing body of evidence from observational and experimental studies shows the associations between exposure to urban green spaces (UGSs) and mental health outcomes. Little is known about which specific features of UGS that might be the most beneficial. In addition, there is potential in utilizing objective physiological markers of mental health, such as assessing brain activity, but the subject requires further investigation. This paper presents the preliminary findings from an on-going within-subject experiment where adult participants (n = 22; 13 females) were passively exposed to six landscape scenes within two UGSs (a park and a neighborhood green space) and three scenes of a busy urban downtown (control site). The landscape scenes were pre-selected based on their contemplative landscape score (CLS) to represent different levels of aggregation of contemplative features within each view. Participants went to each of the sites in a random order to passively view the scenes, while their electroencephalography (EEG) signal was being recorded concurrently. Frontal alpha asymmetry (FAA) values, commonly associated with the approach-related motivation and positive emotions, were extracted. The preliminary results show trends for the main effect of site on FAA, suggestive of stronger FAA in park compared to the control site, akin to more positive mood. There was also a trend for the interaction between the site and scene, which suggests that even within the individual sites, there is variability depending on the specific scene. Adjusting for environmental covariate strengthened these effects, these interim findings are promising in supporting the study hypothesis and suggest that exposure to urban green spaces may be linked to mental health outcomes.",
+      "accessDate": "2022-08-10T21:21:54Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-10T21:21:56Z",
+          "dateModified": "2022-08-10T21:21:57Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\GDHMVTTB\\Olszewska-Guizzo et al_2020_Can Exposure to Certain Urban Green Spaces Trigger Frontal Alpha Asymmetry in.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Olszewska-Guizzo et al_2020_Can Exposure to Certain Urban Green Spaces Trigger Frontal Alpha Asymmetry in.pdf",
+          "uri": "http://zotero.org/users/9698946/items/GDHMVTTB"
+        }
+      ],
+      "citationKey": "olszewska-guizzoCanExposureCertain2020",
+      "citekey": "olszewska-guizzoCanExposureCertain2020",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Agnieszka",
+          "lastName": "Olszewska-Guizzo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Angelia",
+          "lastName": "Sia"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anna",
+          "lastName": "Fogel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roger",
+          "lastName": "Ho"
+        }
+      ],
+      "date": "2020-01-07",
+      "dateAdded": "2022-08-10T21:21:54Z",
+      "dateModified": "2022-08-10T21:21:54Z",
+      "issue": "2",
+      "itemID": 485,
+      "itemKey": "YU4Q5IT7",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "IJERPH",
+      "key": "YU4Q5IT7",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "394",
+      "publicationTitle": "International Journal of Environmental Research and Public Health",
+      "relations": [],
+      "select": "zotero://select/library/items/YU4Q5IT7",
+      "shortTitle": "Can Exposure to Certain Urban Green Spaces Trigger Frontal Alpha Asymmetry in the Brain?",
+      "tags": [],
+      "title": "Can Exposure to Certain Urban Green Spaces Trigger Frontal Alpha Asymmetry in the Brain?—Preliminary Findings from a Passive Task EEG Study",
+      "uri": "http://zotero.org/users/9698946/items/YU4Q5IT7",
+      "url": "https://www.mdpi.com/1660-4601/17/2/394",
+      "version": 1294,
+      "volume": "17"
     },
     {
       "abstractNote": "Stress is a physiological and psychological pressure perceived by an individual that placing himself/herself in a risk, both physically and mentally. The research objective of this research is to find out whether the level of technology competence and workload has an impact on employee performance through technostress as an intervening variable. The respondents of this study were 138 people whom work at Production and Engineering department of a multinational company using automation technology equipment in operation. A technique of data collection was done by using questionaire and interviews. Data was analysed using the SEM (Structural Equation Modelling) approach. From the research it can be concluded that the workload and competence level of automation technology had significant impact to technostress. Further, the study also shows a significant relationships between workload and employee performance which the Technostress acts as an intervening variable in the relationship.",
