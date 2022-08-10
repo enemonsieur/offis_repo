@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/Sport/muscu.md",
+            "file": "PROJECTS/Threads Twitter.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "muscu",
+                "query": "twitter",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/Sport/muscu.md",
+                "file": "PROJECTS/Threads Twitter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +100,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a964cfb5b2f8a24",
+  "active": "6847ef6816785da9",
   "lastOpenFiles": [
-    "AREAS/Sport/half marathon training.md",
     "AREAS/Sport/muscu.md",
+    "AREAS/Sport/half marathon training.md",
     "AREAS/Building a second brain - Tiago Forte.md",
     "PROJECTS/Threads Twitter.md",
     "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",

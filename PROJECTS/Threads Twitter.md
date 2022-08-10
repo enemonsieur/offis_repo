@@ -1,4 +1,5 @@
 IDEAS for twitter threads
+![[Pasted image 20220810181705.png]]
 # Keep your sport schedule
 This is not your normal body transformation. In only 6 
 (space)
@@ -16,9 +17,9 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
-Value Hook: I've been running a youtube channel for 3 years now. And everytime I stop because  cant stick to a publishing content: I spend a long time creating good videos that get no vues so I'm discouraged, I create small content that I have  to do very often but publishing that often demands a lot of focus, and a point life gets in and I can't get back on track. I've been looking for ways to finally stick to a publishing content (ANY publishing content) until I read the book Building a second Brain by Tiago Forte. It doesn't only give me a framework to take better notes, but a solution for all of the thousands of highlights, notes and links that I've been accumulating in 30+ apps (and never read), to move them from raw material all the way to publishable content. All of that while spending the minimal amount of time organizing.
+Value Hook: I've been running a youtube channel for 3 years now. And everytime I stop because  cant stick to a publishing content: **I spend a long time creating good videos that get no vues so I'm discouraged**, I create small content that I have to do very often but publishing that often demands a lot of focus, and a point life gets in and I can't get back on track. I've been looking for ways to finally **stick to a publishing content (ANY publishing content)** until I read the book Building a second Brain by Tiago Forte. It doesn't only give me a framework to take better notes, but **a solution for all of the thousands of highlights, notes and links that I've been accumulating in 30+ apps (and never rea**d), to move them from raw material all the way to publishable content. All of that while spending the minimal amount of time organizing.
 
-As a content creator, my job is to constantly turn articles, youtube videos and books I read into insights for your audience. Instead, I always research materials only when I'm creating a video and usually can't keep up for more than a few weeks.
+**As a content creator, my job is to constantly turn articles, youtube videos and books I read into insights for your audience.** Instead, I always research materials only when I'm creating a video and usually can't keep up for more than a few weeks.
 
 Here are 3 insights from  "Building a second brain" by @fortelabs to turn your note-taking into a sustainable content publisher
 Here are the 3 insights from his book that will finally make us stick to that goddamn schedule:
