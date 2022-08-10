@@ -79,7 +79,9 @@
     "JY49GWIZ": {
       "collections": [],
       "items": [
-        485
+        485,
+        487,
+        488
       ],
       "key": "JY49GWIZ",
       "name": "Factors creating stress in experiment",
@@ -2952,6 +2954,68 @@
       "version": 335
     },
     {
+      "DOI": "10.1007/s00421-004-1055-z",
+      "ISSN": "1439-6319, 1439-6327",
+      "accessDate": "2022-08-10T21:28:44Z",
+      "attachments": [],
+      "citationKey": "hjortskovEffectMentalStress2004",
+      "citekey": "hjortskovEffectMentalStress2004",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Nis",
+          "lastName": "Hjortskov"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dag",
+          "lastName": "Riss�n"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anne Katrine",
+          "lastName": "Blangsted"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nils",
+          "lastName": "Fallentin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ulf",
+          "lastName": "Lundberg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karen",
+          "lastName": "S�gaard"
+        }
+      ],
+      "date": "2004-6-1",
+      "dateAdded": "2022-08-10T21:28:44Z",
+      "dateModified": "2022-08-10T21:28:44Z",
+      "issue": "1-2",
+      "itemID": 487,
+      "itemKey": "QMI2LBRP",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "European Journal of Applied Physiology",
+      "key": "QMI2LBRP",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "84-89",
+      "publicationTitle": "European Journal of Applied Physiology",
+      "relations": [],
+      "select": "zotero://select/library/items/QMI2LBRP",
+      "tags": [],
+      "title": "The effect of mental stress on heart rate variability and blood pressure during computer work",
+      "uri": "http://zotero.org/users/9698946/items/QMI2LBRP",
+      "url": "http://link.springer.com/10.1007/s00421-004-1055-z",
+      "version": 1297,
+      "volume": "92"
+    },
+    {
       "attachments": [
         {
           "dateAdded": "2022-06-27T07:12:26Z",
@@ -3898,6 +3962,63 @@
       "uri": "http://zotero.org/users/9698946/items/X8HXA5BC",
       "version": 1137,
       "volume": "22"
+    },
+    {
+      "DOI": "10.1007/s00421-002-0611-7",
+      "ISSN": "1439-6319, 1439-6327",
+      "accessDate": "2022-08-10T21:30:24Z",
+      "attachments": [],
+      "citationKey": "j.InfluenceTimePressure2002",
+      "citekey": "j.InfluenceTimePressure2002",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Wahlstr&#x000F6;m",
+          "lastName": "J."
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hagberg",
+          "lastName": "M."
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Johnson",
+          "lastName": "P."
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Svensson",
+          "lastName": "J."
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rempel",
+          "lastName": "D."
+        }
+      ],
+      "date": "2002-7-1",
+      "dateAdded": "2022-08-10T21:30:24Z",
+      "dateModified": "2022-08-10T21:30:24Z",
+      "issue": "3",
+      "itemID": 488,
+      "itemKey": "X9E9M64D",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "European Journal of Applied Physiology",
+      "key": "X9E9M64D",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "257-263",
+      "publicationTitle": "European Journal of Applied Physiology",
+      "relations": [],
+      "select": "zotero://select/library/items/X9E9M64D",
+      "tags": [],
+      "title": "Influence of time pressure and verbal provocation on physiological and psychological reactions during work with a computer mouse",
+      "uri": "http://zotero.org/users/9698946/items/X9E9M64D",
+      "url": "http://link.springer.com/10.1007/s00421-002-0611-7",
+      "version": 1298,
+      "volume": "87"
     },
     {
       "DOI": "10.2139/ssrn.1511962",
