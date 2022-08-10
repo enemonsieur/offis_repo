@@ -32,7 +32,8 @@ Here are the 3 insights from his book that will finally make us stick to that go
 	=> Progressive Summarization: Because the best stuff always stick in your mind a day or two, so you don't have to write everything back in your Projects. If you completely forget about it, may be it wasn't worth it. 
 	=> Here are some ways to only exerpt the highest insights in your reading: The 10% rule: Highlight around 10% of  your reading. Then later, add around 10% of those highlight in your notes. Don't try to add more at a certain moment. Then later, summarize the key points of 10% of those notes. Etc. With this framework, you are forced to take the most relevant points NOW and ditch the other. 
 => Instead of sharing an article to your friends, that they'd never read, apply this framework to give them the 10% best highlights or a summary of the key points of the articles: They'll be lest resistent to spend time reading an article, and actually more intersted. And if they aren't, you'll have an IP ready to be sent to your future self.
-
+=> Intermediate Packages: Now I'm pretty sure you see yourself as a perfectionnist: working on the finitions until you have a product you're proud of
+Instead of working hours on an articles before submitting it to people, just to have 5 shares, send small packages as you are learning on the subject. You'll be schocked to see how much of your mindblowing ideas don't interest anyone. Not only will you have feedback about what work, but you'll also be more pumped when an idea with stick, and doing way less work. and by the time you are done with the final product, you'll be almost certain about what works and what doesn't.
 # Learn Marketing
 5 years ago, I believed Marketing was the most pointless think in the world. 
 After dozens of books read, I believe it's the most important. 

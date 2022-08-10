@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "8405ed403741aadc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PROJECTS/Threads Twitter.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -82,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Threads Twitter.md",
+                "file": "AREAS/Building a second brain - Tiago Forte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +100,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8405ed403741aadc",
+  "active": "6847ef6816785da9",
   "lastOpenFiles": [
-    "AREAS/Building a second brain - Tiago Forte.md",
     "PROJECTS/Threads Twitter.md",
+    "AREAS/Building a second brain - Tiago Forte.md",
     "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
