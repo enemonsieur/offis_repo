@@ -31,7 +31,7 @@ Standard NASA-TLX questionnaire (Appendix 1) was used as an assessment tool to m
 # Preprocessing
 
 ![[stress detection using ECG and EMG#^bb94e6]]
-=>To pick up the signals from the ECG, namly the R peaks, we use a bandpass filter. For the RR interals, we use the Pan-Tompkins peak detection algo.
+=>To pick up the signals from the ECG, namly the R peaks, we use a 5-15 Hz bandpass filter. For the RR interals, we use the Pan-Tompkins peak detection algo.
 - We can divide the filtered ECG signales into 60s frames [[@pourmohammadiStressDetectionUsing2020]]
 
 "Data preparation and analysis were performed using Mathworks MATLAB 2019a and the HRV Tool [58] for ECG data and SMIs BeGaze for eye-tracking data. IBM SPSS 25 was used for statistical analysis." [[@blasingInfluenceIncreasingTask2021]]
