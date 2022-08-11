@@ -81,7 +81,10 @@
       "items": [
         485,
         487,
-        488
+        488,
+        490,
+        491,
+        495
       ],
       "key": "JY49GWIZ",
       "name": "Factors creating stress in experiment",
@@ -371,6 +374,48 @@
       "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.698526/full",
       "version": 1129,
       "volume": "12"
+    },
+    {
+      "DOI": "10.1348/000712601162293",
+      "ISSN": "00071269",
+      "accessDate": "2022-08-11T05:50:09Z",
+      "attachments": [],
+      "citationKey": "sharmaRoleTimePressure2001",
+      "citekey": "sharmaRoleTimePressure2001",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Dinkar",
+          "lastName": "Sharma"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Frank P.",
+          "lastName": "McKenna"
+        }
+      ],
+      "date": "08/2001",
+      "dateAdded": "2022-08-11T05:50:09Z",
+      "dateModified": "2022-08-11T05:50:09Z",
+      "issue": "3",
+      "itemID": 495,
+      "itemKey": "53NEM8WK",
+      "itemType": "journalArticle",
+      "key": "53NEM8WK",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "471-481",
+      "publicationTitle": "British Journal of Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/53NEM8WK",
+      "tags": [],
+      "title": "The role of time pressure on the emotional Stroop task",
+      "uri": "http://zotero.org/users/9698946/items/53NEM8WK",
+      "url": "http://doi.wiley.com/10.1348/000712601162293",
+      "version": 1309,
+      "volume": "92"
     },
     {
       "DOI": "10.1080/00140139308967972",
@@ -1122,6 +1167,72 @@
       "version": 108
     },
     {
+      "DOI": "10.2486/indhealth.46.269",
+      "ISSN": "0019-8366, 1880-8026",
+      "abstractNote": "It is hypothesized that quantitative overload impacts psycho-physiological attributes of data-entry operators, although previous research has focused primarily on different aspects of VDT work, such as working time and environment, work station, keyboards and so forth. The objective of this study was to examine the influence on psycho-physiological responses of time pressure, task demand and their combined effect as underlying causes of quantitative overload while typing. A total of 12 subjects completed four 1-h typing tasks representing two levels of time pressure and task demand. Levels were manipulated by requiring participants to achieve a least number of character strings during each block, and by changing the number of letters in the character strings. Outcomes were measured in subjective assessment of workload, performance-related and physiological measures. Overall, increased time pressure increased perceived workload, productivity rate and heart rate, and decreased initial response time and typing duration. However, increased task demand increased error rate and initial response time with no change in heart rate. Heart rate variability did not indicate increased levels of time pressure or task demand. Quantitative overload as a consequence of time pressure and task demand influenced the subjective and psycho-physiological measures of data-entry operators to some extent.",
+      "accessDate": "2022-08-11T05:49:37Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-11T05:49:34Z",
+          "dateModified": "2022-08-11T05:49:37Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\XBUT5ZZ8\\Mazloum et al. - 2008 - Quantitative Overload a Source of Stress in Data-.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Mazloum et al. - 2008 - Quantitative Overload a Source of Stress in Data-.pdf",
+          "uri": "http://zotero.org/users/9698946/items/XBUT5ZZ8"
+        }
+      ],
+      "citationKey": "mazloumQuantitativeOverloadSource2008a",
+      "citekey": "mazloumQuantitativeOverloadSource2008a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Adel",
+          "lastName": "Mazloum"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Masaharu",
+          "lastName": "Kumashiro"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hiroyuki",
+          "lastName": "Izumi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yoshiyuki",
+          "lastName": "Higuchi"
+        }
+      ],
+      "date": "2008",
+      "dateAdded": "2022-08-11T05:49:37Z",
+      "dateModified": "2022-08-11T05:49:37Z",
+      "issue": "3",
+      "itemID": 494,
+      "itemKey": "FR6GFJCP",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Ind Health",
+      "key": "FR6GFJCP",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "269-280",
+      "publicationTitle": "Industrial Health",
+      "relations": [],
+      "select": "zotero://select/library/items/FR6GFJCP",
+      "shortTitle": "Quantitative Overload",
+      "tags": [],
+      "title": "Quantitative Overload: a Source of Stress in Data-Entry VDT Work Induced by Time Pressure and Work Difficulty",
+      "uri": "http://zotero.org/users/9698946/items/FR6GFJCP",
+      "url": "http://www.jstage.jst.go.jp/article/indhealth/46/3/46_3_269/_article",
+      "version": 1305,
+      "volume": "46"
+    },
+    {
       "DOI": "10.3390/s19091991",
       "ISSN": "1424-8220",
       "abstractNote": "Suffering from continuous stress can lead to serious psychological and even physical disorders. Objective stress assessment methods using noninvasive physiological responses such as heart rate variability (HRV) and electroencephalograms (EEG) have therefore been proposed for effective stress management. In this study, a novel wearable device that can measure electrocardiograms (ECG) and EEG simultaneously was designed to enable continuous stress monitoring in daily life. The developed system is easily worn by hanging from both ears, is lightweight (i.e., 42.5 g), and exhibits an excellent noise performance of 0.12 μVrms. Significant time and frequency features of HRV and EEG were found in two different stressors, namely the Stroop color word and mental arithmetic tests, using 14 young subjects. Stressor situations were classified using various HRV and EEG feature selections and a support vector machine technique. The five-fold cross-validation results obtained when using both EEG and HRV features showed the best performance with an accuracy of 87.5%, which demonstrated the requirement for simultaneous HRV and EEG measurements.",
@@ -1784,6 +1895,67 @@
       "title": "THE IMPACT OF WORKLOAD AND TECHNOLOGY COMPETENCE ON TECHNOSTRESS AND PERFORMANCE OF EMPLOYEES",
       "uri": "http://zotero.org/users/9698946/items/HT4RJVS5",
       "version": 109
+    },
+    {
+      "DOI": "10.3390/ijerph18179136",
+      "ISSN": "1660-4601",
+      "abstractNote": "Color is the most potent stimulating factor affecting human vision, and the environmental color of an indoor space is a spatial component that affects the environmental stress level. As one of the methods of assessing the physiological response of the autonomic nervous system that influences stress, heart rate variability (HRV) has been utilized as a tool for measuring the user’s stress response in color environments. This study aims to identify the effects of the changes of hue, brightness, and saturation in environmental colors on the HRV of two groups with different stress levels—the stress potential group (n = 15) and the healthy group (n = 12)—based on their stress level indicated by the Psychosocial Well-being Index (PWI). The ln(LF), ln(HF), and RMSSD values collected during the subjects’ exposure to 12 environments colors of red and yellow with adjusted saturation and brightness, were statistically analyzed using t-test and two-way ANOVA. The results show that the HRV values in the two groups did not significantly vary in response to the changes in hue, brightness and saturation. The two groups’ stress factors distinguished according to the stress levels by the PWI scale affected the In(LF) parameter, which demonstrates that the PWI index can be utilized as a reliable scale for measuring stress levels. The ultra-short HRV measurement record and the use of a sole In(LF) parameter for stress assessment are regarded as the limitations of this study.",
+      "accessDate": "2022-08-11T05:49:17Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-11T05:49:19Z",
+          "dateModified": "2022-08-11T05:49:20Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\5D4IL6TF\\Oh et al_2021_Effects on Heart Rate Variability of Stress Level Responses to the Properties.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Oh et al_2021_Effects on Heart Rate Variability of Stress Level Responses to the Properties.pdf",
+          "uri": "http://zotero.org/users/9698946/items/5D4IL6TF"
+        }
+      ],
+      "citationKey": "ohEffectsHeartRate2021",
+      "citekey": "ohEffectsHeartRate2021",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jiyoung",
+          "lastName": "Oh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Haengwoo",
+          "lastName": "Lee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Heykyung",
+          "lastName": "Park"
+        }
+      ],
+      "date": "2021-08-30",
+      "dateAdded": "2022-08-11T05:49:17Z",
+      "dateModified": "2022-08-11T05:49:17Z",
+      "issue": "17",
+      "itemID": 491,
+      "itemKey": "I78ESAZ3",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "IJERPH",
+      "key": "I78ESAZ3",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "9136",
+      "publicationTitle": "International Journal of Environmental Research and Public Health",
+      "relations": [],
+      "select": "zotero://select/library/items/I78ESAZ3",
+      "shortTitle": "Effects on Heart Rate Variability of Stress Level Responses to the Properties of Indoor Environmental Colors",
+      "tags": [],
+      "title": "Effects on Heart Rate Variability of Stress Level Responses to the Properties of Indoor Environmental Colors: A Preliminary Study",
+      "uri": "http://zotero.org/users/9698946/items/I78ESAZ3",
+      "url": "https://www.mdpi.com/1660-4601/18/17/9136",
+      "version": 1302,
+      "volume": "18"
     },
     {
       "DOI": "10.1080/19488300.2011.609524",
@@ -3828,6 +4000,72 @@
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0277953697001093",
       "version": 1118,
       "volume": "45"
+    },
+    {
+      "DOI": "10.2486/indhealth.46.269",
+      "ISSN": "0019-8366, 1880-8026",
+      "abstractNote": "It is hypothesized that quantitative overload impacts psycho-physiological attributes of data-entry operators, although previous research has focused primarily on different aspects of VDT work, such as working time and environment, work station, keyboards and so forth. The objective of this study was to examine the influence on psycho-physiological responses of time pressure, task demand and their combined effect as underlying causes of quantitative overload while typing. A total of 12 subjects completed four 1-h typing tasks representing two levels of time pressure and task demand. Levels were manipulated by requiring participants to achieve a least number of character strings during each block, and by changing the number of letters in the character strings. Outcomes were measured in subjective assessment of workload, performance-related and physiological measures. Overall, increased time pressure increased perceived workload, productivity rate and heart rate, and decreased initial response time and typing duration. However, increased task demand increased error rate and initial response time with no change in heart rate. Heart rate variability did not indicate increased levels of time pressure or task demand. Quantitative overload as a consequence of time pressure and task demand influenced the subjective and psycho-physiological measures of data-entry operators to some extent.",
+      "accessDate": "2022-08-11T05:49:02Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-11T05:48:59Z",
+          "dateModified": "2022-08-11T05:49:02Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\HGCJHIS2\\Mazloum et al. - 2008 - Quantitative Overload a Source of Stress in Data-.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Mazloum et al. - 2008 - Quantitative Overload a Source of Stress in Data-.pdf",
+          "uri": "http://zotero.org/users/9698946/items/HGCJHIS2"
+        }
+      ],
+      "citationKey": "mazloumQuantitativeOverloadSource2008",
+      "citekey": "mazloumQuantitativeOverloadSource2008",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Adel",
+          "lastName": "Mazloum"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Masaharu",
+          "lastName": "Kumashiro"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hiroyuki",
+          "lastName": "Izumi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yoshiyuki",
+          "lastName": "Higuchi"
+        }
+      ],
+      "date": "2008",
+      "dateAdded": "2022-08-11T05:49:02Z",
+      "dateModified": "2022-08-11T05:49:02Z",
+      "issue": "3",
+      "itemID": 490,
+      "itemKey": "WFHLYUFU",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Ind Health",
+      "key": "WFHLYUFU",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "269-280",
+      "publicationTitle": "Industrial Health",
+      "relations": [],
+      "select": "zotero://select/library/items/WFHLYUFU",
+      "shortTitle": "Quantitative Overload",
+      "tags": [],
+      "title": "Quantitative Overload: a Source of Stress in Data-Entry VDT Work Induced by Time Pressure and Work Difficulty",
+      "uri": "http://zotero.org/users/9698946/items/WFHLYUFU",
+      "url": "http://www.jstage.jst.go.jp/article/indhealth/46/3/46_3_269/_article",
+      "version": 1299,
+      "volume": "46"
     },
     {
       "DOI": "10.1080/13594320500513939",
