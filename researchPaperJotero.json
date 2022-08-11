@@ -79,12 +79,11 @@
     "JY49GWIZ": {
       "collections": [],
       "items": [
-        485,
         487,
-        488,
         490,
         491,
-        495
+        501,
+        503
       ],
       "key": "JY49GWIZ",
       "name": "Factors creating stress in experiment",
@@ -415,7 +414,7 @@
       "title": "The role of time pressure on the emotional Stroop task",
       "uri": "http://zotero.org/users/9698946/items/53NEM8WK",
       "url": "http://doi.wiley.com/10.1348/000712601162293",
-      "version": 1309,
+      "version": 1321,
       "volume": "92"
     },
     {
@@ -3076,6 +3075,59 @@
       "version": 409
     },
     {
+      "DOI": "10.1348/000712601162293",
+      "ISSN": "00071269",
+      "accessDate": "2022-08-11T07:34:25Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-11T07:34:22Z",
+          "dateModified": "2022-08-11T07:34:25Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\J5SE4BCK\\Sharma and McKenna - 2001 - The role of time pressure on the emotional Stroop .pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Sharma and McKenna - 2001 - The role of time pressure on the emotional Stroop .pdf",
+          "uri": "http://zotero.org/users/9698946/items/J5SE4BCK"
+        }
+      ],
+      "citationKey": "sharmaRoleTimePressure2001a",
+      "citekey": "sharmaRoleTimePressure2001a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Dinkar",
+          "lastName": "Sharma"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Frank P.",
+          "lastName": "McKenna"
+        }
+      ],
+      "date": "08/2001",
+      "dateAdded": "2022-08-11T07:34:25Z",
+      "dateModified": "2022-08-11T07:34:25Z",
+      "issue": "3",
+      "itemID": 501,
+      "itemKey": "N2ECI9H5",
+      "itemType": "journalArticle",
+      "key": "N2ECI9H5",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "471-481",
+      "publicationTitle": "British Journal of Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/N2ECI9H5",
+      "tags": [],
+      "title": "The role of time pressure on the emotional Stroop task",
+      "uri": "http://zotero.org/users/9698946/items/N2ECI9H5",
+      "url": "http://doi.wiley.com/10.1348/000712601162293",
+      "version": 1319,
+      "volume": "92"
+    },
+    {
       "abstractNote": "Stress is a physiological and psychological pressure perceived by an individual that placing himself/herself in a risk, both physically and mentally. The research objective of this research is to find out whether the level of technology competence and workload has an impact on employee performance through technostress as an intervening variable. The respondents of this study were 138 people whom work at Production and Engineering department of a multinational company using automation technology equipment in operation. A technique of data collection was done by using questionaire and interviews. Data was analysed using the SEM (Structural Equation Modelling) approach. From the research it can be concluded that the workload and competence level of automation technology had significant impact to technostress. Further, the study also shows a significant relationships between workload and employee performance which the Technostress acts as an intervening variable in the relationship.",
       "attachments": [],
       "citationKey": "ImpactTechnostressEndUser",
@@ -3918,6 +3970,75 @@
       "volume": "12"
     },
     {
+      "DOI": "10.1007/s00421-002-0611-7",
+      "ISSN": "1439-6319, 1439-6327",
+      "accessDate": "2022-08-11T07:35:23Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-11T07:35:20Z",
+          "dateModified": "2022-08-11T07:35:23Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\7IAZA6TX\\J. et al. - 2002 - Influence of time pressure and verbal provocation .pdf",
+          "relations": [],
+          "tags": [],
+          "title": "J. et al. - 2002 - Influence of time pressure and verbal provocation .pdf",
+          "uri": "http://zotero.org/users/9698946/items/7IAZA6TX"
+        }
+      ],
+      "citationKey": "j.InfluenceTimePressure2002a",
+      "citekey": "j.InfluenceTimePressure2002a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Wahlstr&#x000F6;m",
+          "lastName": "J."
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hagberg",
+          "lastName": "M."
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Johnson",
+          "lastName": "P."
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Svensson",
+          "lastName": "J."
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rempel",
+          "lastName": "D."
+        }
+      ],
+      "date": "2002-7-1",
+      "dateAdded": "2022-08-11T07:35:23Z",
+      "dateModified": "2022-08-11T07:35:23Z",
+      "issue": "3",
+      "itemID": 503,
+      "itemKey": "UF7469KL",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "European Journal of Applied Physiology",
+      "key": "UF7469KL",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "257-263",
+      "publicationTitle": "European Journal of Applied Physiology",
+      "relations": [],
+      "select": "zotero://select/library/items/UF7469KL",
+      "tags": [],
+      "title": "Influence of time pressure and verbal provocation on physiological and psychological reactions during work with a computer mouse",
+      "uri": "http://zotero.org/users/9698946/items/UF7469KL",
+      "url": "http://link.springer.com/10.1007/s00421-002-0611-7",
+      "version": 1323,
+      "volume": "87"
+    },
+    {
       "ISBN": "978-3-030-49043-0 978-3-030-49044-7",
       "accessDate": "2022-06-23T14:16:54Z",
       "attachments": [],
@@ -4713,7 +4834,7 @@
       "title": "Can Exposure to Certain Urban Green Spaces Trigger Frontal Alpha Asymmetry in the Brain?—Preliminary Findings from a Passive Task EEG Study",
       "uri": "http://zotero.org/users/9698946/items/YU4Q5IT7",
       "url": "https://www.mdpi.com/1660-4601/17/2/394",
-      "version": 1294,
+      "version": 1327,
       "volume": "17"
     },
     {
