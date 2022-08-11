@@ -134,7 +134,8 @@
         58,
         171,
         176,
-        187
+        187,
+        498
       ],
       "key": "ZPLRV3KN",
       "name": "Technostress and Workload",
@@ -1144,6 +1145,74 @@
       "tags": [],
       "uri": "http://zotero.org/users/9698946/items/E8XVD2N6",
       "version": 119
+    },
+    {
+      "DOI": "10.1145/3329189.3329235",
+      "ISBN": "978-1-4503-6126-2",
+      "accessDate": "2022-08-11T06:47:59Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-11T06:48:00Z",
+          "dateModified": "2022-08-11T06:48:00Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\QNNVR2FL\\Alsuraykh et al_2019_How Stress and Mental Workload are Connected.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Alsuraykh et al_2019_How Stress and Mental Workload are Connected.pdf",
+          "uri": "http://zotero.org/users/9698946/items/QNNVR2FL"
+        }
+      ],
+      "citationKey": "alsuraykhHowStressMental2019a",
+      "citekey": "alsuraykhHowStressMental2019a",
+      "conferenceName": "PervasiveHealth'19: The 13th International Conference on Pervasive Computing Technologies for Healthcare",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Norah H.",
+          "lastName": "Alsuraykh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Max L.",
+          "lastName": "Wilson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Paul",
+          "lastName": "Tennent"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sarah",
+          "lastName": "Sharples"
+        }
+      ],
+      "date": "2019-05-20",
+      "dateAdded": "2022-08-11T06:47:59Z",
+      "dateModified": "2022-08-11T06:48:05Z",
+      "itemID": 498,
+      "itemKey": "FBX2N5DR",
+      "itemType": "conferencePaper",
+      "key": "FBX2N5DR",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "371-376",
+      "place": "Trento Italy",
+      "publicationTitle": "Proceedings of the 13th EAI International Conference on Pervasive Computing Technologies for Healthcare",
+      "publisher": "ACM",
+      "relations": [],
+      "select": "zotero://select/library/items/FBX2N5DR",
+      "tags": [
+        {
+          "tag": "1"
+        }
+      ],
+      "title": "How Stress and Mental Workload are Connected",
+      "uri": "http://zotero.org/users/9698946/items/FBX2N5DR",
+      "url": "https://dl.acm.org/doi/10.1145/3329189.3329235",
+      "version": 1317
     },
     {
       "attachments": [],
