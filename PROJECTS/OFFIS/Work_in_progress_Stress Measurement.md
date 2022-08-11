@@ -16,6 +16,7 @@ kanban-plugin: basic
 
 ## Reinforcement Learning
 
+- [ ] Make the API function
 
 
 ## EEG ECG Eye Tracking Methodology
