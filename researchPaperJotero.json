@@ -3947,6 +3947,67 @@
       "volume": "69"
     },
     {
+      "DOI": "10.3390/ijerph18179136",
+      "ISSN": "1660-4601",
+      "abstractNote": "Color is the most potent stimulating factor affecting human vision, and the environmental color of an indoor space is a spatial component that affects the environmental stress level. As one of the methods of assessing the physiological response of the autonomic nervous system that influences stress, heart rate variability (HRV) has been utilized as a tool for measuring the user’s stress response in color environments. This study aims to identify the effects of the changes of hue, brightness, and saturation in environmental colors on the HRV of two groups with different stress levels—the stress potential group (n = 15) and the healthy group (n = 12)—based on their stress level indicated by the Psychosocial Well-being Index (PWI). The ln(LF), ln(HF), and RMSSD values collected during the subjects’ exposure to 12 environments colors of red and yellow with adjusted saturation and brightness, were statistically analyzed using t-test and two-way ANOVA. The results show that the HRV values in the two groups did not significantly vary in response to the changes in hue, brightness and saturation. The two groups’ stress factors distinguished according to the stress levels by the PWI scale affected the In(LF) parameter, which demonstrates that the PWI index can be utilized as a reliable scale for measuring stress levels. The ultra-short HRV measurement record and the use of a sole In(LF) parameter for stress assessment are regarded as the limitations of this study.",
+      "accessDate": "2022-08-11T06:17:41Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-11T06:17:46Z",
+          "dateModified": "2022-08-11T06:17:46Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\6EAP5BGV\\Oh et al_2021_Effects on Heart Rate Variability of Stress Level Responses to the Properties.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Oh et al_2021_Effects on Heart Rate Variability of Stress Level Responses to the Properties.pdf",
+          "uri": "http://zotero.org/users/9698946/items/6EAP5BGV"
+        }
+      ],
+      "citationKey": "ohEffectsHeartRate2021a",
+      "citekey": "ohEffectsHeartRate2021a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jiyoung",
+          "lastName": "Oh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Haengwoo",
+          "lastName": "Lee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Heykyung",
+          "lastName": "Park"
+        }
+      ],
+      "date": "2021-08-30",
+      "dateAdded": "2022-08-11T06:17:41Z",
+      "dateModified": "2022-08-11T06:17:41Z",
+      "issue": "17",
+      "itemID": 496,
+      "itemKey": "VZWUKJDM",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "IJERPH",
+      "key": "VZWUKJDM",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "9136",
+      "publicationTitle": "International Journal of Environmental Research and Public Health",
+      "relations": [],
+      "select": "zotero://select/library/items/VZWUKJDM",
+      "shortTitle": "Effects on Heart Rate Variability of Stress Level Responses to the Properties of Indoor Environmental Colors",
+      "tags": [],
+      "title": "Effects on Heart Rate Variability of Stress Level Responses to the Properties of Indoor Environmental Colors: A Preliminary Study",
+      "uri": "http://zotero.org/users/9698946/items/VZWUKJDM",
+      "url": "https://www.mdpi.com/1660-4601/18/17/9136",
+      "version": 1313,
+      "volume": "18"
+    },
+    {
       "DOI": "10.1016/S0277-9536(97)00109-3",
       "ISSN": "02779536",
       "accessDate": "2022-08-08T10:20:12Z",
