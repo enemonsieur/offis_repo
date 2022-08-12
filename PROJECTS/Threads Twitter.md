@@ -24,8 +24,8 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 # Organize your notes
 For years I've been looking for solutions to my 1000s highlights in books, 100s of notes in 5 different apps
 If you also struggle to organize your notes to make publishing content easier, here's what worked for me:
-1. Make your notes future proof: As @fortelabs said: Your job when collecting notes is to convince your future self that they are worth rereading. So copy-paste and highlights aren't gonna cut off. Make a quick summary of every important article/book you saved.
-2. 
+1. Make your notes future proof. As @fortelabs said: Your job  is to convince your future self that your old notes are worth rereading. So copy-paste and highlights aren't gonna cut off. Make a quick summary of every important article/book you saved.
+2. Collect what resonates at a deeper level: The more notes, links, highlights you have on a subject, the less likely you're to distill them later. And often, there's 
 *It doesn't matter how motivated you are. If you consistently publish content everyone ignores... eventually you'll give up. No one can sustain content creation without having some true wins.*
 - temps pour écrire chaque contenu
 - Ne pas voir ses vues monter
