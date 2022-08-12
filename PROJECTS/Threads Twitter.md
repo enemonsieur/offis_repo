@@ -22,7 +22,8 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 
 - The only metric you need is volume: Forget about planning workout, lifting to failure, monitoring your heartbeat. After trying all of this, I found out that only VOLUME predicts your progrees
 - If want a sexy healthy body, whether you bench press 3* per week or do push ups don't matter. As long as you're doing a little more: reps, sets, weights, over the course of weeks, you ARE making progress
-- If you wanna loose weight, as long as you're running a little more, distance, longer,
+- If you wanna loose weight, as long as you're running a little more, distance, longer, you are burning more calories
+- 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
 For years I've been looking for solutions to my 1000s highlights in books, 100s of notes in 5 different apps
