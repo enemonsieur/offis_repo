@@ -27,7 +27,7 @@ If you also struggle to organize your notes to make publishing content easier, h
 1. Make your notes future proof.
 	1. As @fortelabs said: Your job is to convince your future self that your old notes are worth rereading. So copy-paste and highlights aren't gonna cut off. Make a quick summary of every important article/book you saved.
 	2. There's nothing as discouraging as taking a glance at your past notes and wondering what the fuck you were thinking. This is the fastest way to never look at your notes. That's why you have to make a quick summary of every snippet you take. Convince your future self your notes are worth rereading.
-2. Collect what resonates at a deeper level: The more notes, links, highlights you have on a subject, the less likely you're to distill them later. That's why you have to raise your level of "important information"
+2. Collect what resonates at a deeper level: The more notes, links, highlights you have on a subject, the less likely you're to distill them later. So 
 Only take what:
 *It doesn't matter how motivated you are. If you consistently publish content everyone ignores... eventually you'll give up. No one can sustain content creation without having some true wins.*
 - temps pour écrire chaque contenu
