@@ -1,4 +1,5 @@
 Whats our profits per month?
 - Can you measure with your CRM, if leads progress through our funnel?
 - what's the piece of content you can be famous for? You can reuse again and again to attract clients
-	- 
+-  Où est ce que Ro peut aller pour parler avec sa cible et connaitreleur  problèmes et leur pain points? Régulièrement ? Ex: Foires, les endroits ou Anne Ndame se réunit, ou vont les gens qui cherchent des expériences uniques, sont gourmandes de nouveautés made in Cameroon et discutent?
+- How can I ask about the pain points of Anne ndame on a regular basis?
