@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "marathon",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6847ef6816785da9",
+  "active": "b5245d75518b9d87",
   "lastOpenFiles": [
     "PROJECTS/Marketing Confiotes/1PMP course.md",
     "PROJECTS/Threads Twitter.md",
