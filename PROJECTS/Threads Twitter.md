@@ -32,6 +32,7 @@ Value Hook: I've been running a youtube channel for 3 years now. And everytime I
 - Le travail d'un créateur de contenu est de digérer toutes ses lectures en informations facile à absorber pour ses lecteurs. On a beau s'organiser, on se retrouve à abandonner beaucoup de notes, livres surlignés, liens de blogs dans nos apps. 
 Ces quelques idées vont t'aider à prendre de meilleures notes pour créer du contenu: 
 - <>Créé des notes à l'épreuve du futur: Ca m'arrive très souvent de prendre des notes, revenir les lires et de me dire: Qu'est ce que l'ancien moi avait dans le crâne ?
+- Parfois je regarde mes anciennes notes sur des sujets comme la neuroscience de l'attention soutenue, et c'est tellement touffu que je n'ai aucune envie de me retaper la lecture. Lorsqu'on résume du contenu, il doit pouvoir convaincre le futur toi qu'il est utile et il faudrait <> 
 Les notes qu'on prend doivent être suffisamment 
 **As a content creator, my job is to constantly turn articles, youtube videos and books I read into insights for your audience.** Instead, I always research materials only when I'm creating a video and usually can't keep up for more than a few weeks.
 
