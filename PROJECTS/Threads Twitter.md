@@ -22,7 +22,9 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
-For years I've been looking for solutions to my 1000s highlights in books, 100s of notes in 5 different apps.
+For years I've been looking for solutions to my 1000s highlights in books, 100s of notes in 5 different apps
+If you also struggle to organize your notes to make publishing content easier, here's what worked for me:
+1. 
 *It doesn't matter how motivated you are. If you consistently publish content everyone ignores... eventually you'll give up. No one can sustain content creation without having some true wins.*
 - temps pour écrire chaque contenu
 - Ne pas voir ses vues monter
