@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Marketing Confiotes/1PMP course.md",
+            "file": "PROJECTS/Threads Twitter.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "marathon",
+                "query": "twitter",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Marketing Confiotes/1PMP course.md",
+                "file": "PROJECTS/Threads Twitter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,8 @@
   },
   "active": "6847ef6816785da9",
   "lastOpenFiles": [
-    "AREAS/Sport/half marathon training.md",
     "PROJECTS/Marketing Confiotes/1PMP course.md",
+    "AREAS/Sport/half marathon training.md",
     "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
     "PROJECTS/Threads Twitter.md",
     "AREAS/grey matters/Building a second brain - Tiago Forte.md",
