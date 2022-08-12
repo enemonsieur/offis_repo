@@ -13,13 +13,16 @@ The reason why it took me so long to have a decent body is the same why no one i
 
 In this thread I'm gonna explain how you can stick to a sport schedule not for weeks, but forever without hating yourself. 
 
-As Dr Eric Helms said, the most important thing in training is convinience. Most people follow the workouts because they have to and don't enjoy it. **I never liked football nor Basketball even though everybody think I play basket. I discovered muscu 6 years ago accidently and it perfectly meshed with my life and objectives**:
+As Dr Eric Helms said, the most important thing in training is convinience. Most people follow the workouts because they have to and don't enjoy it. **I never liked football nor Basketball even though everybody think I play basket// I tried basketball multiple times because I'm tall and hated it. I discovered muscu 6 years ago and I never stoped accidently and it perfectly meshed with my life and objectives**:
 - Pushing you through your limits
 - Clear ways of measuring progres
 - Very science-based
 - Make me feel more focus
 Had one of them have not be present, I'd have gave up in a month. If you have a sport you enjoy, just get better at it and your health will take care of itself. FOcus on the sport you like. Your health will take care of itself. 
 
+- The only metric you need is volume: Forget about planning workout, lifting to failure, monitoring your heartbeat. After trying all of this, I found out that only VOLUME predicts your progrees
+- If want a sexy healthy body, whether you bench press 3* per week or do push ups don't matter. As long as you're doing a little more: reps, sets, weights, over the course of weeks, you ARE making progress
+- If you wanna loose weight, as long as you're running a little more, distance, longer,
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
 For years I've been looking for solutions to my 1000s highlights in books, 100s of notes in 5 different apps
