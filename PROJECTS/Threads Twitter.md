@@ -23,7 +23,10 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
 *It doesn't matter how motivated you are. If you consistently publish content everyone ignores... eventually you'll give up. No one can sustain content creation without having some true wins.*
-
+- temps pour écrire chaque contenu
+- Ne pas voir ses vues monter
+- Prendre des semaines à faire des recherches pour un article qui n'int´resse ersonne
+- Comment créer un calendrier de publication
 Value Hook: I've been running a youtube channel for 3 years now. And everytime I stop because  cant stick to a publishing content: **I spend a long time creating good videos that get no vues so I'm discouraged**, I create small content that I have to do very often but publishing that often demands a lot of focus, and a point life gets in and I can't get back on track. I've been looking for ways to finally **stick to a publishing content (ANY publishing content)** until I read the book Building a second Brain by Tiago Forte. It doesn't only give me a framework to take better notes, but **a solution for all of the thousands of highlights, notes and links that I've been accumulating in 30+ apps (and never rea**d), to move them from raw material all the way to publishable content. All of that while spending the minimal amount of time organizing.
 
 **As a content creator, my job is to constantly turn articles, youtube videos and books I read into insights for your audience.** Instead, I always research materials only when I'm creating a video and usually can't keep up for more than a few weeks.
