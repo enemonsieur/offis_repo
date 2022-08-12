@@ -27,9 +27,11 @@ If you also struggle to organize your notes to make publishing content easier, h
 1. Make your notes future proof.
 	1. As @fortelabs said: Your job is to convince your future self that your old notes are worth rereading. So copy-paste and highlights aren't gonna cut off. Make a quick summary of every important article/book you saved.
 	2. There's nothing as discouraging as taking a glance at your past notes and wondering what the fuck you were thinking. This is the fastest way to never look at your notes. That's why you have to make a quick summary of every snippet you take. Convince your future self your notes are worth rereading.
-2. Collect what resonates at a deeper level: The more notes, links, highlights you have on a subject, the more your mind works to find the hide gems. So only take the insights that makes your heart pound. How about the others? you can always comeback to them within a few clicks!
-3. Intermediate packages: If you consistently publish content everyone ignores,  you'll give up. Instead,  publish small intermediate parts of your projects to test how your ideas resonate with your audience. After a while you get a lot of approved-intermediate packages that you can fuse into a full-legnth article/video.
-4. Bonus tip: See when you send a link to an article to friends and they ignore it? Net time try to summarize the main points of it before.
+	3. Collect what resonates at a deeper level:
+		The more notes, links, highlights you have on a subject, the more your mind works to find the hide gems. So only take the insights that makes your heart pound. How about the others? you can always comeback to them within a few clicks! 
+			1. Highlight a lot of parts of a book. Give them a quick glance 1 or 2 days later: Most of those "interesting ideas" suddently don't matter because only the best ideas tend to stick 1 or 2 days in your head. Why not cut the middle man out? If you collect only the most heartpounding insights, you won't be exhausted everytime your looking for an idea into your notes.
+1. Intermediate packages: If you consistently publish content everyone ignores,  you'll give up. Instead,  publish small intermediate parts of your projects to test how your ideas resonate with your audience. After a while you get a lot of approved-intermediate packages that you can fuse into a full-legnth article/video.
+2. Bonus tip: See when you send a link to an article to friends and they ignore it? Net time try to summarize the main points of it before.
 	1. They will be more interested, because they'll know what there is to learn here
 	2. You'll make a easy to grasp note your future-self will use. 
 Only take what:
