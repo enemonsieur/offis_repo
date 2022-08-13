@@ -14,4 +14,4 @@ Whats our profits per month?
 I started your course 1PMP and I have a problem: Course help M1 L3 : Where can I find journals or facebook groups for my industry?
 
 AVATAR
-How can you become Anne Ndame, what
+	How can you become Anne Ndame, what are the elements you need to write to become Anne Ndame
