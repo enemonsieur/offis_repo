@@ -6,3 +6,6 @@ Whats our profits per month?
 - https://www.patrontequila.com/cocktails/bartenders/jason-littrell.html check the USP of this guy and see what to take
 - Demande à Ro : Si on ne fait pas les confiotes, qu'est ce qu'on peut faire ? Comment on peut pivoter?
 - Look for a lot of journal industries for drinks and nutrition in africa
+	- Hello Allan, 
+
+I started your course 1PMP and I have a problem: Course help M1 L3 : Where can I find journals or facebook groups for my industry?
