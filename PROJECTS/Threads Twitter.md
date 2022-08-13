@@ -76,6 +76,9 @@ After dozens of books read, I believe it's the most important.
 Here are the 5 lessons that made me make marketing my top priority
 
 # Listening to music
+
+^f24b97
+
 Thread on listening to music for focus
 Thread sur la lecture et pourquoi lacher les livres - Most of the time if I find it hard to find time/energy to read, its because no book excites me. 
 Dump that shit. 
