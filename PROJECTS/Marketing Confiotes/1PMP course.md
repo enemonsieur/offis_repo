@@ -5,3 +5,4 @@ Whats our profits per month?
 - How can I ask about the pain points of Anne ndame on a regular basis?
 - https://www.patrontequila.com/cocktails/bartenders/jason-littrell.html check the USP of this guy and see what to take
 - Demande à Ro : Si on ne fait pas les confiotes, qu'est ce qu'on peut faire ? Comment on peut pivoter?
+- Look for a lot of journal industries for drinks and nutrition in africa
