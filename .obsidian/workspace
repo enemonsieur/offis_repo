@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/Les Confiotes/Writing Copies.md",
+            "file": "AREAS/grey matters/Work in Progress.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/Les Confiotes/Writing Copies.md",
+                "file": "AREAS/grey matters/Work in Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "6847ef6816785da9",
   "lastOpenFiles": [
-    "AREAS/Sport/muscu.md",
+    "AREAS/Les Confiotes/Writing Copies.md",
+    "AREAS/grey matters/Work in Progress.md",
     "PROJECTS/Videos Tiktok.md",
+    "AREAS/Sport/muscu.md",
     "PROJECTS/Marketing Confiotes/1PMP course.md",
     "PROJECTS/Threads Twitter.md",
     "AREAS/Sport/half marathon training.md",
     "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
     "AREAS/grey matters/Building a second brain - Tiago Forte.md",
-    "AREAS/grey matters/Work in Progress.md",
-    "AREAS/grey matters/ADHD research.md",
-    "AREAS/Learning Machine Learning/220620_1_BCI class.md"
+    "AREAS/grey matters/ADHD research.md"
   ]
 }
