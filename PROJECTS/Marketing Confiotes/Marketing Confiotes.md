@@ -1,4 +1,6 @@
 	 [[Threads Twitter#^37edb4]]
+# Competitors Ads
+https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&q=amarula&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped&search_type=keyword_unordered&media_type=all
 
 MARKETING PLAN
 # Before
