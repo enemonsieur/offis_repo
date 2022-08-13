@@ -6,6 +6,12 @@ Whats our profits per month?
 - https://www.patrontequila.com/cocktails/bartenders/jason-littrell.html check the USP of this guy and see what to take
 - Demande à Ro : Si on ne fait pas les confiotes, qu'est ce qu'on peut faire ? Comment on peut pivoter?
 - Look for a lot of journal industries for drinks and nutrition in africa
-	- Hello Allan, 
+- Look for vendors targetting Anne Ndame and millenials,
+- Regarde chez les: distributeursm le srestaurants et les mixologues qu'est ce qui est fait de mieux
+- News sur le made in Cameroon (Hilaire doit avoir des infos courantes sur le MIC)
+- Look for events in the MIC (for Ro)
 
 I started your course 1PMP and I have a problem: Course help M1 L3 : Where can I find journals or facebook groups for my industry?
+
+AVATAR
+How can you become Anne Ndame, what
