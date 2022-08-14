@@ -30,7 +30,11 @@ As a content creator, your #1 job is to keep turning everything you read, watch,
 Here are 3 key ideas from Tiago Forte to never be out of material again: 
 
 MAKE YOUR NOTES FUTURE PROOF
+There are 2 versions of you: One that will jot some ideas while reading a book, and your future-self that will have to figure out what the hell you were trying to say. 
+Always do a quick summary of every material to convince him that they are worth rereading
 
+COLLECT WHAT RESONATES
+Usually you'll highlights the interesting parts of a book, give'em a quick glance days later and reali
 For years I've been looking for solutions to my 1000s highlights in books, 100s of notes in 5 different apps
 If you also struggle to organize your notes to make publishing content easier, here's what worked for me:
 1. Make your notes future proof.
