@@ -26,6 +26,11 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 - 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
+As a content creator, your #1 job is to keep turning everything you read, watch, listen into publishing material. Unfortunately most of us wait until they have a concrete project to work on. 
+Here are 3 key ideas from Tiago Forte to never be out of material again: 
+
+MAKE YOUR NOTES FUTURE PROOF
+
 For years I've been looking for solutions to my 1000s highlights in books, 100s of notes in 5 different apps
 If you also struggle to organize your notes to make publishing content easier, here's what worked for me:
 1. Make your notes future proof.
