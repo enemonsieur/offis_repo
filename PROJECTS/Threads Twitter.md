@@ -38,7 +38,7 @@ Usually when reading a book we highlight way to many parts. And even when we rer
  Learn to only capture them, and you'll make your note-taking system more efficient. 
 
 INTERMEDIATE PACKAGES
-
+Instead of spending 10s of hours creating something and get no likes, share small bites on a regular
 For years I've been looking for solutions to my 1000s highlights in books, 100s of notes in 5 different apps
 If you also struggle to organize your notes to make publishing content easier, here's what worked for me:
 1. Make your notes future proof.
