@@ -26,6 +26,8 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 - 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
+ Learn to only capture them, and you'll make your note-taking system more efficient. 
+ 
 As a content creator, your #1 job is to keep turning everything you read, watch, listen into publishing material. Unfortunately most of us wait until they have a concrete project to work on. 
 Here are 3 key ideas from Tiago Forte to never be out of material again: 
 
@@ -35,11 +37,10 @@ Always do a quick summary of every material to convince future-you that they are
 
 COLLECT WHAT RESONATES
 Usually when reading a book we highlight way to many parts. And even when we reread them, very few stand out. This is because only 2-3 ideas usually resonate on a deeper level with you. 
- Learn to only capture them, and you'll make your note-taking system more efficient. 
- If you only collect the heart-pounding insights, you'll have fewer notes to reread but much more though-provoking for your audience
+ If you only collect the heart-pounding insights, you'll have fewer notes to navigate but  more though-provoking for your audience
  
 INTERMEDIATE PACKAGES
-Instead of spending 10s of hours on an article and get no likes, share small bites on a regular basis. Those packages help you test your idea and get get fast-feedback. Therefore you know what works
+Instead of spending 10s of hours on an article and get no likes, share small bites on a regular basis. This gives you feedback on what ideas will flop or work. ou can test your idea and get get fast-feedback on what works. By the time yY
 For years I've been looking for solutions to my 1000s highlights in books, 100s of notes in 5 different apps
 If you also struggle to organize your notes to make publishing content easier, here's what worked for me:
 1. Make your notes future proof.
