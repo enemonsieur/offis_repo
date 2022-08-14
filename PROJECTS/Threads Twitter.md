@@ -34,7 +34,7 @@ There are 2 versions of you: One that will jot some ideas while reading a book, 
 Always do a quick summary of every material to convince him that they are worth rereading
 
 COLLECT WHAT RESONATES
-Usually you'll highlights the interesting parts of a book, give'em a quick glance days later and reali
+Usually when reading a book we highlight way to many parts. And even when we reread them, very few stand out. This is because there are usually 2-3 ideas that truly resonate on a deeper level with you.
 For years I've been looking for solutions to my 1000s highlights in books, 100s of notes in 5 different apps
 If you also struggle to organize your notes to make publishing content easier, here's what worked for me:
 1. Make your notes future proof.
