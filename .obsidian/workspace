@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/Sport/half marathon training.md",
+            "file": "AREAS/Les Confiotes/Innovations Confiotes.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/Sport/half marathon training.md",
+                "file": "AREAS/Les Confiotes/Innovations Confiotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "6847ef6816785da9",
   "lastOpenFiles": [
+    "AREAS/Sport/half marathon training.md",
     "AREAS/Building a second brain - Tiago Forte.md",
     "AREAS/Les Confiotes/Work In Progres - Confiotes.md",
     "PROJECTS/Threads Twitter.md",
@@ -121,7 +122,6 @@
     "AREAS/Les Confiotes/Tâches Confiotes.md",
     "AREAS/Les Confiotes/Writing Copies.md",
     "AREAS/Learning Machine Learning/220620_1_BCI class.md",
-    "AREAS/grey matters/Building a second brain - Tiago Forte.md",
-    "AREAS/grey matters/ADHD research.md"
+    "AREAS/grey matters/Building a second brain - Tiago Forte.md"
   ]
 }

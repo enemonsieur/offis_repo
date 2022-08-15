@@ -5,3 +5,4 @@
 - Prendre RDV avec Laurianne
 - Créer un contenu qui pousse les gens à interagir
 - Hilaire: Créer des thèmes extravagants
+- Catalogue: Inviter les clients à essayer nos products en commandant une dégustation personnalisée. Un mixologue
