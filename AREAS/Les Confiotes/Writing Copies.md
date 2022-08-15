@@ -13,3 +13,5 @@ How should the copies of Les Confiotes be?
 Look for multiple copies like that, not jsut because it's a good trianing but because there's no way you can get better if you don't train by that as much as possible. You and the team. Look for every good headlines for liquor and stuffs just lije us. Look for things that confirm the structure of the book copycriting
 (Reading the Handbook for copywriting)
 	Look for ads of your top competitor, and how to implement them
+
+- 3 keys to write good 
