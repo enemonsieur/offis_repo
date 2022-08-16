@@ -17,8 +17,25 @@ AVATAR
 Georges - TChococam
 Christophe Mitemba
 Hermine B.
+Chantal B.
+Koffi
+Emmanuel Tampon
+Auberlin
+Emmanuel Tala
+Patti Sende
+Ousmanou
+Sam Bassè
+Pascal Emako
+Presly
+Myriam Tolen
 
 
 Manuella Priso
 Leila Tsatcou
 Marcelle Mbomo
+Cedric Obounou
+Alain Didier
+Paul Areil Kombou
+Dorette Ntamack
+Annick
+Habiba
