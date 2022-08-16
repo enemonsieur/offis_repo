@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Writing Copies.md",
+            "file": "AREAS/Sport/half marathon training.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1pmp",
+                "query": "Fast finish",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Writing Copies.md",
+                "file": "AREAS/Sport/half marathon training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +112,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a964cfb5b2f8a24",
+  "active": "6847ef6816785da9",
   "lastOpenFiles": [
+    "PROJECTS/Writing Copies.md",
     "AREAS/Les Confiotes/Innovations Confiotes.md",
     "AREAS/Sport/half marathon training.md",
     "AREAS/Building a second brain - Tiago Forte.md",
@@ -120,7 +122,6 @@
     "PROJECTS/Threads Twitter.md",
     "AREAS/Les Confiotes/MVP etiquette confiotes.md",
     "AREAS/Les Confiotes/Tâches Confiotes.md",
-    "PROJECTS/Writing Copies.md",
     "AREAS/Learning Machine Learning/220620_1_BCI class.md",
     "AREAS/grey matters/Building a second brain - Tiago Forte.md"
   ]
