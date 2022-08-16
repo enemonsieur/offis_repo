@@ -7,9 +7,11 @@
         "id": "6847ef6816785da9",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md"
+            "file": "PROJECTS/Marketing Confiotes/Marketing Coucu.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
+                "file": "PROJECTS/Marketing Confiotes/Marketing Coucu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +113,8 @@
   },
   "active": "6847ef6816785da9",
   "lastOpenFiles": [
+    "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
+    "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
     "AREAS/Sport/half marathon training.md",
     "PROJECTS/Writing Copies.md",
     "AREAS/Les Confiotes/Innovations Confiotes.md",
@@ -118,8 +122,6 @@
     "AREAS/Les Confiotes/Work In Progres - Confiotes.md",
     "PROJECTS/Threads Twitter.md",
     "AREAS/Les Confiotes/MVP etiquette confiotes.md",
-    "AREAS/Les Confiotes/Tâches Confiotes.md",
-    "AREAS/Learning Machine Learning/220620_1_BCI class.md",
-    "AREAS/grey matters/Building a second brain - Tiago Forte.md"
+    "AREAS/Les Confiotes/Tâches Confiotes.md"
   ]
 }
