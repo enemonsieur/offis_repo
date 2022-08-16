@@ -84,7 +84,8 @@
         491,
         501,
         503,
-        524
+        524,
+        530
       ],
       "key": "JY49GWIZ",
       "name": "Factors creating stress in experiment",
@@ -1110,6 +1111,56 @@
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S1386505615000635",
       "version": 466,
       "volume": "84"
+    },
+    {
+      "DOI": "10.1016/0013-4694(72)90162-9",
+      "ISSN": "00134694",
+      "abstractNote": "Cortical habituation response (CHR) to constant stimuli has been investigated. The amount of alpha recovery after the onset of the stimulus is taken to be a quantitative measure of the response habituation of the central nervous system. The present study was designed to investigate whether the CHR is affected by the variation of the stimulus wave length, specifically, whether CHR is delayed more under red light than under blue light.",
+      "accessDate": "2022-08-16T10:00:03Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-16T09:59:39Z",
+          "dateModified": "2022-08-16T10:00:03Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\GRWXAA57\\Ali - 1972 - Pattern of EEG recovery under photic stimulation b.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Ali - 1972 - Pattern of EEG recovery under photic stimulation b.pdf",
+          "uri": "http://zotero.org/users/9698946/items/GRWXAA57"
+        }
+      ],
+      "citationKey": "aliPatternEEGRecovery1972",
+      "citekey": "aliPatternEEGRecovery1972",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "M.R",
+          "lastName": "Ali"
+        }
+      ],
+      "date": "9/1972",
+      "dateAdded": "2022-08-16T10:00:03Z",
+      "dateModified": "2022-08-16T10:00:03Z",
+      "issue": "3",
+      "itemID": 530,
+      "itemKey": "DANA93VB",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Electroencephalography and Clinical Neurophysiology",
+      "key": "DANA93VB",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "332-335",
+      "publicationTitle": "Electroencephalography and Clinical Neurophysiology",
+      "relations": [],
+      "select": "zotero://select/library/items/DANA93VB",
+      "tags": [],
+      "title": "Pattern of EEG recovery under photic stimulation by light of different colors",
+      "uri": "http://zotero.org/users/9698946/items/DANA93VB",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/0013469472901629",
+      "version": 1370,
+      "volume": "33"
     },
     {
       "DOI": "10.1109/TAFFC.2019.2927337",
