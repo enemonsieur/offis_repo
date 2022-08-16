@@ -12,6 +12,8 @@ kanban-plugin: basic
 - [ ] [[Found  20 articles relevant to stress factors]]
 - [ ] Not found: Journal studies of stress factors
 - [ ] Todo: Isolate the study with the factors most relevants to the expirment
+- [ ] Find article on Light flashes
+- [ ] Find articles on Color Red vs Black on stress
 
 
 ## Reinforcement Learning
