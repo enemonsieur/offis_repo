@@ -39,3 +39,5 @@ Paul Areil Kombou
 Dorette Ntamack
 Annick
 Habiba
+
+Comment faire que ces clients viennent régulièremnet au coffee- Qu'Est ce qu'on peut faire. 
