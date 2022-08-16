@@ -85,7 +85,9 @@
         501,
         503,
         524,
-        530
+        530,
+        531,
+        533
       ],
       "key": "JY49GWIZ",
       "name": "Factors creating stress in experiment",
@@ -3368,6 +3370,27 @@
       "version": 1160
     },
     {
+      "charset": "",
+      "contentType": "application/pdf",
+      "dateAdded": "2022-08-16T10:12:05Z",
+      "dateModified": "2022-08-16T10:12:05Z",
+      "defaultPath": "files/531/Color Research   Application - 2015 - AL‐Ayash - The influence of color on student emotion  heart rate  and performance in.pdf",
+      "filename": "Color Research   Application - 2015 - AL‐Ayash - The influence of color on student emotion  heart rate  and performance in.pdf",
+      "itemID": 531,
+      "itemKey": "Q9UKSRLG",
+      "itemType": "attachment",
+      "key": "Q9UKSRLG",
+      "libraryID": 1,
+      "linkMode": "imported_file",
+      "localPath": "C:\\Users\\ene Monsieur\\Zotero\\storage\\Q9UKSRLG\\Color Research   Application - 2015 - AL‐Ayash - The influence of color on student emotion  heart rate  and performance in.pdf",
+      "relations": [],
+      "select": "zotero://select/library/items/Q9UKSRLG",
+      "tags": [],
+      "title": "Color Research   Application - 2015 - AL‐Ayash - The influence of color on student emotion  heart rate  and performance in.pdf",
+      "uri": "http://zotero.org/users/9698946/items/Q9UKSRLG",
+      "version": 1372
+    },
+    {
       "attachments": [
         {
           "dateAdded": "2022-06-30T15:11:10Z",
@@ -4069,6 +4092,77 @@
       "url": "https://www.mdpi.com/2076-3425/11/1/102",
       "version": 536,
       "volume": "11"
+    },
+    {
+      "DOI": "10.1016/j.displa.2014.03.002",
+      "ISSN": "01419382",
+      "abstractNote": "The aim of the study was to investigate the effect of various character and background colour combinations on cognitive performance during onscreen searching tasks and to identify the best combinations with a multimodal approach of physiological (eye movement recording), subjective and performance data collection. In the absence of proper character and background colour combination the optimum performance for a cognitive task is greatly affected which in turn affects the productivity of the individual worker or communications among the operators working under the same network through information sharing. This study was designed by selecting six colours, i.e., white, black, yellow, red, blue, and green and subsequently combining them to 16 character and background colour combinations for a searching task. Right and left headed arrows were used as the character for the searching maneuver. Forty-four (N = 44) volunteers participated in the experiments. Various eye movement variables, legibility rating scale, NASA-TLX questionnaire, searching time and percentage of error were recorded. Subjects performed better wherever a good contrast was there because of a high legibility. A poorly contrasted display affected the physiological variables as well as subjective responses to negative directions. Among the combinations of dark character/light background, blue and red character on white background is highly recommended; and while that for light character/dark background, white is found to be the best character on blue and green backgrounds.",
+      "accessDate": "2022-08-16T10:15:29Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-16T10:15:20Z",
+          "dateModified": "2022-08-16T10:15:30Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\KSEEXXJ4\\Bhattacharyya et al. - 2014 - Selection of characterbackground colour combinati.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Bhattacharyya et al. - 2014 - Selection of characterbackground colour combinati.pdf",
+          "uri": "http://zotero.org/users/9698946/items/KSEEXXJ4"
+        }
+      ],
+      "citationKey": "bhattacharyyaSelectionCharacterBackground2014",
+      "citekey": "bhattacharyyaSelectionCharacterBackground2014",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Debojyoti",
+          "lastName": "Bhattacharyya"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bodhisattwa",
+          "lastName": "Chowdhury"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tirthankar",
+          "lastName": "Chatterjee"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Madhusudan",
+          "lastName": "Pal"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dhurjati",
+          "lastName": "Majumdar"
+        }
+      ],
+      "date": "07/2014",
+      "dateAdded": "2022-08-16T10:15:29Z",
+      "dateModified": "2022-08-16T10:15:29Z",
+      "issue": "3",
+      "itemID": 533,
+      "itemKey": "TZKAIPU9",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Displays",
+      "key": "TZKAIPU9",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "101-109",
+      "publicationTitle": "Displays",
+      "relations": [],
+      "select": "zotero://select/library/items/TZKAIPU9",
+      "shortTitle": "Selection of character/background colour combinations for onscreen searching tasks",
+      "tags": [],
+      "title": "Selection of character/background colour combinations for onscreen searching tasks: An eye movement, subjective and performance approach",
+      "uri": "http://zotero.org/users/9698946/items/TZKAIPU9",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0141938214000195",
+      "version": 1375,
+      "volume": "35"
     },
     {
       "DOI": "10.3389/fpsyg.2021.655148",
