@@ -28,7 +28,7 @@ Sam Bassè
 Pascal Emako
 Presly
 Myriam Tolen
-
+Nicole Lipaim
 
 Manuella Priso
 Leila Tsatcou
