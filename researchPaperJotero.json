@@ -4582,7 +4582,7 @@
       ],
       "date": "2008",
       "dateAdded": "2022-08-11T05:49:02Z",
-      "dateModified": "2022-08-11T05:49:02Z",
+      "dateModified": "2022-08-16T10:48:10Z",
       "issue": "3",
       "itemID": 490,
       "itemKey": "WFHLYUFU",
@@ -4598,7 +4598,11 @@
       "relations": [],
       "select": "zotero://select/library/items/WFHLYUFU",
       "shortTitle": "Quantitative Overload",
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Distill"
+        }
+      ],
       "title": "Quantitative Overload: a Source of Stress in Data-Entry VDT Work Induced by Time Pressure and Work Difficulty",
       "uri": "http://zotero.org/users/9698946/items/WFHLYUFU",
       "url": "http://www.jstage.jst.go.jp/article/indhealth/46/3/46_3_269/_article",
