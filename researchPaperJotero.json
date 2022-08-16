@@ -2115,7 +2115,7 @@
       ],
       "date": "2021-08-30",
       "dateAdded": "2022-08-11T05:49:17Z",
-      "dateModified": "2022-08-11T05:49:17Z",
+      "dateModified": "2022-08-16T10:34:16Z",
       "issue": "17",
       "itemID": 491,
       "itemKey": "I78ESAZ3",
@@ -2131,7 +2131,11 @@
       "relations": [],
       "select": "zotero://select/library/items/I78ESAZ3",
       "shortTitle": "Effects on Heart Rate Variability of Stress Level Responses to the Properties of Indoor Environmental Colors",
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Distill"
+        }
+      ],
       "title": "Effects on Heart Rate Variability of Stress Level Responses to the Properties of Indoor Environmental Colors: A Preliminary Study",
       "uri": "http://zotero.org/users/9698946/items/I78ESAZ3",
       "url": "https://www.mdpi.com/1660-4601/18/17/9136",
@@ -4295,7 +4299,7 @@
       ],
       "date": "2002-7-1",
       "dateAdded": "2022-08-11T07:35:23Z",
-      "dateModified": "2022-08-11T07:35:23Z",
+      "dateModified": "2022-08-16T10:37:04Z",
       "issue": "3",
       "itemID": 503,
       "itemKey": "UF7469KL",
@@ -4310,7 +4314,11 @@
       "publicationTitle": "European Journal of Applied Physiology",
       "relations": [],
       "select": "zotero://select/library/items/UF7469KL",
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Distill"
+        }
+      ],
       "title": "Influence of time pressure and verbal provocation on physiological and psychological reactions during work with a computer mouse",
       "uri": "http://zotero.org/users/9698946/items/UF7469KL",
       "url": "http://link.springer.com/10.1007/s00421-002-0611-7",
