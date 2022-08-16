@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Marketing Confiotes/1PMP course.md",
+            "file": "PROJECTS/Marketing Confiotes/Marketing Coucu.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Marketing Confiotes/1PMP course.md",
+                "file": "PROJECTS/Marketing Confiotes/Marketing Coucu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "6847ef6816785da9",
   "lastOpenFiles": [
+    "PROJECTS/Marketing Confiotes/1PMP course.md",
     "PROJECTS/Marketing Confiotes/Marketing Coucu.md",
     "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
     "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
@@ -121,7 +122,6 @@
     "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
     "PROJECTS/OFFIS/220627_1 differences between type of stress 1.md",
     "PROJECTS/OFFIS/25032022_NASA TLX.md",
-    "PROJECTS/OFFIS/25032022_Measuring stress.md",
-    "PROJECTS/OFFIS/stress differences understanding.md"
+    "PROJECTS/OFFIS/25032022_Measuring stress.md"
   ]
 }
