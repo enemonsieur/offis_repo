@@ -19,3 +19,21 @@ Look for multiple copies like that, not jsut because it's a good trianing but be
 
 # Attention
 It's the no.1 priority of every copy
+Cold email has an open rate of 14-23%
+
+How can you enhance the 1st impression of your copy?
+- front cover for the catalogue
+- First 20s of a video (even first 6)
+- Headline+visual
+
+
+The headline is the most important element in most advertisements. It is the telegram which decides whether the  
+reader will read the copy.  
+On average, five times as many people read the headline as read the body copy. When you have written your  
+headline, you have spent eighty cents out of your dollar.  
+If you haven’t done some selling in your headline, you have wasted 80 percent of your client’s money.  
+Ogilvy says that putting a new headline on an existing ad has increased the selling power of the ad tenfold. I  
+have experienced similar results. What is it that makes one headline a failure and the other a success?  
+Many copywriters fall into the trap of believing that clever wordplay, puns, and “cute” copy make for a good  
+headline. But think a minute. When you make a purchase, do you want to be amused by the sales clerk? Or do  
+you want to know that you’re getting quality merchandise at a reasonable price?
