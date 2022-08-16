@@ -83,7 +83,8 @@
         490,
         491,
         501,
-        503
+        503,
+        524
       ],
       "key": "JY49GWIZ",
       "name": "Factors creating stress in experiment",
@@ -617,6 +618,65 @@
       "url": "http://www.tandfonline.com/doi/abs/10.1080/19488300.2011.609524",
       "version": 396,
       "volume": "1"
+    },
+    {
+      "DOI": "10.1109/IEMBS.2005.1616646",
+      "ISBN": "978-0-7803-8741-6",
+      "accessDate": "2022-08-16T09:52:55Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-16T09:52:46Z",
+          "dateModified": "2022-08-16T09:52:56Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\FIKHM3DF\\Abbas et al. - 2005 - The Psychological and Physiological Effects of Lig.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Abbas et al. - 2005 - The Psychological and Physiological Effects of Lig.pdf",
+          "uri": "http://zotero.org/users/9698946/items/FIKHM3DF"
+        }
+      ],
+      "citationKey": "abbasPsychologicalPhysiologicalEffects2005",
+      "citekey": "abbasPsychologicalPhysiologicalEffects2005",
+      "conferenceName": "2005 IEEE Engineering in Medicine and Biology 27th Annual Conference",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "N.",
+          "lastName": "Abbas"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "D.",
+          "lastName": "Kumar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "N.",
+          "lastName": "Mclachlan"
+        }
+      ],
+      "date": "2005",
+      "dateAdded": "2022-08-16T09:52:55Z",
+      "dateModified": "2022-08-16T09:52:55Z",
+      "itemID": 524,
+      "itemKey": "9GQAPWSC",
+      "itemType": "conferencePaper",
+      "key": "9GQAPWSC",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "1228-1231",
+      "place": "Shanghai, China",
+      "publicationTitle": "2005 IEEE Engineering in Medicine and Biology 27th Annual Conference",
+      "publisher": "IEEE",
+      "relations": [],
+      "select": "zotero://select/library/items/9GQAPWSC",
+      "tags": [],
+      "title": "The Psychological and Physiological Effects of Light and Colour on Space Users",
+      "uri": "http://zotero.org/users/9698946/items/9GQAPWSC",
+      "url": "http://ieeexplore.ieee.org/document/1616646/",
+      "version": 1351
     },
     {
       "DOI": "10.1016/j.paid.2020.110083",
@@ -2182,6 +2242,80 @@
       "url": "https://www.tandfonline.com/doi/full/10.2753/MIS0742-1222270311",
       "version": 108,
       "volume": "27"
+    },
+    {
+      "DOI": "10.1088/0967-3334/29/7/008",
+      "ISSN": "0967-3334, 1361-6579",
+      "accessDate": "2022-08-16T09:54:38Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-16T09:54:34Z",
+          "dateModified": "2022-08-16T09:54:38Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\EZ9HX6GH\\Sandercock et al. - 2008 - Association between RR interval and high-frequency.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Sandercock et al. - 2008 - Association between RR interval and high-frequency.pdf",
+          "uri": "http://zotero.org/users/9698946/items/EZ9HX6GH"
+        }
+      ],
+      "citationKey": "sandercockAssociationRRInterval2008a",
+      "citekey": "sandercockAssociationRRInterval2008a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gavin",
+          "lastName": "Sandercock"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Valerie",
+          "lastName": "Gladwell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Samantha",
+          "lastName": "Dawson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Nunan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Brodie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ralph",
+          "lastName": "Beneke"
+        }
+      ],
+      "date": "2008-07-01",
+      "dateAdded": "2022-08-16T09:54:38Z",
+      "dateModified": "2022-08-16T09:54:38Z",
+      "issue": "7",
+      "itemID": 528,
+      "itemKey": "J6W5GE6M",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Physiol. Meas.",
+      "key": "J6W5GE6M",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "795-802",
+      "publicationTitle": "Physiological Measurement",
+      "relations": [],
+      "select": "zotero://select/library/items/J6W5GE6M",
+      "tags": [],
+      "title": "Association between RR interval and high-frequency heart rate variability acquired during short-term, resting recordings with free and paced breathing",
+      "uri": "http://zotero.org/users/9698946/items/J6W5GE6M",
+      "url": "https://iopscience.iop.org/article/10.1088/0967-3334/29/7/008",
+      "version": 1361,
+      "volume": "29"
     },
     {
       "attachments": [],
@@ -4711,6 +4845,80 @@
       "url": "http://link.springer.com/10.1007/s00420-018-1352-1",
       "version": 118,
       "volume": "92"
+    },
+    {
+      "DOI": "10.1088/0967-3334/29/7/008",
+      "ISSN": "0967-3334, 1361-6579",
+      "accessDate": "2022-08-16T09:54:08Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-16T09:54:05Z",
+          "dateModified": "2022-08-16T09:54:08Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\N76K4NSP\\Sandercock et al. - 2008 - Association between RR interval and high-frequency.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Sandercock et al. - 2008 - Association between RR interval and high-frequency.pdf",
+          "uri": "http://zotero.org/users/9698946/items/N76K4NSP"
+        }
+      ],
+      "citationKey": "sandercockAssociationRRInterval2008",
+      "citekey": "sandercockAssociationRRInterval2008",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gavin",
+          "lastName": "Sandercock"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Valerie",
+          "lastName": "Gladwell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Samantha",
+          "lastName": "Dawson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Nunan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Brodie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ralph",
+          "lastName": "Beneke"
+        }
+      ],
+      "date": "2008-07-01",
+      "dateAdded": "2022-08-16T09:54:08Z",
+      "dateModified": "2022-08-16T09:54:08Z",
+      "issue": "7",
+      "itemID": 526,
+      "itemKey": "YJV2MSSZ",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Physiol. Meas.",
+      "key": "YJV2MSSZ",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "795-802",
+      "publicationTitle": "Physiological Measurement",
+      "relations": [],
+      "select": "zotero://select/library/items/YJV2MSSZ",
+      "tags": [],
+      "title": "Association between RR interval and high-frequency heart rate variability acquired during short-term, resting recordings with free and paced breathing",
+      "uri": "http://zotero.org/users/9698946/items/YJV2MSSZ",
+      "url": "https://iopscience.iop.org/article/10.1088/0967-3334/29/7/008",
+      "version": 1363,
+      "volume": "29"
     },
     {
       "DOI": "10.1016/j.ergon.2021.103193",
