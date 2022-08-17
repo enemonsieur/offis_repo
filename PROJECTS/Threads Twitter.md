@@ -58,10 +58,15 @@ INTERMEDIATE PACKAGES
 Sometimes you spend 10s of hours on an article that flops. You never  know what your audience wants and it can be demotivating. A better strategy is to publish small bites of some ideas, see what sticks with them, and use the feedback to make them even more convincing. 
 
 After a while, you have:
-1. Higher 
+1. approved intermediate packages you can directly turn into a full-lenght content
+2. much more motivation because you only had to make small bets.
 
-Faster, not discourage
+
 BONUS TIP: 
+I hate it when I share an interesting video to my friends and they plain out ignore it. If you feel concerned, you can apply these ideas as well:
+Add a quick summary of the key points of what you share to give them a stronger reason to risk their attention clicking on the link. 
+If they still don't respond, at least you still have a futur
+
 Next time you want your friends to read some article/video you found, summarize its key points. They'll be more likely to click and see. If they don't, you still have a futureproofed note ready to be turn into content later. 
 
 For years I've been looking for solutions to my 1000s highlights in books, 100s of notes in 5 different apps
