@@ -62,10 +62,11 @@ After a while, you have:
 2. much more motivation because you only had to make small bets.
 
 
-BONUS TIP: 
-I hate it when I share an interesting video to my friends and they plain out ignore it. If you feel concerned, you can apply these ideas as well:
-Add a quick summary of the key points of what you share to give them a stronger reason to risk their attention clicking on the link. 
-If they still don't respond, at least you still have a futureproofed note ready to be turn into content later. 
+BONUS TIP:
+Ever shared a video that your friends ignored?
+Do this next time:
+Give them a stronger reason to click by adding a quick summary of the key points of the video.
+If they still don't respond, you still have a futureproofed note ready to be turned into content later.
 
 Next time you want your friends to read some article/video you found, summarize its key points. They'll be more likely to click and see. If they don't, you still have a futureproofed note ready to be turn into content later. 
 
