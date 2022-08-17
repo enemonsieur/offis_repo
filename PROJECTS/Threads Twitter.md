@@ -48,10 +48,11 @@ The solution is to summarize the main points of every snippets you add. This red
 COLLECT IDEAS THAT RESONATE
 
 In any content you're consuming, there are always 1 or 2 key insights. But they usually get buried in all the highlights, notes, and links we save.
-Instead, learn to collect only what resonates deeply with you. Toss the rest. You can always find it later.
+Instead, learn to collect only what makes you think: "Oh. I wasn't ready for that" 
 
-Exemple: Though provoking ideas, proof on a concept, stories you can reuse
-Don't believe me? Next time you finish a book, put it down for a couple of weeks, then reread your notes on it. Chances are only 1 or 2 ideas really stand out. 
+
+What if I miss something important? Well, key ideas tends to stick in your brain for 1-2 days. This is plenty of time to go back and add those informations.
+This make your system full of high-quality notes. 
 
 INTERMEDIATE PACKAGES
 Instead of spending 10s of hours on an article and get no likes, share small bites on a regular basis. By checking the view, likes, you start to understand which ideas are worth digging though. And after a while you can fuse those approved-intermediate packages into a full article. 
