@@ -27,14 +27,24 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
 The top 1% bloggers maintain a quality-rich publishing schedule year round. They do that by constantly  turning every content they come accross into meaningful material. 
-Here are 3 powerful ideas by @fortelabs
+Here are 3 powerful ideas by @fortelabs to create a  content-creating system, without feeling overwhelmed.
+
+
 
  Learn to only capture them, and you'll make your note-taking system more efficient. 
  
-As a content creator, your #1 job is to keep turning everything you read, watch, listen into publishing material. Unfortunately most of us wait until they have a concrete project to work on. 
-Here are 3 key ideas from Tiago Forte to never be out of material again: 
+The top 1% bloggers maintain a quality-rich publishing schedule year-round. They do that by constantly turning every content they come across into meaningful material.
+Here are 3 powerful ideas by @fortelabs to create a content-creating system, without feeling overwhelmed.
 
 MAKE YOUR NOTES FUTURE PROOF
+
+There are two versions of you: present-you reads, highlights, takes notes...
+And future you, who will stumble upon those notes in a couple weeks, and try to figure out what the hell you were saying.
+But future you will be busy and distracted.
+
+	How do you convince him that this pile of notes and links are actually worth rereading? 
+Quickly summarize the main points of every article, video, chapters you read.
+
 There are 2 versions of you: One that will jot some ideas while reading a book, and your future-self that will have to figure out what the hell you were trying to say. 
 Always do a quick summary of every material to convince future-you they are worth rereading
 
