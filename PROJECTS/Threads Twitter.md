@@ -40,10 +40,11 @@ MAKE YOUR NOTES FUTURE PROOF
 
 There are two versions of you: present-you reads, highlights, takes notes...
 And future you, who will stumble upon those notes in a couple weeks, and try to figure out what the hell you were saying.
-But future you will be busy and distracted.
+This is a time-consuming activity, and that's why we rarely revise our notes.
 
-	How do you convince him that this pile of notes and links are actually worth rereading? 
-Quickly summarize the main points of every article, video, chapters you read.
+But if you summarize the main points of every snippets you add, then you make their context easy
+Your job is to  convince him that those snippets of information are actually worth rereading? 
+Simple: Summarize the main points of every content. Put them right before your notes. This gives future-
 
 There are 2 versions of you: One that will jot some ideas while reading a book, and your future-self that will have to figure out what the hell you were trying to say. 
 Always do a quick summary of every material to convince future-you they are worth rereading
