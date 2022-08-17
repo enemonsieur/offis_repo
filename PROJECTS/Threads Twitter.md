@@ -26,6 +26,7 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 - 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
+The top 1% bloggers maintain their publishing schedule 
  Learn to only capture them, and you'll make your note-taking system more efficient. 
  
 As a content creator, your #1 job is to keep turning everything you read, watch, listen into publishing material. Unfortunately most of us wait until they have a concrete project to work on. 

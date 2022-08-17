@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
+            "file": "PROJECTS/Threads Twitter.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fast finish",
+                "query": "twitter",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
+                "file": "PROJECTS/Threads Twitter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +114,7 @@
   },
   "active": "6847ef6816785da9",
   "lastOpenFiles": [
+    "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
     "PROJECTS/Marketing Confiotes/Marketing Coucu.md",
     "PROJECTS/Marketing Confiotes/1PMP course.md",
     "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
@@ -121,7 +123,6 @@
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
     "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md",
     "PROJECTS/OFFIS/220627_1 differences between type of stress 1.md",
-    "PROJECTS/OFFIS/25032022_NASA TLX.md",
-    "PROJECTS/OFFIS/25032022_Measuring stress.md"
+    "PROJECTS/OFFIS/25032022_NASA TLX.md"
   ]
 }
