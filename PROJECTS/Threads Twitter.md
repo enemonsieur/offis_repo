@@ -55,7 +55,11 @@ What if I miss something important? Well, key ideas tends to stick in your brain
 This make your system full of high-quality notes. 
 
 INTERMEDIATE PACKAGES
-Sometimes spending 10s of hours on an article and get little likes. This is because it's hard to know what ideas will speak to your audience. A better strategy is to publish small bites of some ideas, and use the feedback to digg start by testing its core insights to your audience. This By checking the view, likes, you start to understand which ideas are worth digging though. And after a while you can fuse those approved-intermediate packages into a full article. 
+Sometimes you spend 10s of hours on an article that flops. You never  know what your audience wants and it can be demotivating. A better strategy is to publish small bites of some ideas, see what sticks with them, and use the feedback to make them even more convincing. 
+
+After a while, you have:
+1. Higher 
+
 Faster, not discourage
 BONUS TIP: 
 Next time you want your friends to read some article/video you found, summarize its key points. They'll be more likely to click and see. If they don't, you still have a futureproofed note ready to be turn into content later. 
