@@ -42,17 +42,13 @@ There are two versions of you: present-you reads, highlights, takes notes...
 And future you, who will stumble upon those notes in a couple weeks, and try to figure out what the hell you were saying.
 This is a time-consuming activity, and that's why we rarely revise our notes.
 
-But if you summarize the main points of every snippets you add, then you make their context easy
-Your job is to  convince him that those snippets of information are actually worth rereading? 
-Simple: Summarize the main points of every content. Put them right before your notes. This gives future-
+The solution is to summarize the main points of every snippets you add. This reduce the effort future-you has to make to grasp the insights of your notes. Making it easy to look for past material when creating. 
 
-There are 2 versions of you: One that will jot some ideas while reading a book, and your future-self that will have to figure out what the hell you were trying to say. 
-Always do a quick summary of every material to convince future-you they are worth rereading
 
 COLLECT IDEAS THAT RESONATE
 Usually when reading a book we highlight way to many parts. And even when we reread them, very few stand out. This is because only 2-3 ideas usually resonate on a deeper level with you. 
  If you only collect the heart-pounding insights, you'll have fewer notes to navigate but  more though-provoking for your audience
- 
+Don't believe me? Next time you create a 
 INTERMEDIATE PACKAGES
 Instead of spending 10s of hours on an article and get no likes, share small bites on a regular basis. By checking the view, likes, you start to understand which ideas are worth digging though. And after a while you can fuse those approved-intermediate packages into a full article. 
 
