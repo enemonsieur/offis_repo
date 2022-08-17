@@ -46,11 +46,12 @@ The solution is to summarize the main points of every snippets you add. This red
 
 
 COLLECT IDEAS THAT RESONATE
-Usually when reading a book we highlight way to many parts. And even when we reread them, very few stand out. This is because only 2-3 ideas usually resonate on a deeper level with you. 
- If you only collect the heart-pounding insights, you'll have fewer notes to navigate but  more though-provoking for your audience
-In any content you're consuming, there are always 1 or 2 key insights. But they usually get buried in all the highlights, notes, links we save. 
-Instead, learn to collect only what resonate on a deeper
-Don't believe me? Next time you finish a book, put it down for a couple of weeks, then reread your notes on it. Chances are only 1 or 2 ideas really stand out.
+
+In any content you're consuming, there are always 1 or 2 key insights. But they usually get buried in all the highlights, notes, and links we save.
+Instead, learn to collect only what resonates deeply with you. Toss the rest. You can always find it later.
+
+Exemple: Though provoking ideas, proof on a concept, stories you can reuse
+Don't believe me? Next time you finish a book, put it down for a couple of weeks, then reread your notes on it. Chances are only 1 or 2 ideas really stand out. 
 
 INTERMEDIATE PACKAGES
 Instead of spending 10s of hours on an article and get no likes, share small bites on a regular basis. By checking the view, likes, you start to understand which ideas are worth digging though. And after a while you can fuse those approved-intermediate packages into a full article. 
