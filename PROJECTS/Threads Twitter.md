@@ -26,6 +26,40 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 - 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
+3 powerful ideas by @fortelabs to create a personal content usine without feeling overwhelmed.
+Thread👇🏿
+
+MAKE YOUR NOTES FUTURE PROOF
+
+There are two versions of you: present-you reads, highlights, takes notes...
+And future you, who will stumble upon those notes in a couple weeks, and try to figure out what the hell you were saying.
+This is a time-consuming activity, and that's why we rarely revise our notes.
+
+The solution is to summarize the main points of every snippet you add. This takes away the burden of digging the insights out of your notes. Making it easy for future-you to search past materials when creating. 
+
+
+COLLECT IDEAS THAT RESONATE
+
+In any content you're consuming, there are always 1 or 2 key insights. But they usually get buried in all the highlights, notes, and links we save.
+Instead, learn to collect only what makes you think: "Oh! I wasn't ready for that!" 
+
+But, what if I miss something important? Well, key ideas tend to stick in your brain for 1-2 days. This is plenty of time to go back and add that information.
+This makes your system full of high-quality notes. 
+
+INTERMEDIATE PACKAGES
+Sometimes you spend 10s of hours on an article that flops. You never know what your audience wants and it can be demotivating. A better strategy is to publish small bites of some ideas, see what sticks with them, and use the feedback to make them even more convincing. 
+
+After a while, you have:
+1. approved intermediate packages you can directly turn into a full-length content
+2. much more motivation because you only had to make small bets.
+
+
+BONUS TIP:
+Ever shared a video that your friends ignored?
+Do this next time:
+Give them a stronger reason to click by adding a quick summary of the key points of the video.
+If they still don't respond, you still have a futureproof note ready to be turned into content later.
+## old versions
 The top 1% bloggers maintain a quality-rich publishing schedule year round. They do that by constantly  turning every content they come accross into meaningful material. 
 Here are 3 powerful ideas by @fortelabs to create a  content-creating system, without feeling overwhelmed.
 

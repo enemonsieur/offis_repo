@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
+            "file": "PROJECTS/Threads Twitter.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
+                "file": "PROJECTS/Threads Twitter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b5245d75518b9d87",
+  "active": "6847ef6816785da9",
   "lastOpenFiles": [
-    "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
+    "PROJECTS/Writing Copies.md",
+    "PROJECTS/Videos Tiktok.md",
     "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
+    "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
     "PROJECTS/Threads Twitter.md",
     "AREAS/grey matters/Building a second brain - Tiago Forte.md",
     "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
     "PROJECTS/Marketing Confiotes/Marketing Coucu.md",
-    "PROJECTS/Marketing Confiotes/1PMP course.md",
-    "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
-    "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md"
+    "PROJECTS/Marketing Confiotes/1PMP course.md"
   ]
 }
