@@ -192,3 +192,4 @@ written as numerals. If you say “7 reasons why,” prospects want to know the 
 ad to learn them. Also ads and content written as lists, or “listicles,” which look more like editorial content, are
 You can use the How to
 ##  the 4U's formula
+ 
