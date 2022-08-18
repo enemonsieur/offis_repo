@@ -86,7 +86,6 @@
         503,
         524,
         530,
-        531,
         533
       ],
       "key": "JY49GWIZ",
@@ -3392,7 +3391,7 @@
       "tags": [],
       "title": "Color Research   Application - 2015 - AL‐Ayash - The influence of color on student emotion  heart rate  and performance in.pdf",
       "uri": "http://zotero.org/users/9698946/items/Q9UKSRLG",
-      "version": 1372
+      "version": 1412
     },
     {
       "attachments": [
@@ -5551,7 +5550,7 @@
     }
   ],
   "version": {
-    "bbt": "6.7.19",
+    "bbt": "6.7.21",
     "zotero": "6.0.10"
   }
 }
