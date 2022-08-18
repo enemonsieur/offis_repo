@@ -221,3 +221,8 @@ special report”? I rate it a 2. Specifying the topic would help (e.g., “Free
 2. What are the important features of the product?  
 3. Which of these features do competing products lack?   **(USP)**
 4. Why will the customer want to buy the product? (What product feature delivers the benefit most  important to him?)
+
+Ok. I answer tat shit. Then what? Well, fucker, then you: 
+1. write 6 to 8 headlines
+ Nothing good? 
+2. Create a list of words related to the product. Mix and match'em
