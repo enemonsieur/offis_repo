@@ -26,11 +26,12 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 - 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
+3 key ideas to share: 1. Most people never keep up a system because they don't care about it. 
 3 powerful ideas by @fortelabs to create a personal content usine without feeling overwhelmed.
 Thread👇🏿
 
 MAKE YOUR NOTES FUTURE PROOF
-
+The person you are when taking notes for a project, and the person
 There are two versions of you: present-you reads, highlights, takes notes...
 And future you, who will stumble upon those notes in a couple weeks, and try to figure out what the hell you were saying.
 This is a time-consuming activity, and that's why we rarely revise our notes.
