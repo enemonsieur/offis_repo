@@ -31,7 +31,7 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 2. The most important part of a publishing system is the note-taking system
 3. Today we have access to every sources possible. The real challenge is no longer to find good enough materials, but to filter only the most importants
 4. shortening the feedback loop of your content schedule is necessary if you want to defeat procrastination. Sustaining a publishing schedule demands that you have more rewards per period of time.
-5. The fastest way to create content is to
+5. The fastest way to create content is to reassamble smaller stand-alone piece of content, that you repetitevely tested. Because they shorten the time of creating content. Instead of having to write lengthy article, procrastinate, or risk being dissapointed because it flops.
 
 3 powerful ideas by @fortelabs to create a personal content usine without feeling overwhelmed.
 Thread👇🏿
