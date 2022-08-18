@@ -22,6 +22,12 @@ The RANOVAs showed significant differences between conditions on HR, SBP and DBP
 => The study saw no changes in the HRV (LF/HF ratio) between conditions with and without time pressure and verbal provocation. 
 
 
+mazloumQuantitativeOverloadSource2008
+A total of 12 subjects completed four 1-h typing tasks representing two levels of time pressure and task demand. Levels were manipulated by requiring participants to achieve a least number of character strings during each block, and by changing the number of letters in the character strings. Outcomes were measured in subjective assessment of workload, performance-related and physiological measures. Overall, increased time pressure increased perceived workload, productivity rate and heart rate, and decreased initial response time and typing duration. However, increased task demand increased error rate and initial response time with no change in heart rate. Heart rate variability did not indicate increased levels of time pressure or task demand.
+=> This study also show no correlation between time pressure and HRV
+
+In general, participants did perceive higher levels of overall workload (AWWL score, F (3, 44)=5.55, p=0.003) when typing 7-letter character strings under the time pressure condition (Table 1 and Fig. 1). Additionally, Post Hoc (Tukey HSD) tests revealed a higher level of workload induced by time pressure (p=0.005) or task demand (p<0.001) alone, as compared to the baseline level.
+=> But the percieved stress of participants increased in the 
 
 The level of environmental stress in subjects was investigated and analyzed to identify particular environmental color conditions that may negatively impact individuals’ stress levels. In this study, 27 subjects in their 20s who were identified to be vulnerable to stress but had healthy visual conditions and physical activities were included, and their HRVs were measured in color environment
 
