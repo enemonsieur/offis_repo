@@ -1,4 +1,8 @@
 	 [[Threads Twitter#^37edb4]]
+A faire: 
+- Checker leur Facebook
+- Appeler les Anne Ndame: trouver leur contenu
+- Créer 5 Contenus
 # Competitors Ads
 https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&q=amarula&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped&search_type=keyword_unordered&media_type=all
 
