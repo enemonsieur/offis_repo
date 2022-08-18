@@ -32,9 +32,11 @@ In general, participants did perceive higher levels of overall workload (AWWL sc
 bhattacharyyaSelectionCharacterBackground2014
 The aim of the study was to investigate the effect of various character and background colour combinations on cognitive performance (...)
 This study was designed by selecting six colours, i.e., white, black, yellow, red, blue, and green and subsequently combining them to 16 character and background colour combinations for a searching task. Right and left headed arrows were used as the character for the searching maneuver. Forty-four (N = 44) volunteers participated in the experiments.[...]Among the combinations of dark character/light background, blue and red character on white background is highly recommended; and while that for light character/dark background, white is found to be the best character on blue and green backgrounds.
-=>This study look at different combinations of colors on a black/white background to see which one increased the cognitive overload
+=>This study look at different combinations of colors on a black/white background to see which one increased the cognitive overload. The task is to identify arrows in a certain direction. Those arrows have different colors from the background
+	![[Pasted image 20220818115500.png]]
 
-In the present study it was noticed that in the presence of combinations with black and other colour pupil diameter increased uniformly compared to white and other colour combinations. However, it is not clear whether the increase in pupil diameter in the presence of black combinations was due to exposure of eye to lower illumination levels or due to the increased cognitive effort.
+it was noticed that in the presence of combinations with black and other colour pupil diameter increased uniformly compared to white and other colour combinations. However, it is not clear whether the increase in pupil diameter in the presence of black combinations was due to exposure of eye to lower illumination levels or due to the increased cognitive effort.
+=> Eye Tracker assessment show that with different colors combination show that Black BG + any coulour result in a big
 
 In the present study the YW and WY combinations received highest mental workload ratings (49.78 and 49.37 respectively) and the changes are significant. All other combinations received a comparatively lower mental workload rating.
 
