@@ -204,3 +204,20 @@ Bath Kits.”
 - Useful: The strong subject line appeals to the reader’s self-interest by offering a benefit. In the headline “An Invitation to Ski & Save,” the benefit is saving money.
 
 => Check how much does your headline does in all of those parts on a scale to 1 to 4. You gotta reach at least 9/16, with 3 or more on all of them. If they are, then the headline is clickbait. 
+
+## Example of a title that sucks balls
+A marketer wrote to tell me he had sent out a successful e-mail marketing campaign with **the subject line  “Free Special Report.**” How does this stack up against the 4 U’s? 
+
+• Urgent. There is no urgency or sense of timeliness. On a scale of 1 to 4, with 4 being the highest rating,  “Free Special Report” is a 1.  
+• Unique. Not every marketer offers a free special report, but a lot of them do. So “Free Special Report”  rates only a 2 in terms of uniqueness.  
+• Ultra-specific. Could the marketer have been less specific than “Free Special Report”? Yes, he could have just said “Free Bonus Gift.” So we rate “Free Special Report” a 2 instead of a • Useful. I suppose the reader is smart enough to figure that the report contains some helpful information.  On the other hand, the usefulness is in the specific information contained in the report, which isn’t even hinted  at in the headline. And does the recipient, who already has too much to read, really need yet another “free  
+special report”? I rate it a 2. Specifying the topic would help (e.g., “Free special report reveals how to cut  training costs up to 90% with e-learning”).
+
+
+
+
+## Struggle producing a Headline? Follow those steps:
+1. Who is my customer?  
+2. What are the important features of the product?  
+3. Which of these features do competing products lack?   **(USP)**
+4. Why will the customer want to buy the product? (What product feature delivers the benefit most  important to him?)
