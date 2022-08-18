@@ -18,7 +18,7 @@ These research results regarding the physiological response to environmental col
 Here, subjects were asked to work ‘‘as fast as possible’’ and a time constraint of 40 s was imposed to complete each page of text editing. If the subjects could not complete editing the page of text, they were verbally prompted to use the ‘‘page down’’ key on the keyboard and continue with the text-editing task ont he next page. Subjects were also verbally provoked every 15th s (e.g. ‘‘hurry up’’ or ‘‘come on, you can do it faster’’). The verbal provocationwas givenby the same test leader throughout the experiment (JS)
 => This study access the effect of verbal provocation (e.g. ‘‘hurry up’’ or ‘‘come on, you can do it faster’’) and time pressure  (40s) on HRV during task (text editing)
 
-The RANOVAs showed significant differences between conditions on HR, SBP and DBP, but not on the LF/HF ratio (Table 1 and Fig. 1).
+The RANOVAs showed significant differences between conditions on HR, SBP and DBP, but not on the LF/HF ratio (Table 1 and Fig. 1). There was also a significant effect of condition on the subjective ratings of stress and RPE proximally, but not on ratings of energy or RPE distally (Table 1).
 => The study saw no changes in the HRV (LF/HF ratio) between conditions with and without time pressure and verbal provocation. 
 
 
