@@ -4,11 +4,14 @@ alias: [stress factors HRV]
 ###### tags: #stressfactors  
 ###### links:  
 
+@ohEffectsHeartRate2021
  In this study, 27 subjects in their 20s who were identified to be vulnerable to stress but had healthy visual conditions and physical activities were included, and their HRVs were measured in color environment
 => Measuring the HRV in different color environment.
 
+Gerard [14] and Ali [15] conducted experiments to verify the effects of color light stimulation on electroencephalogram (EEG) and found that the recovery of alpha waves in EEG was more significant for red and blue colors. Nakshian [16] and Wilson [17] found a greater degree of electrodermal response hand tremors for red than green, indicating that the red color environment stimulates the ANS more significantly.
+=> EEG  measurement show red and blue color affect the stress response (longer alpha waves recovery)
 
-
+These research results regarding the physiological response to environmental color stimulation suggest that warm colors such as red and yellow stimulate the ANS to increase heart rate and skin conductivity response. By contrast, cool colors such as green and blue relax the ANS to reduce them
 
 
 
