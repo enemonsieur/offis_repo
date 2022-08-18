@@ -36,9 +36,12 @@ This study was designed by selecting six colours, i.e., white, black, yellow, re
 	![[Pasted image 20220818115500.png]]
 
 it was noticed that in the presence of combinations with black and other colour pupil diameter increased uniformly compared to white and other colour combinations. However, it is not clear whether the increase in pupil diameter in the presence of black combinations was due to exposure of eye to lower illumination levels or due to the increased cognitive effort.
-=> Eye Tracker assessment show that with different colors combination show that Black BG + any coulour result in a big
+=> Eye Tracker assessment show that  Black BG + any coulour result in a bigger pupil diameter compared to white BG + any colour. Pupil diameter could be associated to cognitve effort, which is relatively associated with stress
 
+The subjective responses were also considered by assessing the mental workload by applying NASA-TLX questionnaire [33]; [...]
 In the present study the YW and WY combinations received highest mental workload ratings (49.78 and 49.37 respectively) and the changes are significant. All other combinations received a comparatively lower mental workload rating.
+=> Mental workload assessment using NASA TLX show that Yellow arrow over White BG and vice versa show the highest mental workload increased (f-value of 49)
+
 
 
 
