@@ -27,7 +27,9 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
 3 key ideas to share:
-1. Most people never keep up a system because they don't care about it. 
+1. I want content creator to know why their publishing system is broken
+2. The most important part of a publishing system is the note taking system
+3. 
 3 powerful ideas by @fortelabs to create a personal content usine without feeling overwhelmed.
 Thread👇🏿
 
