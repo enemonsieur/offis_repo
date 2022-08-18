@@ -22,16 +22,15 @@ The RANOVAs showed significant differences between conditions on HR, SBP and DBP
 => The study saw no changes in the HRV (LF/HF ratio) between conditions with and without time pressure and verbal provocation. 
 
 
-## [[@mazloumQuantitativeOverloadSource2008
-A total of 12 subjects completed four 1-h typing tasks representing two levels of time pressure and task demand. Levels were manipulated by requiring participants to achieve a least number of character strings during each block, and by changing the number of letters in the character strings. Outcomes were measured in subjective assessment of workload, performance-related and physiological measures. Overall, increased time pressure increased perceived workload, productivity rate and heart rate, and decreased initial response time and typing duration. However, increased task demand increased error rate and initial response time with no change in heart rate. Heart rate variability did not indicate increased levels of time pressure or task demand.
+## @mazloumQuantitativeOverloadSource2008
+![[mazloumQuantitativeOverloadSource2008]]
 => This study also show no correlation between time pressure and HRV
 
 In general, participants did perceive higher levels of overall workload (AWWL score, F (3, 44)=5.55, p=0.003) when typing 7-letter character strings under the time pressure condition (Table 1 and Fig. 1). Additionally, Post Hoc (Tukey HSD) tests revealed a higher level of workload induced by time pressure (p=0.005) or task demand (p<0.001) alone, as compared to the baseline level.
 => But the percieved stress of participants increased in the time-pressure task. May be the mental load increased, but not their physiological stress
 
 ## bhattacharyyaSelectionCharacterBackground2014
-The aim of the study was to investigate the effect of various character and background colour combinations on cognitive performance (...)
-This study was designed by selecting six colours, i.e., white, black, yellow, red, blue, and green and subsequently combining them to 16 character and background colour combinations for a searching task. Right and left headed arrows were used as the character for the searching maneuver. Forty-four (N = 44) volunteers participated in the experiments.[...]Among the combinations of dark character/light background, blue and red character on white background is highly recommended; and while that for light character/dark background, white is found to be the best character on blue and green backgrounds.
+![[bhattacharyyaSelectionCharacterBackground2014]]
 =>This study look at different combinations of colors on a black/white background to see which one increased the cognitive overload. The task is to identify arrows in a certain direction. Those arrows have different colors from the background
 	![[Pasted image 20220818115500.png]]
 
@@ -41,14 +40,3 @@ it was noticed that in the presence of combinations with black and other colour 
 The subjective responses were also considered by assessing the mental workload by applying NASA-TLX questionnaire [33]; [...]
 In the present study the YW and WY combinations received highest mental workload ratings (49.78 and 49.37 respectively) and the changes are significant. All other combinations received a comparatively lower mental workload rating.
 => Mental workload assessment using NASA TLX show that Yellow arrow over White BG and vice versa show the highest mental workload increased (f-value of 49)
-
-
-
-
-The level of environmental stress in subjects was investigated and analyzed to identify particular environmental color conditions that may negatively impact individuals’ stress levels. In this study, 27 subjects in their 20s who were identified to be vulnerable to stress but had healthy visual conditions and physical activities were included, and their HRVs were measured in color environment
-
-Is the stress inducing factors has to be on a daily basis? Like specific things happening (change in work environment, working with a hard task) Or more global like LT satisfaction, lack of career advancement, or working with difficult collegues?
-- Are those factors related to our study? In the sense that we have to manipulate them to increase sense, or is it more of a review
-
-
-In the IS and the SS, the experimenter was unfriendly towards the colleagues and neutral/strict towards the participant (lack of support), the participant was monitored by a video camera (surveillance of the worker) and a memory test was included (cognitive aspect). In the CS the same keying task was performed but the imposed stressors were, as far as possible, eliminated. The experimenter was friendly and encouraging, there were no memory tests, and the camera was turned off. The computer work was externally paced during all three sessions (low control). The memory test consisted of recognition of words (Nilsson et al. [1997](https://link.springer.com/article/10.1007/s00421-004-1055-z#ref-CR30 "Nilsson LG, Baeckman L, Erngrund K, Nyberg L, Adolfsson R, Bucht G, Karlsson S, Widing M, Winblad B (1997) The Betula Prospective Cohort study: memory, health, and aging. Aging Neuropsychol Cogn 1:1–32")). The participants were presented with a list of 12 common words before the IS and the SS. Each word was in view for 2 s. The participants were instructed to remember as many words as possible, which they had to present to the video camera after the IS and SS.
