@@ -225,4 +225,4 @@ special report”? I rate it a 2. Specifying the topic would help (e.g., “Free
 Ok. I answer tat shit. Then what? Well, fucker, then you: 
 1. write 6 to 8 headlines
  Nothing good? 
-2. Create a list of words related to the product. Mix and match'em
+2 . Create a list of words related to the product. Mix and match'em
