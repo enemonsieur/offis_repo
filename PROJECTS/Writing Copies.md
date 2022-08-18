@@ -192,4 +192,15 @@ written as numerals. If you say “7 reasons why,” prospects want to know the 
 ad to learn them. Also ads and content written as lists, or “listicles,” which look more like editorial content, are
 You can use the How to
 ##  the 4U's formula
- 
+
+# 4U's: for clickbait headlines
+- Urgent: Make $100,000 working from home this year”  
+has a greater sense of urgency than “Make $100,000 working from home.” Once  
+the offer period is over, the offer is no longer available.
+- Unique:   
+The powerful headline either says something new or, if it says something the reader has heard  before, says it in a new and fresh way. For example, “Why Japanese women have beautiful skin” was the headline in an e-mail promoting a Japanese bath kit. This is different from the typical “Save 10% on Japanese  
+Bath Kits.”
+- Ultra-specific: Examples: “What never to eat on an airplane,” “Bills it’s okay to pay late, and “Best time to file for a tax refund.”
+- Useful: The strong subject line appeals to the reader’s self-interest by offering a benefit. In the headline “An Invitation to Ski & Save,” the benefit is saving money.
+
+=> Check how much does your headline does in all of those parts on a scale to 1 to 4. You gotta reach at least 9/16, with 3 or more on all of them. If they are, then the headline is clickbait. 
