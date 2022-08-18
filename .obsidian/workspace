@@ -7,9 +7,11 @@
         "id": "6847ef6816785da9",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md"
+            "file": "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
+                "file": "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +113,7 @@
   },
   "active": "6847ef6816785da9",
   "lastOpenFiles": [
+    "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
     "PROJECTS/Threads Twitter.md",
     "AREAS/grey matters/Building a second brain - Tiago Forte.md",
     "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
@@ -119,7 +122,6 @@
     "PROJECTS/OFFIS/220628_1_Stress_Questionnaire.md",
     "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
-    "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
     "PROJECTS/OFFIS/220627_1 difference stress technostress workload.md"
   ]
 }
