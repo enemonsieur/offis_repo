@@ -83,7 +83,6 @@
         491,
         501,
         503,
-        524,
         533
       ],
       "key": "JY49GWIZ",
@@ -4142,7 +4141,7 @@
       ],
       "date": "07/2014",
       "dateAdded": "2022-08-16T10:15:29Z",
-      "dateModified": "2022-08-16T10:15:29Z",
+      "dateModified": "2022-08-18T08:35:22Z",
       "issue": "3",
       "itemID": 533,
       "itemKey": "TZKAIPU9",
@@ -4158,11 +4157,15 @@
       "relations": [],
       "select": "zotero://select/library/items/TZKAIPU9",
       "shortTitle": "Selection of character/background colour combinations for onscreen searching tasks",
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Distill"
+        }
+      ],
       "title": "Selection of character/background colour combinations for onscreen searching tasks: An eye movement, subjective and performance approach",
       "uri": "http://zotero.org/users/9698946/items/TZKAIPU9",
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0141938214000195",
-      "version": 1375,
+      "version": 1441,
       "volume": "35"
     },
     {

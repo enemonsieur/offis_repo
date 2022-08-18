@@ -1,3 +1,20 @@
+---
+alias: [stress factors HRV]
+---
+###### tags: #stressfactors  
+###### links:  
+
+ In this study, 27 subjects in their 20s who were identified to be vulnerable to stress but had healthy visual conditions and physical activities were included, and their HRVs were measured in color environment
+=> Measuring the HRV in different color environment.
+
+
+
+
+
+
+
+The level of environmental stress in subjects was investigated and analyzed to identify particular environmental color conditions that may negatively impact individuals’ stress levels. In this study, 27 subjects in their 20s who were identified to be vulnerable to stress but had healthy visual conditions and physical activities were included, and their HRVs were measured in color environment
+
 Is the stress inducing factors has to be on a daily basis? Like specific things happening (change in work environment, working with a hard task) Or more global like LT satisfaction, lack of career advancement, or working with difficult collegues?
 - Are those factors related to our study? In the sense that we have to manipulate them to increase sense, or is it more of a review
 
