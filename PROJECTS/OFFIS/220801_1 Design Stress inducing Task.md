@@ -14,7 +14,7 @@ Gerard [14] and Ali [15] conducted experiments to verify the effects of color li
 These research results regarding the physiological response to environmental color stimulation suggest that warm colors such as red and yellow stimulate the ANS to increase heart rate and skin conductivity response. By contrast, cool colors such as green and blue relax the ANS to reduce them
 
 
-
+@j.InfluenceTimePressure2002a
 Here, subjects were asked to work ‘‘as fast as possible’’ and a time constraint of 40 s was imposed to complete each page of text editing. If the subjects could not complete editing the page of text, they were verbally prompted to use the ‘‘page down’’ key on the keyboard and continue with the text-editing task ont he next page. Subjects were also verbally provoked every 15th s (e.g. ‘‘hurry up’’ or ‘‘come on, you can do it faster’’). The verbal provocationwas givenby the same test leader throughout the experiment (JS)
 => This study access the effect of verbal provocation (e.g. ‘‘hurry up’’ or ‘‘come on, you can do it faster’’) and time pressure  (40s) on HRV during task (text editing)
 
