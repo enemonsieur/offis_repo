@@ -27,7 +27,12 @@ A total of 12 subjects completed four 1-h typing tasks representing two levels o
 => This study also show no correlation between time pressure and HRV
 
 In general, participants did perceive higher levels of overall workload (AWWL score, F (3, 44)=5.55, p=0.003) when typing 7-letter character strings under the time pressure condition (Table 1 and Fig. 1). Additionally, Post Hoc (Tukey HSD) tests revealed a higher level of workload induced by time pressure (p=0.005) or task demand (p<0.001) alone, as compared to the baseline level.
-=> But the percieved stress of participants increased in the 
+=> But the percieved stress of participants increased in the time-pressure task. May be the mental load increased, but not their physiological stress
+
+bhattacharyyaSelectionCharacterBackground2014
+The aim of the study was to investigate the effect of various character and background colour combinations on cognitive performance (...)
+This study was designed by selecting six colours, i.e., white, black, yellow, red, blue, and green and subsequently combining them to 16 character and background colour combinations for a searching task. Right and left headed arrows were used as the character for the searching maneuver. Forty-four (N = 44) volunteers participated in the experiments.[...]Among the combinations of dark character/light background, blue and red character on white background is highly recommended; and while that for light character/dark background, white is found to be the best character on blue and green backgrounds.
+
 
 The level of environmental stress in subjects was investigated and analyzed to identify particular environmental color conditions that may negatively impact individuals’ stress levels. In this study, 27 subjects in their 20s who were identified to be vulnerable to stress but had healthy visual conditions and physical activities were included, and their HRVs were measured in color environment
 
