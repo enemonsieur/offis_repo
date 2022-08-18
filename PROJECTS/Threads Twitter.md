@@ -26,6 +26,7 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 - 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
+![[Pasted image 20220818164128.png]]
 3 key ideas to share:
 1. I want content creator to know why their publishing system is broken
 2. The most important part of a publishing system is the note-taking system
