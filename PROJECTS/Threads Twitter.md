@@ -72,10 +72,11 @@ Thread👇🏿
 
 MAKE YOUR NOTES FUTURE PROOF
 Searching though past notes like () is often energy consuming.
-When you read your past notes like highlights, notes, pasted paragraphs or images... its often hard to dig out the important parts. 
-This is because we tend to forget what was interesting about them, as time passes by.
-*This is because most notes aren't future-proof:  Times burries their insights. By thetheir insights get burried in as you slowly forget about them.* 
-In consequence, we often stock a tons of notes we will never use.
+Digging out the key insights from your past notes (highlights, notes, copied paragraphs, articles...) is often mentally exhausting.
+
+This is because as time passes by, we  forget what we found interesting about them.
+
+As a result, we store tons of notes that are ultimately never used to create content.
 
 The solution: everytime you find an article interesting, summarize the main points so your future-you can quickly extract the relevant insights from them. Make your notes future-proof
 
