@@ -92,20 +92,21 @@ The best thoughts tend to stick in your brain for couple days. If you catch your
 
 INTERMEDIATE PACKAGES
 Sometimes you spend too many hours on an article that gets too little likes.
-You never seems to write what your audience wants and... You never know what your audience wants and it can be demotivating. A better strategy is to publish small bites of some ideas, see what sticks with them, and use the feedback to make them even more convincing. 
-Here's what you can do to publish faster while involving more followers: Test 
+Here's what you can do to publish quicker and get more involment: followers: 
 
-Break your article into key ideas. Quickly test  (Twitter, Tiktok, Quora...)
-After a while, you have:
+Every big content has a lot of points they convey. Turn few of them in intermediate content and share them, see how the audience reacts, and refine. 
+
+This helps you 
 1. approved intermediate packages you can directly turn into a full-length content
 **2. much more motivation because you only had to make small bets.**
 
+*You never seems to write what your audience wants and... You never know what your audience wants and it can be demotivating. A better strategy is to publish small bites of some ideas, see what sticks with them, and use the feedback to make them even more convincing.* 
 
 BONUS TIP:
 Ever shared a video that your friends ignored?
-Do this next time:
-Give them a stronger reason to click by adding a quick summary of the key points of the video.
-If they still don't respond, you still have a futureproof note ready to be turned into content later.
+
+Next ime, give them a stronger reason to click by adding a quick summary of the key points of the video.
+Even if they don't respond, you will have a futureproof note ready to be turned into content later.
 ## old versions
 The top 1% bloggers maintain a quality-rich publishing schedule year round. They do that by constantly  turning every content they come accross into meaningful material. 
 Here are 3 powerful ideas by @fortelabs to create a  content-creating system, without feeling overwhelmed.
