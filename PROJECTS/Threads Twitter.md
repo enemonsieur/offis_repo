@@ -33,8 +33,8 @@ Consistency.
 Here's how to hijack their process to build the ultimate publishing system
 Here's how to they turn every content they come accross into meaningful material
 
-**By the end of this thread you'll shift your mindsets to:
-1. Look through pages of notes in few minutes for insights
+**By the end of this thread you'll shift your mindset to:
+1. Review pages of notes in a few minutes instead of hours
 2. Research new materials 10 times faster
 3. Identify blockbusters before even start writing** 
 
@@ -82,6 +82,7 @@ The solution: everytime you find an article interesting, summarize the main poin
 
 
 COLLECT IDEAS THAT RESONATE
+In any video, book, article you read, 2-3 ideas 
 Another way to make your system more efficient is to only collect the 
 In any content you're consuming, there are always 1 or 2 key insights. But they usually get buried in all the highlights, notes, and links we save.
 Instead, learn to collect only what makes you think: "Oh! I wasn't ready for that!" 
