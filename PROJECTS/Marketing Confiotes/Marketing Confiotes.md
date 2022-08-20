@@ -3,6 +3,10 @@ A faire:
 - Checker leur Facebook
 - Appeler les Anne Ndame: trouver leur contenu
 - Créer 5 Contenus
+- Créér des messages pour les livraisons: 3 messages:
+1. Votre commande est en cours de traitement
+2. Livreur prend: Votre commande est en cours de livraison.
+3. Après la livraison: Vous avez bien recu la commande.
 # Competitors Ads
 https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&q=amarula&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped&search_type=keyword_unordered&media_type=all
 
