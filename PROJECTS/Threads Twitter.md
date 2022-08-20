@@ -27,7 +27,7 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
 ![[Pasted image 20220818164128.png]]
-As a content creator, nothing hurts me more than putting too much hours for too little people to see it.
+As a content creator, nothing hurts me like putting too much hours writing. for too little people to see it.
  
 Procrastination is not why you abandonned your blog.
 You don't give up on your blog because you procrastinated. You give up because:
