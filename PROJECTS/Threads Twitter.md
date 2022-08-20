@@ -33,7 +33,10 @@ Consistency.
 Here's how to hijack their process to build the ultimate publishing system
 Here's how to they turn every content they come accross into meaningful material
 
-
+By the end of the tweet you'll learn new mindsets to:
+1. Look through pages of notes in few minutes for insights
+2. Research new materials 10 times faster
+3. 
 
 1. They don't create every post from scratch. If anything, the more they post, the easier the process becomes. 
 2. They don't obsess jotting every sources down as it slows them down.
