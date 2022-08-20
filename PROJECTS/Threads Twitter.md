@@ -28,8 +28,10 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 # Organize your notes
 ![[Pasted image 20220818164128.png]]
 
-According to fortelabs,there are 3 bottleneck to any publishing system:
-By the time you're done with this thread you'll understand why:
+ 
+Procrastination is not why you abandonned your blog.
+You don't give up on your
+This thread breaks down how:
 -  creating from scratch makes it impossible to sustain your publishing schedule
 -  researching more is a double-edge sword for finishing writing
 - how to turn micro-publishing
@@ -45,7 +47,9 @@ By the time you're done with this thread you'll understand why:
 4. shortening the feedback loop of your content schedule is necessary if you want to defeat procrastination. Sustaining a publishing schedule demands that you have more rewards per period of time.
 5. The fastest way to create content is to reassamble smaller stand-alone piece of content, that you repetitevely tested. Because they shorten the time of creating content. Instead of having to write lengthy article, procrastinate, or risk being dissapointed because it flops.
 
-3 powerful ideas by @fortelabs to create a personal content usine without feeling overwhelmed.
+What does the top 1% Creators have that you lack?
+
+3 powerful ideas by @fortelabs to create a content usine without feeling overwhelmed.
 Thread👇🏿
 
 MAKE YOUR NOTES FUTURE PROOF
