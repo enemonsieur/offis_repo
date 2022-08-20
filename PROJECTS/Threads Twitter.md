@@ -84,15 +84,15 @@ The solution: everytime you find an article interesting, summarize the main poin
 COLLECT IDEAS THAT RESONATE
 In any video, book, article you read, 2-3 ideas usually stand out. It makes no sense to take notes and highlight every argument, when you'll look at 99% of them and think: "Meh. Kinda obvious."
 
-Learn to understand what resonates with you at a deeper level and you'll speed up your researching phase. 
+Learn to understand what resonates with you at a deeper level and you'll speed up your researching phase. //This makes your system full of high-quality notes. 
 
 But, what if I miss something important?!
-Well,  tend to stick in your brain for 1-2 days. This is plenty of time to go back and add that information.
-This makes your system full of high-quality notes. 
+The best thoughts tend to stick in your brain for couple days. If you catch yourself thinking about them, quickly write them down. If not, they were simply not that extra. 
+
 
 INTERMEDIATE PACKAGES
-Sometimes you spend 10s of hours on an article that flops. You never know what your audience wants and it can be demotivating. A better strategy is to publish small bites of some ideas, see what sticks with them, and use the feedback to make them even more convincing. 
-
+Sometimes you spend 10s of hours on an article that flops. You never seems to write what your audience wants and... You never know what your audience wants and it can be demotivating. A better strategy is to publish small bites of some ideas, see what sticks with them, and use the feedback to make them even more convincing. 
+ A better strategy is to break every bite of idea
 After a while, you have:
 1. approved intermediate packages you can directly turn into a full-length content
 **2. much more motivation because you only had to make small bets.**
