@@ -30,11 +30,14 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 What separates the top 1% bloggers from the crowd?
 
 Consistency.
-
+Here's how to hijack their process to build the ultimate publishing system
 Here's how to they turn every content they come accross into meaningful material
 
+
+
 1. They don't create every post from scratch. If anything, the more they post, the easier the process becomes. 
-2. They don't obsess on  as it slows them down
+2. They don't obsess jotting every sources down as it slows them down.
+3. They don't wait until the hit publish before knowing how their content will perform
 *As content creators, nothing hurts like putting too much hours, for too little people to see it. What @fortelabs do is to take away* 
  
 Procrastination is not why you abandonned your blog.
