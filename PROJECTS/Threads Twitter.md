@@ -76,7 +76,7 @@ Sometimes you spend 10s of hours on an article that flops. You never know what y
 
 After a while, you have:
 1. approved intermediate packages you can directly turn into a full-length content
-2. much more motivation because you only had to make small bets.
+**2. much more motivation because you only had to make small bets.**
 
 
 BONUS TIP:
