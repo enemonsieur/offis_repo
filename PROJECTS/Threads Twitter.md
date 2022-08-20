@@ -31,17 +31,20 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
  
 Procrastination is not why you abandonned your blog.
 You don't give up on your blog because you procrastinated. You give up because:
-1. You create every post from scratch => Exhausted
-2. You spend too much time researching => Overwelmed
-3. You have no idea wh 
+1. You create every post from scratch => Exhausting
+2. You spend too much time researching => Overwelming
+3. You never know which content will win or flop=> Demotivating
+
+Solve those 3 problems and never hear the cricket of indefference when posting
+
 -  creating from scratch makes it impossible to sustain your publishing schedule
 -  researching more is a double-edge sword for finishing writing
 - how to turn micro-publishing
-4. Being overloaded with notes// having to revise too many notes 
-5. Making notes immediately usable// making notes easy to implement
-6. Micropublishing is the key against procrastination.
-7. Fast feedback generating content. Because having small feedback increase motivation and picks winning ideas. Because you need good reactions to your content to keep on publishing
-8. 
+5. Being overloaded with notes// having to revise too many notes 
+6. Making notes immediately usable// making notes easy to implement
+7. Micropublishing is the key against procrastination.
+8. Fast feedback generating content. Because having small feedback increase motivation and picks winning ideas. Because you need good reactions to your content to keep on publishing
+9. 
 3 key ideas to share:
 1. I want content creator to know why their publishing system is broken// Why they keep on breaking their schedule. Can't keep up publishing content 
 2. The most important part of a publishing system is the note-taking system// WHy?// You need a personal references of ready to use intermediate contents (like? sources explained with the key insights there) you can peace back up to make content. Liketone color for designers. The more effecient it is, the less time you spend creating each content since you don't have to create every of them from zero.
