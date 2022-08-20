@@ -92,11 +92,14 @@ The best thoughts tend to stick in your brain for couple days. If you catch your
 
 INTERMEDIATE PACKAGES
 Sometimes you spend too many hours on an article that gets too little likes.
-Here's what you can do to publish quicker and get more involment: followers: 
 
-Every big content has a lot of points they convey. Turn few of them in intermediate content and share them, see how the audience reacts, and refine. 
+Instead, make a little bet: publish only a small relevant point of a piece and jauge how your audience reacts. 
 
-This helps you 
+Make the points that get a lot of engagement even stronger. Change the others. 
+
+
+
+With this you give value more often to your audience with less work and 
 1. approved intermediate packages you can directly turn into a full-length content
 **2. much more motivation because you only had to make small bets.**
 
