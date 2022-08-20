@@ -35,7 +35,7 @@ By the time you're done with this thread you'll understand why:
 - how to turn micro-publishing
 1. Being overloaded with notes// having to revise too many notes 
 2. Making notes immediately usable// making notes easy to implement
-3. get excited about
+3. Micropublishing is the key against procrastination.
 4. Fast feedback generating content. Because having small feedback increase motivation and picks winning ideas. Because you need good reactions to your content to keep on publishing
 5. 
 3 key ideas to share:
