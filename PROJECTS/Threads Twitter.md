@@ -82,12 +82,12 @@ The solution: everytime you find an article interesting, summarize the main poin
 
 
 COLLECT IDEAS THAT RESONATE
-In any video, book, article you read, 2-3 ideas 
-Another way to make your system more efficient is to only collect the 
-In any content you're consuming, there are always 1 or 2 key insights. But they usually get buried in all the highlights, notes, and links we save.
-Instead, learn to collect only what makes you think: "Oh! I wasn't ready for that!" 
+In any video, book, article you read, 2-3 ideas usually stand out. It makes no sense to take notes and highlight every argument, when you'll look at 99% of them and think: "Meh. Kinda obvious."
 
-But, what if I miss something important? Well, key ideas tend to stick in your brain for 1-2 days. This is plenty of time to go back and add that information.
+Learn to understand what resonates with you at a deeper level and you'll speed up your researching phase. 
+
+But, what if I miss something important?!
+Well,  tend to stick in your brain for 1-2 days. This is plenty of time to go back and add that information.
 This makes your system full of high-quality notes. 
 
 INTERMEDIATE PACKAGES
