@@ -72,12 +72,13 @@ What does the top 1% Creators have that you lack?
 Thread👇🏿
 
 MAKE YOUR NOTES FUTURE PROOF
-Searching though past notes like () is often a 
-When you read past notes like (highlights, copy paste, links, notes), its often hard to dig out the importance parts. 
+Searching though past notes like () is often energy consuming.
+When you read through past notes like (highlights, copy paste, links, notes), its often hard to dig out the important parts. 
+This is because we tend to forget what was interesting about them, as time passes by.
+*This is because most notes aren't future-proof:  Times burries their insights. By thetheir insights get burried in as you slowly forget about them.* 
+In consequence, we often stock a tons of notes we will never use.
 
-This is because most notes aren't future-proof:  their insights get burried in as you slowly forget about them. 
-In consequence, we avoid revising notes until we have to publish.
-
+The solution: everytime you find an article
 The solution is to summarize the main points of every snippet you add: With just a quick look you can go extract dozens of insights and find what's relevant for you. 
 
 
