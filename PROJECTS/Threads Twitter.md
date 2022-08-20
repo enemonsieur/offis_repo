@@ -33,10 +33,10 @@ Consistency.
 Here's how to hijack their process to build the ultimate publishing system
 Here's how to they turn every content they come accross into meaningful material
 
-By the end of the tweet you'll learn new mindsets to:
+**By the end of this thread you'll shift your mindsets to:
 1. Look through pages of notes in few minutes for insights
 2. Research new materials 10 times faster
-3. 
+3. Identify blockbusters before even start writing** 
 
 1. They don't create every post from scratch. If anything, the more they post, the easier the process becomes. 
 2. They don't obsess jotting every sources down as it slows them down.
@@ -72,7 +72,7 @@ What does the top 1% Creators have that you lack?
 Thread👇🏿
 
 MAKE YOUR NOTES FUTURE PROOF
-The person you are when taking notes for a project, and the person
+When you look through pass notes (highlights, copy paste, links, notes), it's always hard to understand why you consider those informations relevant.
 There are two versions of you: present-you reads, highlights, takes notes...
 And future you, who will stumble upon those notes in a couple weeks, and try to figure out what the hell you were saying.
 This is a time-consuming activity, and that's why we rarely revise our notes.
