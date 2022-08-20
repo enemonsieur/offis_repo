@@ -72,10 +72,10 @@ What does the top 1% Creators have that you lack?
 Thread👇🏿
 
 MAKE YOUR NOTES FUTURE PROOF
-When you read past notes like (), its often hard to dig out the importance parts. This is because most notes aren't future pro
-Reading through pass notes (highlights, copy paste, links, notes) often demands focus to sort outyou often need to re-understand the purpose in what you once found relevant.
-There are two versions of you: present-you reads, highlights, takes notes...
-And future you, who will stumble upon those notes in a couple weeks, and try to figure out what the hell you were saying.
+When you read past notes like (), its often hard to dig out the importance parts. This is because most notes aren't future-proof:  their insights are burried as you slowly forget about them. They get buried by your other materials and you forget why they were e
+Reading through pass notes (highlights, copy paste, links, notes) 
+
+In consequence, we tend to avoid revising notes which hinders
 Those small effort wear you out and make it hard to revise notes.
 This is a time-consuming activity, and that's why we rarely revise our notes.
 
