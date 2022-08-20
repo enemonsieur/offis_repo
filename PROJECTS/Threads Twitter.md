@@ -29,11 +29,13 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 ![[Pasted image 20220818164128.png]]
 
 According to fortelabs,there are 3 bottleneck to any publishing system:
-By the time you're done with this thread you'll understand:
-- Why creating from scratch makes it impossible to sustain your publishing schedule
+By the time you're done with this thread you'll understand why:
+-  creating from scratch makes it impossible to sustain your publishing schedule
+-  researching more is a double-edge sword for finishing writing
+- how to turn micro-publishing
 1. Being overloaded with notes// having to revise too many notes 
 2. Making notes immediately usable// making notes easy to implement
-3. Turning Material into content fast
+3. get excited about
 4. Fast feedback generating content. Because having small feedback increase motivation and picks winning ideas. Because you need good reactions to your content to keep on publishing
 5. 
 3 key ideas to share:
