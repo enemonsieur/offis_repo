@@ -29,7 +29,8 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 ![[Pasted image 20220818164128.png]]
 
 According to fortelabs,there are 3 bottleneck to any publishing system:
-
+By the time you're done with this thread you'll understand:
+- Why creating from scratch makes it impossible to sustain your publishing schedule
 1. Being overloaded with notes// having to revise too many notes 
 2. Making notes immediately usable// making notes easy to implement
 3. Turning Material into content fast
@@ -37,7 +38,7 @@ According to fortelabs,there are 3 bottleneck to any publishing system:
 5. 
 3 key ideas to share:
 1. I want content creator to know why their publishing system is broken// Why they keep on breaking their schedule. Can't keep up publishing content 
-2. The most important part of a publishing system is the note-taking system// WHy?
+2. The most important part of a publishing system is the note-taking system// WHy?// You need a personal references of ready to use intermediate contents (like? sources explained with the key insights there) you can peace back up to make content. Liketone color for designers. The more effecient it is, the less time you spend creating each content since you don't have to create every of them from zero.
 3. Today we have access to every sources possible. The real challenge is no longer to find good enough materials, but to filter only the most importants
 4. shortening the feedback loop of your content schedule is necessary if you want to defeat procrastination. Sustaining a publishing schedule demands that you have more rewards per period of time.
 5. The fastest way to create content is to reassamble smaller stand-alone piece of content, that you repetitevely tested. Because they shorten the time of creating content. Instead of having to write lengthy article, procrastinate, or risk being dissapointed because it flops.
