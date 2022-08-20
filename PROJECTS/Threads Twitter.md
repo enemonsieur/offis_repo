@@ -27,9 +27,17 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
 ![[Pasted image 20220818164128.png]]
+
+According to fortelabs,there are 3 bottleneck to any publishing system:
+
+1. Being overloaded with notes// having to revise too many notes 
+2. Making notes immediately usable// making notes easy to implement
+3. Turning Material into content fast
+4. Fast feedback generating content. Because having small feedback increase motivation and picks winning ideas. Because you need good reactions to your content to keep on publishing
+5. 
 3 key ideas to share:
-1. I want content creator to know why their publishing system is broken
-2. The most important part of a publishing system is the note-taking system
+1. I want content creator to know why their publishing system is broken// Why they keep on breaking their schedule. Can't keep up publishing content 
+2. The most important part of a publishing system is the note-taking system// WHy?
 3. Today we have access to every sources possible. The real challenge is no longer to find good enough materials, but to filter only the most importants
 4. shortening the feedback loop of your content schedule is necessary if you want to defeat procrastination. Sustaining a publishing schedule demands that you have more rewards per period of time.
 5. The fastest way to create content is to reassamble smaller stand-alone piece of content, that you repetitevely tested. Because they shorten the time of creating content. Instead of having to write lengthy article, procrastinate, or risk being dissapointed because it flops.
