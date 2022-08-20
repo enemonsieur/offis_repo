@@ -78,12 +78,11 @@ This is because we tend to forget what was interesting about them, as time passe
 *This is because most notes aren't future-proof:  Times burries their insights. By thetheir insights get burried in as you slowly forget about them.* 
 In consequence, we often stock a tons of notes we will never use.
 
-The solution: everytime you find an article
-The solution is to summarize the main points of every snippet you add: With just a quick look you can go extract dozens of insights and find what's relevant for you. 
+The solution: everytime you find an article interesting, summarize the main points so your future-you can quickly extract the relevant insights from them. Make your notes future-proof
 
 
 COLLECT IDEAS THAT RESONATE
-
+Another way to make your system more efficient is to only collect the 
 In any content you're consuming, there are always 1 or 2 key insights. But they usually get buried in all the highlights, notes, and links we save.
 Instead, learn to collect only what makes you think: "Oh! I wasn't ready for that!" 
 
