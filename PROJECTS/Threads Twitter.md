@@ -91,8 +91,8 @@ The best thoughts tend to stick in your brain for couple days. If you catch your
 
 
 INTERMEDIATE PACKAGES
-Sometimes you spend 10s of hours on an article that flops. You never seems to write what your audience wants and... You never know what your audience wants and it can be demotivating. A better strategy is to publish small bites of some ideas, see what sticks with them, and use the feedback to make them even more convincing. 
- A better strategy is to break every bite of idea
+Sometimes you spend 10s of hours on an article that flops. Too much of You never seems to write what your audience wants and... You never know what your audience wants and it can be demotivating. A better strategy is to publish small bites of some ideas, see what sticks with them, and use the feedback to make them even more convincing. 
+ Instead of finishing becu
 After a while, you have:
 1. approved intermediate packages you can directly turn into a full-length content
 **2. much more motivation because you only had to make small bets.**
