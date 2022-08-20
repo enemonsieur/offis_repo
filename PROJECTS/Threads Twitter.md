@@ -33,7 +33,7 @@ Consistency.
 
 Here's how to they turn every content they come accross into meaningful material
 
-As content creators, nothing hurts like writing too much hours, for too little people to see it.
+As content creators, nothing hurts like writing too much hours, for too little people to see it. What @fortelabs do is to take away 
  
 Procrastination is not why you abandonned your blog.
 You don't give up on your blog because you procrastinated. You give up because:
