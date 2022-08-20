@@ -91,8 +91,9 @@ The best thoughts tend to stick in your brain for couple days. If you catch your
 
 
 INTERMEDIATE PACKAGES
-Sometimes you spend 10s of hours on an article that flops. Too much of that will kill your motivation. You never seems to write what your audience wants and... You never know what your audience wants and it can be demotivating. A better strategy is to publish small bites of some ideas, see what sticks with them, and use the feedback to make them even more convincing. 
- Instead of publishing to get approval, get approval before publishing
+Sometimes you spend too many hours on an article that gets too little likes.
+You never seems to write what your audience wants and... You never know what your audience wants and it can be demotivating. A better strategy is to publish small bites of some ideas, see what sticks with them, and use the feedback to make them even more convincing. 
+Here's what you can do to publish faster while involving more followers: Test 
 
 Break your article into key ideas. Quickly test  (Twitter, Tiktok, Quora...)
 After a while, you have:
