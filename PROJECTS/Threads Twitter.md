@@ -95,7 +95,7 @@ Sometimes you spend too many hours on an article that gets too little likes.
 
 Instead, make a little bet: publish only a small relevant point of a piece and jauge how your audience reacts. 
 
-Make the points that get a lot of engagement even stronger. Change the others. 
+Make the points that get a lot of engagement even more convincing. Rewrite or drop the others. 
 	 
 With this you give value more often to your audience with less work and accumulate a lot of ready to used package of content you will easily reassemble into a full length content.
 
