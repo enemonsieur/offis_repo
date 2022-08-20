@@ -106,7 +106,7 @@ BONUS TIP:
 Ever shared a video that your friends ignored?
 
 Next ime, give them a stronger reason to click by adding a quick summary of the key points of the video.
-Even if they don't respond, you will have a futureproof note ready to be turned into content later.
+Even if they don't respond, you will have a futureproof note, ready to be turned into content later.
 ## old versions
 The top 1% bloggers maintain a quality-rich publishing schedule year round. They do that by constantly  turning every content they come accross into meaningful material. 
 Here are 3 powerful ideas by @fortelabs to create a  content-creating system, without feeling overwhelmed.
