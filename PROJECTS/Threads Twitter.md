@@ -33,10 +33,10 @@ Consistency.
 Here's how to hijack their process to build the ultimate publishing system
 Here's how to they turn every content they come accross into meaningful material
 
-**By the end of this thread you'll shift your mindset to:
-1. Review pages of notes in a few minutes instead of hours
-2. Research new materials 10 times faster
-3. Identify blockbusters before even start writing** 
+This thread will teach you how to:
+1. Review pages of notes in minutes instead of hours
+2. Speed up 10 times the researching phase
+3. Find out blockbusters even before  start writing
 
 1. They don't create every post from scratch. If anything, the more they post, the easier the process becomes. 
 2. They don't obsess jotting every sources down as it slows them down.
@@ -96,14 +96,9 @@ Sometimes you spend too many hours on an article that gets too little likes.
 Instead, make a little bet: publish only a small relevant point of a piece and jauge how your audience reacts. 
 
 Make the points that get a lot of engagement even stronger. Change the others. 
+	 
+With this you give value more often to your audience with less work and accumulate a lot of ready to used package of content you will easily reassemble into a full length content.
 
-
-
-With this you give value more often to your audience with less work and 
-1. approved intermediate packages you can directly turn into a full-length content
-**2. much more motivation because you only had to make small bets.**
-
-*You never seems to write what your audience wants and... You never know what your audience wants and it can be demotivating. A better strategy is to publish small bites of some ideas, see what sticks with them, and use the feedback to make them even more convincing.* 
 
 BONUS TIP:
 Ever shared a video that your friends ignored?
