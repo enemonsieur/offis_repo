@@ -1,5 +1,6 @@
 	 [[Threads Twitter#^37edb4]]
 A faire: 
+- Couts pour un verre en plus pour Laurianne - Continuer la promotion - Augmenter les ventes
 - Checker leur Facebook
 - Appeler les Anne Ndame: trouver leur contenu
 - Créer 5 Contenus
