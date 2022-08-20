@@ -27,6 +27,7 @@ Had one of them have not be present, I'd have gave up in a month. If you have a 
 - I've read hundreds of studies on sports. Tried most of the advance techniques, wrote very tight training plan to get better that only advanced sportif  
 # Organize your notes
 ![[Pasted image 20220818164128.png]]
+![[Pasted image 20220820200416.png]]
 What separates the top 1% bloggers from the crowd?
 
 Consistency.
