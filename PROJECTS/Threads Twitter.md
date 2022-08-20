@@ -36,8 +36,7 @@ Here's how to they turn every content they come accross into meaningful material
 This thread will teach you how to:
 1. Review pages of notes in minutes instead of hours
 2. Speed up 10 times the researching phase
-3. Find out blockbusters even before  start writing
-
+3. Know the potential of your content before hitting publish.
 1. They don't create every post from scratch. If anything, the more they post, the easier the process becomes. 
 2. They don't obsess jotting every sources down as it slows them down.
 3. They don't wait until the hit publish before knowing how their content will perform
@@ -73,7 +72,7 @@ Thread👇🏿
 
 MAKE YOUR NOTES FUTURE PROOF
 Searching though past notes like () is often energy consuming.
-When you read through past notes like (highlights, copy paste, links, notes), its often hard to dig out the important parts. 
+When you read your past notes like highlights, notes, pasted paragraphs or images... its often hard to dig out the important parts. 
 This is because we tend to forget what was interesting about them, as time passes by.
 *This is because most notes aren't future-proof:  Times burries their insights. By thetheir insights get burried in as you slowly forget about them.* 
 In consequence, we often stock a tons of notes we will never use.
