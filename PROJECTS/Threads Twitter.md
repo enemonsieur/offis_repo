@@ -59,8 +59,9 @@ In any video, book, or article you read, 2-3 ideas usually stand out. It makes n
 ---------------------------------------------------
 3. Intermediate Packages
 Nothing hurts like spending too many hours on an article that gets too little engagement.
+As you're writing your 1st drafts, publish some of its key ideas and gauge how your audience reacts. If they do good. Make them more appealing. If not, rewrite them and test them again. 
 
-Solution: make little bets. Publish a small relevant point of a piece and gauge how your audience reacts. 
+Solution: make little bets. Publish  small excrepts and gauge how your audience reacts. 
  Then make the ideas that get a lot of reactions even more convincing and rewrite the others. 
 --------------------------------------------------- 
 After doing it for sometimes, two things will happen: 
