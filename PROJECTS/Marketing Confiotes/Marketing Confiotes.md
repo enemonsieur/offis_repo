@@ -8,7 +8,8 @@ A faire:
 1. Votre commande est en cours de traitement
 2. Livreur prend: Votre commande est en cours de livraison.
 3. Après la livraison: Vous avez bien recu la commande.
-4. ![[Pasted image 20220820184653.png]]
+4. 
+5. ![[Pasted image 20220821095027.png]]![[Pasted image 20220820184653.png]]
 # Competitors Ads
 https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&q=amarula&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped&search_type=keyword_unordered&media_type=all
 
