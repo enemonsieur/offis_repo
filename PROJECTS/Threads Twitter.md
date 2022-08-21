@@ -37,7 +37,7 @@ Thread👇🏿
 This thread will teach you how to:
 1. Review pages of notes in minutes instead of hours
 2. Speed up 10 times the research phase
-3. Know the potential of your content before even hitting publish.
+3. Asses h content before even hitting publish.
 ---------------------------------------------------
 
 MAKE YOUR NOTES FUTURE PROOF
@@ -45,23 +45,23 @@ Digging out the key insights from your past notes (highlights, notes, copied par
 
 This is because as time passes by, we forget what we find interesting about them.
 
-As a result, we store tons of notes that are ultimately never used to create content.
+ As a result, we store tons of notes that are ultimately never used to create content.
 ---------------------------------------------------
-The solution: every time you find an article interesting, summarize the main points so your future-you can quickly extract the relevant insights from them. 
+ The solution: every time you find an article interesting, summarize the main points so your future-you can quickly extract the relevant insights from them. 
 ---------------------------------------------------
 COLLECT IDEAS THAT RESONATE
 In any video, book, or article you read, 2-3 ideas usually stand out. It makes no sense to save every small point since you'll look at them a week from now and think: "Meh. Was kinda obvious."
 
-Learn to understand what part resonates with you at a deeper level and you'll make your system full of high-quality notes
+ Learn to understand what part resonates with you at a deeper level and you'll make your system full of high-quality notes
 ---------------------------------------------------
-But, what if I miss something important?!
-The best thoughts tend to stick in your brain for a couple of days. Just quickly write them down if you think about them.
+ But, what if I miss something important?!
+ The best thoughts tend to stick in your brain for a couple of days. Just quickly write them down if you think about them.
 ---------------------------------------------------
 INTERMEDIATE PACKAGES
 Sometimes you spend too many hours on an article that gets too little engagement.
 
 Instead, make a little bet: publish a small relevant point of a piece and gauge how your audience reacts. 
-Then make the ideas that get a lot of reactions even more convincing and rewrite the others. 
+ Then make the ideas that get a lot of reactions even more convincing and rewrite the others. 
 --------------------------------------------------- 
 After doing it for sometimes, two things will happen: 
 1. you'll publish more consistently to your audience (with less work)
