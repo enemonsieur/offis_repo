@@ -59,10 +59,9 @@ In any video, book, or article you read, 2-3 ideas usually stand out. It makes n
 ---------------------------------------------------
 3. Intermediate Packages
 Nothing hurts like spending too many hours on an article that gets too little engagement.
-As you're writing your 1st drafts, publish some of its key ideas and gauge how your audience reacts. If they do good. Make them more appealing. If not, rewrite them and test them again. 
 
-Solution: make little bets. Publish  small excrepts and gauge how your audience reacts. 
- Then make the ideas that get a lot of reactions even more convincing and rewrite the others. 
+Solution: While writing your 1st drafts, share its key ideas online and gauge how your audience reacts. If they do good. Make them more appealing. If not, rewrite and test them again. 
+
 --------------------------------------------------- 
 After doing it for sometimes, two things will happen: 
 1. you'll publish more consistently to your audience (with less work)
@@ -145,7 +144,7 @@ With this you give value more often to your audience with less work and accumula
 BONUS TIP:
 Ever shared a video that your friends ignored?
 
-Next ime, give them a stronger reason to click by adding a quick summary of the key points of the video.
+Next time, give them a stronger reason to click by adding a quick summary of the key points of the video.
 Even if they don't respond, you will have a futureproof note, ready to be turned into content later.
 ## old versions
 The top 1% bloggers maintain a quality-rich publishing schedule year round. They do that by constantly  turning every content they come accross into meaningful material. 
