@@ -230,4 +230,19 @@ Ok. I answer tat shit. Then what? Well, fucker, then you:
 ## More tips
 1. Use you always. Exemple To cancel an order, return the merchandise to us in its  
 original container. When we have received the book in salable condition, we will inform our Accounting Department that the invoice is canceled.
-2. 
+turns into: 
+If you’re not satisfied with the book, simply return it to us  
+and tear up your invoice. You won’t owe us a cent. What could be fairer than that?  
+
+2. ORGANISE YOUR SELLING POINTS
+Pincus, a freelance copywriter, developed a unique organizational pattern for the sales letters he writes. Pincus begins with a headline that conveys a promise, shows how the promise is fulfilled, and gives proof that the product is everything the copy says it is. Then he tells the reader how to order the product and  
+explains why the cost of the product is insignificant compared to its value.  
+Before you create an ad or landing page, write down your sales points. Organize them in a logical, persuasive, clear fashion. And present them in this order when you write your copy.
+
+Here are 4 simple writing principles that can do more than any other writing techniques to make your copy clear  
+and easy to read:  
+Short words.  
+Short sentences.  
+Short paragraphs.  
+Short sections.  
+ 
