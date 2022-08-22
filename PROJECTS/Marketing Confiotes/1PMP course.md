@@ -16,6 +16,9 @@ I started your course 1PMP and I have a problem: Course help M1 L3 : Where can 
 AVATAR
 	How can you become Anne Ndame, what are the elements you need to write to become Anne Ndame
 Module 1 lesson 4 create Anne Ndame
+ advices for avatars
+ - Is this person likely to buy my products, more likely?
+ - 
 
 ## What juice and syrup people prioritize
 I make my own mix on teas and add this to it. It is cheaper to do this at home than pay Star Bucks an outrageous cost for my special tea. SO glad I bought this. Actually just bought another bottle. Will buy more in the future. Very happy that it comes with the pump. Thumbs up on this product.
@@ -28,3 +31,5 @@ Amoretti Syrup Lavender High
 	I really shouldn't order stuff late at night. I didn't realize how small the bottles were. Oh well. I didn't think the product was that great it lost its scent and flavor after putting it in the food or the drinks so I don't think it was that great. It's has a very weak flavor. I'm disappointed because I really expected to get what I paid for.
 	SHE MADE LATTE
 		This was my first time buying any type of flavored sweetener so it’s new to me. I make lattes almost daily and my fam wanted to try different flavors. I have to say it worked well. Nice packaging, great trial sampler sizes, liquid was perfectly thick and clear. As far as flavor, they were very strong, and we ended up using about half of the recommended amount after the first few tries. However, it was just a little too perfumey for us. Again, I’m not sure if this is normal as I am not used to flavored drinks, but I don’t think I could drink these very often. If you are looking for intensity, this is for you. I thought it would be more subtle like an essence rather than being so bold.
+
+
