@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Marketing Confiotes/1PMP course.md",
+            "file": "AREAS/grey matters/Building a second brain - Tiago Forte.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"The aim of the study was to investigate the effect of various character and background colour combinations on cognitive performance (...)This study was designed by selecting six colours, i.e., white, black, yellow, red, blue, and green and subsequently combining them to 16 character and background colour combinations for a searching task. Right and left headed arrows were used as the character for the searching maneuver. Forty-four (N = 44) volunteers participated in the experiments.[...]Among the combinations of dark character/light background, blue and red character on white background is highly recommended; and while that for light character/dark background, white is found to be the best character on blue and green backgrounds.\"",
+                "query": "CODE",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Marketing Confiotes/1PMP course.md",
+                "file": "AREAS/grey matters/Building a second brain - Tiago Forte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +114,8 @@
   },
   "active": "6847ef6816785da9",
   "lastOpenFiles": [
-    "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
     "PROJECTS/Marketing Confiotes/1PMP course.md",
+    "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
     "PROJECTS/Marketing Confiotes/Marketing Coffee House.md",
     "PROJECTS/Threads Twitter.md",
     "PROJECTS/Writing Copies.md",
