@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/grey matters/Building a second brain - Tiago Forte.md",
+            "file": "PROJECTS/Writing Copies.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CODE",
+                "query": "copywri",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/grey matters/Building a second brain - Tiago Forte.md",
+                "file": "PROJECTS/Writing Copies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "6847ef6816785da9",
   "lastOpenFiles": [
+    "AREAS/grey matters/Building a second brain - Tiago Forte.md",
     "PROJECTS/Marketing Confiotes/1PMP course.md",
     "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
     "PROJECTS/Marketing Confiotes/Marketing Coffee House.md",
@@ -122,7 +123,6 @@
     "PROJECTS/Videos Tiktok.md",
     "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
-    "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md",
-    "AREAS/grey matters/Building a second brain - Tiago Forte.md"
+    "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md"
   ]
 }

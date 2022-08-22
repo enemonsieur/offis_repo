@@ -226,3 +226,8 @@ Ok. I answer tat shit. Then what? Well, fucker, then you:
 1. write 6 to 8 headlines
  Nothing good? 
 2 . Create a list of words related to the product. Mix and match'em
+
+## More tips
+1. Use you always. Exemple To cancel an order, return the merchandise to us in its  
+original container. When we have received the book in salable condition, we will inform our Accounting Department that the invoice is canceled.
+2. 
