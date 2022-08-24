@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Writing Copies.md",
+            "file": "AREAS/grey matters/Work in Progress.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copywri",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Writing Copies.md",
+                "file": "AREAS/grey matters/Work in Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,13 +113,13 @@
   },
   "active": "6847ef6816785da9",
   "lastOpenFiles": [
+    "PROJECTS/Videos Tiktok.md",
+    "PROJECTS/Marketing Confiotes/Marketing Coffee House.md",
+    "PROJECTS/Writing Copies.md",
     "AREAS/grey matters/Building a second brain - Tiago Forte.md",
     "PROJECTS/Marketing Confiotes/1PMP course.md",
     "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
-    "PROJECTS/Marketing Confiotes/Marketing Coffee House.md",
     "PROJECTS/Threads Twitter.md",
-    "PROJECTS/Writing Copies.md",
-    "PROJECTS/Videos Tiktok.md",
     "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md",
     "PROJECTS/OFFIS/220624_1 ECG EEG and Eye Tracking.md"
