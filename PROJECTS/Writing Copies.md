@@ -347,9 +347,8 @@ I wrote a post about social media audits and published it on my blog. It receive
 So much for great content. It’s the exact same article, but since my blog doesn’t have authority or  community, it wouldn't have been found or read regardless of the quality of my work.  I think at this point the focus has to move from content creation toward the idea of building  community, developing strategies to distribute the content, and marketing to promote every piece.”  
 Marcela hit on some more suspicions that point to the elusive Content Code: Regardless of quality, content  marketing success must also include community, distribution, and promotion.  
 
-The Mirabeau miracle  
-Consider one more example that points to the secrets to content marketing success in an information dense  
-world.  
+**The Mirabeau miracle**  
+Consider one more example that points to the secrets to content marketing success in an information dense world.  
 A few years ago, I was approached by a friendly fellow named Stephen Cronk for help on a new marketing  
 strategy. Here’s a summary of his story:  
 He left his corporate job in London and moved his family to the Provence region of France.  
@@ -390,3 +389,5 @@ Since the “shoe video,” the winery’s “About Mirabeau” video on its You
 gains.  
 The tiny winery received immense media attention from both the mainstream press and wine industry  
 bloggers who marveled at Stephen’s authentic and human storytelling:
+
+=>Looks like Ro. 
