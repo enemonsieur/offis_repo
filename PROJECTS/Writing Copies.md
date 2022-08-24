@@ -193,7 +193,7 @@ ad to learn them. Also ads and content written as lists, or “listicles,” whi
 You can use the How to
 ##  the 4U's formula
 
-# 4U's: for clickbait headlines
+ 
 - Urgent: Make $100,000 working from home this year”  
 has a greater sense of urgency than “Make $100,000 working from home.” Once  
 the offer period is over, the offer is no longer available.
@@ -245,4 +245,98 @@ Short words.
 Short sentences.  
 Short paragraphs.  
 Short sections.  
+
+# Model Headlines for references
+38 MODEL HEADLINES FOR YOUR “SWIPE FILE”  
+A “swipe file” is a collection of promotions that you turn to for reference when creating your own marketing  
+materials. The best way to get ideas for headlines when you are stuck is to keep a swipe file and consult it for  
+inspiration when you sit down to write a new ad or mailing.  
+The best swipe samples are those that keep running. You know they are being repeated—because they are  
+profitable. Put a red X on any swipe samples you see multiple times, so you can identify winners at a glance.  
+As a shortcut, here’s a partial collection of such headlines from my vast swipe file, organized by category so  
+as to make clear the approach being used:  
+1. Ask a question in the headline.  
+“What Do Japanese Managers Have That American Managers Sometimes Lack?”  
+2. Tie-in to current events.  
+“Stay One Step Ahead of the Stock Market Just Like Martha Stewart—But Without Her Legal Liability!”  
+3. Create a new terminology.  
+“New ‘Polarized Oil’ Magnetically Adheres to Wear Parts in Machine Tools, Making Them Last Up to 6  
+Times Longer.”  
+4. Give news using the words “new,” “introduction,” or “announcing.”  
+“Announcing a Painless Cut in Defense Spending.”  
+5. Give the reader a command—tell him to do something.  
+“Try Burning This Coupon.”  
+6. Use numbers and statistics.  
+“Who Ever Heard of 17,000 Blooms from a Single Plant?”
+7. Promise the reader useful information.  
+“How to Avoid the Biggest Mistake You Can Make in Building or Buying a Home.”  
+8. Highlight your offer.  
+“You Can Now Subscribe to the Best New Books—Just as You Do to a Magazine.”  
+9. Tell a story.  
+“They Laughed When I Sat Down at the Piano, But When I Started to Play...”  
+10. Make a recommendation.  
+“The 5 High-Yield Stocks You Must Own NOW.”  
+11. State a benefit.  
+“Managing UNIX Data Centers—Once Difficult, Now Easy.”  
+12. Make a comparison.  
+“How to Solve Your Emissions Problems—at Half the Energy Cost of Conventional Venturi Scrubbers.”  
+13. Use words that help the reader visualize.  
+“Why Some Foods ‘Explode’ in Your Stomach.”  
+14. Use a testimonial.  
+“After over Half a Million Miles in the Air Using AVBLEND, We’ve Had No Premature Camshaft Failures.”  
+15. Offer a free special report, catalog, or booklet.  
+“New FREE Special Report Reveals Little-Known Strategy Millionaires Use to Keep Wealth in Their Hands  
+—and Out of Uncle Sam’s.”  
+16. State the selling proposition directly and plainly.  
+“Surgical Tables Rebuilt—Free Loaners Available.”  
+17. Arouse reader curiosity.  
+“The One Internet Stock You MUST Own Now. Hint: It’s NOT What You Think!”  
+18. Promise to reveal a secret.  
+“Unlock Wall Street’s Secret Logic.”  
+19. Be specific.  
+“At 60 Miles an Hour, the Loudest Noise in This New Rolls-Royce Comes from the Electric Clock.”  
+20. Target a particular type of reader.  
+“We’re Looking for People Who Want a Higher-Paying Career.”  
+21. Add a time element.  
+“Instant Incorporation While U-Wait.”  
+22. Stress cost savings, discounts, or value.  
+“Now You Can Get $2,177 Worth of Expensive Stock Market Newsletters for the Incredibly Low Price of  
+Just $69!”  
+23. Give the reader good news.  
+“You’re Never Too Old to Hear Better.”  
+24. Offer an alternative to other products and services.  
+“No Time for Yale—Took College at Home Online.”  
+25. Issue a challenge.  
+“Will Your Scalp Stand the Fingernail Test?”  
+26. Stress your guarantee.  
+“Develop Software Applications Up to 6 Times Faster or Your Money Back.”  
+27. State the price.  
+“Link 8 PCs to Your Mainframe—Only $2,395.”  
+28. Set up a seeming contradiction.  
+“Profit from ‘Insider Trading’—100% Legal!”  
+29. Offer an exclusive the reader can’t get elsewhere.  
+“Earn 500+% Gains with Little-Known ‘Trader’s Secret Weapon.’”  
+30. Address the reader’s concern.  
+“Why Most Small Businesses Fail—and What You Can Do About It.”  
+31. “As Crazy as It Sounds...”  
+“Crazy as It Sounds, Shares of This Tiny R&D Company, Selling for $2 Today, Could Be Worth as Much as  
+$100 in the Not-Too-Distant Future.”  
+32. Make a big promise.  
+“Slice 20 Years Off Your Age!”  
+33. Show ROI (return on investment) for purchase of your product.  
+“Hiring the Wrong Person Costs You Three Times Their Annual Salary.”  
+34. Use a reasons-why headline.  
+“7 Reasons Why Production Houses Nationwide Prefer Unilux Strobe Lighting When Shooting Important  
+TV Commercials.”  
+35. Answer important questions about your product or service.  
+“7 Questions to Ask Before You Hire a Collection Agency ... and One Good Answer to Each.”  
+36. Stress the value of your premiums.  
+“Yours Free—Order Now and Receive $280 in Free Gifts with Your Paid Subscription.”  
+37. Help the reader achieve a goal.  
+“Now You Can Create a Breakthrough Marketing Plan Within the Next 30 Days ... for FREE!”  
+38. Make a seemingly contradictory statement or promise.  
+“Cool Any Room in Your House Fast—Without Air Conditioning!”  
+Notice that many of these headline use numbers. Numbers attract the reader’s eye. They should always be  
+written as numerals. If you say “7 reasons why,” prospects want to know the seven reasons and will read the  
+ad to learn them. Also ads and content written as lists, or “listicles,” which look more like editorial content, are
  
