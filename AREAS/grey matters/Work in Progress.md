@@ -15,4 +15,4 @@ How can I reorganize my content to be consitent?
 8. Make your content ignite
 	1.  Content CODE
 	2. Contagious STEPPS
-	3. 
+	3. Copywriting handbook - Awesome Headlines
