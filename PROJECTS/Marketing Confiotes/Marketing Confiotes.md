@@ -80,7 +80,8 @@ Utilise la formule : "Tu vois comment [problème que les gens ont] ?" Et bien ce
 	2. Parle clairement des gens qui ne devraient PAS acheter chez nous: Qui  n'ont que faire des produits naturels, qui ne sont pas gourmands, qui ne sont pas curieux des saveurs du Cameroun
 
 
-
+# Concurrents
+![[Pasted image 20220824154620.png]]
 
 ## Publicités
 Il faut se focaliser sur le ROI: 
