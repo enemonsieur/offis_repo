@@ -83,7 +83,8 @@
         491,
         501,
         503,
-        533
+        533,
+        552
       ],
       "key": "JY49GWIZ",
       "name": "Factors creating stress in experiment",
@@ -279,6 +280,61 @@
       "title": "Validation of a Short Stress State Questionnaire",
       "uri": "http://zotero.org/users/9698946/items/2MFPNA9Y",
       "version": 281
+    },
+    {
+      "DOI": "10.1037/0022-3514.85.2.231",
+      "ISSN": "1939-1315, 0022-3514",
+      "accessDate": "2022-08-23T03:04:49Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-23T03:04:45Z",
+          "dateModified": "2022-08-23T03:04:50Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\UMYY8I3T\\Chajut and Algom - 2003 - Selective attention improves under stress Implica.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Chajut and Algom - 2003 - Selective attention improves under stress Implica.pdf",
+          "uri": "http://zotero.org/users/9698946/items/UMYY8I3T"
+        }
+      ],
+      "citationKey": "chajutSelectiveAttentionImproves2003",
+      "citekey": "chajutSelectiveAttentionImproves2003",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Eran",
+          "lastName": "Chajut"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel",
+          "lastName": "Algom"
+        }
+      ],
+      "date": "2003",
+      "dateAdded": "2022-08-23T03:04:49Z",
+      "dateModified": "2022-08-23T03:04:49Z",
+      "issue": "2",
+      "itemID": 552,
+      "itemKey": "328WN5PB",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Journal of Personality and Social Psychology",
+      "key": "328WN5PB",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "231-248",
+      "publicationTitle": "Journal of Personality and Social Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/328WN5PB",
+      "shortTitle": "Selective attention improves under stress",
+      "tags": [],
+      "title": "Selective attention improves under stress: Implications for theories of social cognition.",
+      "uri": "http://zotero.org/users/9698946/items/328WN5PB",
+      "url": "http://doi.apa.org/getdoi.cfm?doi=10.1037/0022-3514.85.2.231",
+      "version": 1493,
+      "volume": "85"
     },
     {
       "DOI": "10.4324/9780203765425-6",
@@ -675,7 +731,7 @@
       "title": "The Psychological and Physiological Effects of Light and Colour on Space Users",
       "uri": "http://zotero.org/users/9698946/items/9GQAPWSC",
       "url": "http://ieeexplore.ieee.org/document/1616646/",
-      "version": 1351
+      "version": 1442
     },
     {
       "DOI": "10.1016/j.paid.2020.110083",
@@ -1406,7 +1462,7 @@
       "title": "Quantitative Overload: a Source of Stress in Data-Entry VDT Work Induced by Time Pressure and Work Difficulty",
       "uri": "http://zotero.org/users/9698946/items/FR6GFJCP",
       "url": "http://www.jstage.jst.go.jp/article/indhealth/46/3/46_3_269/_article",
-      "version": 1305,
+      "version": 1307,
       "volume": "46"
     },
     {
@@ -2363,7 +2419,7 @@
       "title": "Association between RR interval and high-frequency heart rate variability acquired during short-term, resting recordings with free and paced breathing",
       "uri": "http://zotero.org/users/9698946/items/J6W5GE6M",
       "url": "https://iopscience.iop.org/article/10.1088/0967-3334/29/7/008",
-      "version": 1361,
+      "version": 1366,
       "volume": "29"
     },
     {
@@ -4318,7 +4374,7 @@
       "title": "Influence of time pressure and verbal provocation on physiological and psychological reactions during work with a computer mouse",
       "uri": "http://zotero.org/users/9698946/items/UF7469KL",
       "url": "http://link.springer.com/10.1007/s00421-002-0611-7",
-      "version": 1323,
+      "version": 1392,
       "volume": "87"
     },
     {
@@ -4602,7 +4658,7 @@
       "title": "Quantitative Overload: a Source of Stress in Data-Entry VDT Work Induced by Time Pressure and Work Difficulty",
       "uri": "http://zotero.org/users/9698946/items/WFHLYUFU",
       "url": "http://www.jstage.jst.go.jp/article/indhealth/46/3/46_3_269/_article",
-      "version": 1299,
+      "version": 1406,
       "volume": "46"
     },
     {
@@ -4793,7 +4849,7 @@
       "title": "Influence of time pressure and verbal provocation on physiological and psychological reactions during work with a computer mouse",
       "uri": "http://zotero.org/users/9698946/items/X9E9M64D",
       "url": "http://link.springer.com/10.1007/s00421-002-0611-7",
-      "version": 1298,
+      "version": 1325,
       "volume": "87"
     },
     {
@@ -5547,7 +5603,7 @@
     }
   ],
   "version": {
-    "bbt": "6.7.21",
-    "zotero": "6.0.10"
+    "bbt": "6.7.22",
+    "zotero": "6.0.13"
   }
 }
