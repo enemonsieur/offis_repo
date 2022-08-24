@@ -1,4 +1,6 @@
+How can I reorganize my content to be consitent? 
 
-Write your ideas before they disappear. Don't think. Just write them down. 5 seconds rules. (or 2 or 10) 
-
-Running: doing too much. Run at the speed you walk at the beginnings.
+1. Find my Audience
+	1. Rapid language learning for A1
+	2. Focusing technique for students with ADHD?
+	3.  Général 
