@@ -15,11 +15,20 @@ How can I reorganize my content to be consitent?
 		### 7. treat yourself to exercise and balance
 		### 10. write down your thoughts and plans Does it even work?
 		## 3. Listen to background sounds
+		### Tip #6 – Listen to your internal clock
+
+If you still find it hard to focus despite all the attempts to ward off distractions, you might want to consider adjusting your work hours to your [circadian rhythm](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx). 
+
+Depending on whether you find it more natural to do your best work in the morning or you feel more productive at night, you can pick your extreme time slots and tailor your workday according to your Biological Prime Time. 
+=> Is Biological prime time a thing to change focus.
+
 https://www.scotthyoung.com/blog/2020/11/02/motivation/#04
+=> Distill that shit
 Noise is one of the main problems when it comes to breaking your focus. When you find yourself in an environment which is either too loud or too quiet, any sudden noise will distract you and break your focus. You can solve this by listening to [background sounds](https://www.noisli.com/), which create a constant, pleasant and inspiring sound environment while at the same time masking any potential disturbing noises.
 
 Especially the movement (**e.g. playing basketball or jogging after work in nature**) is what stimulates your brain activity and increases your ability to concentrate. At the same time, it provides a pleasant balance after long periods of concentration and increases your resistance to stress
 
+- Idea: How tot sleep at the exact same times always? So that you'll 
 5. Dig out potential IP from your notes, past projects, everything
 6. Make a list of 30 content + where to get there
 7. Make a list of ressources you can distill and express on a daily basis
