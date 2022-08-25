@@ -28,7 +28,19 @@ Noise is one of the main problems when it comes to breaking your focus. When you
 
 Especially the movement (**e.g. playing basketball or jogging after work in nature**) is what stimulates your brain activity and increases your ability to concentrate. At the same time, it provides a pleasant balance after long periods of concentration and increases your resistance to stress
 
-- Idea: How tot sleep at the exact same times always? So that you'll 
+- Idea: How tot sleep at the exact same times always? So that you'll focus more
+- How to use every single time of your day to do some work: ### — Use commute time well
+- Your one-way 1-hour [commute time](https://clockify.me/blog/productivity/everything-about-commute/) doesn’t have to be a curse. Think of it as some extra time you can spend cutting down the long hours you’d spend working in the office or at home.
+
+There are plenty of ways you can go about it:
+
+-   **Record your thoughts** — you can use Alexa or Google Voice to compile your to-do list for today, or simply brainstorm ideas and record notes that will help you organize your work better later that day. 
+-   **Take that power nap** — if you manage to pull off at least 20 minutes of sleep in your commute, you’re on an excellent start to feel fully refreshed when you arrive at the office.
+-   **Think about what you still have to finish** — on your way home, you can reflect on what you did at the office, and what you still have to finish when you get home.
+-   **Catch up on your emails** — if you travel by public transportation, you can use commute time to read and reply to emails.
+-   **Make phone calls** — if you have a phone call scheduled during the day, why not make it in the car or bus?
+**- When to ask for tutors to build commitment.**
+- https://www.reddit.com/r/getdisciplined/comments/bitjdy/method_i_challenged_myself_to_work_10_hours_a_day/ STORY 
 5. Dig out potential IP from your notes, past projects, everything
 6. Make a list of 30 content + where to get there
 7. Make a list of ressources you can distill and express on a daily basis
