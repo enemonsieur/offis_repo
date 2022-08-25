@@ -6,6 +6,7 @@ How can I reorganize my content to be consitent?
 	3.  People that want a healthier brain. 
 	4. Rich Cameroonian wanting better taste of their culture
 2. Create an avatar of those MOFO
+	1. People that want to focus long enough to finish projects/courses
 3. Check how big the market is and ajust the audience
 	4. Medium big for focus longer
 4. Find relevant content people used online
