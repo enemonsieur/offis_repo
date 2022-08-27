@@ -15,10 +15,10 @@ Noise is one of the main problems when it comes to breaking your focus. When you
 
 Especially the movement (**e.g. playing basketball or jogging after work in nature**) is what stimulates your brain activity and increases your ability to concentrate. At the same time, it provides a pleasant balance after long periods of concentration and increases your resistance to stress
 
-- Idea: How tot sleep at the exact same times always? So that you'll focus more
+**- Idea: How tot sleep at the exact same times always? So that you'll focus more**
 - How to use every single time of your day to do some work: ### — Use commute time well
 - Your one-way 1-hour [commute time](https://clockify.me/blog/productivity/everything-about-commute/) doesn’t have to be a curse. Think of it as some extra time you can spend cutting down the long hours you’d spend working in the office or at home.
-
+**- how to set aside a personal study plan you'll actually follow**
 There are plenty of ways you can go about it:
 
 -   **Record your thoughts** — you can use Alexa or Google Voice to compile your to-do list for today, or simply brainstorm ideas and record notes that will help you organize your work better later that day. 
@@ -28,4 +28,31 @@ There are plenty of ways you can go about it:
 -   **Make phone calls** — if you have a phone call scheduled during the day, why not make it in the car or bus?
 **- When to ask for tutors to build commitment.**
 - https://www.reddit.com/r/getdisciplined/comments/bitjdy/method_i_challenged_myself_to_work_10_hours_a_day/ STORY 
-- 
+- https://sujanpatel.com/business/hard-work-lessons/
+- ## Tip 3 – Find a study buddy
+
+Think about how you’ll be accountable for your studying?  
+
+Having other students learning along with you is a great way.  It is one of the ways in-person schools can be effective. That does not mean online schooling is doomed. 
+
+Finding people going through the same struggles as you, and those who have gotten past that point can have a powerful motivating effect.  Get involved in whatever way you can, if the schooling has an online presence then join and be active. Sometimes you will be in a position to help fellow students, the after effect of that is you yourself get a boost of motivation.
+
+At OpenClassrooms, we use Workplace so that student can interact with each other. Here’s a [blog article](https://blog.openclassrooms.com/en/2017/11/17/facebooks-workplace-can-help-study-better/) that explains how it can help you with your studies.
+
+## Tip 4 – Find a mentor
+
+How well does a football (soccer) team perform without a coach?  How about with an experienced coach helping guide them? If your online schooling does not have a mentorship program, I highly recommend finding someone who is willing to help mentor you.  
+
+Your mentor was not born with the knowledge they have now, they had to learn it, they had to go through the struggles.  They know what YOU are dealing with, what you have to do and also what you CAN and will accomplish. A major benefit of a mentor is you can reach out to them when you are stuck, don’t know where to turn or have any struggles.  They are not there to do the work for you but help you know what you need to do to move forward.
+
+> ##### Find a mentor, get a mentor, be kind to your mentor.
+
+_Editor’s note: Did you know students get weekly 1-hour mentoring sessions when they follow a path at OpenClassrooms?! Here’s a Q&A with [Rohan Taneja](https://blog.openclassrooms.com/en/2018/03/09/meet-rohan-taneja-mentor-openclassrooms/), an Android mentor at OpenClassrooms, explaining the mentoring process and how it all works._
+
+#### 5. Actively communicate with your trainer
+
+Taking an online course does not mean that you are completely out of touch from your trainers. Regular communication with your trainers will help you gain an in-depth knowledge of the subject matter. A good rapport with them will also help you clear your doubts and have your queries answered
+
+#### 8. Set aside study time
+ 
+While an online course offers you the flexibility of completing it at your own convenience, setting aside specific hours in the day for study and following a schedule helps time manage to achieve course completion.

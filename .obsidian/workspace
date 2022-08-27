@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas for Sustain focus.md",
+            "file": "AREAS/grey matters/Work in Progress.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas for Sustain focus.md",
+                "file": "AREAS/grey matters/Work in Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "6847ef6816785da9",
   "lastOpenFiles": [
+    "Ideas for Sustain focus.md",
     "AREAS/grey matters/Work in Progress.md",
     "PROJECTS/Writing Copies.md",
     "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
@@ -121,7 +122,6 @@
     "AREAS/grey matters/Building a second brain - Tiago Forte.md",
     "PROJECTS/Marketing Confiotes/1PMP course.md",
     "PROJECTS/Threads Twitter.md",
-    "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md",
-    "PROJECTS/OFFIS/Work_in_progress_Stress Measurement.md"
+    "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md"
   ]
 }
