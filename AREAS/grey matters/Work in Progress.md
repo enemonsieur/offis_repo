@@ -7,6 +7,9 @@ How can I reorganize my content to be consitent?
 	4. Rich Cameroonian wanting better taste of their culture
 2. Create an avatar of those MOFO
 	1. People that want to focus long enough to finish projects/ online courses/work from home/ have their own deadlines
+	2. LANGUAGE:
+		1. People that want to learn the basic of any language
+		2. Student that stop progressing in german but want to land a job . Wanna jump from A2 to B2
 3. Check how big the market is and ajust the audience
 	4. Medium big for focus longer: "complete online course" blog
 4. Find relevant content people used online
