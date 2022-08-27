@@ -28,3 +28,4 @@ There are plenty of ways you can go about it:
 -   **Make phone calls** — if you have a phone call scheduled during the day, why not make it in the car or bus?
 **- When to ask for tutors to build commitment.**
 - https://www.reddit.com/r/getdisciplined/comments/bitjdy/method_i_challenged_myself_to_work_10_hours_a_day/ STORY 
+- 
