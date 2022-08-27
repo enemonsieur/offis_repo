@@ -27,6 +27,7 @@ There are plenty of ways you can go about it:
 -   **Catch up on your emails** — if you travel by public transportation, you can use commute time to read and reply to emails.
 -   **Make phone calls** — if you have a phone call scheduled during the day, why not make it in the car or bus?
 **- When to ask for tutors to build commitment.**
+- Why do staying away from a job for long makes us crave it more? Like holidays
 - https://www.reddit.com/r/getdisciplined/comments/bitjdy/method_i_challenged_myself_to_work_10_hours_a_day/ STORY 
 - https://sujanpatel.com/business/hard-work-lessons/
 - ## Tip 3 – Find a study buddy
