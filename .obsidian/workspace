@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/grey matters/UL - Japanese.md",
+            "file": "AREAS/grey matters/Work in Progress.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/grey matters/UL - Japanese.md",
+                "file": "AREAS/grey matters/Work in Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6847ef6816785da9",
+  "active": "4a964cfb5b2f8a24",
   "lastOpenFiles": [
-    "Ideas for Sustain focus.md",
-    "AREAS/grey matters/Work in Progress.md",
-    "PROJECTS/Writing Copies.md",
-    "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
-    "PROJECTS/Marketing Confiotes/Marketing Coffee House.md",
-    "PROJECTS/Videos Tiktok.md",
     "AREAS/grey matters/Building a second brain - Tiago Forte.md",
+    "AREAS/grey matters/Work in Progress.md",
     "PROJECTS/Marketing Confiotes/1PMP course.md",
-    "PROJECTS/Threads Twitter.md",
-    "PROJECTS/OFFIS/220801_1 Design Stress inducing Task.md"
+    "PROJECTS/Marketing Confiotes/Marketing Coffee House.md",
+    "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
+    "AREAS/grey matters/UL - Japanese.md",
+    "Ideas for Sustain focus.md",
+    "PROJECTS/Writing Copies.md",
+    "PROJECTS/Videos Tiktok.md",
+    "PROJECTS/Threads Twitter.md"
   ]
 }
