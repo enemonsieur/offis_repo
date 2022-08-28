@@ -29,6 +29,15 @@
       "name": "Designing Stress",
       "parent": ""
     },
+    "2RYY7CZQ": {
+      "collections": [],
+      "items": [
+        554
+      ],
+      "key": "2RYY7CZQ",
+      "name": "Sustained Motivation/Attention",
+      "parent": ""
+    },
     "3FJEDVEX": {
       "collections": [],
       "items": [
@@ -2743,6 +2752,58 @@
       "uri": "http://zotero.org/users/9698946/items/KB9CUT6P",
       "url": "https://www.intechopen.com/books/prosthesis/the-argus-ii-retinal-prosthesis-system",
       "version": 644
+    },
+    {
+      "DOI": "10.3389/fnhum.2017.00145",
+      "ISSN": "1662-5161",
+      "accessDate": "2022-08-28T17:34:45Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-28T17:34:47Z",
+          "dateModified": "2022-08-28T17:34:47Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\XQFIIDAH\\Di Domenico_Ryan_2017_The Emerging Neuroscience of Intrinsic Motivation.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Di Domenico_Ryan_2017_The Emerging Neuroscience of Intrinsic Motivation.pdf",
+          "uri": "http://zotero.org/users/9698946/items/XQFIIDAH"
+        }
+      ],
+      "citationKey": "didomenicoEmergingNeuroscienceIntrinsic2017",
+      "citekey": "didomenicoEmergingNeuroscienceIntrinsic2017",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Stefano I.",
+          "lastName": "Di Domenico"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Richard M.",
+          "lastName": "Ryan"
+        }
+      ],
+      "date": "2017-03-24",
+      "dateAdded": "2022-08-28T17:34:45Z",
+      "dateModified": "2022-08-28T17:34:45Z",
+      "itemID": 554,
+      "itemKey": "KDPYKG6K",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Front. Hum. Neurosci.",
+      "key": "KDPYKG6K",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "publicationTitle": "Frontiers in Human Neuroscience",
+      "relations": [],
+      "select": "zotero://select/library/items/KDPYKG6K",
+      "shortTitle": "The Emerging Neuroscience of Intrinsic Motivation",
+      "tags": [],
+      "title": "The Emerging Neuroscience of Intrinsic Motivation: A New Frontier in Self-Determination Research",
+      "uri": "http://zotero.org/users/9698946/items/KDPYKG6K",
+      "url": "http://journal.frontiersin.org/article/10.3389/fnhum.2017.00145/full",
+      "version": 1512,
+      "volume": "11"
     },
     {
       "DOI": "10.3389/fpsyg.2021.655148",
