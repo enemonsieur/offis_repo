@@ -1,1 +1,4 @@
 However, a maturational delay model alone is incomplete: alternate courses are suggested by differences associated with phenotypic factors, such as symptom remission/persistence and exposure to stimulant treatment. Findings from functional imaging studies point to multiple loci of abnormalities that are not limited to frontal–striatal circuitry, which is important for executive and motivational function, but also include parietal, temporal and motor cortices, and the cerebellum.
+
+The phasic mode of dopamine transmission may “transiently activate SEEKING patterns in coincidence with specific cue- or context-dependent information, attributing to such information an incentive motivational, action-orienting effect” ([Alcaro and Panksepp, 2011](https://www.frontiersin.org/articles/10.3389/fnhum.2017.00145/full#B2), p.1810).
+=> We can build habit by connecting cues to rewards, because of the phasic part of the dopamine striatum circuit
