@@ -32,7 +32,13 @@
     "2RYY7CZQ": {
       "collections": [],
       "items": [
-        554
+        554,
+        559,
+        560,
+        561,
+        562,
+        563,
+        564
       ],
       "key": "2RYY7CZQ",
       "name": "Sustained Motivation/Attention",
@@ -377,6 +383,170 @@
       "version": 1139
     },
     {
+      "DOI": "10.3758/s13415-014-0300-0",
+      "ISSN": "1530-7026, 1531-135X",
+      "accessDate": "2022-08-30T10:31:50Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-30T10:31:12Z",
+          "dateModified": "2022-08-30T10:31:53Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\B2SJW8VB\\Braver et al. - 2014 - Mechanisms of motivation–cognition interaction ch.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Braver et al. - 2014 - Mechanisms of motivation–cognition interaction ch.pdf",
+          "uri": "http://zotero.org/users/9698946/items/B2SJW8VB"
+        }
+      ],
+      "citationKey": "braverMechanismsMotivationCognition2014a",
+      "citekey": "braverMechanismsMotivationCognition2014a",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Todd S.",
+          "lastName": "Braver"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marie K.",
+          "lastName": "Krug"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kimberly S.",
+          "lastName": "Chiew"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Wouter",
+          "lastName": "Kool"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "J. Andrew",
+          "lastName": "Westbrook"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nathan J.",
+          "lastName": "Clement"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "R. Alison",
+          "lastName": "Adcock"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Deanna M.",
+          "lastName": "Barch"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew M.",
+          "lastName": "Botvinick"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Charles S.",
+          "lastName": "Carver"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roshan",
+          "lastName": "Cools"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ruud",
+          "lastName": "Custers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anthony",
+          "lastName": "Dickinson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Carol S.",
+          "lastName": "Dweck"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ayelet",
+          "lastName": "Fishbach"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter M.",
+          "lastName": "Gollwitzer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas M.",
+          "lastName": "Hess"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Derek M.",
+          "lastName": "Isaacowitz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mara",
+          "lastName": "Mather"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kou",
+          "lastName": "Murayama"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Luiz",
+          "lastName": "Pessoa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gregory R.",
+          "lastName": "Samanez-Larkin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Leah H.",
+          "lastName": "Somerville"
+        },
+        {
+          "creatorType": "author",
+          "name": "for the MOMCAI group"
+        }
+      ],
+      "date": "06/2014",
+      "dateAdded": "2022-08-30T10:31:51Z",
+      "dateModified": "2022-08-30T10:31:52Z",
+      "issue": "2",
+      "itemID": 564,
+      "itemKey": "4JME2BV5",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Cogn Affect Behav Neurosci",
+      "key": "4JME2BV5",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "443-472",
+      "publicationTitle": "Cognitive, Affective, & Behavioral Neuroscience",
+      "relations": [],
+      "select": "zotero://select/library/items/4JME2BV5",
+      "shortTitle": "Mechanisms of motivation–cognition interaction",
+      "tags": [],
+      "title": "Mechanisms of motivation–cognition interaction: challenges and opportunities",
+      "uri": "http://zotero.org/users/9698946/items/4JME2BV5",
+      "url": "https://link.springer.com/10.3758/s13415-014-0300-0",
+      "version": 1529,
+      "volume": "14"
+    },
+    {
       "DOI": "10.3389/fpsyg.2021.698526",
       "ISSN": "1664-1078",
       "abstractNote": "According to the self-determination theory, individuals' basic psychological needs for autonomy, competence, and relatedness should be satisfied for optimal psychological growth. The satisfaction of these needs seems to vary due to changes in a person's social context, and the outcomes of the satisfaction of these needs also vary along with the needs. Despite several studies investigating daily and weekly variations in need satisfaction and its correlates, no systematic investigation exists. This study aimed to conduct a narrative synthesis of existing quantitative diary studies of basic psychological needs in the work context. We specifically aimed to evaluate if psychological need satisfaction varies daily and weekly and judge whether they vary more daily or weekly. Additionally, we also aimed to review the literature regarding the relations between daily or weekly variations in need satisfaction and its assumed antecedents and outcomes. We included peer-reviewed articles in English that measured work-related basic psychological needs using a quantitative diary study design. Database searching (Web of Science, ScienceDirect, EBSCOhost, and Scopus) led to the extraction of 2 251 records by February 2020. Duplicates were removed, the remaining records were screened (\n              n\n              = 820), and 30 articles were assessed using eligibility criteria. Two authors individually conducted the screening and eligibility processes to manage selection bias. In total, 21 articles were included in the final review. The review indicated that basic psychological need satisfaction showed considerable within-person variation and was more dynamic daily (compared to weekly). Job demands, job resources, organisational resources, and individual characteristics appeared to associate with these variations. The organisational context seemed to matter the most for need satisfaction. Variations in need satisfaction were also related to employee well-being, performance, and motivation. Despite the small number of published studies (particularly for weekly studies), our results indicate that researchers should pay attention to within-person variations in need satisfaction. Measuring daily need satisfaction could be prioritised. Different antecedents and outcomes seem to be associated with different needs. Thus, when needs are viewed as distinct constructs instead of unidimensional ones, one can derive greater insights. The study is funded by the National Research Foundation.",
@@ -523,6 +693,170 @@
       "url": "http://www.tandfonline.com/doi/abs/10.1080/00140139308967972",
       "version": 432,
       "volume": "36"
+    },
+    {
+      "DOI": "10.3758/s13415-014-0300-0",
+      "ISSN": "1530-7026, 1531-135X",
+      "accessDate": "2022-08-30T10:31:39Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-30T10:31:04Z",
+          "dateModified": "2022-08-30T10:31:40Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\VXI3YKCF\\Braver et al. - 2014 - Mechanisms of motivation–cognition interaction ch.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Braver et al. - 2014 - Mechanisms of motivation–cognition interaction ch.pdf",
+          "uri": "http://zotero.org/users/9698946/items/VXI3YKCF"
+        }
+      ],
+      "citationKey": "braverMechanismsMotivationCognition2014",
+      "citekey": "braverMechanismsMotivationCognition2014",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Todd S.",
+          "lastName": "Braver"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marie K.",
+          "lastName": "Krug"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kimberly S.",
+          "lastName": "Chiew"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Wouter",
+          "lastName": "Kool"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "J. Andrew",
+          "lastName": "Westbrook"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nathan J.",
+          "lastName": "Clement"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "R. Alison",
+          "lastName": "Adcock"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Deanna M.",
+          "lastName": "Barch"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew M.",
+          "lastName": "Botvinick"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Charles S.",
+          "lastName": "Carver"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Roshan",
+          "lastName": "Cools"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ruud",
+          "lastName": "Custers"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anthony",
+          "lastName": "Dickinson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Carol S.",
+          "lastName": "Dweck"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ayelet",
+          "lastName": "Fishbach"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Peter M.",
+          "lastName": "Gollwitzer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas M.",
+          "lastName": "Hess"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Derek M.",
+          "lastName": "Isaacowitz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mara",
+          "lastName": "Mather"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kou",
+          "lastName": "Murayama"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Luiz",
+          "lastName": "Pessoa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gregory R.",
+          "lastName": "Samanez-Larkin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Leah H.",
+          "lastName": "Somerville"
+        },
+        {
+          "creatorType": "author",
+          "name": "for the MOMCAI group"
+        }
+      ],
+      "date": "06/2014",
+      "dateAdded": "2022-08-30T10:31:39Z",
+      "dateModified": "2022-08-30T10:31:40Z",
+      "issue": "2",
+      "itemID": 562,
+      "itemKey": "7L2P74RR",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Cogn Affect Behav Neurosci",
+      "key": "7L2P74RR",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "443-472",
+      "publicationTitle": "Cognitive, Affective, & Behavioral Neuroscience",
+      "relations": [],
+      "select": "zotero://select/library/items/7L2P74RR",
+      "shortTitle": "Mechanisms of motivation–cognition interaction",
+      "tags": [],
+      "title": "Mechanisms of motivation–cognition interaction: challenges and opportunities",
+      "uri": "http://zotero.org/users/9698946/items/7L2P74RR",
+      "url": "https://link.springer.com/10.3758/s13415-014-0300-0",
+      "version": 1526,
+      "volume": "14"
     },
     {
       "abstractNote": "Abstract\nWe investigate the effect of conditions that create technostress, on technology-enabled innovation, technology-enabled performance and overall performance. We further look at the role of technology self-efficacy, organizational mechanisms that inhibit technostress and technology competence as possible mitigations to the effects of technostress creators. Our findings show a negative association between technostress creators and performance. We find that, while traditional effort-based mechanisms such as building technology competence reduce the impact of technostress creators on technology-enabled innovation and performance, more empowering mechanisms such as developing technology self-efficacy and information systems (IS) literacy enhancement and involvement in IS initiatives are required to counter the decrease in overall performance because of technostress creators. Noting that the professional sales context offers increasingly high expectations for technology-enabled performance in an inherently interpersonal-oriented and relationship-oriented environment with regard to overall performance, and high failure rates for IS acceptance/use, the study uses survey data collected from 237 institutional sales professionals.",
@@ -1818,6 +2152,27 @@
       "uri": "http://zotero.org/users/9698946/items/G8IGGK34",
       "url": "https://dl.acm.org/doi/10.1145/3329189.3329235",
       "version": 124
+    },
+    {
+      "charset": "",
+      "contentType": "application/pdf",
+      "dateAdded": "2022-08-30T10:31:32Z",
+      "dateModified": "2022-08-30T10:31:32Z",
+      "defaultPath": "files/561/j.concog.2016.02.014.pdf",
+      "filename": "j.concog.2016.02.014.pdf",
+      "itemID": 561,
+      "itemKey": "G8PU4KK3",
+      "itemType": "attachment",
+      "key": "G8PU4KK3",
+      "libraryID": 1,
+      "linkMode": "imported_file",
+      "localPath": "C:\\Users\\ene Monsieur\\Zotero\\storage\\G8PU4KK3\\j.concog.2016.02.014.pdf",
+      "relations": [],
+      "select": "zotero://select/library/items/G8PU4KK3",
+      "tags": [],
+      "title": "j.concog.2016.02.014.pdf",
+      "uri": "http://zotero.org/users/9698946/items/G8PU4KK3",
+      "version": 1523
     },
     {
       "DOI": "10.1016/0003-6870(95)00029-C",
@@ -4055,6 +4410,67 @@
       "volume": "16"
     },
     {
+      "DOI": "10.1016/S0165-0173(01)00044-3",
+      "ISSN": "01650173",
+      "abstractNote": "The psychological construct ‘sustained attention’ describes a fundamental component of attention characterized by the subject’s readiness to detect rarely and unpredictably occurring signals over prolonged periods of time. Human imaging studies have demonstrated that activation of frontal and parietal cortical areas, mostly in the right hemisphere, are associated with sustained attention performance. Animal neuroscientiﬁc research has focused on cortical afferent systems, particularly on the cholinergic inputs originating in the basal forebrain, as crucial components of the neuronal network mediating sustained attentional performance. Sustained attention performanceassociated activation of the basal forebrain corticopetal cholinergic system is conceptualized as a component of the ‘top-down’ processes initiated by activation of the ‘anterior attention system’ and designed to mediate knowledge-driven detection and selection of target stimuli. Activated cortical cholinergic inputs facilitate these processes, particularly under taxing attentional conditions, by enhancing cortical sensory and sensory-associational information processing, including the ﬁltering of noise and distractors. Collectively, the ﬁndings from human and animal studies provide the basis for a relatively precise description of the neuronal circuits mediating sustained attention, and the dissociation between these circuits and those mediating the ‘arousal’ components of attention. © 2001 Elsevier Science B.V. All rights reserved.",
+      "accessDate": "2022-08-30T10:31:42Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-30T10:31:07Z",
+          "dateModified": "2022-08-30T10:31:47Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\LC4PQ642\\Sarter et al. - 2001 - The cognitive neuroscience of sustained attention.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Sarter et al. - 2001 - The cognitive neuroscience of sustained attention.pdf",
+          "uri": "http://zotero.org/users/9698946/items/LC4PQ642"
+        }
+      ],
+      "citationKey": "sarterCognitiveNeuroscienceSustained2001",
+      "citekey": "sarterCognitiveNeuroscienceSustained2001",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Martin",
+          "lastName": "Sarter"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ben",
+          "lastName": "Givens"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John P",
+          "lastName": "Bruno"
+        }
+      ],
+      "date": "4/2001",
+      "dateAdded": "2022-08-30T10:31:42Z",
+      "dateModified": "2022-08-30T10:31:45Z",
+      "issue": "2",
+      "itemID": 563,
+      "itemKey": "SWIEPYH4",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Brain Research Reviews",
+      "key": "SWIEPYH4",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "146-160",
+      "publicationTitle": "Brain Research Reviews",
+      "relations": [],
+      "select": "zotero://select/library/items/SWIEPYH4",
+      "shortTitle": "The cognitive neuroscience of sustained attention",
+      "tags": [],
+      "title": "The cognitive neuroscience of sustained attention: where top-down meets bottom-up",
+      "uri": "http://zotero.org/users/9698946/items/SWIEPYH4",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0165017301000443",
+      "version": 1528,
+      "volume": "35"
+    },
+    {
       "DOI": "10.1136/oem.59.1.67",
       "ISSN": "13510711",
       "accessDate": "2022-08-08T11:00:52Z",
@@ -5115,6 +5531,48 @@
       "url": "http://link.springer.com/10.1007/s00420-018-1352-1",
       "version": 118,
       "volume": "92"
+    },
+    {
+      "charset": "",
+      "contentType": "application/pdf",
+      "dateAdded": "2022-08-30T10:31:23Z",
+      "dateModified": "2022-08-30T10:31:23Z",
+      "defaultPath": "files/559/j.neuroimage.2012.10.072.pdf",
+      "filename": "j.neuroimage.2012.10.072.pdf",
+      "itemID": 559,
+      "itemKey": "YHRHLGRB",
+      "itemType": "attachment",
+      "key": "YHRHLGRB",
+      "libraryID": 1,
+      "linkMode": "imported_file",
+      "localPath": "C:\\Users\\ene Monsieur\\Zotero\\storage\\YHRHLGRB\\j.neuroimage.2012.10.072.pdf",
+      "relations": [],
+      "select": "zotero://select/library/items/YHRHLGRB",
+      "tags": [],
+      "title": "j.neuroimage.2012.10.072.pdf",
+      "uri": "http://zotero.org/users/9698946/items/YHRHLGRB",
+      "version": 1520
+    },
+    {
+      "charset": "",
+      "contentType": "application/pdf",
+      "dateAdded": "2022-08-30T10:31:26Z",
+      "dateModified": "2022-08-30T10:31:26Z",
+      "defaultPath": "files/560/s41598-018-31876-7.pdf",
+      "filename": "s41598-018-31876-7.pdf",
+      "itemID": 560,
+      "itemKey": "YJSFUKRY",
+      "itemType": "attachment",
+      "key": "YJSFUKRY",
+      "libraryID": 1,
+      "linkMode": "imported_file",
+      "localPath": "C:\\Users\\ene Monsieur\\Zotero\\storage\\YJSFUKRY\\s41598-018-31876-7.pdf",
+      "relations": [],
+      "select": "zotero://select/library/items/YJSFUKRY",
+      "tags": [],
+      "title": "s41598-018-31876-7.pdf",
+      "uri": "http://zotero.org/users/9698946/items/YJSFUKRY",
+      "version": 1521
     },
     {
       "DOI": "10.1088/0967-3334/29/7/008",
