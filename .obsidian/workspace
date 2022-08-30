@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/Sport/half marathon training.md",
+            "file": "PROJECTS/Learning Jap.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/Sport/half marathon training.md",
+                "file": "PROJECTS/Learning Jap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +111,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6847ef6816785da9",
+  "active": "4a964cfb5b2f8a24",
   "lastOpenFiles": [
+    "AREAS/Sport/half marathon training.md",
     "AREAS/grey matters/ADHD research.md",
     "AREAS/grey matters/Work in Progress.md",
     "AREAS/grey matters/Building a second brain - Tiago Forte.md",
@@ -121,7 +122,6 @@
     "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
     "AREAS/grey matters/UL - Japanese.md",
     "Ideas for Sustain focus.md",
-    "PROJECTS/Writing Copies.md",
-    "PROJECTS/Videos Tiktok.md"
+    "PROJECTS/Writing Copies.md"
   ]
 }
