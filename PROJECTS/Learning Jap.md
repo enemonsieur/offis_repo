@@ -29,4 +29,24 @@ Regarde les conversations que j'ai dans une langue que je ne maitrise pas. Avec 
 21. What's on the menu today?
 22. I'd like to try your sushi with wasabi
 23. I don't speak japanese well
-24. 
+24. I'm still learning please, go easy on me
+25. Do you have friends in Oldenburg?
+26. I'm going out tomorrow to see old friends in Hannover
+27. Oh, you prefer staying at home?
+28. Is it ok if I pay for you?
+29. Is it ok if I take alcohol?
+30. I'm pretty stressed these days
+31. What do you do when you're stressed?
+32. I'm trying to stay/eat healthy
+33. We will definitely meet again!
+34. I enjoyed the discussion
+35. Did you ever visit Cameroon?
+36. Where is Indonesia?
+37. Cameroon is in the middle of the Africa's continent
+38. We speak French in Cameroon. It's my mother tongue
+39. I've been playing guitar for 5 years
+40. What's your favorite food?
+41. My favorite food? I don't have one but I love spicy food.
+42. I usually eat rice and potatoes with asian spicies.
+43. I don't want to talk about it
+44. I don't
