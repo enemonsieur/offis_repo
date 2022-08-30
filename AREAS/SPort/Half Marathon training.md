@@ -93,4 +93,4 @@ https://recoverathletics.com/can-changing-your-running-form-reduce-your-injury-r
 - Hitting the heels first is common in runner. Doesn't matter
 - Cadence: If too low, increase. If too high? Don't care.
 - **If it ain’t broke, don’t fix it.**
-- 
+	- If you do have pain, technique changes might help, but resistance training is probably more important  You can try a resistance** **training routine customized for your body in the Recover Athletics app. This app  helps runners fix aches and pains and prevent injury. A year’s subscription costs less than one trip to physical therapist and we have an unlimited free trial. Give the app a try today!***
