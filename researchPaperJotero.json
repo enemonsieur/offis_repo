@@ -33,12 +33,12 @@
       "collections": [],
       "items": [
         554,
-        559,
-        560,
-        561,
         562,
         563,
-        564
+        564,
+        565,
+        566,
+        567
       ],
       "key": "2RYY7CZQ",
       "name": "Sustained Motivation/Attention",
@@ -2154,27 +2154,6 @@
       "version": 124
     },
     {
-      "charset": "",
-      "contentType": "application/pdf",
-      "dateAdded": "2022-08-30T10:31:32Z",
-      "dateModified": "2022-08-30T10:31:32Z",
-      "defaultPath": "files/561/j.concog.2016.02.014.pdf",
-      "filename": "j.concog.2016.02.014.pdf",
-      "itemID": 561,
-      "itemKey": "G8PU4KK3",
-      "itemType": "attachment",
-      "key": "G8PU4KK3",
-      "libraryID": 1,
-      "linkMode": "imported_file",
-      "localPath": "C:\\Users\\ene Monsieur\\Zotero\\storage\\G8PU4KK3\\j.concog.2016.02.014.pdf",
-      "relations": [],
-      "select": "zotero://select/library/items/G8PU4KK3",
-      "tags": [],
-      "title": "j.concog.2016.02.014.pdf",
-      "uri": "http://zotero.org/users/9698946/items/G8PU4KK3",
-      "version": 1523
-    },
-    {
       "DOI": "10.1016/0003-6870(95)00029-C",
       "ISSN": "00036870",
       "accessDate": "2022-06-23T13:18:42Z",
@@ -3783,6 +3762,80 @@
       "volume": "92"
     },
     {
+      "DOI": "10.1016/j.concog.2016.02.014",
+      "ISSN": "10538100",
+      "abstractNote": "Flow is a special mental state characterized by deep concentration that occurs during the performance of optimally challenging tasks. In prior studies, proneness to experience ﬂow has been found to be moderately heritable. In the present study, we investigated whether individual differences in ﬂow proneness are related to a polymorphism of the dopamine D2 receptor coding gene (DRD2 C957T rs6277). This polymorphism affects striatal D2 receptor availability, a factor that has been shown to be related to ﬂow proneness. To our knowledge, this is the ﬁrst study to investigate the association between this trait and a speciﬁc gene variant. In a sample of 236 healthy Hungarian adults, we found that CC homozygotes report higher ﬂow proneness than do T allele carriers, but only during mandatory activities (i.e., studying and working), not during leisure time. We discuss implications of this result, e.g., the potential mediators of the relationship.",
+      "accessDate": "2022-08-30T10:32:19Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-30T10:31:32Z",
+          "dateModified": "2022-08-30T10:32:21Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\G8PU4KK3\\Gyurkovics et al. - 2016 - Individual differences in flow proneness are linke.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Gyurkovics et al. - 2016 - Individual differences in flow proneness are linke.pdf",
+          "uri": "http://zotero.org/users/9698946/items/G8PU4KK3"
+        }
+      ],
+      "citationKey": "gyurkovicsIndividualDifferencesFlow2016",
+      "citekey": "gyurkovicsIndividualDifferencesFlow2016",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mate",
+          "lastName": "Gyurkovics"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eszter",
+          "lastName": "Kotyuk"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Eniko Rozsa",
+          "lastName": "Katonai"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Erzsebet Zsofia",
+          "lastName": "Horvath"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrea",
+          "lastName": "Vereczkei"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anna",
+          "lastName": "Szekely"
+        }
+      ],
+      "date": "05/2016",
+      "dateAdded": "2022-08-30T10:32:19Z",
+      "dateModified": "2022-08-30T10:32:21Z",
+      "itemID": 567,
+      "itemKey": "NF5H2FJ4",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Consciousness and Cognition",
+      "key": "NF5H2FJ4",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "1-8",
+      "publicationTitle": "Consciousness and Cognition",
+      "relations": [],
+      "select": "zotero://select/library/items/NF5H2FJ4",
+      "tags": [],
+      "title": "Individual differences in flow proneness are linked to a dopamine D2 receptor gene variant",
+      "uri": "http://zotero.org/users/9698946/items/NF5H2FJ4",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1053810016300265",
+      "version": 1534,
+      "volume": "42"
+    },
+    {
       "abstractNote": "Stress is a physiological and psychological pressure perceived by an individual that placing himself/herself in a risk, both physically and mentally. The research objective of this research is to find out whether the level of technology competence and workload has an impact on employee performance through technostress as an intervening variable. The respondents of this study were 138 people whom work at Production and Engineering department of a multinational company using automation technology equipment in operation. A technique of data collection was done by using questionaire and interviews. Data was analysed using the SEM (Structural Equation Modelling) approach. From the research it can be concluded that the workload and competence level of automation technology had significant impact to technostress. Further, the study also shows a significant relationships between workload and employee performance which the Technostress acts as an intervening variable in the relationship.",
       "attachments": [],
       "citationKey": "ImpactTechnostressEndUser",
@@ -4366,6 +4419,80 @@
       "volume": "15"
     },
     {
+      "DOI": "10.1016/j.neuroimage.2012.10.072",
+      "ISSN": "10538119",
+      "abstractNote": "Flow is a subjective experience of high but effortless attention, enjoyment, and low self-awareness that can occur during the active performance of challenging tasks. The dispositional proneness to experience ﬂow is associated with personality traits that are known to be inﬂuenced by dopaminergic neural systems. Here, for the ﬁrst time, we investigated relations between ﬂow proneness and dopaminergic function. Speciﬁcally, we tested the hypothesis that the availability of dopamine D2-receptors in the striatum is positively associated with ﬂow proneness. Striatal D2-receptor availability was measured in a sample of 25 healthy adults using positron emission tomography and [11C]raclopride. Flow proneness was measured using the Swedish Flow Proneness Questionnaire. As hypothesized, there was a signiﬁcant correlation (r = .41) between striatal D2-receptor availability and ﬂow proneness. An exploratory analysis of striatal subregions showed that the relation was mainly driven by the dorsal striatum, with a signiﬁcantly higher correlation in the putamen than in the ventral striatum. The ﬁndings constitute the ﬁrst demonstration of an association between ﬂow proneness and dopaminergic function. We suggest that the proneness to experience ﬂow is related to personality dimensions that are under dopaminergic control and characterized by low impulsiveness, stable emotion, and positive affect.",
+      "accessDate": "2022-08-30T10:31:58Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-30T10:31:23Z",
+          "dateModified": "2022-08-30T10:32:03Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\YHRHLGRB\\de Manzano et al. - 2013 - Individual differences in the proneness to have fl.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "de Manzano et al. - 2013 - Individual differences in the proneness to have fl.pdf",
+          "uri": "http://zotero.org/users/9698946/items/YHRHLGRB"
+        }
+      ],
+      "citationKey": "demanzanoIndividualDifferencesProneness2013",
+      "citekey": "demanzanoIndividualDifferencesProneness2013",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Örjan",
+          "lastName": "de Manzano"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Simon",
+          "lastName": "Cervenka"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aurelija",
+          "lastName": "Jucaite"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Oscar",
+          "lastName": "Hellenäs"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Lars",
+          "lastName": "Farde"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Fredrik",
+          "lastName": "Ullén"
+        }
+      ],
+      "date": "02/2013",
+      "dateAdded": "2022-08-30T10:31:58Z",
+      "dateModified": "2022-08-30T10:31:59Z",
+      "itemID": 565,
+      "itemKey": "RQ4PIBV4",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "NeuroImage",
+      "key": "RQ4PIBV4",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "1-6",
+      "publicationTitle": "NeuroImage",
+      "relations": [],
+      "select": "zotero://select/library/items/RQ4PIBV4",
+      "tags": [],
+      "title": "Individual differences in the proneness to have flow experiences are linked to dopamine D2-receptor availability in the dorsal striatum",
+      "uri": "http://zotero.org/users/9698946/items/RQ4PIBV4",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1053811912010762",
+      "version": 1532,
+      "volume": "67"
+    },
+    {
       "DOI": "10.1007/s10111-013-0256-9",
       "ISSN": "1435-5558, 1435-5566",
       "accessDate": "2022-07-04T07:38:41Z",
@@ -4853,6 +4980,55 @@
       "url": "http://link.springer.com/10.1007/s00421-002-0611-7",
       "version": 1392,
       "volume": "87"
+    },
+    {
+      "DOI": "10.1038/s41598-018-31876-7",
+      "ISSN": "2045-2322",
+      "accessDate": "2022-08-30T10:32:09Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-08-30T10:31:26Z",
+          "dateModified": "2022-08-30T10:32:14Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\YJSFUKRY\\Cowley - 2018 - Studying the integrated functional cognitive basis.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Cowley - 2018 - Studying the integrated functional cognitive basis.pdf",
+          "uri": "http://zotero.org/users/9698946/items/YJSFUKRY"
+        }
+      ],
+      "citationKey": "cowleyStudyingIntegratedFunctional2018",
+      "citekey": "cowleyStudyingIntegratedFunctional2018",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Benjamin Ultan",
+          "lastName": "Cowley"
+        }
+      ],
+      "date": "12/2018",
+      "dateAdded": "2022-08-30T10:32:09Z",
+      "dateModified": "2022-08-30T10:32:10Z",
+      "issue": "1",
+      "itemID": 566,
+      "itemKey": "V3WN2CZ6",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Sci Rep",
+      "key": "V3WN2CZ6",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "13514",
+      "publicationTitle": "Scientific Reports",
+      "relations": [],
+      "select": "zotero://select/library/items/V3WN2CZ6",
+      "tags": [],
+      "title": "Studying the integrated functional cognitive basis of sustained attention with a Primed Subjective-Illusory-Contour Attention Task",
+      "uri": "http://zotero.org/users/9698946/items/V3WN2CZ6",
+      "url": "http://www.nature.com/articles/s41598-018-31876-7",
+      "version": 1533,
+      "volume": "8"
     },
     {
       "ISBN": "978-3-030-49043-0 978-3-030-49044-7",
@@ -5531,48 +5707,6 @@
       "url": "http://link.springer.com/10.1007/s00420-018-1352-1",
       "version": 118,
       "volume": "92"
-    },
-    {
-      "charset": "",
-      "contentType": "application/pdf",
-      "dateAdded": "2022-08-30T10:31:23Z",
-      "dateModified": "2022-08-30T10:31:23Z",
-      "defaultPath": "files/559/j.neuroimage.2012.10.072.pdf",
-      "filename": "j.neuroimage.2012.10.072.pdf",
-      "itemID": 559,
-      "itemKey": "YHRHLGRB",
-      "itemType": "attachment",
-      "key": "YHRHLGRB",
-      "libraryID": 1,
-      "linkMode": "imported_file",
-      "localPath": "C:\\Users\\ene Monsieur\\Zotero\\storage\\YHRHLGRB\\j.neuroimage.2012.10.072.pdf",
-      "relations": [],
-      "select": "zotero://select/library/items/YHRHLGRB",
-      "tags": [],
-      "title": "j.neuroimage.2012.10.072.pdf",
-      "uri": "http://zotero.org/users/9698946/items/YHRHLGRB",
-      "version": 1520
-    },
-    {
-      "charset": "",
-      "contentType": "application/pdf",
-      "dateAdded": "2022-08-30T10:31:26Z",
-      "dateModified": "2022-08-30T10:31:26Z",
-      "defaultPath": "files/560/s41598-018-31876-7.pdf",
-      "filename": "s41598-018-31876-7.pdf",
-      "itemID": 560,
-      "itemKey": "YJSFUKRY",
-      "itemType": "attachment",
-      "key": "YJSFUKRY",
-      "libraryID": 1,
-      "linkMode": "imported_file",
-      "localPath": "C:\\Users\\ene Monsieur\\Zotero\\storage\\YJSFUKRY\\s41598-018-31876-7.pdf",
-      "relations": [],
-      "select": "zotero://select/library/items/YJSFUKRY",
-      "tags": [],
-      "title": "s41598-018-31876-7.pdf",
-      "uri": "http://zotero.org/users/9698946/items/YJSFUKRY",
-      "version": 1521
     },
     {
       "DOI": "10.1088/0967-3334/29/7/008",
