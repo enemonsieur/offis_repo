@@ -17,4 +17,16 @@ Regarde les conversations que j'ai dans une langue que je ne maitrise pas. Avec 
 9. Why is neuroscience interesting?
 10. What do you do in your free time?
 11. I read a lot of books, I go to gym, I lift weights, I run and I play guitar
-12. 
+12. My friend is big/fat/tall/small/thin/black/white/asian/muscular/cute/sexy/long hair/short hair/
+13. Do you have time next week?
+14. Should we meet next week?
+15. I have to take my bus quickly
+16. We should see each other again
+17. what's your favorite restaurant
+18. Did you watch this movie?
+19. I have to cook dinner
+20. Can I order?
+21. What's on the menu today?
+22. I'd like to try your sushi with wasabi
+23. I don't speak japanese well
+24. 
