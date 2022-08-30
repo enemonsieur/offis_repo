@@ -49,4 +49,10 @@ Regarde les conversations que j'ai dans une langue que je ne maitrise pas. Avec 
 41. My favorite food? I don't have one but I love spicy food.
 42. I usually eat rice and potatoes with asian spicies.
 43. I don't want to talk about it
-44. I don't
+44. I don't know how to explain it
+45. How many languages do you speak?
+46. What language are you trying to learn?
+47. Are you learning german?
+48. Do you also do some sport? Which one?
+49. I hate sweating
+50. Did you learn an instrument younger?
