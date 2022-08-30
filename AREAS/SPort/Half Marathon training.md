@@ -86,3 +86,11 @@ Z5: 9 10 for 600 m intervals
 ![[Pasted image 20220809152315.png]]
 ![[Pasted image 20220809152325.png]]
 ![[Pasted image 20220809152335.png]]
+
+https://recoverathletics.com/can-changing-your-running-form-reduce-your-injury-risk/
+# Is running form important?
+- **If you’re a non-injured runner, changing your footstrike will confer no health or performance benefit. That’s the fact, jack.**
+- Hitting the heels first is common in runner. Doesn't matter
+- Cadence: If too low, increase. If too high? Don't care.
+- **If it ain’t broke, don’t fix it.**
+- 
