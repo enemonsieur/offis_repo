@@ -34,13 +34,13 @@
 20. Do Freedom really help focus on taks?
 	1. https://alifeofproductivity.com/do-distraction-blockers-really-work/
 21. Why you should use the pomodoro technique
-	1. Eat a po
+	1. Eat a pomodoro
 
 
 RESSOURCES:
 https://alifeofproductivity.com/10-productivity-lessons-working-90-hour-weeks/
 https://alifeofproductivity.com/all-you-need-are-three-breaths/
-
+https://alifeofproductivity.com/top-10-things-learned-productivity-meditating-for-35-hours/
 
 If you still find it hard to focus despite all the attempts to ward off distractions, you might want to consider adjusting your work hours to your [circadian rhythm](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx). 
 
