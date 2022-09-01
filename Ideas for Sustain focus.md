@@ -9,7 +9,7 @@
 4. Story of how I studied 8hours+/day for a month (what it takes)
 5. You'll never focus double digits hours until your remove those 7 things
 6. 5 Things to do before starting online courses (if you want to finish it)
-7. 
+7. The easiest study tip you'll ever learn: Test yourself just before classes. Testing increase retention, and direct learning towards the point you don't know. Repetitive
 
 If you still find it hard to focus despite all the attempts to ward off distractions, you might want to consider adjusting your work hours to your [circadian rhythm](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx). 
 
