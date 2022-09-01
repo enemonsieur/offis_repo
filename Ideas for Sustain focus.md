@@ -41,7 +41,7 @@ RESSOURCES:
 https://alifeofproductivity.com/10-productivity-lessons-working-90-hour-weeks/
 https://alifeofproductivity.com/all-you-need-are-three-breaths/
 https://alifeofproductivity.com/top-10-things-learned-productivity-meditating-for-35-hours/
-
+https://www.youtube.com/watch?v=lAdVN4yzJCs (story of the MATH phD cured ADHD)
 If you still find it hard to focus despite all the attempts to ward off distractions, you might want to consider adjusting your work hours to your [circadian rhythm](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx). 
 
 Depending on whether you find it more natural to do your best work in the morning or you feel more productive at night, you can pick your extreme time slots and tailor your workday according to your Biological Prime Time. 
