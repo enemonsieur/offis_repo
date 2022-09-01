@@ -27,7 +27,9 @@
 16. How much does meditation increase focus?
 17. Study say, 20% break per day is a must for productivity
 	1. https://alifeofproductivity.com/for-optimal-productivity-be-on-break-for-20-25-of-the-workday/
-18. 
+18. AMRAP tips for productivity
+	1. https://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/
+19. 
 
 
 If you still find it hard to focus despite all the attempts to ward off distractions, you might want to consider adjusting your work hours to your [circadian rhythm](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx). 
