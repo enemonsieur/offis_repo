@@ -14,6 +14,12 @@
 	1. Lack context. It makes reading boring, you'll forget a lot of things, and you wont create a mental representation of the scenes
 
 9. Are you left or right brain? What do you mean its not a thing? In fact...
+	**Novelty-Routinization Theory by Dr. Goldberg**
+10. Story: What's the #1 trait of high achieving scientists and entrepreneurs?
+	1. lot of stories of Johnny, Einstein, Marie Curie, Jack Ma
+	2.  [[Focus High achievers]]
+11. 
+
 
 If you still find it hard to focus despite all the attempts to ward off distractions, you might want to consider adjusting your work hours to your [circadian rhythm](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx). 
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas for Sustain focus.md",
+            "file": "AREAS/grey matters/ADHD research.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas for Sustain focus.md",
+                "file": "AREAS/grey matters/ADHD research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,8 @@
   },
   "active": "316fce38699cd2ff",
   "lastOpenFiles": [
+    "Ideas for Sustain focus.md",
+    "Focus High achievers.md",
     "AREAS/grey matters/Work in Progress.md",
     "AREAS/grey matters/ADHD research.md",
     "AREAS/grey matters/UL - Japanese.md",
@@ -108,8 +110,6 @@
     "PROJECTS/Threads Twitter.md",
     "PROJECTS/Videos Tiktok.md",
     "PROJECTS/Marketing Confiotes/Marketing Confiotes.md",
-    "PROJECTS/Marketing Confiotes/Marketing Coffee House.md",
-    "PROJECTS/Writing Copies.md",
-    "PROJECTS/Marketing Confiotes/1PMP course.md"
+    "PROJECTS/Marketing Confiotes/Marketing Coffee House.md"
   ]
 }
