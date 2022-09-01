@@ -29,7 +29,17 @@
 	1. https://alifeofproductivity.com/for-optimal-productivity-be-on-break-for-20-25-of-the-workday/
 18. AMRAP tips for productivity
 	1. https://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/
-19. 
+19. To increase focus, create your own focus-ritual: Cleaning, deadline, eat the frog,hyperpriorize
+	1. https://hbr.org/2018/08/4-strategies-for-overcoming-distraction
+20. Do Freedom really help focus on taks?
+	1. https://alifeofproductivity.com/do-distraction-blockers-really-work/
+21. Why you should use the pomodoro technique
+	1. Eat a po
+
+
+RESSOURCES:
+https://alifeofproductivity.com/10-productivity-lessons-working-90-hour-weeks/
+https://alifeofproductivity.com/all-you-need-are-three-breaths/
 
 
 If you still find it hard to focus despite all the attempts to ward off distractions, you might want to consider adjusting your work hours to your [circadian rhythm](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx). 
