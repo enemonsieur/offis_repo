@@ -18,7 +18,7 @@
 10. Story: What's the #1 trait of high achieving scientists and entrepreneurs?
 	1. lot of stories of Johnny, Einstein, Marie Curie, Jack Ma
 	2.  [[Focus High achievers]]
-11. 
+11. How to design an Online-study plan
 
 
 If you still find it hard to focus despite all the attempts to ward off distractions, you might want to consider adjusting your work hours to your [circadian rhythm](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx). 
