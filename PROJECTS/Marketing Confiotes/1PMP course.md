@@ -1,7 +1,7 @@
 Whats our profits per month?
 
 What made you always not buy?
-- This is
+- This syrup and liquor is for people like you. Why? You wanna lay on the couch after a big day, you need a time for you. And your tontines are often full of X Y Z
 - Can you measure with your CRM, if leads progress through our funnel?
 - what's the piece of content you can be famous for? You can reuse again and again to attract clients
 -  Où est ce que Ro peut aller pour parler avec sa cible et connaitreleur  problèmes et leur pain points? Régulièrement ? Ex: Foires, les endroits ou Anne Ndame se réunit, ou vont les gens qui cherchent des expériences uniques, sont gourmandes de nouveautés made in Cameroon et discutent?
