@@ -3,6 +3,13 @@
 		### 10. write down your thoughts and plans Does it even work?
 		## 3. Listen to background sounds
 		### Tip #6 – Listen to your internal clock
+1. **- Idea: How tot sleep at the exact same times always? So that you'll focus more**
+2. If you  can't stop using social media when you work, these 10 tips will help you. 
+3. What happens when you stop managing your time but also manage your attention?
+4. Story of how I studied 8hours+/day for a month (what it takes)
+5. You'll never focus double digits hours until your remove those 7 things
+6. 5 Things to do before starting online courses (if you want to finish it)
+7. 
 
 If you still find it hard to focus despite all the attempts to ward off distractions, you might want to consider adjusting your work hours to your [circadian rhythm](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx). 
 
