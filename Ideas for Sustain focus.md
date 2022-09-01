@@ -21,7 +21,7 @@
 11. How to design an Online-study plan
 12. How do I keep my self focus for 3 hours straight when I have ADHD?
 13. Story: How Chris Bailey discovered the secret of hyperfocus
-14. 
+14. How do you plan your day when you cant keep up 
 
 
 If you still find it hard to focus despite all the attempts to ward off distractions, you might want to consider adjusting your work hours to your [circadian rhythm](https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms.aspx). 
