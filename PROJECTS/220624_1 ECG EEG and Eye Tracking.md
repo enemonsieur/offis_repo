@@ -71,7 +71,7 @@ An index that integrates the variations of both alpha and beta rhythms is reflec
 => Find the power ratio: Beta/Apha activity. If it increase that means stress increases. 
 
 Power of higher frequency rhythms (such as gamma band) may provide a sensitive index of stress response magnitude (relative power in the gamma band recorded from prefrontal electrodes [35]), although caution is advised when interpreting results in this frequency range due to the potential of contamination by myogenic activity.
-=> Consider measuring gamma bands frequencies ryh
+=> Consider measuring gamma bands frequencies rythms.
 
 # Stress Prediction
 - We classify the predicting features using the SVM
@@ -79,7 +79,6 @@ Power of higher frequency rhythms (such as gamma band) may provide a sensitive i
 "Logistic regression analysis was performed to classify high and low workload levels through eye-tracking metrics using IBM SPSS Statistics Version 25 Software"
 
 "NASA-TLX workload scores were divided into the low (0–50) and high (51–100) levels. In the presented research, the Nasa-TLX scale is normalized to a number between 0 and 100. Point 50 is the midpoint of the scale, which was selected as a cutofffor workload level classification (low and high) and labeled as neutral considering the verbal anchor for the midpoint. In this type of scale, the middle value (midpoint) can be used as a cutoff (Zheng et al., 2011; McDonald et al., 2014). In the lo gistic model, the dependent variable was coded as a “0′′ event in case of low workload, and the high workload was a “1′′ event; independent variables were 24 extracted eye-tracking metrics.""
+
 => we transform the NASA scale into metrics from 0 to 100. and define a cut off at the middle to implement a logistic regression model as 0= low workload 1= high workload
-
-
-.[[@bitkinaAbilityEyetrackingMetrics2021]]
+[[@bitkinaAbilityEyetrackingMetrics2021]]

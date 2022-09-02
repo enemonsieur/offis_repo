@@ -1,8 +1,6 @@
 IDEAS for twitter threads
 
 
-
-
 https://marketingexamined.com/
 ![[Pasted image 20220810181705.png]]
 # Keep your sport schedule
