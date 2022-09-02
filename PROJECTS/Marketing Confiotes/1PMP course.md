@@ -11,6 +11,7 @@ Whats our profits per month?
 ## THE ONLY LOGICAL CHOICE
 - Nos compétiteurs ne sont pas sur d'etre dan sle business dans 5 ans. Vous voulez vraiment commencer à acheter de quelqu'un qui disparaitra dans 1 an? Que dirons vos clients ?Preuve: Nous livrons Akwa Palace depuis presque 10 ans. La qualité augmente même - Nous traquons nos prroducteurs et sommes en contact avec eux. Ce qui fait que nos produits sont fait à partir de fruits de bonne qualité et nous connaissons l'origine. Voulez vous vraiment donner des liqueurs à des clients VIP sans savoir d'où elles viennent ? - Nous produisons des liqueurs depuis 30 ans. Nos liqueurs sont vieilles le goût s'adoucit avec l'âge. La plus part des MIC ne sont même pas assez vieilles pour avoir de vieilles liquuers - You'll never get a wide range of cocktails and tastes for your clients/friends with other MIC. We have a wide range of tastes and
 
+- What's beyond the surface level dream of our customers? Not only recongition and having honors from their pairs, but also having meaningful evenings?
 # ?
 What made you always not buy?
 - List their biggest frustrations in the message
