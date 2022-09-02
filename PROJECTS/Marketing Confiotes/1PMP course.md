@@ -1,5 +1,15 @@
 Whats our profits per month?
+# USP
+##  Ce qui nous rend unique c'est quoi?
+1. Nos clients sont inquiets par la qualité des produits made in cameroon. Ils sont inquièt que les ingredients soient mal choisis, pas naturels donc ils hésitent à acheter.
+=> Nous proposons un coffret dégustation au prix de la livraison: Pas de risque d'être décus. Avantage de les avoir
+2. Ils ont peur que la qualité change à cause des process artisanaux et qu'ils tombent sur un mauvais gout. Ils ont peur d'offrir yeux fermés un produit MIC à ceux qui leur font confiance, se tromper et entacher leur réputation. Ils ont peur que ceux à qui ils offrent le produit ne leur renvoie pas: surprise, excitation, remerciements, et ne partagent pas leur engouement. 
+ => Une liste d'utilisation visuelles du produit, pour que n'importe quel client puisse reproduire ces sensation 
+ => Rappeler que nous sommes là avant l'essort du made in Cameroon. Montrer nos clients depuis 30 ans (demander aux vieux clients depuis quand ils connaissent les confiotes et pourquoi ils continuent à acheter)
+ => Montrer nos paniers cadeaux personnalisés et comment il y'en a pour tous les goûts (les artisanaux aux professionels)
+ 
 
+# ?
 What made you always not buy?
 - List their biggest frustrations in the message
 	- Fatigué d'avoir des livraisons en retard, devoir réclamer votre argent, d'offrir des produits MIC à des gens sans qu'ils ne soient aussi excités que vous?
