@@ -14,7 +14,11 @@ Think about your Spanish or German classes: You had to learn at the same time th
 
 But when you're own your own, no one is gonna make you do 5 grammar exercises per day. The more you try to do everything, like having 2 dictionnary, 3 grammar books, 5 apps, the harder it becomes to motivate yourself!
 
-But you have the advantage og 
+But you have the advantage of focusing on ONE single aspect. nailing it down and movign on. For example, I'm studying japanese rn. I exclusively learn to use new words in multiple context which mean: I hardly care about listening, grammar, and even learning kanjis. 
+I simply just add and learn new words in mulitple context over and over again. There's zero decision making involve, and I've been steadily progressing over the month. 
+When I'll reach my target number of words,  I'll focus on grammar, nail down the most important parts of it like conjugasion or particle, and then move on to speaking.
+
+
 But somehow you end up learning the grammar, at the same time trying to read a lot, memorize words. Then you have tons of books, website, apps, and surely you give up! 
 
 Why not focus on... 1
