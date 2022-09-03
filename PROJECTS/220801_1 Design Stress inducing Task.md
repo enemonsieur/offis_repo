@@ -3,7 +3,6 @@ alias: [stress factors HRV]
 ---
 ###### tags: #stressfactors  
 ###### links:  
-
 [[@ohEffectsHeartRate2021]]
  In this study, 27 subjects in their 20s who were identified to be vulnerable to stress but had healthy visual conditions and physical activities were included, and their HRVs were measured in color environment
 => Measuring the HRV in different color environment.
