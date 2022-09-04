@@ -16,11 +16,9 @@ But when you're own your own, no one's gonna come with a plan for you. You have 
 
 That makes... no sense.
 
-Anyway Bad news you can't have a complex plan like in classroom good new... you don't have to.  Just focus ONE single aspect. nail it down (I mean destroy that shit) and move on. For example, I'm studying japanese rn. I exclusively learn to use new words in multiple context which mean: I hardly care about listening, grammar, and even learning kanjis. 
-I simply just add and learn new words in mulitple context over and over again. There's zero decision making involve, and I've been steadily progressing over the month. 
-When I'll reach my target number of words,  I'll focus on grammar, nail down the most important parts of it like conjugasion or particle, and then move on to speaking.
+Anyway Bad news you can't have a complex plan like in classroom good new... you don't have to.  Just focus ONE single aspect. nail it down (I mean destroy that shit) and move on. For example, I'm studying japanese rn. because I'm masochistic and I wanna do small talk with natives ya know? Like Konichiwa,  ii tenki desune? Yametekudasai. Humhum
+So my focus is learning a ton of words an sentences.  ANd I don't care about listening, grammar, and even learning the alphabet. 
+Everyday zero decision making involve: Just learn more words/sentences until I reach 300 and I'm getting better.. 
+Then  I'll focus on grammar, KILL the most important parts of it like conjugasion or particles... then move to speaking.
 
-
-But somehow you end up learning the grammar, at the same time trying to read a lot, memorize words. Then you have tons of books, website, apps, and surely you give up! 
-
-Why not focus on... 1
+So think about the most important aspect of your learning. Do you want to order food in Korean? Or listen to novelas in spanish? Find out what's important for you, and 
