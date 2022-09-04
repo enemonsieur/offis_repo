@@ -156,3 +156,38 @@ situation. You don’t necessarily need to work on all six factors to make progr
 your business situation and capabilities, and you certainly will be better prepared for the future than your
 
 # SHAREABILITY 
+Here’s the mistake most companies make: They check the box on content and then forget about ignition. As I  
+introduced in Chapter 1, content isn’t effective if it doesn’t move. People have to see it, engage with it, share  
+it—or you’re wasting your money. By putting the emphasis on exposing your content instead of simply  
+producing more, more, more, you create a powerful new marketing competency in the information era.  
+This is where we’re going to spend our time for the rest of this book. You’ll become an expert on this  
+complex cocktail of ideas and insights, promotion and production, audience and audacity ... that gets your  
+content to explode through this wall of information density.  
+
+**=> How to know if a content is worth sharing?**
+THink about Ced/Madango sharing it:
+
+It made you look cooler, smarter, funnier, or more relevant—providing you with a personal psychological  
+benefit.  
+The content struck some strong emotional chord. It made you laugh, cry, or otherwise feel something so  
+profound it deserved to be shared with others.  
+It’s practical or timely. Sharing the content will help and inform your friends.  
+You found a new idea and can’t wait to be the first to share it.  
+You feel deeply connected to the author and you want to support them.  
+It represents an achievement. Maybe you or your company were mentioned in the content and it makes  
+you feel good to show this representation of your status.
+
+Research shows that people typically don’t share content they’re reading on the web, even “great”  
+content.1 For example, a large study of social transmission across millions of Twitter accounts revealed that  
+the majority of users are passive information consumers and rarely forward content to their network.  
+In fact, an average Twitter user retweets only one in 318 content links they receive. Facebook reports that  
+just one-half of one percent of those who see a Facebook post share it.2 These sobering numbers suggest  
+that actively finding and nurturing that miniscule number of the most active users is critical to spreading your  
+information on the web.
+
+**Therefore, in order to become an effective content-igniter, you must not only create content and build an  audience but also employ strategies to overcome user passivity and systematically find individuals  
+predisposed to love and share the content you’re creating. This is perhaps the most overlooked  
+imperative in digital marketing today.**  
+
+
+## 5 reasons to overcome disinteress and 
