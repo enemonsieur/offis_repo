@@ -8,9 +8,9 @@ I
 [[Threads Twitter#^f24b97]]
 
 # 
-If you're learning a language on your own, you are probably this thing we learn in classroom that isn't helping you: I call it: dispersion learning. 
+If you're learning a language on your own, you are probably doing this thing we learn in classroom. I call it: dispersion learning. And it isn't helping you. 
 
-Think about your Spanish or German classes: You had to learn at the same time the alphabet, study some texts, do tons of grammar, and little to no speaking. All of those skills are already haaard and you also need the constant surveillance of the professor just to follow along. 
+Think about your Spanish or German classes: You had to learn at the same time the alphabet, study some texts, do tons of grammar, and little to no speaking. All of those skills are pretty though and you also need the constant surveillance of the professor just to follow along. 
 
 But when you're own your own, no one is gonna make you do 5 grammar exercises per day. The more you try to do everything, like having 2 dictionnary, 3 grammar books, 5 apps, the harder it becomes to motivate yourself!
 
