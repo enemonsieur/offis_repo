@@ -341,6 +341,65 @@ written as numerals. If you say “7 reasons why,” prospects want to know the 
 ad to learn them. Also ads and content written as lists, or “listicles,” which look more like editorial content, are
 
 
+## Organize your selling points
+When you write your copy, you must carefully organize the points you want to make. In an ad, you might  
+have one primary sales message (“This car gets good mileage”) and several secondary messages (“roomy  
+interior,” “low price,” “$500 rebate”).  
+The headline states the main selling proposition, and the first few paragraphs expand on it. Secondary  
+points are covered later in the body copy. If this copy is lengthy, each secondary point may get a separate
+The organization of your selling points depends on their relative importance, the amount of information you  
+give the reader, and the type of copy you are writing (letter, ad, commercial, blog post, or news story).  
+Terry C. Smith, a former communications manager with Westinghouse, has a rule for organizing sales points  
+in speeches and presentations. His rule is: “Tell them what you’re going to tell them. Tell them. And then, tell  
+them what you told them.” The speechwriter first gives an overview of the presentation, covers the important  
+points in sequence, and then gives a brief summary of these points. Listeners, unlike readers, cannot refer to a  
+printed page to remind them of what was said, and these overviews and summaries help your audience learn  
+and remember.  
+Burton Pincus, a freelance copywriter, developed a unique organizational pattern for the sales letters he  
+writes. Pincus begins with a headline that conveys a promise, shows how the promise is fulfilled, and gives  
+proof that the product is everything the copy says it is. Then he tells the reader how to order the product and  
+explains why the cost of the product is insignificant compared to its value.  
+Before you create an ad or landing page, write down your sales points. Organize them in a logical,  
+persuasive, clear fashion. And present them in this order when you write your copy.  
+
+
+## FOLLOW THE SIMPLE 4 S FORMULA  
+Here are 4 simple writing principles that can do more than any other writing techniques to make your copy clear  
+and easy to read:  
+Short words.  
+Short sentences.  
+Short paragraphs.  
+Short sections.  
+### Use Short Sentences  
+Short sentences are easier to read than long sentences. All professional writers—newspaper reporters,  
+publicists, magazine writers, copywriters—are taught to write in crisp, short, snappy sentences.  
+Long sentences tire and puzzle your readers. By the time they have gotten to the end of a lengthy sentence,  
+they don’t remember what was at the beginning.  
+D. H. Menzel, coauthor of Writing a Technical Paper, conducted a survey to find the best length for sentences  
+in technical papers. He found that sentences became difficult to understand beyond a length of about 34  
+words. And the consumer has far less patience with wordiness and run-on sentences than does the scientist  
+studying an important report.  
+Rudolf Flesch, best known for his classic books Why Johnny Can’t Read and The Art of Plain Talk , said the  
+best average sentence length for business writing is 14 to 16 words. Twenty to 25 words is passable, he added,  
+but above 40 words, the writing becomes unreadable.  
+Because ad writers place a premium on clarity, their sentences are even shorter than Flesch’s  
+recommended: 14- to 16-word average.  
+Now, let’s take a look at how you can reduce sentence length. First, you should break large sentences into  
+two or more separate sentences whenever possible.  
+Today every penny of profit counts and Gorman-Rupp  
+wants your pumps to work for all they’re worth.  
+Today every penny of profit counts. And Gorman-Rupp  
+wants your pumps to work for all they’re worth.  
+This article presents some findings from surveys  
+conducted in Haiti in 1977 that provide retrospective  
+data on the age at menarche of women between the  
+ages of 15 and 49 years.  
+This article presents some findings from surveys conducted  
+in Haiti in 1977. These surveys provide retrospective data  
+on the age at menarche of women between the ages of 15  
+and 49 years.  
+Another method of breaking up a long sentence is to use punctuation to divide it into two parts.
+
 # CONTENT MARKETING
 What to do if the niche is unsaturated? 
 1. Find an unsaturated niche.  
