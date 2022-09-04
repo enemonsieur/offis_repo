@@ -5,5 +5,5 @@
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "C:\\Users\\ene Monsieur\\OneDrive\\Documents\\OFFIS.de\\OFFISObsidianbackup-main\\zotero\\offis.bib"
+  "citationExportPath": "C:\\Users\\ene Monsieur\\OneDrive\\Documents\\OFFIS.de\\OFFISObsidianbackup-main\\zotero\\My Library.bib"
 }
