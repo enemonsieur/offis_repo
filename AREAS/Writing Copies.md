@@ -362,6 +362,97 @@ explains why the cost of the product is insignificant compared to its value.
 Before you create an ad or landing page, write down your sales points. Organize them in a logical,  
 persuasive, clear fashion. And present them in this order when you write your copy.  
 
+### FRAMEWORK FOR CREATING A COPY
+THE MOTIVATING SEQUENCE  
+Over the years, many advertising writers have developed “copy formulas” for structuring ads, commercials,  
+and sales letters.  
+The best known of these formulas is AIDA, which stands for Attention, Interest, Desire, Action.  
+According to AIDA, the copy must first get the reader’s attention, then create an interest in the product, then  
+turn that interest into a strong desire to own the product, and finally ask the reader to buy the product or take  
+some other action that will eventually lead to a sale.  
+A second well-known formula is ACCA: Awareness, Comprehension, Conviction, Action. In ACCA, consumers  
+are first made aware that the product exists. Then they must comprehend what the product is and what it will  
+do for them. After comprehension, the readers must be convinced to buy the product. And finally, they must  
+take action and actually make the purchase.  
+A third famous formula is the 4 P’s: Picture, Promise, Prove, Push. The copywriter creates a picture of what  
+the product can do for the reader, promises the picture will come true if the reader buys the product, proves  
+what the product has done for others, and pushes for immediate action.  
+A fourth and my personal favorite is the “motivating sequence,” a five-step formula for writing copy that  
+sells.  
+1. Get Attention  
+This is the job of the headline and the visual. The headline should focus on the single strongest benefit you can  
+offer the reader.  
+Some copywriters try to hook the reader with clever phrases, puns, or irrelevant information, then save the  
+strongest benefit for a big windup finish. A mistake. If you don’t hook the reader with the strongest benefit—  
+the most important reason why he or she should be interested in what you’re selling—the reader won’t get past  
+the headline. (For more tips on headline writing, see chapter 2.)  
+2. Show a Need  
+All products, to some degree, solve some problem or fill a need. A car solves the problem of getting to and  
+from work. An air conditioner prevents you from sweltering in summer heat. Toothpaste with fluoride keeps  
+your teeth from getting holes in them. And mouthwash saves you the embarrassment of having bad breath.  
+However, with most products, the need for the product may not be obvious or it may not be ingrained in the  
+reader’s mind. The second step of writing copy that sells, then, is to show the reader why she needs the  
+product.  
+For example, many small-business owners do their own taxes and haven’t thought about hiring an  
+accountant. But an accountant, with his or her superior knowledge of taxes, can take advantage of the latest  
+tax regulations and save the business owner hundreds or even thousands of dollars in income tax.  
+So one tax reduction firm’s TV commercial promises: if you owe the IRS $10,000 or more, we can help you  
+settle the unpaid taxes you owe for pennies on the dollar.  
+3. Satisfy the Need and Position Your Product as a Solution to the Problem  
+Once you’ve convinced readers that they have a need, you must quickly show them that your product can  
+satisfy this need, answer their questions, or solve their problems.  
+An ad for a CPA firm might begin like this:  
+WOULD YOU PAY $1,000 TO SAVE $5,500?  
+Last year, a local flower shop decided to hire an accountant to do their income tax returns. They worried about the  
+seemingly high fee, but realized they didn’t have the time—or the expertise—to do it themselves.  
+You can imagine how delighted they were when they hired an accountant who showed them how they could pay  
+thousands of dollars less in income tax than they originally thought they would owe.  
+I am their accountant, and I’d like to tell you how the flower shop—and dozens of other firms whose taxes I prepare—have saved $2,000 ... $3,500 ... even $5,500 a year or more by taking advantage of legitimate tax  
+regulations, deductions, and shelters.  
+This copy isn’t perfect. It needs some work. But it does get attention, highlights a major benefit (saving  
+money), and shows that the service being advertised can satisfy the need.  
+4. Prove Your Product Can Do What You Say It Can Do  
+It isn’t enough to say you can satisfy readers’ needs—you’ve got to prove you can. You want the readers to risk  
+their hard-earned money on your product or service. You want them to buy from or hire you instead of your  
+competitors. How do you demonstrate your superiority over the competition? How do you get the readers to  
+believe what you say?  
+Here are a few proven techniques for convincing the readers that it’s to their advantage to do business with  
+you:  
+• Talk about the benefits of your product or service (use the features/benefits list as the source of your  
+discussion). Give the readers reasons to buy by showing the benefits they’ll get when they own your product.  
+• Use testimonials. In testimonials, others who have bought the product praise the product in their own  
+words. This third-party endorsement is much more convincing than manufacturers praising their own product.  
+• Compare your product to the competition’s. Show, benefit for benefit, how you are superior. But have  
+documentation supporting your claim in case your copy is challenged.  
+• If you have conducted studies to prove your product’s superiority, cite this evidence in the copy. Offer a  
+free reprint of the study to interested readers. For dietary supplements, the proof is clinical studies—preferably  
+randomized, double-blind, controlled clinical trials—published in peer-reviewed medical journals.  
+• Show that your company is reliable and will be in business a long time. Talk about number of employees,  
+size of distributor network, annual sales, number of years in business, growth rate.  
+5. Ask for Action  
+The last step in any piece of copy should always be a call for action. If the product is sold by mail, ask readers  
+to mail in an order form, or go online to buy. If the product is sold retail, ask readers to clip the ad and bring it  
+into the store.  
+If your ad doesn’t sell the product directly, then find out the next step in the buying process and tell your  
+readers about it. For example, you might offer a free brochure on the product, a demonstration, or a sample. At  
+the very least, encourage the readers to look for the product in the future if they are not going to buy it today.  
+Make it easy for the readers to take action. Include your company name, address, and phone number in  
+every piece of copy you write.  
+If you’re writing retail copy, include store hours and locations.  
+If you’re writing copy for a hotel or tourist attraction, include easy-to-follow instructions on how to get there,  
+along with a clearly drawn map of the area.  
+If you want the readers to send in an order or write for a free brochure, include a handy coupon they can clip  
+and mail.  
+If you want the readers to call, highlight your toll-free number in large boldface type. And, if you take credit-  
+card orders, be sure to say so and indicate which cards you accept.  
+Put order forms in catalogs, reply cards in mailers, dealer lists in industrial sales literature, and response  
+forms at the top of landing pages. Make it easy for your readers to respond.  
+Offer a Web response option, where the ad hyperlinks to an online form the prospects can use to request  
+more information or place an order.  
+And, if possible, give the readers an incentive for responding now: a price-off coupon, a time-limited sale, a  
+discount to the first one thousand people who order the product. Don’t be afraid to try for immediate action  
+and sales as well as long-range “image building.” Ask for the order, and ask for it right away.  
+
 
 ## FOLLOW THE SIMPLE 4 S FORMULA  
 Here are 4 simple writing principles that can do more than any other writing techniques to make your copy clear  
@@ -399,7 +490,27 @@ in Haiti in 1977. These surveys provide retrospective data
 on the age at menarche of women between the ages of 15  
 and 49 years.  
 Another method of breaking up a long sentence is to use punctuation to divide it into two parts.
-
+## Use Bullets  
+One of the most effective techniques for writing copy is to present the content as a list of bulleted items (e.g.,  
+“7 ways to reduce your heating bill this winter”). Many copywriters rattle off the bullets quickly—and as a result  
+settle for bullets that are ordinary and therefore not engaging.  
+It takes a bit more energy and creativity to come up with a bullet item that is as strong and compelling as  
+this classic from Boardroom: “What Never to Eat on an Airplane.”  
+One of the most common mistakes with bullets is not including the right level of information. “Tell too much,  
+and you give away the information free, and there is no need to order the product to find the answer,” says  
+copywriter Parris Lampropoulos. “For example, if your bullet says ‘how to erase pain by using an over-the-  
+counter lotion called capsaicin,’ no curiosity is generated because you’ve already told the secret.”  
+On the other hand, says Parris, if your bullet contains too little information, or not enough specific  
+information, it fails to grab attention. “If you say ‘why B vitamins are an absolute must for people predisposed  
+to this disease,’ you fail to hook me, because I don’t know what ‘this disease’ is,” says Parris.  
+His rule of thumb for writing strong bullets: Be specific about the problem; be vague and mysterious about  
+the solution. Plus, do it with a twist, hook, or unusual angle.  
+Parris gives as an example a copywriter who had to write a promotion for a book on natural health. One of  
+the tips in the book was that sitting on bulky objects can cause back pain. So if you have a big, bulging wallet,  
+take it out of your back pocket and keep it in your front pocket to prevent back stress. The bullet that the  
+copywriter came up with: “How a pickpocket can make your back pain better.” He is specific about the problem  
+(back pain), but mysterious about the solution (how can a pickpocket help with back pain?).
+How to create Brochurees
 # CONTENT MARKETING
 What to do if the niche is unsaturated? 
 1. Find an unsaturated niche.  
