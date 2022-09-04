@@ -242,7 +242,7 @@ and makes them more likely to use them. So if you create ideal conditions for co
 power for your brand and create new economic value by helping your consumers understand you and  
 become authentic advocates for your products and ideas!
 
-
+## WEARABLE CONTENT
 **If you’re one of the spectacular readers who tweet or post about this book to your audience, it’s probably  
 because what I’ve written creates a connection that is psychologically consistent with what you believe and  
 how you want to present yourself to others. Sharing an idea from this book makes a statement about you,  
@@ -250,4 +250,50 @@ just like your choice in jeans, car, or a soft drink. It says, I concur. I am al
 and I am smart; therefore, I will share it. This book is cool, and I am cool, so I will share it.  
 Your content becomes part of your audience’s personal narrative.**
 =>I am Madango et j'approuve ce message. I'm Yvon, Marie-Ester, Ace and j'approuve ce message
-=> Create WEARABLE CONTENT People will feel proud to endorse, and they'll
+=> Create WEARABLE CONTENT People will feel proud to endorse, and they'll share it. 
+
+A generation of “me-formers”  
+Those emotion-focused conversations are already out there by the millions. About 50 percent of what people  
+talk about on social media is “me” focused.6 It’s more than just vanity. Studies show we’re literally hard-  
+wired to talk about ourselves. Harvard neuroscientists Jason Mitchell and Diana Tamir 7 discovered that  
+disclosing information about ourselves is intrinsically rewarding. They found that sharing personal opinions  
+activates the same brain circuits that respond to rewards like food and money. In another study by these  
+researchers, they demonstrated that the power to share about ourselves is so important people are actually  
+willing to pay money to do it.
+## 2. Help people achieve something with your content.  
+A second point in the Berger research on social currency explains why status translates into social  
+transmission:  
+“Just like many other animals, people care about hierarchy. Apes engage in status displays and dogs try to  
+figure out who is the alpha. Humans are no different. We like feeling that we’re high status, top dog, or leader  
+of the pack. But status is inherently relational. Being the leader of the pack requires a pack, and doing better  
+than others.”  
+He suggests that building game mechanics into your content strategy might push people into transmission  
+mode. Examples of content activities that bestow accomplishment include:  
+Achieving a status level  
+Winning an award  
+Being included on a “best of” list  
+Getting a high score on a quiz  
+Being favorably mentioned in a video, podcast, or post  
+Achieving status helps generate social currency and social sharing. After all, what good is accomplishing  
+something if you can’t tell people about it?  
+Word of mouth also can come from the voting process itself. Deciding the winner by popular vote  
+encourages contestants to drum up support. But in telling people to vote for them, contestants also spread  
+awareness about the product sponsoring the contest. Instead of marketing yourself directly, you use the  
+contest to get people who want to win to do the marketing themselves.  
+One of the most interesting competitions I’ve seen is the “Top Social Media Blog Contest” compiled by  
+Social Media Examiner, one of the top sites on the marketing scene. The unique aspect of this blog is that it
+
+Another common tool for creating personal achievement through content is quizzes, which explains why  
+they appear on so many sites that depend on advertising for their revenues. In 2014, eight of the 10 most-  
+shared articles on the entire Internet were quizzes. Sharing positive or funny quiz results fuels our identity  
+and ego. Others learn more about who we are, what we value, and our tastes.  
+MIT cultural analyst Sherry Turkle11 says that people turn to quizzes to fulfill an irresistible need to quantify  
+the human condition. “Basically, we’re trying to get a number,” she said. “And people will use a quiz to get  
+that number. It gives people something to look at, an object to think with.” She adds that people have always  
+loved quizzes, but in the pre-social media days, we primarily took them for ourselves. “Now they’re  
+specifically for performance,” she said. “Part of the point is to share it ... It’s the conflation of who you are and  
+who thinks you’re okay.”  
+So when you’re making quizzes for your audience, you’re giving them an opportunity to learn something  
+interesting about themselves and a chance to start a conversation with their friends. It’s hard to say that  
+about a lot of other forms of content.  
+3. Make it exclusive.
