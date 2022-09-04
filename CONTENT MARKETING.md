@@ -1,13 +1,13 @@
 # CONTENT MARKETING
 What to do if the niche is unsaturated? 
-1. Find an unsaturated niche.  
+**1. Find an unsaturated niche.  
 2. Consistently produce a volume of quality, helpful material aimed at a relevant audience (or persona).  
-3. Never stop producing content.  
+3. Never stop producing content.**  
 Dominating a niche early has extremely important long-term value because the search engines will  
 continue to recognize and reward the authority your website accrues for a long time. One pioneering blogger  
 told me that after dominating his niche with content for so long, he could probably remain at the top of most  
 search engines for years ... even if he never wrote another blog post again.  
-The Content Saturation Index  
+**The Content Saturation Index**  
 Marcus Sheridan, an entrepreneur and content marketing thought leader, created a theoretical term to  
 describe this condition -- “content saturation index.”1 While his social media drug of choice is blogging, his  
 experience relates to any content form. He described in a post:  
@@ -64,3 +64,25 @@ The tiny winery received immense media attention from both the mainstream press 
 bloggers who marveled at Stephen’s authentic and human storytelling:
 
 =>Looks like Ro. 
+
+## Saturation Guidelines
+If there are fewer than 10,000 pages of returned search results, full speed ahead! There’s an opportunity  for you since there is low content density.
+Between 10,000 and 100,000 results, expect some resistance, but it’s surmountable with minimal  
+investment, exceptional content, and implementation of some of the Content Code factors covered in  
+this book.  
+If there are between 100,000 and 1 million search results, expect significant resistance. Competing  
+through content alone will be difficult. Applying Content Code strategies might be the primary means of  
+rising above this level of saturation.  
+A result producing more than 1 million pages of content represents a thoroughly saturated niche. Unless  
+the content becomes a product in its own right through significant investment, Content Shock exists in  
+this niche and is likely to bury even exceptional content creation efforts. In this situation, the Content  
+Code strategies would be the only possibility of strategic leverage.  
+Examining the relative saturation in your niche is crucial to understanding how the Content Code formula  
+will or will not work for your market. It’s extremely difficult to unseat somebody in the search engine ranking  
+if they have dominated a niche, even if you’re doing great work. But it’s not hopeless.  
+Of course the strategies in this book are going to work well in an environment where the content  
+competition is still relatively low. If you’re fortunate enough to already own an unsaturated content niche,  
+chances are you’ll dominate the search engine rankings too, and the Content Code will widen the gap  
+between you and the laggards.  
+However, if you’re behind in your market and you’re feeling like it’s “game over,” the Content Code can  
+provide you with an ignition strategy and an entirely new opportunity to maneuver.  
