@@ -21,4 +21,4 @@ So my focus is learning a ton of words an sentences.  ANd I don't care about lis
 Everyday zero decision making involve: Just learn more words/sentences until I reach 300 and I'm getting better.. 
 Then  I'll focus on grammar, KILL the most important parts of it like conjugasion or particles... then move to speaking.
 
-So think about the most important aspect of your learning. Do you want to order food in Korean? Or listen to novelas in spanish? Find out what's important for you, and 
+So think about the most important aspect of your learning. Do you want to order food in Korean? Or listen to novelas in spanish? Design 80% of your time around that and you'll be able to keep going for months! Guarrentee. (Not even Guarranted)
