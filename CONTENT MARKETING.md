@@ -86,3 +86,29 @@ chances are you’ll dominate the search engine rankings too, and the Content Co
 between you and the laggards.  
 However, if you’re behind in your market and you’re feeling like it’s “game over,” the Content Code can  
 provide you with an ignition strategy and an entirely new opportunity to maneuver.  
+
+## 3 types of content you need for your brand
+2. Explore different types of content.  
+YouTube first floated the idea 2 that different types of content, when combined together in an ideal mix, are  
+extremely successful in building an engaged audience for the long-term. The three types of content are:  
+### Hygiene content: Juices (Hilaire stuff)
+This is the content that serves the daily health of your audience. This content makes  
+them aware of your brand and helps them connect to you when they need you most. This is the specific,  
+short-form content that is most likely to turn up in organic search results. An example of hygiene  
+content is a series of how-to videos from a do-it-yourself store like Home Depot.  
+### Hub content: Snacks (reuse, list, stories)
+While hygiene content might get somebody to your site, hub content is intended to keep  
+them there. This could be a series of articles about a more in-depth topic, or perhaps a serialized story,  
+that makes people want to go down the rabbit hole and stay on your site. This could also be “evergreen”  
+content that people seem to love and read month after month. An example of hub content is the  
+addictive and thrilling adventure videos produced by Adidas Outdoor featuring daredevil athletes using  
+their gear. Hub content lifts subscriptions to your content, spurs engagement, builds brand interest, and  
+may even lead to brand loyalty.  
+### Hero content: M. simmons
+Hero content is something brilliant, dramatic, and bold that transcends the normal day-  
+to-day Internet offerings. This is the content that creates viral buzz. A famous example is the epic videos  
+Nike created to celebrate the World Cup. The most recent one, “Winner Stays,” playfully captures the  
+schoolyard fantasy of young soccer players who morph into their favorite global stars. This type of  
+content is difficult to produce. Nike was intentional in spending millions to create this hero content with  
+the goal of creating massive brand awareness and dominating the conversation around the world’s  
+biggest sporting event. The video received 100 million views.
