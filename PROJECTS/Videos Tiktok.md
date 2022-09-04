@@ -12,9 +12,11 @@ If you're learning a language on your own, you are probably doing this thing we 
 
 Think about your Spanish or German classes: You had to learn at the same time the alphabet, study some texts, do tons of grammar, and little to no speaking. All of those skills are pretty though and you need the blueprint of the classroom just to follow along. 
 
-But when you're own your own, no one's gonna come with a plan for you. You have to organize your sessions between 5 grammar exercises,, then revising words using an app, then learning to speak, and so on and the SECOND, you feel tired... You'll throw that damn plan in the trash. , make you do 5 grammar exercises per day. The more you try to do everything, like having 2 dictionnary, 3 grammar books, 5 apps, the harder it becomes to motivate yourself!
+But when you're own your own, no one's gonna come with a plan for you. You have to organize your sessions between 5 grammar exercises,, then revising words using an app, then learning to speak, and so on and the SECOND, you feel tired... That plan will explode like your belly after a food-orgie. 
 
-But you have the advantage of focusing on ONE single aspect. nailing it down and movign on. For example, I'm studying japanese rn. I exclusively learn to use new words in multiple context which mean: I hardly care about listening, grammar, and even learning kanjis. 
+That makes... no sense.
+
+Anyway Bad news you can't have a complex plan like in classroom good new... you don't have to.  Just focus ONE single aspect. nail it down (I mean destroy that shit) and move on. For example, I'm studying japanese rn. I exclusively learn to use new words in multiple context which mean: I hardly care about listening, grammar, and even learning kanjis. 
 I simply just add and learn new words in mulitple context over and over again. There's zero decision making involve, and I've been steadily progressing over the month. 
 When I'll reach my target number of words,  I'll focus on grammar, nail down the most important parts of it like conjugasion or particle, and then move on to speaking.
 
