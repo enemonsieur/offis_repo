@@ -296,4 +296,25 @@ who thinks you’re okay.”
 So when you’re making quizzes for your audience, you’re giving them an opportunity to learn something  
 interesting about themselves and a chance to start a conversation with their friends. It’s hard to say that  
 about a lot of other forms of content.  
-3. Make it exclusive.
+
+## type of people more likely to ignite your content
+Altruists: Altruistic sharers are people who want to be seen as helpful and reliable. They’re thoughtful  
+and well-connected. Their primary method for sharing content is through email.  
+Careerists: Careerists want to be seen as valuable and upwardly-mobile. They want to share content  
+that makes them seem intelligent and well-connected. A primary platform for them is LinkedIn.  
+Hipsters: Hipsters regard content sharing as an integral part of who they are. They’re the least likely  
+group to use email and lean toward Twitter and emerging social media platforms. This is a youthful  
+group who wants to be seen as creative and cutting edge.  
+Boomerangs: Boomerangs are highly validated by the reactions they get from their posts. They want to  
+be provocative and earn attention through the reactions of others. They’re heavy users of both Twitter  
+and Facebook.  
+Connectors: Connectors are social butterflies who love to bring people and ideas together. They’re  
+planners who are typically relaxed, creative, and thoughtful. They most often share content through  
+email and Facebook.  
+Selectives: As the name implies, Selectives don’t share with vast social audiences. They will share a  
+piece of content with select individuals who they think would benefit from it, usually via email. They’re  
+resourceful, careful, and informed and want to be seen as useful and thoughtful.  
+How can you create content that will appeal to these personas? Are there standard processes you can build  
+into your content to make it more likely to ignite? That’s what the next chapter is all about!
+
+# PRACTICAL WAYS TO IGNITE (IDEAS)
