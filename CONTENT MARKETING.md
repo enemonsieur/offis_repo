@@ -65,7 +65,7 @@ bloggers who marveled at Stephen’s authentic and human storytelling:
 
 =>Looks like Ro. 
 
-## Saturation Guidelines
+##  Guidelines to find a un-saturated market
 If there are fewer than 10,000 pages of returned search results, full speed ahead! There’s an opportunity  for you since there is low content density.
 Between 10,000 and 100,000 results, expect some resistance, but it’s surmountable with minimal  
 investment, exceptional content, and implementation of some of the Content Code factors covered in  
@@ -112,3 +112,47 @@ schoolyard fantasy of young soccer players who morph into their favorite global 
 content is difficult to produce. Nike was intentional in spending millions to create this hero content with  
 the goal of creating massive brand awareness and dominating the conversation around the world’s  
 biggest sporting event. The video received 100 million views.
+
+## The six elements of the Content Code  
+We’ve established that great content is rarely enough to assure success. Great content is simply the table  
+stakes needed to earn a seat at the table. I’m not going to cover tips and tricks about writing for the web or  
+creating epic videos. Those topics have already been effectively covered in many other places. We’re here to  
+plow new ground.  
+So here is the starting line for this race: You need great content.  
+Let me repeat: You need great content. But then what?  
+This is where the Content Code takes over. Content that rises and is discovered through search is a  
+mixture of art, science, and magic that includes these six factors:  
+Brand development  
+Audience and Influencers  
+Distribution, Advertising, Promotion, and SEO  
+Authority  
+“Shareability” embedded into each piece of content  
+Social proof and social signals  
+Now, if you’re paying close attention—and I’m sure you are—the first letter of each piece of the Content  
+Code spells out BADASS.  
+I consider this a giddy coincidence and perhaps the highlight of my professional career. I’m tempted to end  
+the book right now as I’m sure there is nothing I can write that can ever top this. I bet you didn’t see that  
+coming did you? You should send me a selfie right now with the look of surprise and amazement on your  
+face. #BadassSelfie  
+Okay, time to settle down. We must get back to the topic at hand, for this is a serious book for serious  
+people. What does this BADASS thing really mean?  
+Provided you start with great content (did I already mention that?), if you commit to continuously working  
+on these six factors you’ll begin to crack the code. Although the six factors have been written about in bits  
+and pieces by many talented experts (whom I call on to help tell the story), this is the first time the entire  
+Content Code has been assembled in a cohesive way, in one book.  
+In the chapters that follow, we will dive into each of these factors in detail, but the overall recipe for how  
+you execute your plan is up to you. You see, there’s no simple strategy that fits everybody ...  
+A business competing to sell discrete items in an eCommerce environment will want to emphasize brand  
+building and search optimization.  
+A lawyer, management consultant, or accountant will probably want to focus on establishing authority  
+and a large, engaged audience consisting of consumers of their services.  
+A company in a highly competitive international market may need to spend money on promotion and  
+advertising to get their message through.  
+An individual starting a blog might seek a true balance of all six factors but concentrate on writing highly  
+shareable content and building a heroic personal brand that leads to fanatic supporters and business  
+benefits.  
+So the best way to use this book is to take a dive into all six pools and see what fits for your particular  
+situation. You don’t necessarily need to work on all six factors to make progress. Pick out one or two that fit  
+your business situation and capabilities, and you certainly will be better prepared for the future than your
+
+# SHAREABILITY 
