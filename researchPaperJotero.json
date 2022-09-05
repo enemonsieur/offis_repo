@@ -70,7 +70,8 @@
         501,
         503,
         533,
-        552
+        552,
+        570
       ],
       "key": "JY49GWIZ",
       "name": "Factors creating stress in experiment",
@@ -3249,6 +3250,60 @@
       "url": "https://researth.iars.info/index.php/curie/article/view/65",
       "version": 1165,
       "volume": "7"
+    },
+    {
+      "DOI": "10.1037/0021-9010.85.5.779",
+      "ISSN": "1939-1854, 0021-9010",
+      "accessDate": "2022-09-05T05:23:18Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-09-05T05:23:11Z",
+          "dateModified": "2022-09-05T05:23:18Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\CLPWQ9A3\\Evans and Johnson - 2000 - Stress and open-office noise..pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Evans and Johnson - 2000 - Stress and open-office noise..pdf",
+          "uri": "http://zotero.org/users/9698946/items/CLPWQ9A3"
+        }
+      ],
+      "citationKey": "evansStressOpenofficeNoise2000",
+      "citekey": "evansStressOpenofficeNoise2000",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gary W.",
+          "lastName": "Evans"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dana",
+          "lastName": "Johnson"
+        }
+      ],
+      "date": "2000",
+      "dateAdded": "2022-09-05T05:23:18Z",
+      "dateModified": "2022-09-05T05:23:18Z",
+      "issue": "5",
+      "itemID": 570,
+      "itemKey": "L5SQYNVN",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Journal of Applied Psychology",
+      "key": "L5SQYNVN",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "779-783",
+      "publicationTitle": "Journal of Applied Psychology",
+      "relations": [],
+      "select": "zotero://select/library/items/L5SQYNVN",
+      "tags": [],
+      "title": "Stress and open-office noise.",
+      "uri": "http://zotero.org/users/9698946/items/L5SQYNVN",
+      "url": "http://doi.apa.org/getdoi.cfm?doi=10.1037/0021-9010.85.5.779",
+      "version": 1542,
+      "volume": "85"
     },
     {
       "DOI": "10.3389/fpsyg.2021.655148",
