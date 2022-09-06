@@ -1,6 +1,7 @@
 In a power grid, peIn this study, we model the effect of stress during a stroop task . We assess physiological stress of  participants: pupil's eyes dimension, Heart Rate variability (HRV) and  Frontal Alpha Assymetry (FAA). and psychological stress via a NASA-TLX questionnaire.
 
 In a power grid, workers are subject to a high amount of stress during their task. Being able quickly assess stress level is critical to guarantee their saftey.
-In this study, we investigate the effects of different factors during a stress inducing task (stroop task) to accurately predict the level of stress of the participants. A number of participants will be recruted and subject to a task to increase stress level. The subjects will be subject to two conditions: One with external stress factors: Loud noise, red color and flashes. The other without external stress factors. Levels of stress will be measured by the Hemodynamical brain activity using fNIRS. 
+In this study, we investigate the effects of different factors during a stress inducing task (a program used in power grids) to accurately predict the level of stress of the participants. A number of participants will be recruted and subject to a task to increase stress level. The subjects will be subject to two conditions: One with external stress factors: Loud noise, red color and flashes. The other without external stress factors. Levels of stress will be measured by the Hemodynamical brain activity using fNIRS. 
+The induction of mental stress was confirmed by a NASA TLX stress questionnaire
 
-The induction of mental stress was confirmed by salivary alpha amylase test.
+Using fNIRS features, we are trying to predict mental stress of power grid workers
