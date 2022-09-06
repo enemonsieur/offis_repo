@@ -5,3 +5,5 @@ In this study, we investigate the effects of different factors during a stress i
 The induction of mental stress was confirmed by a NASA TLX stress questionnaire
 
 Using fNIRS features, we are trying to predict mental stress of power grid workers
+
+In a power grid, workers are subject to high amount of stre
