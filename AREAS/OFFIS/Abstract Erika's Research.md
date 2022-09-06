@@ -1,0 +1,1 @@
+In this study, we model the effect of stress during a difficult task (NASA TLX)
