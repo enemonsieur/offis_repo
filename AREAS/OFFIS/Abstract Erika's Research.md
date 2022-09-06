@@ -1,3 +1,4 @@
-In a power grid, peIn this study, we model the effect of stress during a stroop task . We assess physiological stress of  participants: pupil's eyes dimension, Heart Rate variability (HRV) and  Frontal Alpha Assymetry (FAA). and psychological stress via a NASA-TLX questionnaire. 
+In a power grid, peIn this study, we model the effect of stress during a stroop task . We assess physiological stress of  participants: pupil's eyes dimension, Heart Rate variability (HRV) and  Frontal Alpha Assymetry (FAA). and psychological stress via a NASA-TLX questionnaire.
 
-In this study, we investigate the effects of different factors during stroop task 
+In a power grid, workers are subject to a high amount of stress during their task. Being able quickly assess stress level is critical to guarantee their saftey.
+In this study, we investigate the effects of different factors during a stress inducing task (stroop task) to accurately predict the level of stress of the participants. A number of participants will be recruted and actively 
