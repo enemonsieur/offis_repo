@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/OFFIS/Abstract Erika's Research.md",
+            "file": "PROJECTS/Marketing Confiotes/1PMP course.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/OFFIS/Abstract Erika's Research.md",
+                "file": "PROJECTS/Marketing Confiotes/1PMP course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "316fce38699cd2ff",
   "lastOpenFiles": [
-    "AREAS/OFFIS/fNIRS analysis.md",
-    "AREAS/OFFIS/Abstract Erika's Research.md",
-    "AREAS/OFFIS/220627_1 difference stress technostress workload.md",
-    "AREAS/OFFIS/Work_in_progress_Stress Measurement.md",
-    "PROJECTS/220624_1 ECG EEG and Eye Tracking.md",
-    "Ideas for Sustain focus.md",
-    "Focus High achievers.md",
-    "bhattacharyyaSelectionCharacterBackground2014.md",
+    "PROJECTS/Videos Tiktok.md",
     "PROJECTS/Threads Twitter.md",
-    "@bitkinaAbilityEyetrackingMetrics2021.md"
+    "AREAS/Building a second brain - Tiago Forte.md",
+    "AREAS/Marketing Coffee House.md",
+    "AREAS/Marketing Confiotes.md",
+    "AREAS/Writing Copies.md",
+    "AREAS/OFFIS/Abstract Erika's Research.md",
+    "AREAS/OFFIS/fNIRS analysis.md",
+    "AREAS/OFFIS/220627_1 difference stress technostress workload.md",
+    "AREAS/OFFIS/Work_in_progress_Stress Measurement.md"
   ]
 }
