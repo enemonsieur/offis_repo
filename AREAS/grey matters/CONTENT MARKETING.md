@@ -318,7 +318,7 @@ How can you create content that will appeal to these personas? Are there standar
 into your content to make it more likely to ignite? That’s what the next chapter is all about!
 
 # PRACTICAL WAYS TO IGNITE (IDEAS)
-## 1. Always ask to share.
+1. Always ask to share.
 Make it as easy as possible to share everything everywhere all at once.
 Ex: Hilaire sur Facebook comment faire que les gens partagent?
 Whatsapp Eunice: Dire que vous pouvez poster en statut. Make it status-poster friendly
@@ -368,7 +368,7 @@ Asking for Likes
 ## 4.IGNITE CONVERSATIONS
 
 ## 5. Work on the headline (first 30s)
-## 6. A lot of lists + Infographics
+ 6. A lot of lists + Infographics
 The BuzzSumo research of 100 million posts also showed that you double your chances that people will share  
 your content if it includes a list or an infographic. It makes sense. Both list posts and infographics add an  
 element of intrigue and fun while still promising quick answers. Because of their skimmable format, they  
@@ -377,7 +377,7 @@ Bonus tip: A list article with the number 10 in the headline is the best number 
 scoring four times the social shares as the next nearest number in the study. After the number 10, list  
 headlines with an odd-number get shared 20 percent more than even-numbered posts.13  
 
-## Resurface old projects, Cross publish them, Modify them
+ Resurface old projects, Cross publish them, Modify them
 See Second Brain
 
 I thought this would make a provocative blog post14 and I had some fun with the headline: “Why 100,000  
@@ -401,4 +401,42 @@ look for the content.
 And that is exactly what I did. I could see that my “Un-follow” post was popular, evergreen content that  
 people enjoyed, so I tweeted the link out to my audience about once a month. And each time I did, it received  
 more comments and social shares. A lot more!  
-T 
+
+## 8. Focus on feedback and reviews.
+Another important form of social transmission is feedback and reviews. Reviews offer powerful “social proof”  
+that can make or break a business. This concept is covered extensively in Chapter 9 but in short, social proof  
+is an accumulation of the clues in our environment we use to make decisions when we don’t know the truth.  
+Reviews are a good example of this idea. If we have never visited a business before, we may turn to this  
+crowd-sourced content to decide whether to buy something or not.  
+For many businesses, online reviews are a high-stakes component of consumer decision-making. Car  
+shoppers, for example, are increasingly relying on Yelp and other ratings sites. Nielsen reports 17 that 84  
+percent of people say that online reviews influence their buying decision. These reviewers can even gain  
+celebrity status as their opinions reverberate throughout Twitter, Facebook, and beyond.  
+The key with this tactic is to have a rock-solid internal process for capturing and maintaining a steady  
+stream of customers willing to write reviews. Understandably, many of your frontline sales personnel may feel  
+awkward about asking for a review, but you can put it in a way that makes the customer comfortable: “Our  
+business is based on referrals. Would you take a moment to visit Yelp and refer us to your friends and  
+family?” This is a great start to your internal process, but it’s only the beginning.  
+Here are several ways to improve social transmission through Yelp and other review sites:  
+Designate someone to take ownership of your implementation plan. This person is in charge of  
+your online reputation and is responsible for getting grassroots participation from your staff, as well as  
+monitoring and responding to the community.  
+Use signage and memos . Create awareness with your customers and your staff. Display “Love Us on  
+Yelp!” signs throughout the store—entryways, sales offices, customer waiting area, customer service,  
+and check-out. Give customers a card to take with them that reminds them you’re on Yelp. Put memos  
+on paychecks, repair orders, and invoices to create awareness.  
+Reach out to your raving fans. Every salesperson has them, especially those who have been with  
+you a long time. Ask fans to share an honest review—don’t push for positive reviews, per se. Many  
+brands fail to feature testimonials and brand evangelists on their websites and social media profiles.  
+People love attention and special treatment—the customers you feature will likely become even  
+stronger supporters of your brand. Plus, showcasing objective opinions on your website may increase  
+your credibility among potential customers.  
+Consider hosting a customer of the week program on your blog and on social media. Feature  
+a story and testimonial from one of your satisfied customers.  
+Hold a monthly contest with the staff. Nothing motivates like a cash prize! For example, if the store  
+gets 20 reviews by the end of the month, you’ll draw a name and that person wins the cash.  
+Recognize staff members who get 5-star reviews. A gift or a nice mention during the weekly sales
+
+meeting goes a long way. When the other employees see it, they’ll be eager to be recognized, too.
+
+## 9. Make sure everythign you send is immediately implementable. Practical. Always.
