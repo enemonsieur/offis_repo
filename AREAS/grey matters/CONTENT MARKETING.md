@@ -318,3 +318,11 @@ How can you create content that will appeal to these personas? Are there standar
 into your content to make it more likely to ignite? That’s what the next chapter is all about!
 
 # PRACTICAL WAYS TO IGNITE (IDEAS)
+## 1. Always ask to share.
+Make it as easy as possible to share everything everywhere all at once.
+Ex: Hilaire sur Facebook comment faire que les gens partagent?
+Whatsapp Eunice: Dire que vous pouvez poster en statut. Make it status-poster friendly
+A recent study2 showed that content with sharing buttons is 700 percent more likely  
+to spread than content without those buttons.
+
+## 2. Give everything for free but scattered
