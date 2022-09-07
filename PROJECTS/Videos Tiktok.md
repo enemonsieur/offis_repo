@@ -3,7 +3,7 @@ Wanna know what separates the top 1% content creator from the crowd?
 
 It's their publishing system.
 
-Because the have 
+Because they made their co
 3 powerful ideas by @fortelabs to create a content usine without feeling overwhelmed.
 Thread👇🏿
 ---------------------------------------------------
