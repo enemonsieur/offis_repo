@@ -326,3 +326,43 @@ A recent study2 showed that content with sharing buttons is 700 percent more lik
 to spread than content without those buttons.
 
 ## 2. Give everything for free but scattered
+Business relationships are built on trust. They always have been. But for centuries you were limited by time  
+and geography. You could only create trust with those who actually knew you—and probably within a pretty  
+small area. The social web is an incredible gift to businesses everywhere. For the first time in history, you can  
+create relationships and build trust with people far and wide ... through your voice, your views, and your  
+expertise. But the only way to do that is by giving them enough free content to know you and trust you.  
+When I started my consulting business, I took all the business I could get on a regional level. Slowly my  
+business evolved and grew, completely on the back of my blog content. And now I have connections all over  
+the world through social media. In fact, I’ve never spent one dime on any form of advertising for my  
+consulting business. In other words, my business has grown only because I give everything away!  
+Unlock your content. Unleash it. Tear down those walls. And watch your business grow!
+
+## DON'T Just provide Value. Entertain. You're here for. 
+Look at Sense of Mind. He pour so much energy, but why should I watch his content instead of reading an article? don't just provide value. Entertain. Make them laugh, make it easy, memorable, Aweing. Rich in stories, personal. Surprising. Unexpected
+
+Research into the most-shared articles on the web 4 uncovers  
+three primary emotions in the content:  
+Awe (25%)  
+Laughter (17%)  
+Amusement/entertainment (15%)  
+Pew Research5 reports that 35 percent of men and 43 percent of women are on Facebook primarily to see entertaining or funny posts.
+
+Make it inspiring also. WTF does it mean?
+
+Research by the company AgoraPulse7 found that the most-shared posts on Facebook also had some  
+element of inspiration in them, indicated by keywords like:  
+**Give**: Offers, discounts, deals, or contests that can benefit a wide audience.  
+Advice: Tips, especially about problems that everyone encounters. Examples are how to lose weight or  
+how to choose a college.  
+Warning: Posts about dangers that could affect anyone in your audience.  
+Inspire: Inspirational quotes. Love them or hate them, they work.  
+Unite: Posts that highlight a danger, an evil, an enemy, a cause, or a personal or community need.  
+And while we’re at it, the research also showed content behaviors that shut down social sharing (don’t do  
+these!):  
+Only talking about yourself  
+Being too edgy or offensive  
+Being too obscure or niche  
+Publishing content nobody can understand  
+Asking for Likes  
+
+## IGNITE CONVERSATIONS
