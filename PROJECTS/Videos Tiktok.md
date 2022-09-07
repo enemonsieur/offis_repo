@@ -1,3 +1,44 @@
+# Publish more consistenly
+What separates the top 1% bloggers from the crowd?
+
+Consistency.
+
+3 powerful ideas by @fortelabs to create a content usine without feeling overwhelmed.
+Thread👇🏿
+---------------------------------------------------
+
+This thread will teach you how to:
+1. Review pages of notes in minutes instead of hours
+2. Speed up 10 times the research phase
+3. Assess how good your content will do before hitting publish.
+---------------------------------------------------
+
+1. Make your notes Future-Proof
+Digging out the key insights from your past notes (highlights, notes, copied paragraphs, articles...) is often mentally exhausting.
+
+This is because as time passes by, we forget what we find interesting about them.
+
+ As a result, we store tons of notes that are ultimately never used to create content.
+---------------------------------------------------
+ Solution: every time you find an article interesting, summarize the main points so your future-you can quickly extract the relevant insights from them. 
+---------------------------------------------------
+2. Collect what resonates
+In any video, book, or article you read, 2-3 ideas usually stand out. It makes no sense to save every small point since you'll look at them a week from now and think: "Meh. Was kinda obvious."
+
+ Solution: Learn to understand what part resonates with you at a deeper level and you'll make your system full of high-quality notes
+---------------------------------------------------
+ But, what if I miss something important?!
+ The best thoughts tend to stick in your brain for a couple of days. Just quickly write them down if you think about them.
+---------------------------------------------------
+3. Intermediate Packages
+Nothing hurts like spending too many hours on an article that gets too little engagement.
+
+Solution: While writing your 1st drafts, share its key ideas online and gauge how your audience reacts. If they do good. Make them more appealing. If not, rewrite and test them again. 
+
+--------------------------------------------------- 
+After doing it for sometimes, two things will happen: 
+1. you'll publish more consistently to your audience (with less work)
+2. You'll accumulate a lot of ready-to-use packages of content that can be fused into full-length content, repurposed, and easily unders
 # Levels of listening
 I arrived in Germany a year ago with a B2-level. I could already watch movies without subtiles, read book and even have conversation with native speakers.  Few days after I had my first conflict with a German. My landlorrd refused to check my heather and I was freezing cold. It was like.. 7 degrees. Extremely cold for someone leaving in "sub tropical". 
 Even though I could handle my lectures very well, I couldn't even understand what the fuck he was talking about. 
