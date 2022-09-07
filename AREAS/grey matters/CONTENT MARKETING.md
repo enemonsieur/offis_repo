@@ -337,7 +337,7 @@ the world through social media. In fact, I’ve never spent one dime on any form
 consulting business. In other words, my business has grown only because I give everything away!  
 Unlock your content. Unleash it. Tear down those walls. And watch your business grow!
 
-## DON'T Just provide Value. Entertain. You're here for. 
+## 3. DON'T Just provide Value. Entertain. You're here for. 
 Look at Sense of Mind. He pour so much energy, but why should I watch his content instead of reading an article? don't just provide value. Entertain. Make them laugh, make it easy, memorable, Aweing. Rich in stories, personal. Surprising. Unexpected
 
 Research into the most-shared articles on the web 4 uncovers  
@@ -365,4 +365,40 @@ Being too obscure or niche
 Publishing content nobody can understand  
 Asking for Likes  
 
-## IGNITE CONVERSATIONS
+## 4.IGNITE CONVERSATIONS
+
+## 5. Work on the headline (first 30s)
+## 6. A lot of lists + Infographics
+The BuzzSumo research of 100 million posts also showed that you double your chances that people will share  
+your content if it includes a list or an infographic. It makes sense. Both list posts and infographics add an  
+element of intrigue and fun while still promising quick answers. Because of their skimmable format, they  
+satisfy our curiosity quickly in an information-dense environment.  
+Bonus tip: A list article with the number 10 in the headline is the best number for social transmission,  
+scoring four times the social shares as the next nearest number in the study. After the number 10, list  
+headlines with an odd-number get shared 20 percent more than even-numbered posts.13  
+
+## Resurface old projects, Cross publish them, Modify them
+See Second Brain
+
+I thought this would make a provocative blog post14 and I had some fun with the headline: “Why 100,000  
+People Unfollowed Me on Twitter.” But it was also a very helpful post that answered a lot of questions people  
+had about this strange behavior.  
+Here are the total social sharing statistics (Twitter, Facebook, LinkedIn and Google+) for the post:  
+Month of Publication Total Number of Shares  
+April 2013 378  
+September 2013 654  
+December 2013 1,012  
+March 2014 1,144  
+September 2014 1,858  
+January 2015 2,020  
+How is this possible? If most blog posts die after four days, how did this content keep chugging and  
+chugging, finding new fans for years?  
+There’s a lot of sharing potential stored in content that is always relevant and useful. This evergreen  
+content answers your customers’ most common questions and rarely goes out-of-date. For example, a  
+“Mommy Jogger” blog would feature evergreen content that describes the correct use of jogging strollers.  
+This post would be useful and relevant to customers for years ... and could also be re-posted as new people  
+look for the content.  
+And that is exactly what I did. I could see that my “Un-follow” post was popular, evergreen content that  
+people enjoyed, so I tweeted the link out to my audience about once a month. And each time I did, it received  
+more comments and social shares. A lot more!  
+T 
