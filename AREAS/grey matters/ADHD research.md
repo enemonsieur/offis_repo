@@ -5,3 +5,6 @@ The phasic mode of dopamine transmission may “transiently activate SEEKING pat
 
 For example, [Alcaro et al. (2007)](https://www.frontiersin.org/articles/10.3389/fnhum.2017.00145/full#B3) advanced the hypothesis that moderately high levels of tonic dopamine optimize the SEEKING behavior promoted by phasic dopamine release: when tonic levels of dopamine are too low, phasic signals lack the efficacy to promote exploration; but when tonic levels are too high, phasic signals lose their informational value and exploratory behavior patterns are uncoupled from relevant contextual stimuli.
 => How the two modes of dopamine influences exploration of cues vs. associating cues with ideas.
+
+https://www.youtube.com/watch?v=heZJUqptenQ
+# A Guide to Studying Math When You Have ADHD
