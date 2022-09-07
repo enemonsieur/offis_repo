@@ -1,8 +1,9 @@
 # Publish more consistenly
-What separates the top 1% bloggers from the crowd?
+Wanna know what separates the top 1% content creator from the crowd?
 
-Consistency.
+It's their publishing system.
 
+Because the have 
 3 powerful ideas by @fortelabs to create a content usine without feeling overwhelmed.
 Thread👇🏿
 ---------------------------------------------------
