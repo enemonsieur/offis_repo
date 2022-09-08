@@ -31,12 +31,13 @@ In any video, book, or article you read, usually 2-3 ideas usually stand out and
 ---------------------------------------------------
  But you may be thinking: what if I throw away an idea that was actually relevant?!
  Well first, The best ideas tend to stick in your brain for a couple of days. You'll see yourself randomly thinking about it over and over, even for a couple seconds. If it happens, just jote it down. 
- Second: Let's be honest. How many time did you think: Hey this could be useful, save it, and never even open it again? The goal isn't to save every single idea, but to have a
+ Second: Let's be honest. How many time did you think: Hey this could be useful, save it, and never even open it again? The goal isn't to save every single idea, but to have an efficient system to generate awesome content
 ---------------------------------------------------
 3. Intermediate Packages
-Nothing hurts like spending too many hours on an article that gets too little engagement.
+Nothing hurts like spending too many hours on a video only to hear the sound of silence (hello darkness my old friend).
+Too much of that and you'll be quickly discouraged
 
-Solution: While writing your 1st drafts, share its key ideas online and gauge how your audience reacts. If they do good. Make them more appealing. If not, rewrite and test them again. 
+Solution: Top content creators often publish multiple snippets of ideas on twitter/tiktok as they work on a piece of content. They use it to assess their virality. These are called intermediate packages. If they get a ton of engagement, that means there's something out there and they should dig in. 
 
 --------------------------------------------------- 
 After doing it for sometimes, two things will happen: 
