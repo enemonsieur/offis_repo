@@ -22,15 +22,16 @@ This is because as time passes by, we forget what we find interesting about them
  As a result, we store tons of notes that are ultimately never used to create content.
 ---------------------------------------------------
  (Color)
- Solution: every time you find an article interesting, summarize the main points so your future-you can quickly extract the relevant insights from them. 
+ Solution: every time you find an article interesting, immediately summarize the main points so your future-you can extract in seconds the relevant insights from them. 
 ---------------------------------------------------
 2. Collect what resonates
-In any video, book, or article you read, 2-3 ideas usually stand out. It makes no sense to save every small point since you'll look at them a week from now and think: "Meh. Was kinda obvious."
+In any video, book, or article you read, usually 2-3 ideas usually stand out and the rest is just ok. It makes no sense to save every small point of what you read, because you'll look at them a week from now and think: "Meh. Was kinda obvious."
 
- Solution: Learn to understand what part resonates with you at a deeper level and you'll make your system full of high-quality notes
+ Solution: you need to develop a spider sense, to guess what insights resonates with you at a deeper level. This will make your system full of high-quality notes, and every content you'll create will be made of high quality material. 
 ---------------------------------------------------
- But, what if I miss something important?!
- The best thoughts tend to stick in your brain for a couple of days. Just quickly write them down if you think about them.
+ But you may be thinking: what if I throw away an idea that was actually relevant?!
+ Well first, The best ideas tend to stick in your brain for a couple of days. You'll see yourself randomly thinking about it over and over, even for a couple seconds. If it happens, just jote it down. 
+ Second: Let's be honest. How many time did you think: Hey this could be useful, save it, and never even open it again? The goal isn't to save every single idea, but to have a
 ---------------------------------------------------
 3. Intermediate Packages
 Nothing hurts like spending too many hours on an article that gets too little engagement.
