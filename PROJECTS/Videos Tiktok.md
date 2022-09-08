@@ -58,6 +58,11 @@ Picture this: You have the day free and you want to write an article. No externa
 
 If its clear that music can help a lot of us focus, it's not clear what kind of music helps the most. 
 Can you guess which music will be appropriate for most writing works? (Articles, books, reading complex documents)
+... 
+I'll go for lofi Beats on this one. Immediately lyric musics is off for me. Studies show that when you're writing or reading, you're actively recreating speech in your mind. The problem is that lyrics of music pass by the same route, and will overload your working memory the "RAM" of your mind. Resulting in decrease concentration. 
+
+Let's try another scenario: Having a very hard boring project like coding or maths. 
+I'll go with Lyrical Music there. 
 1. Focusing is hard. So most people put on music to help them. But it's easy to get distracted if you pick the wrong music. According to science, here are the 5 appropriate type of music per situation
 2. Lo-Fi Beats: Works when you're about to do a creative work like writing/coding, and when you aren't low in energy. Instrumental music, slow beat musics block just enough internal distraction to help youf ocus
 3. Brown Noise: IMO superior to white noise, really helps if you wanna do heavy reading/writing/speaking. Because even instrumental music seriously disrupt your phonological loop (the subvocal part of your brain). Brown Noise frees you from the external noise 
