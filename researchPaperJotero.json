@@ -9,7 +9,8 @@
         564,
         565,
         566,
-        567
+        567,
+        573
       ],
       "key": "2RYY7CZQ",
       "name": "Sustained Motivation/Attention",
@@ -5128,6 +5129,64 @@
       "url": "http://link.springer.com/10.1007/978-3-030-49044-7",
       "version": 80,
       "volume": "12186"
+    },
+    {
+      "abstractNote": "Previous research has demonstrated restorative effects of music, showing that exposure to music yields mental health benefits that include improvement in stress management. However, it remains unclear whether the benefits of “on the spot” music interventions extend to cognitive performance. The present study explored whether music can be applied as a low-cost, noninvasive “on the spot” intervention to improve cognitive performance and physiological effects. Specifically, studies has yet to examine whether the effects of different genres of focus music extend beyond stress management to include cognitive performance and physiological effects. To address this gap in the literature, the current study recruited 120 healthy adults in a fully randomized procedure involving three experimental groups of participants and a control group. Each experimental group was exposed to one specific genre of focus music compared to a no-music control group. In a between-group design, the study exposed three separate groups to jazz music, piano music, and lo-fi music respectively. The fourth group was a no-music control group. The study employed a 3-day experimental procedure and a follow-up procedure in which participants completed two attention monitoring tasks. Participants completed focus music interventions with a duration of 15 and 45 min. The follow-up procedure aimed to experimentally induce music familiarity and probe its effect on cognitive performance. To assess cardiovascular effects, heart rate variability (HRV) data was collected during the music intervention period and during a baseline period. Results showed performance differences across the three active music groups on the sustained attention to response task (SART) compared to the no-music control group. Furthermore, the study showed a physiological effect in the direction of increased parasympathetic activity indexed as an increased HRV response in the three active music groups compared to the no-music control group, adding to convergent lines of evidence suggesting that music can enhance parasympathetic activity and cognitive performance. In addition, the study found that music familiarity (relative to music unfamiliarity) influenced cognitive performance in the direction of faster reaction times (RTs) during the music intervention period in which participants were exposed to the attentional network task (ANT) and an increase in the physiological response in the familiar relative to the unfamiliar music condition. In summary, the study found evidence of a pronounced effect of three types of focus music on both cognitive performance and the underlying physiological response. Thus, focus music holds promise as an evidence-based intervention offering mental health benefits through physiological improvements and enhancement of cognitive processing.",
+      "attachments": [
+        {
+          "dateAdded": "2022-09-08T11:38:58Z",
+          "dateModified": "2022-09-08T11:39:37Z",
+          "itemType": "attachment",
+          "path": "C:\\Users\\ene Monsieur\\Zotero\\storage\\V7S7PVFJ\\Kirk et al. - 2022 - Effects of Three Genres of Focus Music on Heart Ra.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Kirk et al. - 2022 - Effects of Three Genres of Focus Music on Heart Ra.pdf",
+          "uri": "http://zotero.org/users/9698946/items/V7S7PVFJ"
+        }
+      ],
+      "citationKey": "kirkEffectsThreeGenres2022",
+      "citekey": "kirkEffectsThreeGenres2022",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Ulrich",
+          "lastName": "Kirk"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christelle",
+          "lastName": "Ngnoumen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alicia",
+          "lastName": "Clausel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Clare Kennedy",
+          "lastName": "Purvis"
+        }
+      ],
+      "date": "2022",
+      "dateAdded": "2022-09-08T11:39:36Z",
+      "dateModified": "2022-09-08T11:39:36Z",
+      "itemID": 573,
+      "itemKey": "VXHBDQY5",
+      "itemType": "journalArticle",
+      "key": "VXHBDQY5",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "16",
+      "publicationTitle": "Journal of Cognitive Enhancement",
+      "relations": [],
+      "select": "zotero://select/library/items/VXHBDQY5",
+      "tags": [],
+      "title": "Effects of Three Genres of Focus Music on Heart Rate Variability and Sustained Attention",
+      "uri": "http://zotero.org/users/9698946/items/VXHBDQY5",
+      "version": 1555
     },
     {
       "DOI": "10.1111/j.1741-3737.2007.00428.x",
