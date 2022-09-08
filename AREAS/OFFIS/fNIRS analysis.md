@@ -15,5 +15,5 @@ source: https://github.com/zm6148/fNIRS_data_analysis/blob/master/fNIRS_ML.ipynb
 	- SVM
 	- DT
 	- NN
-- Fit the data with fit generator
+- Fit the data with **fit generator**
 - Visualize classification using 3D projection of the top 3 PCA components

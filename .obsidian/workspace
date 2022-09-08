@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453
+    "width": 453,
+    "collapsed": true
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -99,7 +100,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "316fce38699cd2ff",
+  "active": "4a964cfb5b2f8a24",
   "lastOpenFiles": [
     "PROJECTS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/Marketing Confiotes/1PMP course.md",
