@@ -365,9 +365,9 @@ Being too obscure or niche
 Publishing content nobody can understand  
 Asking for Likes  
 
-## 4.IGNITE CONVERSATIONS
+4.IGNITE CONVERSATIONS
 
-## 5. Work on the headline (first 30s)
+ 5. Work on the headline (first 30s)
  6. A lot of lists + Infographics
 The BuzzSumo research of 100 million posts also showed that you double your chances that people will share  
 your content if it includes a list or an infographic. It makes sense. Both list posts and infographics add an  
@@ -402,7 +402,7 @@ And that is exactly what I did. I could see that my “Un-follow” post was pop
 people enjoyed, so I tweeted the link out to my audience about once a month. And each time I did, it received  
 more comments and social shares. A lot more!  
 
-## 8. Focus on feedback and reviews.
+### 8. Focus on feedback and reviews.
 Another important form of social transmission is feedback and reviews. Reviews offer powerful “social proof”  
 that can make or break a business. This concept is covered extensively in Chapter 9 but in short, social proof  
 is an accumulation of the clues in our environment we use to make decisions when we don’t know the truth.  
@@ -462,7 +462,7 @@ bond with doctors and provide truly useful information. Several wealth managemen
 financial information to make the world of investing less complicated. You can find opportunities to curate  
 along any interest you can imagine.  
 
-## sature le hastag madeincameroun avec un contenu engagé
+### sature le hastag madeincameroun avec un contenu engagé
 
 ### 10. Make it look good.  
 How your site looks is an important indicator of whether your content is share-worthy. When you head out for  
@@ -480,7 +480,7 @@ your customers in a mobile environment. Content consumers make quick decisions a
 difficult to accomplish or your sharing buttons aren’t obvious in a mobile environment, you’ll lose those  
 precious opportunities.  
 
-## 11. Concentrate on brand new research and ideas.  
+### 11. Concentrate on brand new research and ideas.  
 Remember that many of your readers share content because of the intrinsic value of helping others. Focusing  
 your content on new insights from research, quotes from experts, and exciting new ideas will appeal to this psychological aspect of sharing.  
 This is also a source of rich content creation ideas. When you see a particularly compelling piece of  
@@ -494,4 +494,33 @@ How can the research be practically applied to problems in your industry?
 What surprised you? What doesn’t make sense? How does the research provide a new world view?  
 All of these personal spins on data can make compelling original content highly valued by your most  
 passionate audience members.
-=> Demande à Nelson Essiane et l'autre là des ressources sur l'avancement du mad
+=> Demande à Nelson Essiane et l'autre là des ressources sur l'avancement du made in Cameroon
+
+  
+## 18. ENCOURAGE COMMENTS.  
+People who care enough to leave comments on the content you publish are also highly likely to share it with  
+their networks. If they spend the time to leave an opinion on your work, they want the world to know it, too!  
+To the extent that you can encourage comments, you’re encouraging social sharing.  
+Here are some easy ways to encourage people to comment:  
+End your post with a question. People hate an open-ended post and are more likely to close the loop by  
+answering your question in a comment.  
+Ask specifically for comments. In Chapter 7, I cover the importance of comments and social proof, but  
+prime the pump by asking a few friends and work colleagues to leave a comment. Comments spur  
+comments. People feel better about leaving their views when they see they’re not standing all alone in  
+the comment section.  
+Mention influencers with large audiences in your post and link to their content. Most of the time they will be “pinged” when someone links to their content, but don’t be afraid to let them know the link exists.  
+=> Grey matters. Find the top people in your **micro niche**. Try to interact with them => ADHD, get disciplined, Focus... find them. Look for them
+They’ll probably share your post.  
+Notify potential commenters. Send an email to people in your industry who would be interested in your  
+post. You need to use this method judiciously—you can’t keep going to the well until it’s dry! If they  
+trust you and the request, you’ll almost certainly earn a comment and a share from these connections. 
+
+19. Tap into FOMO  
+Many people are obsessed with being constantly connected to the web due to a Fear of Missing Out (or  
+FOMO). Tapping into this fear can also get people to click and share.  
+Here’s an example of FOMO in action:19 Marc and Angel Chernoff have an incredible blog at  
+www.marcandangel.com. They publish inspiring content that regularly spreads across social media,  
+garnering thousands if not hundreds of thousands of social shares. One of the most fascinating pieces they’ve  
+written is a post called “30 Things to Stop Doing to Yourself” that received more than 500,000 Likes, 20,000  
+tweets, and several thousand shares on other social networks.
+=> Use stop, avoid, arrêtez de, évitez de consommer ces 5 aliments pour perdre du poids
