@@ -409,13 +409,9 @@ is an accumulation of the clues in our environment we use to make decisions when
 Reviews are a good example of this idea. If we have never visited a business before, we may turn to this  
 crowd-sourced content to decide whether to buy something or not.  
 For many businesses, online reviews are a high-stakes component of consumer decision-making. Car  
-shoppers, for example, are increasingly relying on Yelp and other ratings sites. Nielsen reports 17 that 84  
-percent of people say that online reviews influence their buying decision. These reviewers can even gain  
-celebrity status as their opinions reverberate throughout Twitter, Facebook, and beyond.  
+shoppers, for example, are increasingly relying on Yelp and other ratings sites. **Nielsen reports  that 84 percent of people say that online reviews influence their buying decision.** These reviewers can even gain  celebrity status as their opinions reverberate throughout Twitter, Facebook, and beyond.  
 The key with this tactic is to have a rock-solid internal process for capturing and maintaining a steady  
-stream of customers willing to write reviews. Understandably, many of your frontline sales personnel may feel  
-awkward about asking for a review, but you can put it in a way that makes the customer comfortable: “Our  
-business is based on referrals. Would you take a moment to visit Yelp and refer us to your friends and  
+stream of customers willing to write reviews. Understandably, **many of your frontline sales personnel may feel awkward about asking for a review, but you can put it in a way that makes the customer comfortable: “Our business is based on referrals.** Would you take a moment to visit Yelp and refer us to your friends and  
 family?” This is a great start to your internal process, but it’s only the beginning.  
 Here are several ways to improve social transmission through Yelp and other review sites:  
 Designate someone to take ownership of your implementation plan. This person is in charge of  
