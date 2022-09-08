@@ -40,9 +40,13 @@ Too much of that and you'll be quickly discouraged
 Solution: Top content creators often publish multiple snippets of ideas on twitter/tiktok as they work on a piece of content. They use it to assess their virality. These are called intermediate packages. If they get a ton of engagement, that means there's something out there and they should dig in. 
 
 --------------------------------------------------- 
-After doing it for sometimes, two things will happen: 
-1. you'll publish more consistently to your audience (with less work)
-2. You'll accumulate a lot of ready-to-use packages of content that can be fused into full-length content, repurposed, and easily unders
+This makes sure that when they're done with a video, they know if their audience will like it. But even better! It give them a lot of small intermediate packages that can be: 
+1. fused in to a full length video
+2. repurpose into articles, other videos
+3. Or ressources for future works.
+
+If you wanna create your own content maschine, I recommend the book by Tiago Forte: BASB Where I got all those ideas!
+
 # Levels of listening
 I arrived in Germany a year ago with a B2-level. I could already watch movies without subtiles, read book and even have conversation with native speakers.  Few days after I had my first conflict with a German. My landlorrd refused to check my heather and I was freezing cold. It was like.. 7 degrees. Extremely cold for someone leaving in "sub tropical". 
 Even though I could handle my lectures very well, I couldn't even understand what the fuck he was talking about. 
