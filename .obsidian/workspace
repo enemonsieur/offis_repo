@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/Les Confiotes/Work In Progres - Confiotes.md",
+            "file": "PROJECTS/Videos Tiktok.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/Les Confiotes/Work In Progres - Confiotes.md",
+                "file": "PROJECTS/Videos Tiktok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "316fce38699cd2ff",
   "lastOpenFiles": [
+    "AREAS/Les Confiotes/Work In Progres - Confiotes.md",
     "AREAS/grey matters/Content plan Sustain focus.md",
     "AREAS/grey matters/Work in Progress.md",
     "AREAS/grey matters/CONTENT MARKETING.md",
@@ -109,7 +110,6 @@
     "AREAS/OFFIS/fNIRS analysis.md",
     "PROJECTS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/Marketing Confiotes/1PMP course.md",
-    "Focus High achievers.md",
-    "PROJECTS/Videos Tiktok.md"
+    "Focus High achievers.md"
   ]
 }

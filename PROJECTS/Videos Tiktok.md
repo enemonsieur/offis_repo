@@ -3,13 +3,11 @@ Wanna know what separates the top 1% content creator from the crowd?
 
 It's their publishing system.
 
-Because they made their co
-3 powerful ideas by @fortelabs to create a content usine without feeling overwhelmed.
-Thread👇🏿
----------------------------------------------------
+The only thing that defines if you're gonna publish consistently for months or year is your publishing system. 
+The videos they post don't rely on motivation, tons of research or lucking
 
-This thread will teach you how to:
-1. Review pages of notes in minutes instead of hours
+Instead they have: 
+1. AReview pages of notes in minutes instead of hours
 2. Speed up 10 times the research phase
 3. Assess how good your content will do before hitting publish.
 ---------------------------------------------------

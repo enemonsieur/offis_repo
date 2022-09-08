@@ -7,7 +7,6 @@ Dimitri: Terminer les marges.
 
 31-07
  
-
 AUFGABEN
 - Redéfinir notre business model.
  - Advance Eunice's OKR
