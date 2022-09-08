@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/grey matters/CONTENT MARKETING.md",
+            "file": "PROJECTS/220801_1 Design Stress inducing Task.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CONTENT MA",
+                "query": "cita",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/grey matters/CONTENT MARKETING.md",
+                "file": "PROJECTS/220801_1 Design Stress inducing Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +100,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "316fce38699cd2ff",
+  "active": "b5245d75518b9d87",
   "lastOpenFiles": [
+    "AREAS/grey matters/CONTENT MARKETING.md",
     "AREAS/grey matters/UL - Japanese.md",
     "AREAS/grey matters/Work in Progress.md",
     "PROJECTS/Videos Tiktok.md",
@@ -109,7 +111,6 @@
     "PROJECTS/220801_1 Design Stress inducing Task.md",
     "Find stress creating factors in the litterature.md",
     "Found  20 articles relevant to stress factors.md",
-    "AREAS/grey matters/Building a second brain - Tiago Forte.md",
-    "AREAS/grey matters/CONTENT MARKETING.md"
+    "AREAS/grey matters/Building a second brain - Tiago Forte.md"
   ]
 }
