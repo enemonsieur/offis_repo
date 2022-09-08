@@ -7,18 +7,21 @@ The only thing that defines if you're gonna publish consistently for months or y
 The videos they post don't rely on motivation, tons of research or lucking
 
 Instead they have: 
-1. AReview pages of notes in minutes instead of hours
-2. Speed up 10 times the research phase
-3. Assess how good your content will do before hitting publish.
+1. Awesome Note taking system: (Review pages of notes in minutes instead of hours)
+2. Extremely efficient research phase: (10x faster than us)
+3. Viral-meter, imbebbed (Assess how good your content will do before hitting publish.)
 ---------------------------------------------------
 
+Here's how to create a content-publishing machine
 1. Make your notes Future-Proof
-Digging out the key insights from your past notes (highlights, notes, copied paragraphs, articles...) is often mentally exhausting.
+(Black White)
+Digging out the insights from your past notes (highlights, notes, copied paragraphs, articles...) is often mentally exhausting.
 
 This is because as time passes by, we forget what we find interesting about them.
 
  As a result, we store tons of notes that are ultimately never used to create content.
 ---------------------------------------------------
+ (Color)
  Solution: every time you find an article interesting, summarize the main points so your future-you can quickly extract the relevant insights from them. 
 ---------------------------------------------------
 2. Collect what resonates
