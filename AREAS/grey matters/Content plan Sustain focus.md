@@ -36,7 +36,7 @@
 21. Why you should use the pomodoro technique
 	1. Eat a pomodoro
 22. Does Lofi Music helps you study?
-23. Here's how to find The perfect study-music for you
+**23. Here's how to find The perfect study-music for you**
 
 
 RESSOURCES:

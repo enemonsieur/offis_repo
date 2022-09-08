@@ -62,6 +62,15 @@
       "name": "Visual NP",
       "parent": ""
     },
+    "ELTIUG5X": {
+      "collections": [],
+      "items": [
+        571
+      ],
+      "key": "ELTIUG5X",
+      "name": "fNIRS data analysis",
+      "parent": ""
+    },
     "JY49GWIZ": {
       "collections": [],
       "items": [
@@ -3788,6 +3797,27 @@
       "volume": "92"
     },
     {
+      "charset": "",
+      "contentType": "application/msword",
+      "dateAdded": "2022-09-08T07:02:38Z",
+      "dateModified": "2022-09-08T07:02:38Z",
+      "defaultPath": "files/571/fNIRS-soc-neuro-preprint.doc",
+      "filename": "fNIRS-soc-neuro-preprint.doc",
+      "itemID": 571,
+      "itemKey": "NCY6GC8C",
+      "itemType": "attachment",
+      "key": "NCY6GC8C",
+      "libraryID": 1,
+      "linkMode": "imported_file",
+      "localPath": "C:\\Users\\ene Monsieur\\Zotero\\storage\\NCY6GC8C\\fNIRS-soc-neuro-preprint.doc",
+      "relations": [],
+      "select": "zotero://select/library/items/NCY6GC8C",
+      "tags": [],
+      "title": "fNIRS-soc-neuro-preprint.doc",
+      "uri": "http://zotero.org/users/9698946/items/NCY6GC8C",
+      "version": 1550
+    },
+    {
       "DOI": "10.1016/j.concog.2016.02.014",
       "ISSN": "10538100",
       "abstractNote": "Flow is a special mental state characterized by deep concentration that occurs during the performance of optimally challenging tasks. In prior studies, proneness to experience ﬂow has been found to be moderately heritable. In the present study, we investigated whether individual differences in ﬂow proneness are related to a polymorphism of the dopamine D2 receptor coding gene (DRD2 C957T rs6277). This polymorphism affects striatal D2 receptor availability, a factor that has been shown to be related to ﬂow proneness. To our knowledge, this is the ﬁrst study to investigate the association between this trait and a speciﬁc gene variant. In a sample of 236 healthy Hungarian adults, we found that CC homozygotes report higher ﬂow proneness than do T allele carriers, but only during mandatory activities (i.e., studying and working), not during leisure time. We discuss implications of this result, e.g., the potential mediators of the relationship.",
@@ -6282,7 +6312,7 @@
     }
   ],
   "version": {
-    "bbt": "6.7.22",
+    "bbt": "6.7.23",
     "zotero": "6.0.13"
   }
 }

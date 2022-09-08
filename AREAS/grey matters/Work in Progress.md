@@ -14,7 +14,7 @@ How can I reorganize my content to be consitent?
 	4. Medium big for focus longer: "complete online course" blog
 4. Find relevant content people used online
 	1. CONTENT FOR FOCUS
-		[[Ideas for Sustain focus]]
+		[[Content plan Sustain focus]]
 
 5. Dig out potential IP from your notes, past projects, everything
 6. Make a list of 30 content + where to get there
