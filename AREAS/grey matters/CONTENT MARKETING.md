@@ -450,3 +450,25 @@ amazing, well-executed little demonstration, and it was a practical, useful tip.
 In the book Contagious, Jonah Berger explains, “Today, direct opportunities to help others are few and far  
 between. Modern suburban life has distanced us from our friends and neighbors. We live at the end of a long  
 driveway or high up in an apartment building, often barely getting to know the person next door.
+People love to help their friends save money, so building extraordinary value or a deal into your content is  
+a way to help it move. Not surprisingly, the bigger the perceived deal or the more exclusive it appears, the  
+more the content moves.
+
+Curate your content
+Curation is another good way to provide practical content. Curating or summarizing valuable content by  
+industry, career discipline, or interest saves people time because you’ve done the work to filter content for  
+them. In the pharmaceutical industry, summaries of new surgical or medical breakthroughs are a good way to  
+bond with doctors and provide truly useful information. Several wealth management companies curate global  
+financial information to make the world of investing less complicated. You can find opportunities to curate  
+along any interest you can imagine.  
+15. Learn to use hashtags effectively.  
+Hashtags are arguably the most important innovation in the history of social media. The humble hashtag has  
+become the index card system of the web. It’s social media’s most important way to organize information,  
+and it’s critical to discovering trends, content, and ideas. Hashtags have crept into popular culture, and  
+brands now feature them on advertisements, TV shows, billboards, menus, and even on the big screen at  
+sporting events.  
+Following a hashtag also organizes people. The people following a hashtag might be starting a company,  
+leading a discussion that leads to innovation, or planning the overthrow of a government. Hashtags are the  
+cornerstone elements for communicating everything from disaster relief to memes. They can also be an  
+important element in the Content Code equation. Research indicates that the presence of a hashtag could  
+increase social transmission by as much as 70 percent on some topics.
