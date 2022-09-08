@@ -411,28 +411,42 @@ crowd-sourced content to decide whether to buy something or not.
 For many businesses, online reviews are a high-stakes component of consumer decision-making. Car  
 shoppers, for example, are increasingly relying on Yelp and other ratings sites. **Nielsen reports  that 84 percent of people say that online reviews influence their buying decision.** These reviewers can even gain  celebrity status as their opinions reverberate throughout Twitter, Facebook, and beyond.  
 The key with this tactic is to have a rock-solid internal process for capturing and maintaining a steady  
-stream of customers willing to write reviews. Understandably, **many of your frontline sales personnel may feel awkward about asking for a review, but you can put it in a way that makes the customer comfortable: “Our business is based on referrals.** Would you take a moment to visit Yelp and refer us to your friends and  
-family?” This is a great start to your internal process, but it’s only the beginning.  
+stream of customers willing to write reviews. Understandably, **many of your frontline sales personnel may feel awkward about asking for a review, but you can put it in a way that makes the customer comfortable: “Our business is based on referrals.** Would you take a moment to visit Yelp and refer us to your friends and  family?” This is a great start to your internal process, but it’s only the beginning.  
+
 Here are several ways to improve social transmission through Yelp and other review sites:  
-Designate someone to take ownership of your implementation plan. This person is in charge of  
-your online reputation and is responsible for getting grassroots participation from your staff, as well as  
-monitoring and responding to the community.  
-Use signage and memos . Create awareness with your customers and your staff. Display “Love Us on  
-Yelp!” signs throughout the store—entryways, sales offices, customer waiting area, customer service,  
-and check-out. Give customers a card to take with them that reminds them you’re on Yelp. Put memos  
+**Designate someone to take ownership of your implementation plan. This person is in charge of  
+your online reputation and is responsible for getting grassroots participation from your staff, as well as monitoring and responding to the community.**  
+
+Use signage and memos . Create awareness with your customers and your staff. Display “**Love Us on  
+Yelp!”** signs throughout the store—entryways, sales offices, customer waiting area, customer service,  
+and check-out.
+=> Ask people to like our facebook, google maps (with QR CODE), 
+Give customers a card to take with them that reminds them you’re on Yelp. Put memos  
 on paychecks, repair orders, and invoices to create awareness.  
-Reach out to your raving fans. Every salesperson has them, especially those who have been with  
-you a long time. Ask fans to share an honest review—don’t push for positive reviews, per se. Many  
+=> Put memos on our emballages (Personnalize emballages?)
+
+**Reach out to your raving fans. Every salesperson has them, especially those who have been with  
+you a long time**. **Ask fans to share an honest review**—don’t push for positive reviews, per se. Many  
 brands fail to feature testimonials and brand evangelists on their websites and social media profiles.  
+=> Put our top best testimonials on Whatsapp. Put their names.
+
 People love attention and special treatment—the customers you feature will likely become even  
 stronger supporters of your brand. Plus, showcasing objective opinions on your website may increase  
 your credibility among potential customers.  
-Consider hosting a customer of the week program on your blog and on social media. Feature  
-a story and testimonial from one of your satisfied customers.  
+**Consider hosting a customer of the week program on your blog and on social media. Feature  
+a story and testimonial from one of your satisfied customers**.  
 Hold a monthly contest with the staff. Nothing motivates like a cash prize! For example, if the store  
 gets 20 reviews by the end of the month, you’ll draw a name and that person wins the cash.  
 Recognize staff members who get 5-star reviews. A gift or a nice mention during the weekly sales
 
 meeting goes a long way. When the other employees see it, they’ll be eager to be recognized, too.
 
-## 9. Make sure everythign you send is immediately implementable. Practical. Always.
+## 9. Make sure everythign you send is immediatly implementable. Practical. Always.
+In Chapter 1, I recounted the story of the Mirabeau Miracle. The winery’s proprietor, Stephen Cronk, made  
+YouTube history with a 90-second video showing how to open a wine bottle with his shoe.  
+This was not epic content. It wasn’t even original. The trick had been done multiple times before on  
+YouTube. The Mirabeau case study doesn’t seem to follow any rules about emotion or storytelling. But it’s an  
+amazing, well-executed little demonstration, and it was a practical, useful tip.  
+In the book Contagious, Jonah Berger explains, “Today, direct opportunities to help others are few and far  
+between. Modern suburban life has distanced us from our friends and neighbors. We live at the end of a long  
+driveway or high up in an apartment building, often barely getting to know the person next door.
