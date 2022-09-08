@@ -5,8 +5,10 @@ alias: [stress factors HRV]
 ###### links: 
 
 # @chajutSelectiveAttentionImproves2003
-Therefore, in Experiment 2, we used noise to induce stress in the participants. Noise is the most commonly used manipulation in the burgeoning literature on stress (e.g., Broadbent, 1971; Evans & Johnson, 2000; Glass & Singer, 1972; Goldberger & Breznitz, 1993; A. P. Smith, 1991; J. C. Smith, 1993). Noise is also coextensive with the Stroop procedure. We applied a within-subjects design in Experiment 2 to increase statistical power.
-	
+Therefore, in Experiment 2, we used noise to induce stress in the participants. Noise is the most commonly used manipulation in the burgeoning literature on stress (e.g., Broadbent, 1971; Evans & Johnson, 2000; Glass & Singer, 1972; Goldberger & Breznitz, 1993; ; J. C. Smith, 1993). Noise is also coextensive with the Stroop procedure. We applied a within-subjects design in Experiment 2 to increase statistical power.
+
+A large number of experimental and field studies have demonstrated that exposure to uncontrollable noise leads to poststressor (aftereffect) deficits in task performance (Cohen, 1980). One aftereffect index, task persistence, was used in a series of experiments by Glass and Singer (1972). They found that when individuals were exposed to uncontrollable noise, they were less likely to
+
 [[@ohEffectsHeartRate2021]]
  In this study, 27 subjects in their 20s who were identified to be vulnerable to stress but had healthy visual conditions and physical activities were included, and their HRVs were measured in color environment
 => Measuring the HRV in different color environment.
