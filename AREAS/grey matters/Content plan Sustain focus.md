@@ -1,4 +1,4 @@
-1. https://www.careelite.de/en/concentration-increase-tips-focus/
+1. https://www.careelite.de/en/concentration-increase-tips-focus/ Keep focus during Online Courses
 		### 7. treat yourself to exercise and balance
 		### 10. write down your thoughts and plans Does it even work?
 		## 3. Listen to background sounds

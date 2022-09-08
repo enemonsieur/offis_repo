@@ -54,7 +54,13 @@ Even though I could handle my lectures very well, I couldn't even understand wha
 Have you ever listen to a kid show in your target language, understood all of it but when you try to hold on a conversation you coudln't get anything? This is because llistening level are just like language levels A1 A2 etc... and understanding that will make you more capable of listetning to the kind of conversation that will make you
 I
 # Does Lo-fi Beats really help you study?
-[[Threads Twitter#^f24b97]]
+Picture this: You have the day free and you want to work on a project of yours. No external pressure, so you wanna be ready.
+1. Focusing is hard. So most people put on music to help them. But it's easy to get distracted if you pick the wrong music. According to science, here are the 5 appropriate type of music per situation
+2. Lo-Fi Beats: Works when you're about to do a creative work like writing/coding, and when you aren't low in energy. Instrumental music, slow beat musics block just enough internal distraction to help youf ocus
+3. Brown Noise: IMO superior to white noise, really helps if you wanna do heavy reading/writing/speaking. Because even instrumental music seriously disrupt your phonological loop (the subvocal part of your brain). Brown Noise frees you from the external noise 
+4. Lyrical music (Pop, Rock, Afrobeats): Let's face it. Sometimes, you have no energy.  You can't think for 5 minutes straight.. Music you enjoy will raise your arousal level (increasing noradrenaline and dopamine) and making you more engaged, with more energy.
+
+
 
 # 
 If you're learning a language on your own, you are probably doing this thing we learn in classroom. I call it: dispersion learning. And it isn't helping you. 
