@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "work in ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,12 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 453,
-    "collapsed": true
+    "width": 453
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -100,7 +100,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a964cfb5b2f8a24",
+  "active": "b5245d75518b9d87",
   "lastOpenFiles": [
     "PROJECTS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/Marketing Confiotes/1PMP course.md",
