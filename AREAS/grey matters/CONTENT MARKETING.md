@@ -156,7 +156,7 @@ situation. You don’t necessarily need to work on all six factors to make progr
 your business situation and capabilities, and you certainly will be better prepared for the future than your
 
 # SHAREABILITY 
-Here’s the mistake most companies make: They check the box on content and then forget about ignition. As I  
+Here’s the mistake most companies make: They check the box on content and then forget about ignition.  
 introduced in Chapter 1, content isn’t effective if it doesn’t move. People have to see it, engage with it, share  
 it—or you’re wasting your money. By putting the emphasis on exposing your content instead of simply  
 producing more, more, more, you create a powerful new marketing competency in the information era.  
@@ -165,7 +165,7 @@ complex cocktail of ideas and insights, promotion and production, audience and a
 content to explode through this wall of information density.  
 
 **=> How to know if a content is worth sharing?**
-THink about Ced/Madango sharing it:
+Think about Ced/Madango sharing it:
 
 It made you look cooler, smarter, funnier, or more relevant—providing you with a personal psychological  
 benefit.  
