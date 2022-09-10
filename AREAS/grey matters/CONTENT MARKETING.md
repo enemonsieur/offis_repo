@@ -123,22 +123,19 @@ complex cocktail of ideas and insights, promotion and production, audience and a
 **=> How to know if a content is worth sharing?**
 Think about when you shared content. Hilaire, think about you sharing music video of devil may cry or Crazy job posts on reddit, etc..: It was funny, crazy, by sharing it, you knew people like you will react, also find it crazy, share your feeling. Even if they didn't, at least you knew by doing it over and over, they'll see you as the "Job-post" guy, making you the go-to person for this kind of thing.
 Sometimes, you share content, not because it's usefull for you, but because it could be for other people, and it makes you look good to your peer (you'll share 10 tools for excels, because it could be use useful, even if you don't use it.)
-It made you look cooler, smarter, funnier, or more relevant—providing you with a personal psychological  benefit.  
-The content struck some **strong emotional chord**. It made you laugh, cry, or otherwise feel something so  profound it deserved to be shared with others.  
+
+It made you look cooler, smarter, funnier, or more relevant—providing you with a personal psychological  benefit.  The content struck some **strong emotional chord**. It made you laugh, cry, or otherwise feel something so  profound it deserved to be shared with others.  
 **It’s practical or timely.** Sharing the content will help and inform your friends.  
 You found **a new idea** and can’t wait to be the first to share it.  
 You feel deeply connected to the author and you want to support them.  
-It represents an achievement. Maybe you or your company were mentioned in the content and it makes  
-you feel good to show this representation of your status.
+It represents an achievement. **Maybe you or your company were mentioned in** the content and it makes  you feel good to show this representation of your status.
 
 Research shows that people typically don’t share content they’re reading on the web, even “great”  
 content.1 For example, a large study of social transmission across millions of Twitter accounts revealed that  the majority of users are passive information consumers and rarely forward content to their network.  
-In fact, an average Twitter user retweets only one in 318 content links they receive. Facebook reports that just one-half of one percent of those who see a Facebook post share it.2 These sobering numbers suggest that actively finding and nurturing that miniscule number of the most active users is critical to spreading your information on the web.
+In fact, **an average Twitter user retweets only one in 318 content links they receive**. Facebook reports that just one-half of one percent of those who see a Facebook post share it.2 These sobering numbers suggest that actively finding and nurturing that miniscule number of the most active users is critical to spreading your information on the web.
 
-**Therefore, in order to become an effective content-igniter, you must not only create content and build an  audience but also employ strategies to overcome user passivity and systematically find individuals  
-predisposed to love and share the content you’re creating. This is perhaps the most overlooked  
-imperative in digital marketing today.**  
-
+**Therefore, in order to become an effective content-igniter, you must not only create content and build an  audience but also employ strategies to overcome user passivity and systematically find individuals  predisposed to love and share the content you’re creating. This is perhaps the most overlooked  imperative in digital marketing today.**  
+=> To make your content viral, you have to move people enough to make them wanna have action, and orient the content to the people most likely to 
 
 ## 5 reasons to overcome disinteress and share content
 To be useful. The number one reason people share content is to bring valuable and entertaining  
