@@ -115,10 +115,8 @@ So the best way to use this book is to take a dive into all six pools and see wh
 situation. You don’t necessarily need to work on all six factors to make progress. Pick out one or two that fit your business situation and capabilities, and you certainly will be better prepared for the future than your
 => Concerning Ro, what we need is a good amount of shareability, we also need brand development unfortunately, but not until we are done with the labels/packaging
 # SHAREABILITY 
-Here’s the mistake most companies make: They check the box on content and then forget about ignition.  
-introduced in Chapter 1, content isn’t effective if it doesn’t move. People have to see it, engage with it, share  
-it—or you’re wasting your money. By putting the emphasis on exposing your content instead of simply  
-producing more, more, more, you create a powerful new marketing competency in the information era.  
+=> Content isn't effective if it doesn't move people. We are not in condition to not create great content. We have to be able to create content that makes people want to talk about Les Confiotes, because if they truly connect with it, they'll want to interact, or share it to their friends (which are probably our target market)
+Here’s the mistake most companies make: **They check the box on content and then forget about ignition.  introduced in Chapter 1, content isn’t effective if it doesn’t move.** People have to see it, engage with it, share it—or you’re wasting your money. By putting the emphasis on exposing your content instead of simply producing more, more, more, you create a powerful new marketing competency in the information era.  
 This is where we’re going to spend our time for the rest of this book. You’ll become an expert on this  
 complex cocktail of ideas and insights, promotion and production, audience and audacity ... that gets your  
 content to explode through this wall of information density.  
