@@ -118,18 +118,15 @@ situation. You don’t necessarily need to work on all six factors to make progr
 => Content isn't effective if it doesn't move people. We are not in condition to not create great content. We have to be able to create content that makes people want to talk about Les Confiotes, because if they truly connect with it, they'll want to interact, or share it to their friends (which are probably our target market)
 Here’s the mistake most companies make: **They check the box on content and then forget about ignition.  introduced in Chapter 1, content isn’t effective if it doesn’t move.** People have to see it, engage with it, share it—or you’re wasting your money. By putting the emphasis on exposing your content instead of simply producing more, more, more, you create a powerful new marketing competency in the information era.  
 This is where we’re going to spend our time for the rest of this book. You’ll become an expert on this  
-complex cocktail of ideas and insights, promotion and production, audience and audacity ... that gets your  
-content to explode through this wall of information density.  
+complex cocktail of ideas and insights, promotion and production, audience and audacity ... that gets your  content to explode through this wall of information density.  
 
 **=> How to know if a content is worth sharing?**
-Think about Ced/Madango sharing it:
-
-It made you look cooler, smarter, funnier, or more relevant—providing you with a personal psychological  
-benefit.  
-The content struck some strong emotional chord. It made you laugh, cry, or otherwise feel something so  
-profound it deserved to be shared with others.  
-It’s practical or timely. Sharing the content will help and inform your friends.  
-You found a new idea and can’t wait to be the first to share it.  
+Think about when you shared content. Hilaire, think about you sharing music video of devil may cry or Crazy job posts on reddit, etc..: It was funny, crazy, by sharing it, you knew people like you will react, also find it crazy, share your feeling. Even if they didn't, at least you knew by doing it over and over, they'll see you as the "Job-post" guy, making you the go-to person for this kind of thing.
+Sometimes, you share content, not because it's usefull for you, but because it could be for other people, and it makes you lo
+It made you look cooler, smarter, funnier, or more relevant—providing you with a personal psychological  benefit.  
+The content struck some **strong emotional chord**. It made you laugh, cry, or otherwise feel something so  profound it deserved to be shared with others.  
+**It’s practical or timely.** Sharing the content will help and inform your friends.  
+You found **a new idea** and can’t wait to be the first to share it.  
 You feel deeply connected to the author and you want to support them.  
 It represents an achievement. Maybe you or your company were mentioned in the content and it makes  
 you feel good to show this representation of your status.
