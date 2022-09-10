@@ -1,25 +1,28 @@
 # CONTENT MARKETING
-What to do if the niche is unsaturated? 
-**1. Find an unsaturated niche.  
+## What to do if the niche is saturated? 
+1. Find an unsaturated niche.  
 2. Consistently produce a volume of quality, helpful material aimed at a relevant audience (or persona).  
-3. Never stop producing content.**  
+3. Never stop producing content.
 Dominating a niche early has extremely important long-term value because the search engines will  
-continue to recognize and reward the authority your website accrues for a long time. One pioneering blogger told me that after dominating his niche with content for so long, he could probably remain at the top of most  search engines for years ... even if he never wrote another blog post again.  
-=> So I don't know how much it applies to Facebook, Youtube, but 6 months to 3 years of consistent high-qualitly material, axed towards one persona is most important to stay in the top searchs for years.
-If we do that for made in Cameroon, we can make a volume of people look
-**The Content Saturation Index**  
-Marcus Sheridan, an entrepreneur and content marketing thought leader, created a theoretical term to  
-describe this condition -- “content saturation index.”1 While his social media drug of choice is blogging, his  
-experience relates to any content form. He described in a post:  
-“The more content an industry/niche has written about it, the harder it is for a blog to make headway  
-and find success in that field. And when an industry has very little online content available to the  
-masses, it can often be gobbled up within almost no time at all.
+continue to recognize and reward the authority your website accrues for a long time. One pioneering blogger told me that after dominating his niche with content for so long, he could probably remain at the top of most  search engines for years ... even if he never wrote another blog post again. 
 
-## what makes  a great content
+**The Content Saturation Index**  
+, an entrepreneur and content marketing thought leader, created a theoretical term to  
+describe this condition -- “content saturation index.”1 While his social media drug of choice is blogging, his  experience relates to any content form. He described in a post:  
+*“The more content an industry/niche has written about it, the harder it is for a blog to make headway  
+and find success in that field. And when an industry has very little online content available to the  
+masses, it can often be gobbled up within almost no time at all."*
+**Marcus Sheridan**
+
+=> So I don't know how much it applies to Facebook, Youtube, but 6 months to 3 years of consistent high-qualitly material, axed towards one persona is most important to stay in the top searchs for years.
+If we do that for made in Cameroon, we can make a volume of people looking for MIC alternatives drop by our facebook and website when MIC will explode in couple of years.
+
+
+## what makes a great content
 I wrote a post about social media audits and published it on my blog. It received no comments or  social activity AT ALL. I later submitted the exact same piece to the Social Media Today website. It  was tweeted hundreds of times and I also had some great responses across the blogosphere.  
 So much for great content. It’s the exact same article, but since my blog doesn’t have authority or  community, it wouldn't have been found or read regardless of the quality of my work.  I think at this point the focus has to move from content creation toward the idea of building  community, developing strategies to distribute the content, and marketing to promote every piece.”  
 Marcela hit on some more suspicions that point to the elusive Content Code: Regardless of quality, content  marketing success must also include community, distribution, and promotion.  
-
+=> People wrongly think that quality and apti
 **The Mirabeau miracle**  
 Consider one more example that points to the secrets to content marketing success in an information dense world.  
 A few years ago, I was approached by a friendly fellow named Stephen Cronk for help on a new marketing  
