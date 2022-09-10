@@ -24,25 +24,16 @@ So much for great content. It’s the exact same article, but since my blog does
 Marcela hit on some more suspicions that point to the elusive Content Code: Regardless of quality, content  marketing success must also include community, distribution, and promotion.*  
 => People wrongly think that quality and patience are the most important for content. But having community and authority is: years ago Mark schaeffer posted an article about social media audits. No coments, no social activity at all. Then he submitted the piece to the famous website social media today. It was RT 100s of times, great responses from other blogs etc. It's not about the content quality but the content awareness.
 
-**The Mirabeau miracle**  
+HOW TO BREAKTHROUGH IN WINE BUSINESS
 Consider one more example that points to the secrets to content marketing success in an information dense world.  
 A few years ago, I was approached by a friendly fellow named Stephen Cronk for help on a new marketing strategy. Here’s a summary of his story:  
 He left his corporate job in London and moved his family to the Provence region of France.  
 In the teeth of a recession and with no previous wine-making experience, he started a new winery called Mirabeau. He had 600 established competitors—and that was just in Provence!  
 This was a tough assignment, but I do love a challenge, and most important, I believed in Stephen. He  
-possessed an excellent business mind, an urgency to learn, and a great sense of storytelling. I had to say yes!  
-Our first step was to determine where he could maneuver in a highly saturated, low-growth market. We  
-couldn’t afford to be a “me too.” We conducted a complete market and competitive analysis and discovered  
-that among the hundreds of wineries in his region, none of them had a meaningful digital marketing  
-presence. At the same time, his potential retail customers were trying to gain a foothold in the social media  
-space. In this intersection, we found our opportunity.  
-We had to scale a content marketing effort quickly and decided that Stephen’s primary source would be  
-video. He was a natural on camera, and the lush and ancient countryside of Provence provided an ideal  
-backdrop to explore wine making, food, history, art, and the local color.  
+possessed an excellent business mind, an urgency to learn, and a great sense of storytelling. I had to say yes!  Our first step was to determine where he could maneuver in a highly saturated, low-growth market. We  couldn’t afford to be a “me too.” We conducted a complete market and competitive analysis and discovered that among the hundreds of wineries in his region, **none of them had a meaningful digital marketing  presence.** At the same time, his potential retail customers were trying to gain a foothold in the social media space. In this intersection, we found our opportunity.  
+We had to scale a content marketing effort quickly and decided that Stephen’s primary source would be video. He was a natural on camera, and the lush and ancient countryside of Provence provided an ideal backdrop to explore wine making, food, history, art, and the local color.  
 Stephen consistently documented his wine-making journey in a very human and entertaining way. He  
-talked about a labeling crisis that almost crushed his business. He created entertaining videos about the  
-ridiculous paperwork he faced from the French government, what it was like to attend an international wine-  
-tasting competition, and how the grapes were harvested in the early morning sunlight. He created stories  
+talked about a labeling crisis that almost crushed his business. **He created entertaining videos about the ridiculous paperwork he faced from the French government, what it was like to attend an international wine-  tasting competition, and how the grapes were harvested in the early morning sunlight**. He created stories  
 about his village, his pets, and his family. He shared his anguish as he knelt beside grape vines decimated by  
 a 13-minute hail storm. He captured the pure joy of his children dancing while on a family vacation.  
 He was putting a human and modern face to a stodgy, traditional business.  
