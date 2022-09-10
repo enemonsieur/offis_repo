@@ -84,49 +84,36 @@ that makes people want to go down the rabbit hole and stay on your site. This co
 Hero content is something brilliant, dramatic, and bold that transcends the normal day-  
 to-day Internet offerings. This is the content that creates viral buzz. A famous example is the epic videos  Nike created to celebrate the World Cup. The most recent one, “Winner Stays,” playfully captures the  schoolyard fantasy of young soccer players who morph into their favorite global stars. This type of  content is difficult to produce. Nike was intentional in spending millions to create this hero content with  the goal of creating massive brand awareness and dominating the conversation around the world’s  biggest sporting event. The video received 100 million views.
 => Video Ads de haute qualité. Crée une massive brand awareness
-https://www.youtube.com/watch?v=eGUor824a74 Quelque chose qui hook les gens, contient du awe (fait que les gens soient scotchés et veu)
+https://www.youtube.com/watch?v=eGUor824a74 Quelque chose qui hook les gens, contient du awe (fait que les gens soient scotchés et veulent partager aux autres pour avoir des likes)
 ## The six elements of the Content Code  
-We’ve established that great content is rarely enough to assure success. Great content is simply the table  
-stakes needed to earn a seat at the table. I’m not going to cover tips and tricks about writing for the web or  
-creating epic videos. Those topics have already been effectively covered in many other places. We’re here to  
-plow new ground.  
-So here is the starting line for this race: You need great content.  
-Let me repeat: You need great content. But then what?  
+We’ve established that great content is rarely enough to assure success. Great content is simply the table stakes needed to earn a seat at the table. I’m not going to cover tips and tricks about writing for the web or  creating epic videos. Those topics have already been effectively covered in many other places. We’re here to plow new ground.  
+**So here is the starting line for this race: You need great content.  
+Let me repeat: You need great content. But then what?**  
 This is where the Content Code takes over. Content that rises and is discovered through search is a  
 mixture of art, science, and magic that includes these six factors:  
-Brand development  
-Audience and Influencers  
-Distribution, Advertising, Promotion, and SEO  
-Authority  
-“Shareability” embedded into each piece of content  
-Social proof and social signals  
-Now, if you’re paying close attention—and I’m sure you are—the first letter of each piece of the Content  
-Code spells out BADASS.  
-I consider this a giddy coincidence and perhaps the highlight of my professional career. I’m tempted to end  
-the book right now as I’m sure there is nothing I can write that can ever top this. I bet you didn’t see that  
-coming did you? You should send me a selfie right now with the look of surprise and amazement on your  
+1- B rand development  
+2- A udience and Influencers  
+3- D istribution, Advertising, Promotion, and SEO  
+4- A uthority  
+5- S hareability embedded into each piece of content
+6- S ocial proof and social signals  
+Now, if you’re paying close attention—and I’m sure you are—the first letter of each piece of the Content Code spells out BADASS.  
+I consider this a giddy coincidence and perhaps the highlight of my professional career. I’m tempted to end the book right now as I’m sure there is nothing I can write that can ever top this. I bet you didn’t see that coming did you? You should send me a selfie right now with the look of surprise and amazement on your  
 face. #BadassSelfie  
 Okay, time to settle down. We must get back to the topic at hand, for this is a serious book for serious  
 people. What does this BADASS thing really mean?  
-Provided you start with great content (did I already mention that?), if you commit to continuously working  
-on these six factors you’ll begin to crack the code. Although the six factors have been written about in bits  
-and pieces by many talented experts (whom I call on to help tell the story), this is the first time the entire  
-Content Code has been assembled in a cohesive way, in one book.  
-In the chapters that follow, we will dive into each of these factors in detail, but the overall recipe for how  
-you execute your plan is up to you. You see, there’s no simple strategy that fits everybody ...  
-A business competing to sell discrete items in an eCommerce environment will want to emphasize brand  
-building and search optimization.  
-A lawyer, management consultant, or accountant will probably want to focus on establishing authority  
-and a large, engaged audience consisting of consumers of their services.  
+**Provided you start with great content (did I already mention that?), if you commit to continuously working**  
+on these six factors you’ll begin to crack the code. Although the six factors have been written 
+about inbits and pieces by many talented experts (whom I call on to help tell the story), this is the first time the entire Content Code has been assembled in a cohesive way, in one book.  
+In the chapters that follow, we will dive into each of these factors in detail, but the overall recipe for how you execute your plan is up to you. You see, there’s no simple strategy that fits everybody ...  
+A business competing **to sell discrete items in an eCommerce environment will want to emphasize brand building and search optimization.**  
+**A lawyer, management consultant, or accountant will probably want to focus on establishing authority and a large, engaged audience consisting of consumers of their services.**  
 A company in a highly competitive international market may need to spend money on promotion and  
 advertising to get their message through.  
-An individual starting a blog might seek a true balance of all six factors but concentrate on writing highly  
-shareable content and building a heroic personal brand that leads to fanatic supporters and business  
-benefits.  
+**An individual starting a blog might seek a true balance of all six factors but concentrate on writing highly shareable content and building a heroic personal brand that leads to fanatic supporters and business** benefits. 
 So the best way to use this book is to take a dive into all six pools and see what fits for your particular  
-situation. You don’t necessarily need to work on all six factors to make progress. Pick out one or two that fit  
-your business situation and capabilities, and you certainly will be better prepared for the future than your
-
+situation. You don’t necessarily need to work on all six factors to make progress. Pick out one or two that fit your business situation and capabilities, and you certainly will be better prepared for the future than your
+=> Concerning Ro, what we need is a good amount of shareability, we also need brand awareness unfor
 # SHAREABILITY 
 Here’s the mistake most companies make: They check the box on content and then forget about ignition.  
 introduced in Chapter 1, content isn’t effective if it doesn’t move. People have to see it, engage with it, share  
