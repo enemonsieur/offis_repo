@@ -42,13 +42,14 @@ But on his 222nd video, Stephen found the gold at the end of the rainbow. In jus
 demonstrated how to open a wine bottle with only his shoe.6 That video has now attracted well over 9 million  views ... one of the greatest small business video success stories in the history of the web!  
 The viral attention gave a significant lift to all the content on the site. Because Stephen had worked so  
 long and hard to provide entertaining videos, the viral visitors stuck around to see what else he had for them.  
-Since the “shoe video,” the winery’s “About Mirabeau” video on its YouTube channel has received more than  
-10,000 new views. Facebook, Twitter, Pinterest accounts, and newsletter subscriptions have had massive  
+Since the “shoe video,” the winery’s “About Mirabeau” video on its YouTube channel has received more than  10,000 new views. Facebook, Twitter, Pinterest accounts, and newsletter subscriptions have had massive  
 gains.  
 The tiny winery received immense media attention from both the mainstream press and wine industry  
 bloggers who marveled at Stephen’s authentic and human storytelling:
-
+=>https://www.youtube.com/watch?v=u1wROm-OF9w
 =>Looks like Ro. 
+=> Commencer réussir dans le vin?
+- Produire continuellement du contenu très personnel avec un great storytellin
 
 ##  Guidelines to find a un-saturated market
 If there are fewer than 10,000 pages of returned search results, full speed ahead! There’s an opportunity  for you since there is low content density.
