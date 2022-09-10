@@ -135,7 +135,7 @@ content.1 For example, a large study of social transmission across millions of T
 In fact, **an average Twitter user retweets only one in 318 content links they receive**. Facebook reports that just one-half of one percent of those who see a Facebook post share it.2 These sobering numbers suggest that actively finding and nurturing that miniscule number of the most active users is critical to spreading your information on the web.
 
 **Therefore, in order to become an effective content-igniter, you must not only create content and build an  audience but also employ strategies to overcome user passivity and systematically find individuals  predisposed to love and share the content you’re creating. This is perhaps the most overlooked  imperative in digital marketing today.**  
-=> To make your content viral, you have to move people enough to make them wanna have action, and orient the content to the people most likely to 
+=> To make your content viral, you have to move people enough to make them wanna have action, and orient the content to the people most likely to share that content (your market target, but also people that have a "sharing" personnality1)
 
 ## 5 reasons to overcome disinteress and share content
 To be useful. The number one reason people share content is to bring valuable and entertaining  
