@@ -84,7 +84,7 @@ that makes people want to go down the rabbit hole and stay on your site. This co
 Hero content is something brilliant, dramatic, and bold that transcends the normal day-  
 to-day Internet offerings. This is the content that creates viral buzz. A famous example is the epic videos  Nike created to celebrate the World Cup. The most recent one, “Winner Stays,” playfully captures the  schoolyard fantasy of young soccer players who morph into their favorite global stars. This type of  content is difficult to produce. Nike was intentional in spending millions to create this hero content with  the goal of creating massive brand awareness and dominating the conversation around the world’s  biggest sporting event. The video received 100 million views.
 => Video Ads de haute qualité. Crée une massive brand awareness
-
+https://www.youtube.com/watch?v=eGUor824a74 Quelque chose qui hook les gens, contient du awe (fait que les gens soient scotchés et veu)
 ## The six elements of the Content Code  
 We’ve established that great content is rarely enough to assure success. Great content is simply the table  
 stakes needed to earn a seat at the table. I’m not going to cover tips and tricks about writing for the web or  
