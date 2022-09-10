@@ -19,21 +19,18 @@ If we do that for made in Cameroon, we can make a volume of people looking for M
 
 
 ## what makes a great content
-I wrote a post about social media audits and published it on my blog. It received no comments or  social activity AT ALL. I later submitted the exact same piece to the Social Media Today website. It  was tweeted hundreds of times and I also had some great responses across the blogosphere.  
+*I wrote a post about social media audits and published it on my blog. It received no comments or  social activity AT ALL. I later submitted the exact same piece to the Social Media Today website. It  was tweeted hundreds of times and I also had some great responses across the blogosphere.  
 So much for great content. It’s the exact same article, but since my blog doesn’t have authority or  community, it wouldn't have been found or read regardless of the quality of my work.  I think at this point the focus has to move from content creation toward the idea of building  community, developing strategies to distribute the content, and marketing to promote every piece.”  
-Marcela hit on some more suspicions that point to the elusive Content Code: Regardless of quality, content  marketing success must also include community, distribution, and promotion.  
-=> People wrongly think that quality and apti
+Marcela hit on some more suspicions that point to the elusive Content Code: Regardless of quality, content  marketing success must also include community, distribution, and promotion.*  
+=> People wrongly think that quality and patience are the most important for content. But having community and authority is: years ago Mark schaeffer posted an article about social media audits. No coments, no social activity at all. Then he submitted the piece to the famous website social media today. It was RT 100s of times, great responses from other blogs etc. It's not about the content quality but the content awareness.
+
 **The Mirabeau miracle**  
 Consider one more example that points to the secrets to content marketing success in an information dense world.  
-A few years ago, I was approached by a friendly fellow named Stephen Cronk for help on a new marketing  
-strategy. Here’s a summary of his story:  
+A few years ago, I was approached by a friendly fellow named Stephen Cronk for help on a new marketing strategy. Here’s a summary of his story:  
 He left his corporate job in London and moved his family to the Provence region of France.  
-In the teeth of a recession and with no previous wine-making experience, he started a new winery called  
-Mirabeau.  
-He had 600 established competitors—and that was just in Provence!  
+In the teeth of a recession and with no previous wine-making experience, he started a new winery called Mirabeau. He had 600 established competitors—and that was just in Provence!  
 This was a tough assignment, but I do love a challenge, and most important, I believed in Stephen. He  
-possessed an excellent business mind, an urgency to learn, and a great sense of storytelling. I had to say  
-yes!  
+possessed an excellent business mind, an urgency to learn, and a great sense of storytelling. I had to say yes!  
 Our first step was to determine where he could maneuver in a highly saturated, low-growth market. We  
 couldn’t afford to be a “me too.” We conducted a complete market and competitive analysis and discovered  
 that among the hundreds of wineries in his region, none of them had a meaningful digital marketing  
