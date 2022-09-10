@@ -37,7 +37,7 @@
 	1. Eat a pomodoro
 22. Does Lofi Music helps you study?
 **23. Here's how to find The perfect study-music for you**
-24. Starting way early is the go to method for ADHD -ex with my presentation 
+	1. Starting way early is the go to method for ADHD  -ex with my presentation 
 
 
 RESSOURCES:
