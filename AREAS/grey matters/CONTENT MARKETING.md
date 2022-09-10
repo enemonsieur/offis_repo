@@ -34,18 +34,12 @@ possessed an excellent business mind, an urgency to learn, and a great sense of 
 We had to scale a content marketing effort quickly and decided that Stephen’s primary source would be video. He was a natural on camera, and the lush and ancient countryside of Provence provided an ideal backdrop to explore wine making, food, history, art, and the local color.  
 Stephen consistently documented his wine-making journey in a very human and entertaining way. He  
 talked about a labeling crisis that almost crushed his business. **He created entertaining videos about the ridiculous paperwork he faced from the French government, what it was like to attend an international wine-  tasting competition, and how the grapes were harvested in the early morning sunlight**. He created stories  
-about his village, his pets, and his family. He shared his anguish as he knelt beside grape vines decimated by  
-a 13-minute hail storm. He captured the pure joy of his children dancing while on a family vacation.  
+about his village, his pets, and his family. He shared his anguish as he knelt beside grape vines decimated by  a 13-minute hail storm. He captured the pure joy of his children dancing while on a family vacation.  
 He was putting a human and modern face to a stodgy, traditional business.  
-In addition to producing content, we also had a network strategy and continuously worked on building a  
-wine-loving audience that was passionate about his product and the stories from his little family business. As  
-his audience and engagement multiplied, Stephen was able to share this data with huge wine retailers to  
-prove a point of differentiation. No winemaker in the region had the presence and audience that the upstart  
-Mirabeau had. The strategy worked, and the orders started coming in.  
+In addition to producing content, we also had a network strategy and continuously worked on building a  wine-loving audience that was passionate about his product and the stories from his little family business. As  his audience and engagement multiplied, Stephen was able to share this data with huge wine retailers to  prove a point of differentiation. No winemaker in the region had the presence and audience that the upstart  Mirabeau had. The strategy worked, and the orders started coming in.  
 Stephen followed our strategy to dominate this unsaturated content niche and his progress was steady.  
 But on his 222nd video, Stephen found the gold at the end of the rainbow. In just 29 seconds, he  
-demonstrated how to open a wine bottle with only his shoe.6 That video has now attracted well over 9 million  
-views ... one of the greatest small business video success stories in the history of the web!  
+demonstrated how to open a wine bottle with only his shoe.6 That video has now attracted well over 9 million  views ... one of the greatest small business video success stories in the history of the web!  
 The viral attention gave a significant lift to all the content on the site. Because Stephen had worked so  
 long and hard to provide entertaining videos, the viral visitors stuck around to see what else he had for them.  
 Since the “shoe video,” the winery’s “About Mirabeau” video on its YouTube channel has received more than  
