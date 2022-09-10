@@ -113,7 +113,7 @@ advertising to get their message through.
 **An individual starting a blog might seek a true balance of all six factors but concentrate on writing highly shareable content and building a heroic personal brand that leads to fanatic supporters and business** benefits. 
 So the best way to use this book is to take a dive into all six pools and see what fits for your particular  
 situation. You don’t necessarily need to work on all six factors to make progress. Pick out one or two that fit your business situation and capabilities, and you certainly will be better prepared for the future than your
-=> Concerning Ro, what we need is a good amount of shareability, we also need brand awareness unfor
+=> Concerning Ro, what we need is a good amount of shareability, we also need brand development unfortunately, but not until we are done with the labels/packaging
 # SHAREABILITY 
 Here’s the mistake most companies make: They check the box on content and then forget about ignition.  
 introduced in Chapter 1, content isn’t effective if it doesn’t move. People have to see it, engage with it, share  
