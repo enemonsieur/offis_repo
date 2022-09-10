@@ -4,9 +4,9 @@ What to do if the niche is unsaturated?
 2. Consistently produce a volume of quality, helpful material aimed at a relevant audience (or persona).  
 3. Never stop producing content.**  
 Dominating a niche early has extremely important long-term value because the search engines will  
-continue to recognize and reward the authority your website accrues for a long time. One pioneering blogger  
-told me that after dominating his niche with content for so long, he could probably remain at the top of most  
-search engines for years ... even if he never wrote another blog post again.  
+continue to recognize and reward the authority your website accrues for a long time. One pioneering blogger told me that after dominating his niche with content for so long, he could probably remain at the top of most  search engines for years ... even if he never wrote another blog post again.  
+=> So I don't know how much it applies to Facebook, Youtube, but 6 months to 3 years of consistent high-qualitly material, axed towards one persona is most important to stay in the top searchs for years.
+If we do that for made in Cameroon, we can make a volume of people look
 **The Content Saturation Index**  
 Marcus Sheridan, an entrepreneur and content marketing thought leader, created a theoretical term to  
 describe this condition -- “content saturation index.”1 While his social media drug of choice is blogging, his  
