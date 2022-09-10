@@ -49,7 +49,9 @@ bloggers who marveled at Stephen’s authentic and human storytelling:
 =>https://www.youtube.com/watch?v=u1wROm-OF9w
 =>Looks like Ro. 
 => Commencer réussir dans le vin?
-- Produire continuellement du contenu très personnel avec un great storytellin
+- Produire continuellement du contenu très personnel avec un great storytelling
+- Avoir un élément viral comme la vidéo pour ouvrir du vin avec une chaussure (c'est un conseil très pratique qui peut servir à tout le monde)
+-
 
 ##  Guidelines to find a un-saturated market
 If there are fewer than 10,000 pages of returned search results, full speed ahead! There’s an opportunity  for you since there is low content density.
@@ -57,15 +59,10 @@ Between 10,000 and 100,000 results, expect some resistance, but it’s surmounta
 investment, exceptional content, and implementation of some of the Content Code factors covered in  
 this book.  
 If there are between 100,000 and 1 million search results, expect significant resistance. Competing  
-through content alone will be difficult. Applying Content Code strategies might be the primary means of  
-rising above this level of saturation.  
-A result producing more than 1 million pages of content represents a thoroughly saturated niche. Unless  
-the content becomes a product in its own right through significant investment, Content Shock exists in  
-this niche and is likely to bury even exceptional content creation efforts. In this situation, the Content  
-Code strategies would be the only possibility of strategic leverage.  
-Examining the relative saturation in your niche is crucial to understanding how the Content Code formula  
-will or will not work for your market. It’s extremely difficult to unseat somebody in the search engine ranking  
-if they have dominated a niche, even if you’re doing great work. But it’s not hopeless.  
+through content alone will be difficult. Applying Content Code strategies might be the primary means of rising above this level of saturation.  
+
+A result producing more than 1 million pages of content represents a thoroughly saturated niche. Unless  the content becomes a product in its own right through significant investment, Content Shock exists in this niche and is likely to bury even exceptional content creation efforts. In this situation, the Content Code strategies would be the only possibility of strategic leverage.  
+Examining the relative saturation in your niche is crucial to understanding how the Content Code formula will or will not work for your market. It’s extremely difficult to unseat somebody in the search engine ranking if they have dominated a niche, even if you’re doing great work. But it’s not hopeless.  
 Of course the strategies in this book are going to work well in an environment where the content  
 competition is still relatively low. If you’re fortunate enough to already own an unsaturated content niche,  
 chances are you’ll dominate the search engine rankings too, and the Content Code will widen the gap  
