@@ -12,5 +12,6 @@ In a power grid, workers are subject to high amount of stress. The goal of our s
 If we can indeed produce stress and high mental workload, the next step will be to use our model to train a reinforcement learning agent to attack the powergrid. 
 
 
-Problems I have with Gym AI
+Problems I have with Gym AI: 
+1. I can't install the 
 
