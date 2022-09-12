@@ -133,6 +133,7 @@ It represents an achievement. **Maybe you or your company were mentioned in** th
 Research shows that people typically don’t share content they’re reading on the web, even “great”  
 content.1 For example, a large study of social transmission across millions of Twitter accounts revealed that  the majority of users are passive information consumers and rarely forward content to their network.  
 In fact, **an average Twitter user retweets only one in 318 content links they receive**. Facebook reports that just one-half of one percent of those who see a Facebook post share it.2 These sobering numbers suggest that actively finding and nurturing that miniscule number of the most active users is critical to spreading your information on the web.
+=> Research show almost no one share content .5% on facebook But we need them to share content for our brand to be seen
 
 **Therefore, in order to become an effective content-igniter, you must not only create content and build an  audience but also employ strategies to overcome user passivity and systematically find individuals  predisposed to love and share the content you’re creating. This is perhaps the most overlooked  imperative in digital marketing today.**  
 => To make your content viral, you have to move people enough to make them wanna have action, and orient the content to the people most likely to share that content (your market target, but also people that have a "sharing" personnality1  )
