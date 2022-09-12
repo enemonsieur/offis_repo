@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Consommer MIC c'est comme une roulette russe. Du coup c'est difficle:",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,12 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 453
+    "width": 258.5007801055908
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -100,7 +99,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "316fce38699cd2ff",
+  "active": "4a964cfb5b2f8a24",
   "lastOpenFiles": [
     "PROJECTS/Marketing Confiotes/1PMP course.md",
     "AREAS/grey matters/CONTENT MARKETING.md",
