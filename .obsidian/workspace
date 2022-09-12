@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/grey matters/CONTENT MARKETING.md",
+            "file": "PROJECTS/Marketing Confiotes/1PMP course.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Consommer MIC c'est comme une roulette russe. Du coup c'est difficle:",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/grey matters/CONTENT MARKETING.md",
+                "file": "PROJECTS/Marketing Confiotes/1PMP course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
   },
   "active": "316fce38699cd2ff",
   "lastOpenFiles": [
+    "AREAS/grey matters/CONTENT MARKETING.md",
     "AREAS/OFFIS/25032022_NASA TLX.md",
     "PROJECTS/220801_1 Design Stress inducing Task.md",
     "PROJECTS/Videos Tiktok.md",
@@ -109,7 +111,6 @@
     "AREAS/Writing Copies.md",
     "AREAS/Marketing Confiotes.md",
     "AREAS/grey matters/Content plan Sustain focus.md",
-    "AREAS/grey matters/CONTENT MARKETING.md",
     "Untitled 1.md"
   ]
 }
