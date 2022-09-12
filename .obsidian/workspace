@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Marketing Confiotes/1PMP course.md",
+            "file": "AREAS/Sport/half marathon training.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Marketing Confiotes/1PMP course.md",
+                "file": "AREAS/Sport/half marathon training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "316fce38699cd2ff",
   "lastOpenFiles": [
+    "PROJECTS/Marketing Confiotes/1PMP course.md",
     "AREAS/Marketing Confiotes.md",
     "AREAS/grey matters/Content plan Sustain focus.md",
     "AREAS/grey matters/CONTENT MARKETING.md",
@@ -109,7 +110,6 @@
     "AREAS/grey matters/Threads Twitter.md",
     "AREAS/grey matters/ADHD research.md",
     "AREAS/grey matters/Building a second brain - Tiago Forte.md",
-    "AREAS/Marketing Coffee House.md",
-    "AREAS/Building a second brain - Tiago Forte.md"
+    "AREAS/Marketing Coffee House.md"
   ]
 }

@@ -1,3 +1,17 @@
+# Why you struggle to keep on running
+[10:54 AM, 9/12/2022] N.amy: Alors
+[10:55 AM, 9/12/2022] N.amy: Tu as dit la derniére fois que tu courais 4min/km. Pendant 2 km à peu  près.
+[11:00 AM, 9/12/2022] N.amy: Ca m'a mis la puce à l'Oreille. Tous les livres que j'ai lu le disent et le redisent. Il faut au moins 3 mois à un débutant pourque son corps s'habitue à la course. Essayer de courir vite ou longtemps pendant cette periode c'est prendre de gros risques. 
+
+Autre chose c'est le 80/20 rule. La meilleure facon de gagner en endurance et vitesse c'est de courir 80% de ses courses en deca de son "lactate threshold" c'est a dire à un BPM ou ton corps ne commence pas à accumuler de facon exponentielle du lactate, ce qui rend la course insoutenable. Ca correspond à ce qu'on appelle la zone 2, qui est une zone tellement confortable que tu pourrais courir des heures. En fait, cette zone est tellement lente que pour les débutants ca correspond à la vitesse d'une marche rapide. 
+
+La raison pour laquelle c'est si important c'est que ca te permet de stresser légèrement ton système, qui réagirait (c'est une des hypothèses) en secrétant de l'interleukine II. Plus tu en secrètes selon les études, plus ton corps s'adapte et peut tenir de longues distances. Les études ont aussi montré que la vitesse n'a aucun impact sur l'Interleukine. Que tu cours vite ou lentement, tu secrètes la meme quantité d'interleukike (IL 2). Donc ca n'a aucun impact de courir vite.
+[11:03 AM, 9/12/2022] N.amy: D#autres  études ont montré que la capacité à maintenir un running schedule dépend de la quantité d'effort faite par semaine. Peut etre tu connais le principe de RPE: Rate of percieved exhaustion? 
+C'est la facon dont tu percois la fatigue. Si tu fais toutes tes séries à la muscu à l'échec, tu auras un RPE très élevée et, tu es plus susceptible d'abandonner que quelqu'un qui a été loin de l'échec musculaire. 
+Du coup, si tu cours à max vitesse donc à un RPE élevé, tu as beaucoup plus de  chances d'abandonner, d'avoir les genoux qui lachent ou à etre moins motivé que quelqu'un qui court plus lentement en général. 
+
+Et là ou le bat blesse c'est que courir plus lentement te permet de faire plus de progrés que courir vite. C'est presque un consensus en course à ce moment. Les pros courent tous en dessous de leur Lactate Threshold la plus part du temps.
+[11:04 AM, 9/12/2022] N.amy: Voili voilou
 
 ![[Pasted image 20220809141444.png]]
 ## HIGH-INTENSITY RUNS  
