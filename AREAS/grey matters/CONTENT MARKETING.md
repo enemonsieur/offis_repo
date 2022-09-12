@@ -271,8 +271,8 @@ how to choose a college.
 Warning: Posts about dangers that could affect anyone in your audience.  
 Inspire: Inspirational quotes. Love them or hate them, they work.  
 Unite: Posts that highlight a danger, an evil, an enemy, a cause, or a personal or community need.  
-And while we’re at it, the research also showed content behaviors that shut down social sharing (don’t do  
-these!):  
+And while we’re at it, the research also showed content behaviors that shut down social sharing (don’t do these!):  
+
 Only talking about yourself  
 Being too edgy or offensive  
 Being too obscure or niche  
@@ -283,22 +283,17 @@ Asking for Likes
 
  5. Work on the headline (first 30s)
  6. A lot of lists + Infographics
-The BuzzSumo research of 100 million posts also showed that you double your chances that people will share  
-your content if it includes a list or an infographic. It makes sense. Both list posts and infographics add an  
-element of intrigue and fun while still promising quick answers. Because of their skimmable format, they  
-satisfy our curiosity quickly in an information-dense environment.  
+The BuzzSumo research of 100 million posts also showed that you double your chances that people will share your content if it includes a list or an infographic. It makes sense. Both list posts and infographics add an element of intrigue and fun while still promising quick answers. Because of their skimmable format, they satisfy our curiosity quickly in an information-dense environment.  
 Bonus tip: A list article with the number 10 in the headline is the best number for social transmission,  
 scoring four times the social shares as the next nearest number in the study. After the number 10, list  
 headlines with an odd-number get shared 20 percent more than even-numbered posts.13  
 
-=> Crée un maximum de Listes avec des Infographics
- Resurface old projects, Cross publish them, Modify them
-See Second Brain
+=> Crée un maximum de Listes (avec 10, ou bien nombres impairs) avec des Infographics (ca double le taux de partage)
 
-I thought this would make a provocative blog post14 and I had some fun with the headline: “Why 100,000  
-People Unfollowed Me on Twitter.” But it was also a very helpful post that answered a lot of questions people  
-had about this strange behavior.  
-Here are the total social sharing statistics (Twitter, Facebook, LinkedIn and Google+) for the post:  
+
+
+I thought this would make a provocative blog post and I had some fun with the headline: “Why 100,000  
+People Unfollowed Me on Twitter.” But it was also a very helpful post that answered a lot of questions people  had about this strange behavior.  Here are the total social sharing statistics (Twitter, Facebook, LinkedIn and Google+) for the post:  
 Month of Publication Total Number of Shares  
 April 2013 378  
 September 2013 654  
@@ -310,24 +305,19 @@ How is this possible? If most blog posts die after four days, how did this conte
 chugging, finding new fans for years?  
 There’s a lot of sharing potential stored in content that is always relevant and useful. This evergreen  
 content answers your customers’ most common questions and rarely goes out-of-date. For example, a  
-“Mommy Jogger” blog would feature evergreen content that describes the correct use of jogging strollers.  
-This post would be useful and relevant to customers for years ... and could also be re-posted as new people  
-look for the content.  
+“Mommy Jogger” blog would feature evergreen content that describes the correct use of jogging strollers.  This post would be useful and relevant to customers for years ... and could also be re-posted as new people  look for the content.  
 And that is exactly what I did. I could see that my “Un-follow” post was popular, evergreen content that  
-people enjoyed, so I tweeted the link out to my audience about once a month. And each time I did, it received  
-more comments and social shares. A lot more!  
-
+people enjoyed, so I tweeted the link out to my audience about once a month. And each time I did, it received  more comments and social shares. A lot more!  
+=> N'hésite pas à reposter chaque mois des anciens contenus qui ont bien marché
 ### 8. Focus on feedback and reviews.
-Another important form of social transmission is feedback and reviews. Reviews offer powerful “social proof”  
-that can make or break a business. This concept is covered extensively in Chapter 9 but in short, social proof  
-is an accumulation of the clues in our environment we use to make decisions when we don’t know the truth.  
-Reviews are a good example of this idea. If we have never visited a business before, we may turn to this  
-crowd-sourced content to decide whether to buy something or not.  
+Another important form of social transmission is feedback and reviews. Reviews offer powerful “social proof” that can make or break a business. This concept is covered extensively in Chapter 9 but in short, social proof  is an accumulation of the clues in our environment we use to make decisions when we don’t know the truth.  Reviews are a good example of this idea. If we have never visited a business before, we may turn to this  crowd-sourced content to decide whether to buy something or not.  
 For many businesses, online reviews are a high-stakes component of consumer decision-making. Car  
 shoppers, for example, are increasingly relying on Yelp and other ratings sites. **Nielsen reports  that 84 percent of people say that online reviews influence their buying decision.** These reviewers can even gain  celebrity status as their opinions reverberate throughout Twitter, Facebook, and beyond.  
 The key with this tactic is to have a rock-solid internal process for capturing and maintaining a steady  
 stream of customers willing to write reviews. Understandably, **many of your frontline sales personnel may feel awkward about asking for a review, but you can put it in a way that makes the customer comfortable: “Our business is based on referrals.** Would you take a moment to visit Yelp and refer us to your friends and  family?” This is a great start to your internal process, but it’s only the beginning.  
-
+=> Regarde toutes les reviews des Confiotes, demande à Ro, et fais en des posts réguliers. Les gens sont beaucoup plus confiants quand quelqu'un de leur cercle valide un produit. 
+=> Demande à Ro et Eunice de systématiquement transférer les reviews
+=> Ex: Un client qui a essayé le citron et était dubitatif mais est venu écrire un long message à RO
 Here are several ways to improve social transmission through Yelp and other review sites:  
 **Designate someone to take ownership of your implementation plan. This person is in charge of  
 your online reputation and is responsible for getting grassroots participation from your staff, as well as monitoring and responding to the community.**  
