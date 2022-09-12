@@ -333,7 +333,7 @@ on paychecks, repair orders, and invoices to create awareness.
 **Reach out to your raving fans. Every salesperson has them, especially those who have been with  
 you a long time**. **Ask fans to share an honest review**—don’t push for positive reviews, per se. Many  
 brands fail to feature testimonials and brand evangelists on their websites and social media profiles.  
-=> Put our top best testimonials on Whatsapp. Put their names.
+=> Put our top best testimonials on Whatsapp Business. Put their names.
 
 People love attention and special treatment—the customers you feature will likely become even  
 stronger supporters of your brand. Plus, showcasing objective opinions on your website may increase  
@@ -347,43 +347,24 @@ Recognize staff members who get 5-star reviews. A gift or a nice mention during 
 meeting goes a long way. When the other employees see it, they’ll be eager to be recognized, too.
 
 ## 9. Make sure everythign you send is immediatly implementable. Practical. Always.
-In Chapter 1, I recounted the story of the Mirabeau Miracle. The winery’s proprietor, Stephen Cronk, made  
-YouTube history with a 90-second video showing how to open a wine bottle with his shoe.  
+In Chapter 1, I recounted the story of the Mirabeau Miracle. The winery’s proprietor, Stephen Cronk, made YouTube history with a 90-second video showing how to open a wine bottle with his shoe.  
 This was not epic content. It wasn’t even original. The trick had been done multiple times before on  
-YouTube. The Mirabeau case study doesn’t seem to follow any rules about emotion or storytelling. But it’s an  
-amazing, well-executed little demonstration, and it was a practical, useful tip.  
-In the book Contagious, Jonah Berger explains, “Today, direct opportunities to help others are few and far  
-between. Modern suburban life has distanced us from our friends and neighbors. We live at the end of a long  
-driveway or high up in an apartment building, often barely getting to know the person next door.
-People love to help their friends save money, so building extraordinary value or a deal into your content is  
-a way to help it move. Not surprisingly, the bigger the perceived deal or the more exclusive it appears, the  
-more the content moves.
+YouTube. The Mirabeau case study doesn’t seem to follow any rules about emotion or storytelling. But it’s an  amazing, well-executed little demonstration, and it was a practical, useful tip.  
+In the book Contagious, Jonah Berger explains, “Today, direct opportunities to help others are few and far between. Modern suburban life has distanced us from our friends and neighbors. We live at the end of a long  driveway or high up in an apartment building, often barely getting to know the person next door.People love to help their friends save money, so building extraordinary value or a deal into your content is  a way to help it move. Not surprisingly, the bigger the perceived deal or the more exclusive it appears, the  more the content moves.
 
-
-Curation is another good way to provide practical content. Curating or summarizing valuable content by  
-industry, career discipline, or interest saves people time because you’ve done the work to filter content for  
-them. In the pharmaceutical industry, summaries of new surgical or medical breakthroughs are a good way to  
-bond with doctors and provide truly useful information. Several wealth management companies curate global  
-financial information to make the world of investing less complicated. You can find opportunities to curate  
+Curation is another good way to provide practical content. Curating or summarizing valuable content by  industry, career discipline, or interest saves people time because you’ve done the work to filter content for  them. In the pharmaceutical industry, summaries of new surgical or medical breakthroughs are a good way to  bond with doctors and provide truly useful information. Several wealth management companies curate global  financial information to make the world of investing less complicated. You can find opportunities to curate  
 along any interest you can imagine.  
-
+=> Regarde les tops pages sur Facebook sur la santé, les recettes, le Made In Cameroon et réutilise leur contenu.
 ### sature le hastag madeincameroun avec un contenu engagé
 
 ### 10. Make it look good.  
-How your site looks is an important indicator of whether your content is share-worthy. When you head out for  
-a night of fine dining, you don’t expect an expensive steak to arrive in a Styrofoam container with a packet of  
-ketchup. And you expect premium content to look like premium content, too.  
-Everything communicates, and if you don’t have the proper container for your content, you might be killing  
-your transmission effort before it starts. Your site is your front door to the world and the first impression that  
-might determine whether somebody leaves right away or stays long enough to find out what you’re up to.  
+How your site looks is an important indicator of whether your content is share-worthy. When you head out for  a night of fine dining, you don’t expect an expensive steak to arrive in a Styrofoam container with a packet of  ketchup. And you expect premium content to look like premium content, too.  
+Everything communicates, and if you don’t have the proper container for your content, you might be killing  your transmission effort before it starts. Your site is your front door to the world and the first impression that  might determine whether somebody leaves right away or stays long enough to find out what you’re up to.  
 Remember that social sharing is often an extension of self-identity. If your site is classy, people will feel  
 classy about promoting it. If your site looks trashy ... well ... it might be time for a re-fresh!
-
 On a related note, have you checked your Google Analytics recently to see how many customers are  
-accessing your site via a mobile device? You may be surprised! Make sure your site is optimized to serve  
-your customers in a mobile environment. Content consumers make quick decisions about sharing, and if it’s  
-difficult to accomplish or your sharing buttons aren’t obvious in a mobile environment, you’ll lose those  
-precious opportunities.  
+accessing your site via a mobile device? You may be surprised! Make sure your site is optimized to serve  your customers in a mobile environment. Content consumers make quick decisions about sharing, and if it’s  difficult to accomplish or your sharing buttons aren’t obvious in a mobile environment, you’ll lose those  precious opportunities.  
+=> Redynamise la page Facebook et WA
 
 ### 11. Concentrate on brand new research and ideas.  
 Remember that many of your readers share content because of the intrinsic value of helping others. Focusing  
