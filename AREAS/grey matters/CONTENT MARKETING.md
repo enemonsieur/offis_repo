@@ -207,62 +207,42 @@ Being favorably mentioned in a video, podcast, or post
 Achieving status helps generate social currency and social sharing. After all, what good is accomplishing something if you can’t tell people about it?  
 Word of mouth also can come from the voting process itself. Deciding the winner by popular vote  
 encourages contestants to drum up support. But in telling people to vote for them, contestants also spread awareness about the product sponsoring the contest. Instead of marketing yourself directly, you use the contest to get people who want to win to do the marketing themselves.  
-One of the most interesting competitions I’ve seen is the “Top Social Media Blog Contest” compiled by  
-Social Media Examiner, one of the top sites on the marketing scene. The unique aspect of this blog is that it
 
-Another common tool for creating personal achievement through content is quizzes, which explains why  
-they appear on so many sites that depend on advertising for their revenues. In 2014, eight of the 10 most-  
-shared articles on the entire Internet were quizzes. Sharing positive or funny quiz results fuels our identity  
-and ego. Others learn more about who we are, what we value, and our tastes.  
-MIT cultural analyst Sherry Turkle11 says that people turn to quizzes to fulfill an irresistible need to quantify  
-the human condition. “Basically, we’re trying to get a number,” she said. “And people will use a quiz to get  
-that number. It gives people something to look at, an object to think with.” She adds that people have always  
-loved quizzes, but in the pre-social media days, we primarily took them for ourselves. “Now they’re  
-specifically for performance,” she said. “Part of the point is to share it ... It’s the conflation of who you are and  
-who thinks you’re okay.”  
-So when you’re making quizzes for your audience, you’re giving them an opportunity to learn something  
-interesting about themselves and a chance to start a conversation with their friends. It’s hard to say that  
-about a lot of other forms of content.  
-
+Another common tool for creating personal achievement through content is quizzes, which explains why they appear on so many sites that depend on advertising for their revenues. In 2014, eight of the 10 most-  shared articles on the entire Internet were quizzes. Sharing positive or funny quiz results fuels our identity and ego**. Others learn more about who we are, what we value, and our tastes.  
+MIT cultural analyst Sherry Turkle says that people turn to quizzes to fulfill an irresistible need to quantify  the human condition. “Basically, we’re trying to get a number,” she said. “And people will use a quiz to get  that number. It gives people something to look at, an object to think with.” She adds that people have always loved quizzes**, but in the pre-social media days, we primarily took them for ourselves. “Now they’re specifically for performance,” she said. “Part of the point is to share it ... It’s the conflation of who you are and  who thinks you’re okay.”  
+So when you’re making quizzes for your audience, you’re giving them an opportunity to learn something interesting about themselves and a chance to start a conversation with their friends. It’s hard to say that  about a lot of other forms of content.  
+=> Utilise des quizz pourque les gens puissent partager quelque chose d'intéressant les concernant (qu'ils sont de bons consommateurs de MIC, ou de fruits, ou qu'ils connaissent bien la culture CMR)
 ## type of people more likely to ignite your content
 Altruists: Altruistic sharers are people who want to be seen as helpful and reliable. They’re thoughtful  
 and well-connected. Their primary method for sharing content is through email.  
 Careerists: Careerists want to be seen as valuable and upwardly-mobile. They want to share content  
 that makes them seem intelligent and well-connected. A primary platform for them is LinkedIn.  
-Hipsters: Hipsters regard content sharing as an integral part of who they are. They’re the least likely  
+**Hipsters**: Hipsters regard content sharing as an integral part of who they are. They’re the least likely  
 group to use email and lean toward Twitter and emerging social media platforms. This is a youthful  
 group who wants to be seen as creative and cutting edge.  
-Boomerangs: Boomerangs are highly validated by the reactions they get from their posts. They want to  
-be provocative and earn attention through the reactions of others. They’re heavy users of both Twitter  
-and Facebook.  
-Connectors: Connectors are social butterflies who love to bring people and ideas together. They’re  
+**Boomerangs**: Boomerangs are highly validated by the reactions they get from their posts. They want to be provocative and earn attention through the reactions of others. They’re heavy users of both Twitter and Facebook.  
+**Connectors**: Connectors are social butterflies who love to bring people and ideas together. They’re  
 planners who are typically relaxed, creative, and thoughtful. They most often share content through  
-email and Facebook.  
+email and Facebook. 
+=> Anne Ndame est un Connecteur. Elle veut connecter les gens et les idées. 
 Selectives: As the name implies, Selectives don’t share with vast social audiences. They will share a  
 piece of content with select individuals who they think would benefit from it, usually via email. They’re  
 resourceful, careful, and informed and want to be seen as useful and thoughtful.  
-How can you create content that will appeal to these personas? Are there standard processes you can build  
-into your content to make it more likely to ignite? That’s what the next chapter is all about!
+How can you create content that will appeal to these personas? Are there standard processes you can build into your content to make it more likely to ignite? That’s what the next chapter is all about!
 
 # PRACTICAL WAYS TO IGNITE (IDEAS)
 1. Always ask to share.
 Make it as easy as possible to share everything everywhere all at once.
-Ex: Hilaire sur Facebook comment faire que les gens partagent?
-Whatsapp Eunice: Dire que vous pouvez poster en statut. Make it status-poster friendly
+=>Whatsapp Eunice: Dire que vous pouvez poster en statut. Make it status-poster friendly
 A recent study2 showed that content with sharing buttons is 700 percent more likely  
 to spread than content without those buttons.
 
 ## 2. Give everything for free but scattered
-Business relationships are built on trust. They always have been. But for centuries you were limited by time  
-and geography. You could only create trust with those who actually knew you—and probably within a pretty  
-small area. The social web is an incredible gift to businesses everywhere. For the first time in history, you can  
-create relationships and build trust with people far and wide ... through your voice, your views, and your  
-expertise. But the only way to do that is by giving them enough free content to know you and trust you.  
+Business relationships are built on trust. They always have been. But for centuries you were limited by time  and geography. You could only create trust with those who actually knew you—and probably within a pretty small area. The social web is an incredible gift to businesses everywhere. For the first time in history, you can create relationships and build trust with people far and wide ... through your voice, your views, and your expertise. But the only way to do that is by giving them enough free content to know you and trust you.  
 When I started my consulting business, I took all the business I could get on a regional level. Slowly my  
-business evolved and grew, completely on the back of my blog content. And now I have connections all over  
-the world through social media. In fact, I’ve never spent one dime on any form of advertising for my  
-consulting business. In other words, my business has grown only because I give everything away!  
+business evolved and grew, completely on the back of my blog content. And now I have connections all over the world through social media. In fact, I’ve never spent one dime on any form of advertising for my consulting business. In other words, my business has grown only because I give everything away!  
 Unlock your content. Unleash it. Tear down those walls. And watch your business grow!
+=> Poste les recettes VIP qu'on offre aux clients, mais sur le long terme, histoire que s'ils veulent la version complÈte ils doivent venir ib demander 
 
 ## 3. DON'T Just provide Value. Entertain. You're here for. 
 Look at Sense of Mind. He pour so much energy, but why should I watch his content instead of reading an article? don't just provide value. Entertain. Make them laugh, make it easy, memorable, Aweing. Rich in stories, personal. Surprising. Unexpected
