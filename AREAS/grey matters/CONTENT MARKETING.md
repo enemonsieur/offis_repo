@@ -149,53 +149,43 @@ people a better sense of who they are and what they care about.** One respondent
 To grow and nourish relationships. About 80 percent of participants share information online  
 because it **lets them stay connected to people they may not otherwise stay in touch with**. A little over 70 percent share content to **help connect them to new people who share common interests.**  
 Self-fulfillment. 
-=> Comment créer du contenu que Anne Ndame About 70 percent of participants share content because it allows them to feel more.
-involved in the world. The act of getting positive feedback on shares makes people feel valued.  
+=> Comment créer du contenu que Anne Ndame About 70 percent of participants share content because it allows them to feel more involved in the world. The act of getting positive feedback on shares makes people feel valued.  
+=> Quel contenu que Anne Ndame va partager la fera se sentir plus importante ? Quel contenu elle partage génère le plus de likes?
+
 To get the word out about causes and brands. More than 80 percent of participants said they  
 share content to rally others around a cause, company, or idea they believe in.
+=> Quelle cause la ralie ? A Quelle idée est ce qu'elle croit? Made In Cameroon, développement. 
 
 As you read this list, it probably occurs to you that sharing content is a meaningful act, a very personal,  
 intimate, and important gesture. It’s not at all trivial.  
-The decision to share content is often a sign of a relationship. A relationship with the source, a relationship  
-with a network...even a relationship between the person and the content! Igniting content is a symbol of  kindness and caring and a reflection of who we are.  
+The decision to share content is often a sign of a relationship. A relationship with the source, a relationshipwith a network...even a relationship between the person and the content! Igniting content is a symbol of  kindness and caring and a reflection of who we are.  
 Pretty deep stuff.  
+
 One of my blog readers recently sent me this note:  
-“Your blog has become part of my morning routine. I start my day with a cup of coffee and your latest  
+**“Your blog has become part of my morning routine. I start my day with a cup of coffee and your latest  
 blog post! I almost always share your posts with my friends because I feel like I know you. Your  
 perspective aligns with my business values and I feel good about sharing your thoughts with others  
-... and even with family members.”  
+... and even with family members**.”  
+
 There is a lot of rich insight in this brief message:  
 My content has connected to her on an emotional level, and I’ve become part of the fabric of her life.  
-Although I’ve never met this person or even spoken to her on the phone, she feels as if she knows me as  
-a friend. She has built a kinship with me through my content alone.  
-Sharing my content is an act of adding value to her friends. It enhances her self-view because my values  
-reflect her values. And the bond created through my words is so strong that she feels comfortable  
-making me part of her family communications at times.  
+Although I’ve never met this person or even spoken to her on the phone, she feels as if she knows me as a friend. She has built a kinship with me through my content alone.  
+Sharing my content is an act of adding value to her friends. It enhances her self-view because my values reflect her values. And the bond created through my words is so strong that she feels comfortable making me part of her family communications at times.  
 I’ve built “shareability” into my content over time by nurturing a relationship of trust with the reader. I  
-can’t appeal to everyone, of course—there are people who unsubscribe to my blog all the time. But for those  
-who do connect, they seem to connect deeply.
+can’t appeal to everyone, of course—there are people who unsubscribe to my blog all the time. But for those who do connect, they seem to connect deeply.
 
 **Sharing creates involved, smarter consumers**  
 Sharing content isn’t just about building “traffic.” The act of sharing content actually helps consumers  
-process your information better. A separate New York Times study4 on why and how people share content  
-found that:  
+process your information better. A separate New York Times study on why and how people share content found that:  
 73 percent of participants say they process information “more deeply, thoroughly, and thoughtfully”  
 when they share it.  
-85 percent say reading content that other people share helps them understand and process information  
-and events.  
-49 percent say sharing allows them to inform others of products they care about and potentially change  
-opinions or encourage action.  
-Participants say the act of sharing content helps them remember products and information sources better  
-and makes them more likely to use them. So if you create ideal conditions for content-sharing, you both build  
-power for your brand and create new economic value by helping your consumers understand you and  
-become authentic advocates for your products and ideas!
+85 percent say reading content that other people share helps them understand and process information and events.  
+49 percent say sharing allows them to inform others of products they care about and potentially change opinions or encourage action.  
+**Participants say the act of sharing content helps them remember products and information sources better** and makes them more likely to use them. So if you create ideal conditions for content-sharing, you both build  power for your brand and create new economic value by helping your consumers understand you and become authentic advocates for your products and ideas!
+=> By sharing content, they'll remember recipes more often, or things to try later.
 
 ## WEARABLE CONTENT
-**If you’re one of the spectacular readers who tweet or post about this book to your audience, it’s probably  
-because what I’ve written creates a connection that is psychologically consistent with what you believe and  
-how you want to present yourself to others. Sharing an idea from this book makes a statement about you,  
-just like your choice in jeans, car, or a soft drink. It says, I concur. I am aligned. I think this author is smart,  
-and I am smart; therefore, I will share it. This book is cool, and I am cool, so I will share it.  
+If you’re one of the spectacular readers who tweet or post about this book to your audience, it’s probably because what I’ve written creates a connection that is psychologically consistent with what you believe and how you want to present yourself to others. Sharing an idea from this book makes a statement about you, just like your choice in jeans, car, or a soft drink. It says, I concur. I am aligned. I think this author is smart, and I am smart; therefore, I will share it. This book is cool, and I am cool, so I will share it.  
 Your content becomes part of your audience’s personal narrative.**
 =>I am Madango et j'approuve ce message. I'm Yvon, Marie-Ester, Ace and j'approuve ce message
 => Create WEARABLE CONTENT People will feel proud to endorse, and they'll share it. 
