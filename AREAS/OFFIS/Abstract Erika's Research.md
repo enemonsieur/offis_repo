@@ -10,3 +10,7 @@ In a power grid, workers are subject to high amount of stress. The goal of our s
 
 In a power grid, workers are subject to high amount of stress. The goal of our study is to model their stress level. We recruit a number of participants and submit them to two conditions: In the first condition they are working on a fault management with low stress and mental load. In the second they are working on a balance group management with medium mental load and stress. Change in hemodynamical activity is  measured with fNIRS to assess their stress level. The induction of mental stress will be assess by a NASA TLX stress questionnaire.
 If we can indeed produce stress and high mental workload, the next step will be to use our model to train a reinforcement learning agent to attack the powergrid. 
+
+
+Problems I have with Gym AI
+
