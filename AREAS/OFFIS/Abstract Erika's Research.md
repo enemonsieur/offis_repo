@@ -8,4 +8,4 @@ Using fNIRS features, we are trying to predict mental stress of power grid worke
 
 In a power grid, workers are subject to high amount of stress. The goal of our study is to accurately model and predict their stress level during task. We recruit a number of participant and submit them to two conditions to increase stress level. In the first condition, they have a high mental load task without external stress factors. In the second, they have the same task with external stress factors (loud noise). Change in hemodynamical activity is measure with fNIRS to assess their stress level. The induction of mental stress was confirmed by a NASA TLX stress questionnaire.
 
-In a power grid, workers are subject to high amount of stress. The goal of our study is to estimate quickly
+In a power grid, workers are subject to high amount of stress. The goal of our study is to model their stress level. We recruit a number of participants and submit them to two conditions: In the first condition they are working on a fault management with low stress and mental load. In the second
