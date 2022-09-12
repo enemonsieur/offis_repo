@@ -133,23 +133,23 @@ It represents an achievement. **Maybe you or your company were mentioned in** th
 Research shows that people typically don’t share content they’re reading on the web, even “great”  
 content.1 For example, a large study of social transmission across millions of Twitter accounts revealed that  the majority of users are passive information consumers and rarely forward content to their network.  
 In fact, **an average Twitter user retweets only one in 318 content links they receive**. Facebook reports that just one-half of one percent of those who see a Facebook post share it.2 These sobering numbers suggest that actively finding and nurturing that miniscule number of the most active users is critical to spreading your information on the web.
-=> Research show almost no one share content .5% on facebook But we need them to share content for our brand to be seen
+=> Research show almost no one share content .5% on facebook But we need them to share content for our brand to be seen.
 
 **Therefore, in order to become an effective content-igniter, you must not only create content and build an  audience but also employ strategies to overcome user passivity and systematically find individuals  predisposed to love and share the content you’re creating. This is perhaps the most overlooked  imperative in digital marketing today.**  
-=> To make your content viral, you have to move people enough to make them wanna have action, and orient the content to the people most likely to share that content (your market target, but also people that have a "sharing" personnality1  )
+=> To make your content viral, you have to move people enough to make them wanna have action, and orient the content to the people most likely to share that content (your market target, but also people that have a "sharing" personnality.
 
 ## 5 reasons to overcome disinteress and share content
 To be useful. The number one reason people share content is to bring valuable and entertaining  
 content to others. More than 90 percent of study participants said they carefully consider how the  
 information they share will be useful to the recipient.  
-To define ourselves to others. Nearly 70 percent of participants said they share content to give  
-people a better sense of who they are and what they care about. One respondent said, “I try to share  
-information that will reinforce the image I’d like to present—thoughtful, reasoned, kind, interested, and  
-passionate about certain things.”  
+To define ourselves to others. **Nearly 70 percent of participants said they share content to give  
+people a better sense of who they are and what they care about.** One respondent said, “I try to share information that will reinforce the image I’d like to present—thoughtful, reasoned, kind, interested, and passionate about certain things.”  
+=> what kind of content will reinforce the image of Anne Ndame? (Look at her interest)
+
 To grow and nourish relationships. About 80 percent of participants share information online  
-because it lets them stay connected to people they may not otherwise stay in touch with. A little over 70  
-percent share content to help connect them to new people who share common interests.  
-Self-fulfillment. About 70 percent of participants share content because it allows them to feel more  
+because it **lets them stay connected to people they may not otherwise stay in touch with**. A little over 70 percent share content to **help connect them to new people who share common interests.**  
+Self-fulfillment. 
+=> Comment créer du contenu que Anne Ndame About 70 percent of participants share content because it allows them to feel more.
 involved in the world. The act of getting positive feedback on shares makes people feel valued.  
 To get the word out about causes and brands. More than 80 percent of participants said they  
 share content to rally others around a cause, company, or idea they believe in.
