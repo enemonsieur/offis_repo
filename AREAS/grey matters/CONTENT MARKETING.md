@@ -252,11 +252,18 @@ three primary emotions in the content:
 Awe (25%)  
 Laughter (17%)  
 Amusement/entertainment (15%)  
-Pew Research5 reports that 35 percent of men and 43 percent of women are on Facebook primarily to see entertaining or funny posts.
+Pew Research reports that 35 percent of men and 43 percent of women are on Facebook primarily to see entertaining or funny posts.
 
-Make it inspiring also. WTF does it mean?
+=> Créé des contenu drôles, Qui surpennent et qui inspirent. Tout ca lié au MIC
+Qu'est ce qui peut être inspirant? Offre, -15%, Contests
+Quelque chose qui résoud un problème d'anne Ndame: Comment distinguer un produit MIC
+Prévention: Vous risquez de consommer des additifs si vous ne faites pas attention à ces 7 signes
+(Les gens partagent ca, pour s'en souvenir et parce qu'ils pensennt que ca va aider les autres.)
+Messages de Motivation: Anne Ndame adore ca. Si c'est adapté à l'entrepreunariat, à la vie de Ro, c'est encore mieux. 
+Unifie: Un post qui s'oppose aux boissons artificielles, Importé etc... Trouve un ennemi commun et les gens se ligueront derrière.
 
-Research by the company AgoraPulse7 found that the most-shared posts on Facebook also had some  
+
+Research by the company AgoraPulse found that the most-shared posts on Facebook also had some  
 element of inspiration in them, indicated by keywords like:  
 **Give**: Offers, discounts, deals, or contests that can benefit a wide audience.  
 Advice: Tips, especially about problems that everyone encounters. Examples are how to lose weight or  
@@ -284,6 +291,7 @@ Bonus tip: A list article with the number 10 in the headline is the best number 
 scoring four times the social shares as the next nearest number in the study. After the number 10, list  
 headlines with an odd-number get shared 20 percent more than even-numbered posts.13  
 
+=> Crée un maximum de Listes avec des Infographics
  Resurface old projects, Cross publish them, Modify them
 See Second Brain
 
