@@ -4,7 +4,7 @@ Wanna know what separates the top 1% content creator from the crowd?
 It's their publishing system.
 
 The only thing that defines if you're gonna publish consistently for months or year is your publishing system. 
-The videos they post don't rely on motivation, tons of research or lucking
+Until the videos you create stop relying on motivation, tons of research or pure luck, you'll probably give up at some point, just like me. 
 
 Instead they have: 
 1. Awesome Note taking system: (Review pages of notes in minutes instead of hours)
