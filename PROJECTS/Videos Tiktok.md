@@ -1,3 +1,7 @@
+# 7 apps I need to stay focus with ADHD
+1. Freedom: I can't resist distractions, I'll automaticaly jump
+2. Google Assistant: It seems dumb but with my un focussed brain its easy to forget about meetings If I don't write it. With google assitant the second I plan something I can vocalize it and have it saved instead of writing
+3. Mediation App: Idk about you but I always have these moments where I'm too excited, and I try to do everything. Therefore I can't stay calm without my legs shivering, etc... When I need to reassemble myself I'll open a meditation app like: "" and jus
 # Publish more consistenly
 Wanna know what separates the top 1% content creator from the crowd?
 
