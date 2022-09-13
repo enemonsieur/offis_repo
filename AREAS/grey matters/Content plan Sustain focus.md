@@ -10,7 +10,7 @@
 5. You'll never focus double digits hours until your remove those 7 things
 6. 5 Things to do before starting online courses (if you want to finish it)
 7. The easiest study tip you'll ever learn: 
-	1. Test yourself just before classes. Testing increase retention, and direct learning towards the point you don't know. Repetitive
+	1. Test yourself just before classes. Testing increases retention, and direct learning towards the point you don't know. Repetitive
 8. If you wanna read book longer, don't speed read. 
 	1. Lack context. It makes reading boring, you'll forget a lot of things, and you wont create a mental representation of the scenes
 9. Are you left or right brain? What do you mean its not a thing? In fact...

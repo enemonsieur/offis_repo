@@ -6,10 +6,10 @@ It's their publishing system.
 The only thing that defines if you're gonna publish consistently for months or year is your publishing system. 
 Until the videos you create stop relying on motivation, tons of research or pure luck, you'll probably give up at some point, just like me. 
 
-Instead they have: 
+Let's break down what makes a good publishing system:
 1. Awesome Note taking system: (Review pages of notes in minutes instead of hours)
 2. Extremely efficient research phase: (10x faster than us)
-3. Viral-meter, imbebbed (Assess how good your content will do before hitting publish.)
+3. Viral-meter imbebbed (Assess how good your content will do before hitting publish.)
 ---------------------------------------------------
 
 Here's how to create a content-publishing machine
