@@ -38,7 +38,7 @@
 22. Does Lofi Music helps you study?
 **23. Here's how to find The perfect study-music for you**
 	1. Starting way early is the go to method for ADHD  -ex with my presentation 
-
+24. You cant just wake up and work hard. You need to build work capacity
 
 RESSOURCES:
 https://alifeofproductivity.com/10-productivity-lessons-working-90-hour-weeks/
