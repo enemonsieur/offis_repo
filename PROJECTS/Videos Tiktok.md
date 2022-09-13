@@ -1,7 +1,8 @@
 # 7 apps I need to stay focus with ADHD
 1. Freedom: I can't resist distractions, I'll automaticaly jump
 2. Google Assistant: It seems dumb but with my un focussed brain its easy to forget about meetings If I don't write it. With google assitant the second I plan something I can vocalize it and have it saved instead of writing
-3. Mediation App: Idk about you but I always have these moments where I'm too excited, and I try to do everything. Therefore I can't stay calm without my legs shivering, etc... When I need to reassemble myself I'll open a meditation app like: "" and jus
+3. Mediation App: Idk about you but I always have these moments where I'm too excited, and I try to do everything. Therefore I can't stay calm without my legs shivering, etc... When I need to reassemble myself I'll open a meditation app like: "" for just 5 to 10 minutes. If you can't meditate, don't mind. Its not about being calm for long. Your brain will go in every direction as mine does. But if you can handle that for 5-10 min, you'll feel your "arousal level" slowly dropping. You just have to "survive 5 min"
+4. Natural Reader: You probably never heard of that. But it's the best reading /listen app period. It's Like Kindle and Audible at the same time. But why would someone with attention disorder need it? Here's the thing. When I'm doing boring stuff like feeling an excel spreadsheet, or running, or doing the dishes, I can easily focus for periods of
 # Publish more consistenly
 Wanna know what separates the top 1% content creator from the crowd?
 
