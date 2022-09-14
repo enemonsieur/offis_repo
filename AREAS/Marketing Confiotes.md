@@ -8,8 +8,15 @@ A faire:
 1. Votre commande est en cours de traitement
 2. Livreur prend: Votre commande est en cours de livraison.
 3. Après la livraison: Vous avez bien recu la commande.
-4. 
-5. ![[Pasted image 20220821095027.png]]![[Pasted image 20220820184653.png]]
+## USP
+What is one unique twist you have?
+What is something you have, Anne Ndame won't be able to have?
+Good service is not a unique selling proposition. Everybody has it. 
+Can you mix something else, from another business, to your offer to anne ndame?
+	Par exemple un sirop avec des goûts camerounais uniques, adaptés pour les bartender (plus lourds, moins sucrés) pour des cocktails
+Is there a simple message for Anne Ndame? A 1000 songs in your pocket.
+
+1. ![[Pasted image 20220821095027.png]]![[Pasted image 20220820184653.png]]
 # Competitors Ads
 https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&q=amarula&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped&search_type=keyword_unordered&media_type=all
 
