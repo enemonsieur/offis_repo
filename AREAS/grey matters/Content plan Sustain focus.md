@@ -44,7 +44,9 @@ Yeah I work 10 hours everyday
 People after they try Deep Work/Deliberate Practice = I just got. 2 hours. (pan pan) Deep Work. (Fall asleep)
 Or: People after 2h of deliberate Practice = Sleep deeply. or Walk out of laptop trembling
 26. Me forcing myselt to meditate because it helps my stupid productivity:
-	1. Sit on the floor
+	1. Sit on the floor, Mad (boude), respire fort., couché (haaaah)
+27. Me before my coffee/out of the zone: (Put a pomodoro) Ok. time for a break... (2 minutes are done) FUCK!!
+		1. Me after my coffee/in the zone: (Put a pomodoro) Time for a break ( Fuck!! Everything is dark) (Look at the clock FUUCK midnight)
 
 RESSOURCES:
 https://alifeofproductivity.com/10-productivity-lessons-working-90-hour-weeks/
