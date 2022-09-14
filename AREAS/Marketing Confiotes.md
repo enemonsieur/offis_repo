@@ -26,7 +26,11 @@ Commitment: Working with 100% agriculteurs pour développer l'économie**
 	- Ajoute du gout à leur Vendredi chez eux. Rend facile pour la famille de consommer MIC. Pas besoin de se déplacer vu qu'on est là depuis 30 ans. Pas besoin de risquer quelque chose de pas sain ou pas bon. Nous somme là depuis 30 ans. Vlaidßé par nos clientes comme vous. 
 - Offre des cadeaux à leur amis
 - Contribue à leur sentiment d'aider le Cameroun
-	How does it differs from our nearest competitor
+	How does it differs from our nearest competitor: Rhum Sanaga, Rouge d'Hibiscus, WEP
+	- 100% naturel
+	- Sans conservateur
+	- High quality cocktails validés par les mixologues des grands hotels 3 étoiles de Douala
+	- 
 	
 Sources: http://www.brandedspiritsusa.com/img/downloads/brandedspirits/bsl_key_selling_points.pdf
 **Look for USP of other brands.**
