@@ -14,8 +14,18 @@ What is something you have, Anne Ndame won't be able to have?
 Good service is not a unique selling proposition. Everybody has it. 
 Can you mix something else, from another business, to your offer to anne ndame?
 	Par exemple un sirop avec des goûts camerounais uniques, adaptés pour les bartender (plus lourds, moins sucrés) pour des cocktails
-Is there a simple message for Anne Ndame? A 1000 songs in your pocket.
-
+Is there a simple message for Anne Ndame? A 1000 songs in your pocket. =
+USP: Oldest Liquor brand in Cameroon. Oldest liquor brand. **30 ans d'age 30 ans d'expérience camerounaise dans un verre** Un gros 30 sur le
+	How can you move your prospect? A clear reason why to sell? So that they don't do nothing at all?
+	How does it make their life better?
+- Augemente leur statut entre amis
+	- Les fais voir comme experts dans les gouts camerounais
+	- Font passer des bons moements aux gens quils veulent impressionner
+	- Ajoute du gout à 
+- Offre des cadeaux à leur amis
+- Contribue à leur sentiment d'aider le Cameroun
+- 
+	How does it differs from our nearest competitor
 1. ![[Pasted image 20220821095027.png]]![[Pasted image 20220820184653.png]]
 # Competitors Ads
 https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&q=amarula&sort_data[direction]=desc&sort_data[mode]=relevancy_monthly_grouped&search_type=keyword_unordered&media_type=all
