@@ -79,18 +79,3 @@ I'll go with Lyrical Music there.
 
 
 
-# 
-If you're learning a language on your own, you are probably doing this thing we learn in classroom. I call it: dispersion learning. And it isn't helping you. 
-
-Think about your Spanish or German classes: You had to learn at the same time the alphabet, study some texts, do tons of grammar, and little to no speaking. All of those skills are pretty though and you need the blueprint of the classroom just to follow along. 
-
-But when you're own your own, no one's gonna come with a plan for you. You have to organize your sessions between 5 grammar exercises,, then revising words using an app, then learning to speak, and so on and the SECOND, you feel tired... That plan will explode like your belly after a food-orgie. 
-
-That makes... no sense.
-
-Anyway Bad news you can't have a complex plan like in classroom good new... you don't have to.  Just focus ONE single aspect. nail it down (I mean destroy that shit) and move on. For example, I'm studying japanese rn. because I'm masochistic and I wanna do small talk with natives ya know? Like Konichiwa,  ii tenki desune? Yametekudasai. Humhum
-So my focus is learning a ton of words an sentences.  ANd I don't care about listening, grammar, and even learning the alphabet. 
-Everyday zero decision making involve: Just learn more words/sentences until I reach 300 and I'm getting better.. 
-Then  I'll focus on grammar, KILL the most important parts of it like conjugasion or particles... then move to speaking.
-
-So think about the most important aspect of your learning. Do you want to order food in Korean? Or listen to novelas in spanish? Design 80% of your time around that and you'll be able to keep going for months! Guarrentee. (Not even Guarranted)
