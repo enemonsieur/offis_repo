@@ -39,6 +39,10 @@
 **23. Here's how to find The perfect study-music for you**
 	1. Starting way early is the go to method for ADHD  -ex with my presentation 
 24. You cant just wake up and work hard. You need to build work capacity
+25. Meme: People before they try deep work/Ultralearning/ Deliberate Practice
+Yeah I work 10 hours everyday
+People after they try Deep Work/Deliberate Practice = I just got. 2 hours. (pan pan) Deep Work. (Fall asleep)
+Or: People after 2h of deliberate Practice = Sleep deeply. or Walk out of laptop trembling
 
 RESSOURCES:
 https://alifeofproductivity.com/10-productivity-lessons-working-90-hour-weeks/
