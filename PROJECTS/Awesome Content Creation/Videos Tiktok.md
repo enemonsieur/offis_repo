@@ -57,6 +57,8 @@ This makes sure that when they're done with a video, they know if their audience
 If you wanna create your own content maschine, I recommend the book by Tiago Forte: BASB Where I got all those ideas!
 
 # Levels of listening
+Hello! How are you! I'm fine thank you
+Did you manage to understand what I said? Even without actually hearing it? 
 I arrived in Germany a year ago with a B2-level. I could already watch movies without subtiles, read book and even have conversation with native speakers.  Few days after I had my first conflict with a German. My landlorrd refused to check my heather and I was freezing cold. It was like.. 7 degrees. Extremely cold for someone leaving in "sub tropical". 
 Even though I could handle my lectures very well, I couldn't even understand what the fuck he was talking about. 
 
