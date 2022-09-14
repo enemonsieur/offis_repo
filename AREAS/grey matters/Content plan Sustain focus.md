@@ -43,6 +43,8 @@
 Yeah I work 10 hours everyday
 People after they try Deep Work/Deliberate Practice = I just got. 2 hours. (pan pan) Deep Work. (Fall asleep)
 Or: People after 2h of deliberate Practice = Sleep deeply. or Walk out of laptop trembling
+26. Me forcing myselt to meditate because it helps my stupid productivity:
+	1. Sit on the floor
 
 RESSOURCES:
 https://alifeofproductivity.com/10-productivity-lessons-working-90-hour-weeks/
