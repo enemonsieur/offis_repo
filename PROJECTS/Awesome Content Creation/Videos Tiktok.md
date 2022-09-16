@@ -1,5 +1,6 @@
 
 # 7 apps I need to stay focus with ADHD
+**This**
 1. Freedom: This is honestly my #1 best app. I've been using it for 2 years and it allows me to block social media in the morning so I don't scroll, and in the evening so I call fall asleep easily. Everytime I struggle to focus hard, which is often because I'm easily distracted, I open freedom and enjoy... well, the freedom.
 2. Google Assistant: It seems dumb but with my un focussed brain its easy to forget about meetings If I don't write it. With google assitant the second I plan something I can vocalize it and have it saved instead of writing
 3. Mediation App: Idk about you but I always have these moments where I'm too excited, and I try to do everything. Therefore I can't stay calm without my legs shivering, etc... When I need to reassemble myself I'll open a meditation app like: "" for just 5 to 10 minutes. If you can't meditate, don't mind. Its not about being calm for long. Your brain will go in every direction as mine does. But if you can handle that for 5-10 min, you'll feel your "arousal level" slowly dropping. You just have to "survive 5 min"
@@ -8,6 +9,7 @@
 6. Obsidian: But really any notetaking app that's easy to access. Which means not notion. For me I realised if I have to wait more than 3 seconds to write down an idea, my brain will forget about it or actively convince me its dumb. But as a scientist and content creator, I depend on generating a flow of ideas. That's why I looked for the fastest notetaking app I could access on my computer and phone. For me its simply Whatsapp, but for you it could be Roam Research. 
 7. This is your turn. Which app did I miss? For example I keep on loosing my stuff: Charger, wallet etc... is there an app for that or anything that could help others? Let me know in the comments!
 # Publish more consistenly
+**This**
 Wanna know what separates the top 1% content creator from the crowd?
 
 It's their publishing system.
@@ -53,14 +55,11 @@ Too much of that and you'll be quickly discouraged.
 
 Solution: You'll notice that content creators often publish multiple snippets of ideas on twitter/tiktok as they work on a piece of content. They use it to assess their virality. A small 300 words thread, a quick Tiktok video a Question on youtube. If they get a ton of engagement, that means there's something out there and they should dig in. If not then the idea isn't that good or need more work. 
 
+ On their own, those intermediate packages don't take a lot of time, but if you have 3-4-10s that have had likes and comments, then you can fuse them in a full length video, you know will do good. Even better. Because they're not obscure notes on your Notion, you can repurpose them to make other articles, videos or Infographics. 
 
---------------------------------------------------- 
-This makes sure that when they're done with a video, they know if their audience will like it. But even better! It give them a lot of small intermediate packages that can be: 
-1. fused in to a full length video
-2. repurpose into articles, other videos
-3. Or ressources for future works.
 
 If you wanna create your own content maschine, I recommend the book by Tiago Forte: BASB Where I got all those ideas!
+follow for more. 
 
 # Levels of listening
 Hello! How are you! I'm fine thank you
@@ -70,7 +69,8 @@ Even though I could handle my lectures very well, I couldn't even understand wha
 
 Have you ever listen to a kid show in your target language, understood all of it but when you try to hold on a conversation you coudln't get anything? This is because llistening level are just like language levels A1 A2 etc... and understanding that will make you more capable of listetning to the kind of conversation that will make you
 
-**## 3 levels of  Listening to music while studying**
+**This**
+## 3 levels of  Listening to music while studying**
 1- Beginner: Classical  music
 2- Intermediate: Lofi Beats music
 3- Advanced: White-Noise/Brown Noise
