@@ -64,7 +64,7 @@ Even though I could handle my lectures very well, I couldn't even understand wha
 
 Have you ever listen to a kid show in your target language, understood all of it but when you try to hold on a conversation you coudln't get anything? This is because llistening level are just like language levels A1 A2 etc... and understanding that will make you more capable of listetning to the kind of conversation that will make you
 
-## 3 levels of  Listening to music while studying
+**## 3 levels of  Listening to music while studying**
 1- Beginner: Classical  music
 2- Intermediate: Lofi Beats music
 3- Advanced: White-Noise/Brown Noise
