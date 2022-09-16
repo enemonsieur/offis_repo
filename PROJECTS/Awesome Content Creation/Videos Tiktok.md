@@ -31,24 +31,28 @@ This is because as time passes by, we forget what we found interesting about the
  (Color)
  Solution: every time you find an article interesting, immediately summarize the 3 main points so your future-you can glare at it in a split on second and say: "Oh, that's interesting. I should read more":
 ---------------------------------------------------
-2. Step by step research phase
+3. Step by step research phase
 
 Most of the time, your research phase looks like that: Write an article. Then: "Wow, how can I..." -> Then you have like 300 tabs open, you spend days highlighting dozens of stuff and days rereading them. 
 This is extremely inneficient. 
 
 Now  you need to develop a spider sense, to only have the most though-provoking insights in your notes. How? Simply jote down what resonates with you at a deeper level: What contradicts your belief, what is a step-by-step process you could use later but is too deep. A proof of a theory you had. A moving story. Or an obscure explanation you have a strange feeling about.
-The second step is to ignore everything else. In this internet age, you don't need more sources, there are million of sources 2 to 3 keywords aways. You need high-quality notes your audience will want to year. If you're scared about
+The second step is to ignore everything else. In this internet age, you don't need more sources, there are million of sources 2 to 3 keywords aways. You need high-quality notes your audience will want to year. 
+What about if you missed a very important idea? No problem. Because if an idea is really good,  your brain will kinda comeback to eat 2 3 times in the day. Then again, you'll have a gut feeling it's interesting, and you can simply add it. 
+
+The purpose is to only take what's relevant, everytime you read stuff, sothat when you're on a research phase, you can summon all those gems instead of looking through thousand of notes.
 
 ---------------------------------------------------
  But you may be thinking: what if I throw away an idea that was actually relevant?!
  Well first, The best ideas tend to stick in your brain for a couple of days. You'll see yourself randomly thinking about it over and over, even for a couple seconds. If it happens, just jote it down. 
  Second: Let's be honest. How many time did you think: Hey this could be useful, save it, and never even open it again? The goal isn't to save every single idea, but to have an efficient system to generate awesome content
 ---------------------------------------------------
-3. Intermediate Packages
-Nothing hurts like spending too many hours on a video only to hear the sound of silence (hello darkness my old friend).
-Too much of that and you'll be quickly discouraged
+2. Test your content quality before creating it. 
+Nothing hurts like spending too many hours on a video only to hear the sound of silence (hello darkness my old friend/zero likes).
+Too much of that and you'll be quickly discouraged. 
 
-Solution: Top content creators often publish multiple snippets of ideas on twitter/tiktok as they work on a piece of content. They use it to assess their virality. These are called intermediate packages. If they get a ton of engagement, that means there's something out there and they should dig in. 
+Solution: You'll notice that content creators often publish multiple snippets of ideas on twitter/tiktok as they work on a piece of content. They use it to assess their virality. A small 300 words thread, a quick Tiktok video a Question on youtube. If they get a ton of engagement, that means there's something out there and they should dig in. If not then the idea isn't that good or need more work. 
+
 
 --------------------------------------------------- 
 This makes sure that when they're done with a video, they know if their audience will like it. But even better! It give them a lot of small intermediate packages that can be: 
