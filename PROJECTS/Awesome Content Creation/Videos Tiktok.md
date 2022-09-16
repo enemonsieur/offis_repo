@@ -12,26 +12,24 @@ Wanna know what separates the top 1% content creator from the crowd?
 
 It's their publishing system.
 
-The only thing that defines if you're gonna publish consistently for months or year is your publishing system. 
-Until the videos you create stop relying on motivation, tons of research or pure luck, you'll probably give up at some point, just like me. 
+Until the videos you create stop relying on motivation, tons of research or pure luck to get done, you'll probably give up at some point, just like me. 
 
-Let's break down what makes a good publishing system:
+So Let's break down what makes a good publishing system:
 1. Awesome Note taking system: (Review pages of notes in minutes instead of hours)
-2. Extremely efficient research phase: (10x faster than us)
-3. Viral-meter imbebbed (Assess how good your content will do before hitting publish.)
+2. Step by step research phase: (10x faster than us)
+3. Ability to measure virality (Assess how good your content will do before hitting publish.)
 ---------------------------------------------------
 
 Here's how to create a content-publishing machine
-1. Make your notes Future-Proof
+1. Awesome Note taking system
+Make your notes Future-Proof
 (Black White)
 Digging out the insights from your past notes (highlights, notes, copied paragraphs, articles...) is often mentally exhausting.
-
-This is because as time passes by, we forget what we find interesting about them.
-
- As a result, we store tons of notes that are ultimately never used to create content.
+This is because as time passes by, we forget what we found interesting about them.
+ As a result, we store tons of notes that we have to relearn, reunderstand are ultimately we just procrastinate on those gems.
 ---------------------------------------------------
  (Color)
- Solution: every time you find an article interesting, immediately summarize the main points so your future-you can extract in seconds the relevant insights from them. 
+ Solution: every time you find an article interesting, immediately summarize the 3 main points so your future-you can glare at it in a split on second and say: "Oh, that's interesting. I should read more:
 ---------------------------------------------------
 2. Collect what resonates
 In any video, book, or article you read, usually 2-3 ideas usually stand out and the rest is just ok. It makes no sense to save every small point of what you read, because you'll look at them a week from now and think: "Meh. Was kinda obvious."
