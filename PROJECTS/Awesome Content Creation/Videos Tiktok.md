@@ -64,7 +64,8 @@ Even though I could handle my lectures very well, I couldn't even understand wha
 
 Have you ever listen to a kid show in your target language, understood all of it but when you try to hold on a conversation you coudln't get anything? This is because llistening level are just like language levels A1 A2 etc... and understanding that will make you more capable of listetning to the kind of conversation that will make you
 
-## Listening to Background music
+## 3 levels of  Listening to music 
+1
 # Does Lo-fi Beats really help you study?
 Picture this: You have the day free and you want to write an article. No external pressure, so you prepare the perfect study-plan: Cut your social medias with freedom, make a cup of coffee like the addict you are, and you wanna put some music to enhance focus. 
 
