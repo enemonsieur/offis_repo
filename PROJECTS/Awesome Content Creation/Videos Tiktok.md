@@ -16,7 +16,7 @@ Until the videos you create stop relying on motivation, tons of research or pure
 
 So Let's break down what makes a good publishing system:
 1. Awesome Note taking system: (Review pages of notes in minutes instead of hours)
-2. Step by step research phase: (10x faster than us)
+2. A Step by step research process: (10x faster than us)
 3. Ability to measure virality (Assess how good your content will do before hitting publish.)
 ---------------------------------------------------
 
@@ -29,10 +29,13 @@ This is because as time passes by, we forget what we found interesting about the
  As a result, we store tons of notes that we have to relearn, reunderstand are ultimately we just procrastinate on those gems.
 ---------------------------------------------------
  (Color)
- Solution: every time you find an article interesting, immediately summarize the 3 main points so your future-you can glare at it in a split on second and say: "Oh, that's interesting. I should read more:
+ Solution: every time you find an article interesting, immediately summarize the 3 main points so your future-you can glare at it in a split on second and say: "Oh, that's interesting. I should read more":
 ---------------------------------------------------
-2. Collect what resonates
-In any video, book, or article you read, usually 2-3 ideas usually stand out and the rest is just ok. It makes no sense to save every small point of what you read, because you'll look at them a week from now and think: "Meh. Was kinda obvious."
+2. Step by step research phase
+Most of the time, your research phase looks like that: Write an article. Then: "Wow, how can I..." -> Then you have like 300 tabs open, you spend days highlighting dozens of stuff and days rereading them. 
+
+
+This is extremely inneficient. Not only because youEspecially because in any video, book, or article you read, usually 2-3 ideas usually stand out and the rest is just ok. It makes no sense to save every small point of what you read, because you'll look at them a week from now and think: "Meh. Was kinda obvious."
 
  Solution: you need to develop a spider sense, to guess what insights resonates with you at a deeper level. This will make your system full of high-quality notes, and every content you'll create will be made of high quality material. 
 ---------------------------------------------------
