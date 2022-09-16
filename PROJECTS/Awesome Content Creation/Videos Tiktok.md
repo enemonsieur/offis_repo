@@ -32,12 +32,13 @@ This is because as time passes by, we forget what we found interesting about the
  Solution: every time you find an article interesting, immediately summarize the 3 main points so your future-you can glare at it in a split on second and say: "Oh, that's interesting. I should read more":
 ---------------------------------------------------
 2. Step by step research phase
+
 Most of the time, your research phase looks like that: Write an article. Then: "Wow, how can I..." -> Then you have like 300 tabs open, you spend days highlighting dozens of stuff and days rereading them. 
+This is extremely inneficient. 
 
+Now  you need to develop a spider sense, to only have the most though-provoking insights in your notes. How? Simply jote down what resonates with you at a deeper level: What contradicts your belief, what is a step-by-step process you could use later but is too deep. A proof of a theory you had. A moving story. Or an obscure explanation you have a strange feeling about.
+The second step is to ignore everything else. In this internet age, you don't need more sources, there are million of sources 2 to 3 keywords aways. You need high-quality notes your audience will want to year. If you're scared about
 
-This is extremely inneficient. Not only because youEspecially because in any video, book, or article you read, usually 2-3 ideas usually stand out and the rest is just ok. It makes no sense to save every small point of what you read, because you'll look at them a week from now and think: "Meh. Was kinda obvious."
-
- Solution: you need to develop a spider sense, to guess what insights resonates with you at a deeper level. This will make your system full of high-quality notes, and every content you'll create will be made of high quality material. 
 ---------------------------------------------------
  But you may be thinking: what if I throw away an idea that was actually relevant?!
  Well first, The best ideas tend to stick in your brain for a couple of days. You'll see yourself randomly thinking about it over and over, even for a couple seconds. If it happens, just jote it down. 
