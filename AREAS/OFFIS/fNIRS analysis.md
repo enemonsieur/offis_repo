@@ -49,3 +49,4 @@ To extract a desired data channel Si-Dj from the file, use the following formula
 n = (Si-1)Dmax + Dj
 
 3. Header file: .hdr
+Nothing in the NIRStar manual
