@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/OFFIS/fNIRS analysis.md",
+            "file": "AREAS/Marketing Confiotes.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tu vois comment",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/OFFIS/fNIRS analysis.md",
+                "file": "AREAS/Marketing Confiotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +102,8 @@
   },
   "active": "316fce38699cd2ff",
   "lastOpenFiles": [
-    "AREAS/OFFIS/25032022_NASA TLX.md",
     "AREAS/OFFIS/fNIRS analysis.md",
+    "AREAS/OFFIS/25032022_NASA TLX.md",
     "AREAS/grey matters/UL - Japanese.md",
     "AREAS/Les Confiotes/Tâches Confiotes.md",
     "AREAS/Les Confiotes/Work In Progres - Confiotes.md",
