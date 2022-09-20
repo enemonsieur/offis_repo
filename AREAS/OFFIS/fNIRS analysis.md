@@ -33,3 +33,18 @@ We exported data from all the devices and instruments forpreprocessing. Stress d
 
   
 _(19) (PDF) What Does Sleeping Brain Tell About Stress? A Pilot Functional Near-Infrared Spectroscopy Study Into Stress-Related Cortical Hemodynamic Features During Sleep_. Available from: [https://www.researchgate.net/publication/356726823_What_Does_Sleeping_Brain_Tell_About_Stress_A_Pilot_Functional_Near-Infrared_Spectroscopy_Study_Into_Stress-Related_Cortical_Hemodynamic_Features_During_Sleep](https://www.researchgate.net/publication/356726823_What_Does_Sleeping_Brain_Tell_About_Stress_A_Pilot_Functional_Near-Infrared_Spectroscopy_Study_Into_Stress-Related_Cortical_Hemodynamic_Features_During_Sleep) [accessed Sep 19 2022].
+Data files:
+- wl1: ← contains data for wavelength 1 (760 nm)
+- wl2: ← contains data for wavelength 2 (850 nm)
+Table 1: Structure of the optical data files:
+* .wl1, * wl2. 
+* Si: i th source;
+* Dj: j th detector;
+* tk: k th scan, or time frame of measurement. 
+* Si-Dj(tk): reading at the j th detector, of light emitted by the i th source, during the k th scan.
+The number of columns in the file equals (number of sources  number of detectors): Smax * Dmax. 
+
+To extract a desired data channel Si-Dj from the file, use the following formula to identify the appropriate column n:
+
+n = (Si-1)Dmax + Dj
+
