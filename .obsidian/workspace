@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tu vois comment",
+                "query": " ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "316fce38699cd2ff",
+  "active": "b5245d75518b9d87",
   "lastOpenFiles": [
     "AREAS/OFFIS/fNIRS analysis.md",
     "AREAS/OFFIS/25032022_NASA TLX.md",
