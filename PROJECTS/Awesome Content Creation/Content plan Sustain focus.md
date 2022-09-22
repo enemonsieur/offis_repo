@@ -51,7 +51,7 @@ Or: People after 2h of deliberate Practice = Sleep deeply. or Walk out of laptop
 29. How do you loose fat - Train analogiq
 30. Circle of productivity. Short film - finish back getting back on day 1. Better habits
 31. Stop starting 100%
-	1. One of the biggest mistake I made in my learning journey whether it was learning a new skill like graphic design or learning to code, was to go all in directly. I'd create a 30 day plan, list my ressources, Isolate 
+	1. One of the biggest mistake I made in my learning journey whether it was learning a new skill like graphic design or learning to code, was to go all in directly. I'd create a 30 day plan, list my ressources, and get to owrk 4 5 hours a day. Once I was learning character animation and I remember spending 5 hours the first days, may be 3ish the second. And then black out. I'd just miss more and more day, and a "valid" excuse would come, and I'd dish it out. But the reality is that, I felt... disgusted  by 
 
 RESSOURCES:
 https://alifeofproductivity.com/10-productivity-lessons-working-90-hour-weeks/
