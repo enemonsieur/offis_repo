@@ -49,7 +49,9 @@ Or: People after 2h of deliberate Practice = Sleep deeply. or Walk out of laptop
 		1. Me after my coffee/in the zone: (Put a pomodoro) Time for a break ( Fuck!! Everything is dark) (Look at the clock FUUCK midnight)
 28. Can black people swim
 29. How do you loose fat - Train analogiq
-30. 
+30. Circle of productivity. Short film - finish back getting back on day 1. Better habits
+31. Stop starting 100%
+	1. One of the biggest mistake I made in my learning journey whether it was learning a new skill like graphic design or learning to code, was to go all in directly. I'd create a 30 day plan, list my ressources, Isolate 
 
 RESSOURCES:
 https://alifeofproductivity.com/10-productivity-lessons-working-90-hour-weeks/
