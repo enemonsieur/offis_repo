@@ -1,4 +1,9 @@
 Whats our profits per month?
+## Offer
+How to reduce complexity:
+- Part of events that make the mount salive. Not have to think about how to mix ingredients. Ideas of things to drink with what. 
+- What are we doing that are confusing? If you confuse them, you loose them
+- What kind of words are clients using? Amazon + What page Facebook (Madango + HIlaire research  + more people Ro follow)
 # USP
 ##  Ce qui nous rend unique c'est quoi?
 1. Nos clients sont inquiets par la qualité des produits made in cameroon. Ils sont inquièt que les ingredients soient mal choisis, pas naturels donc ils hésitent à acheter.
