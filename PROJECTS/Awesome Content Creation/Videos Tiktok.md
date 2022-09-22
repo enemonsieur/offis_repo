@@ -1,4 +1,5 @@
 
+
 # 7 apps I need to stay focus with ADHD
 **This**
 1. Freedom: This is honestly my #1 best app. I've been using it for 2 years and it allows me to block social media in the morning so I don't scroll, and in the evening so I call fall asleep easily. Everytime I struggle to focus hard, which is often because I'm easily distracted, I open freedom and enjoy... well, the freedom.

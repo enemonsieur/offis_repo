@@ -47,6 +47,9 @@ Or: People after 2h of deliberate Practice = Sleep deeply. or Walk out of laptop
 	1. Sit on the floor, Mad (boude), respire fort., couché (haaaah)
 27. Me before my coffee/out of the zone: (Put a pomodoro) Ok. time for a break... (2 minutes are done) FUCK!!
 		1. Me after my coffee/in the zone: (Put a pomodoro) Time for a break ( Fuck!! Everything is dark) (Look at the clock FUUCK midnight)
+28. Can black people swim
+29. How do you loose fat - Train analogiq
+30. 
 
 RESSOURCES:
 https://alifeofproductivity.com/10-productivity-lessons-working-90-hour-weeks/
