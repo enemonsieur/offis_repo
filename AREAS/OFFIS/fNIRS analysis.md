@@ -18,7 +18,14 @@ source: https://github.com/zm6148/fNIRS_data_analysis/blob/master/fNIRS_ML.ipynb
 - Fit the data with **fit generator**
 - Visualize classification using 3D projection of the top 3 PCA components
 
-
+2. MATLAB Preprocessing
+	1. Found infos on github 
+	2. Download Homer2 and  Inpaint as adviced
+	3. Problem with Homer2. Can't launch the program
+	4. Download MATLAB runtime as required (7GB)
+	5. Still don't work
+	6. Try dowload Homer3 (Looks like its well supported by admins)
+	7. Apparently Runtime didn't work because the latest version wasn't supported by Homer3. Trying with version
 # DATA PREPROCESSING ACCORDING TO: 
 https://www.researchgate.net/publication/356726823_What_Does_Sleeping_Brain_Tell_About_Stress_A_Pilot_Functional_Near-Infrared_Spectroscopy_Study_Into_Stress-Related_Cortical_Hemodynamic_Features_During_Sleep
 3.1 Data Preprocessing
