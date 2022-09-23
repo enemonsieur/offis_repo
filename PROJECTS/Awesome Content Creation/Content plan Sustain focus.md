@@ -53,6 +53,10 @@ Or: People after 2h of deliberate Practice = Sleep deeply. or Walk out of laptop
 30. Circle of productivity. Short film - finish back getting back on day 1. Better habits
 31. Stop starting 100%
 	1. One of the biggest mistake I made in my learning journey whether it was learning a new skill like graphic design or learning to code, was to go all in directly. I'd create a 30 day plan, list my ressources, and get to owrk 4 5 hours a day. Once I was learning character animation and I remember spending 5 hours the first days, may be 3ish the second. And then black out. I'd just miss more and more day, and a "valid" excuse would come, and I'd dish it out. But the reality is that, I felt... disgusted  by 
+32. The worst error I made to deep work on my projects. 
+	1. If doing online course, working on book app, thesis, Basically if you need serious hours of uninterrupted focus to do something that's hard and imprevisible
+	2. Start by the  rest. 
+		1. Rest aren't leisure activity. ACtive rest is stopping at 5pm. Reading a book that's not addictive. Calling family, doing nothing. Meditating. Doing the activities that energize you. Going to the gym. And how ever you feel like you didn't work enough, still do them
 
 RESSOURCES:
 https://alifeofproductivity.com/10-productivity-lessons-working-90-hour-weeks/
