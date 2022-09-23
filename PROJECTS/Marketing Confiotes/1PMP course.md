@@ -2,7 +2,7 @@
 - sur facebook
 - whatsapp
 - newsletters
-- 
+- Big picture Goal: Devenir un go-to dans leurs communauté
 # KEY MESSAGES
 3 keys phrases: De: Et si le produit change, disparait, je devrais encore chercher quelque chose, À: Je Consomme naturel tous les jours sans tracas.
 De: Comment je fais passez un bon moment à mes invités. À: Tout le monde s'est resservi et il ne restait plus rien.
