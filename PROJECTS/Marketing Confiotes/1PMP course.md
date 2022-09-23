@@ -1,3 +1,4 @@
+3 keys phrases: De: Et si le produit change, disparait, je devrais encore chercher quelque chose, À: Je sais exacte
 Whats our profits per month?
 ## Offer
 How to reduce complexity:
