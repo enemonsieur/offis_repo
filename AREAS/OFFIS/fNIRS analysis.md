@@ -1,3 +1,7 @@
+# NASA TLX excel
+- Namen 100% Anonym
+- mean von Probanden und mean von einzeige Mental Demand Mean total
+- 
 https://mne.tools/dev/auto_tutorials/preprocessing/70_fnirs_processing.html
 
 1. Preprocessing files
