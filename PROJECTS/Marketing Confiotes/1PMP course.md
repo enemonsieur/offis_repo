@@ -1,4 +1,8 @@
 # PROBLEM AWARENESS
+## Facebook
+https://www.facebook.com/photo/?fbid=579912577259343&set=a.139899474593991
+1. Contrefacon, faux liqueur, faux vins qui font mal au crane
+## 
 - sur facebook
 - whatsapp
 - newsletters

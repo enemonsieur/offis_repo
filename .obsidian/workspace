@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "19972880425e333b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PROJECTS/Marketing Confiotes/1PMP course.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Awesome Content Creation/Content plan Sustain focus.md",
+                "file": "PROJECTS/Marketing Confiotes/1PMP course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,12 +111,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "316fce38699cd2ff",
+  "active": "19972880425e333b",
   "lastOpenFiles": [
+    "PROJECTS/Awesome Content Creation/Content plan Sustain focus.md",
     "PROJECTS/Awesome Content Creation/Videos Tiktok.md",
     "PROJECTS/Marketing Confiotes/1PMP course.md",
     "PROJECTS/220801_1 Design Stress inducing Task.md",
-    "PROJECTS/Awesome Content Creation/Content plan Sustain focus.md",
     "AREAS/OFFIS/fNIRS analysis.md",
     "AREAS/grey matters/UL - Japanese.md",
     "AREAS/grey matters/ADHD research.md",
