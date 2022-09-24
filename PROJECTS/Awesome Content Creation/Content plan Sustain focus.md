@@ -59,6 +59,10 @@ Or: People after 2h of deliberate Practice = Sleep deeply. or Walk out of laptop
 	**2. Start by the  rest.** The biggest reason why you can't deep work. FOrget hownew deepwork is mentaly excrutiating. nothingto do with actual work
 		1. Rest aren't leisure activity. ACtive rest is stopping at 5pm. Reading a book that's not addictive. Calling family, doing nothing. Meditating. Doing the activities that energize you. Going to the gym. And how ever you feel like you didn't work enough, still do them
 
+
+
+------
+https://youtu.be/2Ia-8ksQi1M - Books Reading Tiktok fun
 RESSOURCES:
 https://alifeofproductivity.com/10-productivity-lessons-working-90-hour-weeks/
 https://alifeofproductivity.com/all-you-need-are-three-breaths/
