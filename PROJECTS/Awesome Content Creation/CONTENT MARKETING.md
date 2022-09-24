@@ -273,9 +273,6 @@ Bonus tip: A list article with the number 10 in the headline is the best number 
 scoring four times the social shares as the next nearest number in the study. After the number 10, list headlines with an odd-number get shared 20 percent more than even-numbered posts.13  
 
 => Crée un maximum de Listes (avec 10, ou bien nombres impairs) avec des Infographics (ca double le taux de partage)
-
-
-
 I thought this would make a provocative blog post and I had some fun with the headline: “Why 100,000 People Unfollowed Me on Twitter.” But it was also a very helpful post that answered a lot of questions people  had about this strange behavior.  Here are the total social sharing statistics (Twitter, Facebook, LinkedIn and Google+) for the post:  
 Month of Publication Total Number of Shares  
 April 2013 378  
@@ -284,26 +281,20 @@ December 2013 1,012
 March 2014 1,144  
 September 2014 1,858  
 January 2015 2,020  
-How is this possible? If most blog posts die after four days, how did this content keep chugging and  
-chugging, finding new fans for years?  
-There’s a lot of sharing potential stored in content that is always relevant and useful. This evergreen  
-content answers your customers’ most common questions and rarely goes out-of-date. For example, a  
-“Mommy Jogger” blog would feature evergreen content that describes the correct use of jogging strollers.  This post would be useful and relevant to customers for years ... and could also be re-posted as new people  look for the content.  
-And that is exactly what I did. I could see that my “Un-follow” post was popular, evergreen content that  
-people enjoyed, so I tweeted the link out to my audience about once a month. And each time I did, it received  more comments and social shares. A lot more!  
-=> N'hésite pas à reposter chaque mois des anciens contenus qui ont bien marché
+How is this possible? If most blog posts die after four days, how did this content keep chugging and  chugging, finding new fans for years?  
+There’s a lot of sharing potential stored in content that is always relevant and useful. This evergreen  content answers your customers’ most common questions and rarely goes out-of-date. For example, a  “Mommy Jogger” blog would feature evergreen content that describes the correct use of jogging strollers.  This post would be useful and relevant to customers for years ... and could also be re-posted as new people  look for the content.  
+And that is exactly what I did. I could see that my “Un-follow” post was popular, evergreen content that  people enjoyed, so I tweeted the link out to my audience about once a month. And each time I did, it received  more comments and social shares. A lot more!  
+**=> N'hésite pas à reposter chaque mois des anciens contenus qui ont bien marché**
+
 ### 8. Focus on feedback and reviews.
 Another important form of social transmission is feedback and reviews. Reviews offer powerful “social proof” that can make or break a business. This concept is covered extensively in Chapter 9 but in short, social proof  is an accumulation of the clues in our environment we use to make decisions when we don’t know the truth.  Reviews are a good example of this idea. If we have never visited a business before, we may turn to this  crowd-sourced content to decide whether to buy something or not.  
-For many businesses, online reviews are a high-stakes component of consumer decision-making. Car  
-shoppers, for example, are increasingly relying on Yelp and other ratings sites. **Nielsen reports  that 84 percent of people say that online reviews influence their buying decision.** These reviewers can even gain  celebrity status as their opinions reverberate throughout Twitter, Facebook, and beyond.  
-The key with this tactic is to have a rock-solid internal process for capturing and maintaining a steady  
-stream of customers willing to write reviews. Understandably, **many of your frontline sales personnel may feel awkward about asking for a review, but you can put it in a way that makes the customer comfortable: “Our business is based on referrals.** Would you take a moment to visit Yelp and refer us to your friends and  family?” This is a great start to your internal process, but it’s only the beginning.  
+For many businesses, online reviews are a high-stakes component of consumer decision-making. Car shoppers, for example, are increasingly relying on Yelp and other ratings sites. **Nielsen reports  that 84 percent of people say that online reviews influence their buying decision.** These reviewers can even gain  celebrity status as their opinions reverberate throughout Twitter, Facebook, and beyond.  
+The key with this tactic is to have a rock-solid internal process for capturing and maintaining a steady  stream of customers willing to write reviews. Understandably, **many of your frontline sales personnel may feel awkward about asking for a review, but you can put it in a way that makes the customer comfortable: “Our business is based on referrals.** Would you take a moment to visit Yelp and refer us to your friends and  family?” This is a great start to your internal process, but it’s only the beginning.  
 => Regarde toutes les reviews des Confiotes, demande à Ro, et fais en des posts réguliers. Les gens sont beaucoup plus confiants quand quelqu'un de leur cercle valide un produit. 
 => Demande à Ro et Eunice de systématiquement transférer les reviews
 => Ex: Un client qui a essayé le citron et était dubitatif mais est venu écrire un long message à RO
 Here are several ways to improve social transmission through Yelp and other review sites:  
-**Designate someone to take ownership of your implementation plan. This person is in charge of  
-your online reputation and is responsible for getting grassroots participation from your staff, as well as monitoring and responding to the community.**  
+**Designate someone to take ownership of your implementation plan. This person is in charge of  your online reputation and is responsible for getting grassroots participation from your staff, as well as monitoring and responding to the community.**  
 
 Use signage and memos . Create awareness with your customers and your staff. Display “**Love Us on  
 Yelp!”** signs throughout the store—entryways, sales offices, customer waiting area, customer service,  
@@ -313,16 +304,11 @@ Give customers a card to take with them that reminds them you’re on Yelp. Put 
 on paychecks, repair orders, and invoices to create awareness.  
 => Put memos on our emballages (Personnalize emballages?)
 
-**Reach out to your raving fans. Every salesperson has them, especially those who have been with  
-you a long time**. **Ask fans to share an honest review**—don’t push for positive reviews, per se. Many  
-brands fail to feature testimonials and brand evangelists on their websites and social media profiles.  
+**Reach out to your raving fans. Every salesperson has them, especially those who have been with  you a long time**. **Ask fans to share an honest review**—don’t push for positive reviews, per se. Many brands fail to feature testimonials and brand evangelists on their websites and social media profiles.  
 => Put our top best testimonials on Whatsapp Business. Put their names.
 
-People love attention and special treatment—the customers you feature will likely become even  
-stronger supporters of your brand. Plus, showcasing objective opinions on your website may increase  
-your credibility among potential customers.  
-**Consider hosting a customer of the week program on your blog and on social media. Feature  
-a story and testimonial from one of your satisfied customers**.  
+People love attention and special treatment—the customers you feature will likely become even  stronger supporters of your brand. Plus, showcasing objective opinions on your website may increase  your credibility among potential customers.  
+**Consider hosting a customer of the week program on your blog and on social media. Feature  a story and testimonial from one of your satisfied customers**.  
 Hold a monthly contest with the staff. Nothing motivates like a cash prize! For example, if the store  
 gets 20 reviews by the end of the month, you’ll draw a name and that person wins the cash.  
 Recognize staff members who get 5-star reviews. A gift or a nice mention during the weekly sales
@@ -331,9 +317,8 @@ meeting goes a long way. When the other employees see it, they’ll be eager to 
 
 ## 9. Make sure everythign you send is immediatly implementable. Practical. Always.
 In Chapter 1, I recounted the story of the Mirabeau Miracle. The winery’s proprietor, Stephen Cronk, made YouTube history with a 90-second video showing how to open a wine bottle with his shoe.  
-This was not epic content. It wasn’t even original. The trick had been done multiple times before on  
-YouTube. The Mirabeau case study doesn’t seem to follow any rules about emotion or storytelling. But it’s an  amazing, well-executed little demonstration, and it was a practical, useful tip.  
-In the book Contagious, Jonah Berger explains, “Today, direct opportunities to help others are few and far between. Modern suburban life has distanced us from our friends and neighbors. We live at the end of a long  driveway or high up in an apartment building, often barely getting to know the person next door.People love to help their friends save money, so building extraordinary value or a deal into your content is  a way to help it move. Not surprisingly, the bigger the perceived deal or the more exclusive it appears, the  more the content moves.
+This was not epic content. It wasn’t even original. The trick had been done multiple times before on  YouTube. The Mirabeau case study doesn’t seem to follow any rules about emotion or storytelling. But it’s an  amazing, well-executed little demonstration, and it was a practical, useful tip.  
+In the book Contagious, Jonah Berger explains, “Today, direct opportunities to help others are few and far between. Modern suburban life has distanced us from our friends and neighbors. We live at the end of a long  driveway or high up in an apartment building, often barely getting to know the person next door. People love to help their friends save money, so building extraordinary value or a deal into your content is  a way to help it move. Not surprisingly, the bigger the perceived deal or the more exclusive it appears, the  more the content moves.
 
 Curation is another good way to provide practical content. Curating or summarizing valuable content by  industry, career discipline, or interest saves people time because you’ve done the work to filter content for  them. In the pharmaceutical industry, summaries of new surgical or medical breakthroughs are a good way to  bond with doctors and provide truly useful information. Several wealth management companies curate global  financial information to make the world of investing less complicated. You can find opportunities to curate  
 along any interest you can imagine.  
