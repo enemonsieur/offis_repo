@@ -166,27 +166,24 @@ There is a lot of rich insight in this brief message:
 My content has connected to her on an emotional level, and I’ve become part of the fabric of her life.  
 Although I’ve never met this person or even spoken to her on the phone, she feels as if she knows me as a friend. She has built a kinship with me through my content alone.  
 Sharing my content is an act of adding value to her friends. It enhances her self-view because my values reflect her values. And the bond created through my words is so strong that she feels comfortable making me part of her family communications at times.  
-I’ve built “shareability” into my content over time by nurturing a relationship of trust with the reader. I  
-can’t appeal to everyone, of course—there are people who unsubscribe to my blog all the time. But for those who do connect, they seem to connect deeply.
+I’ve built “shareability” into my content over time by nurturing a relationship of trust with the reader. I can’t appeal to everyone, of course—there are people who unsubscribe to my blog all the time. But for those who do connect, they seem to connect deeply.
 
 **Sharing creates involved, smarter consumers**  
-Sharing content isn’t just about building “traffic.” The act of sharing content actually helps consumers  
-process your information better. A separate New York Times study on why and how people share content found that:  
-73 percent of participants say they process information “more deeply, thoroughly, and thoughtfully”  
-when they share it.  
+Sharing content isn’t just about building “traffic.” The act of sharing content actually helps consumers process your information better. A separate New York Times study on why and how people share content found that:  
+73 percent of participants say they process information “more deeply, thoroughly, and thoughtfully”  when they share it.  
 85 percent say reading content that other people share helps them understand and process information and events.  
 49 percent say sharing allows them to inform others of products they care about and potentially change opinions or encourage action.  
 **Participants say the act of sharing content helps them remember products and information sources better** and makes them more likely to use them. So if you create ideal conditions for content-sharing, you both build  power for your brand and create new economic value by helping your consumers understand you and become authentic advocates for your products and ideas!
 => By sharing content, they'll remember recipes more often, or things to try later.
 
 ## WEARABLE CONTENT
-If you’re one of the spectacular readers who tweet or post about this book to your audience, it’s probably because what I’ve written creates a connection that is psychologically consistent with what you believe and how you want to present yourself to others. Sharing an idea from this book makes a statement about you, just like your choice in jeans, car, or a soft drink. It says, I concur. I am aligned. I think this author is smart, and I am smart; therefore, I will share it. This book is cool, and I am cool, so I will share it.  
+If you’re one of the spectacular readers who tweet or post about this book to your audience, it’s probably because what I’ve written creates a connection that is psychologically consistent with what you believe and how you want to present yourself to others. Sharing an idea from this book makes a statement about you, just like your choice in jeans, car, or a soft drink. It says, I concur. I am aligned. I think this author is smart, and I am smart; therefore, I will share it**. This book is cool, and I am cool, so I will share it.**  
 Your content becomes part of your audience’s personal narrative.
 =>I am Anne Ndame et j'approuve ce message. I'm Yvon, Marie-Ester, Ace and j'approuve ce message
 => Create WEARABLE CONTENT People will feel proud to endorse, and they'll share it. 
 
 A generation of “me-formers”  
-Those emotion-focused conversations are already out there by the millions. About 50 percent of what people talk about on social media is “me” focused.6 It’s more than just vanity. Studies show we’re literally hard-  wired to talk about ourselves. Harvard neuroscientists Jason Mitchell and Diana Tamir 7 discovered that  disclosing information about ourselves is intrinsically rewarding. They found that sharing personal opinions activates the same brain circuits that respond to rewards like food and money. In another study by these researchers, they demonstrated that the power to share about ourselves is so important people are actually willing to pay money to do it.
+Those emotion-focused conversations are already out there by the millions. About 50 percent of what people talk about on social media is “me” focused. It’s more than just vanity. Studies show we’re literally hard-  wired to talk about ourselves. Harvard neuroscientists Jason Mitchell and Diana Tamir 7 discovered that  disclosing information about ourselves is intrinsically rewarding. They found that sharing personal opinions activates the same brain circuits that respond to rewards like food and money. In another study by these researchers, they demonstrated that the power to share about ourselves is so important people are actually willing to pay money to do it.
 
 ## 2. Help people achieve something with your content.  
 A second point in the Berger research on social currency explains why status translates into social  
@@ -200,10 +197,9 @@ Examples of content activities that bestow accomplishment include:
 => Témoigne que tu consommes régulièrement du MIC (important pour Anne ndame qui essaie de faire plus ca )
 Being favorably mentioned in a video, podcast, or post  
 Achieving status helps generate social currency and social sharing. After all, what good is accomplishing something if you can’t tell people about it?  
-Word of mouth also can come from the voting process itself. Deciding the winner by popular vote  
-encourages contestants to drum up support. But in telling people to vote for them, contestants also spread awareness about the product sponsoring the contest. Instead of marketing yourself directly, you use the contest to get people who want to win to do the marketing themselves.  
+Word of mouth also can come from the voting process itself. Deciding the winner by popular vote encourages contestants to drum up support. But in telling people to vote for them, contestants also spread awareness about the product sponsoring the contest. Instead of marketing yourself directly, you use the contest to get people who want to win to do the marketing themselves.  
 
-Another common tool for creating personal achievement through content is quizzes, which explains why they appear on so many sites that depend on advertising for their revenues. In 2014, eight of the 10 most-  shared articles on the entire Internet were quizzes. Sharing positive or funny quiz results fuels our identity and ego**. Others learn more about who we are, what we value, and our tastes.  
+Another common tool for creating personal achievement through content is quizzes, which explains why they appear on so many sites that depend on advertising for their revenues. In 2014, eight of the 10 most- shared articles on the entire Internet were quizzes. Sharing positive or funny quiz results fuels our identity and ego**. Others learn more about who we are, what we value, and our tastes.  
 MIT cultural analyst Sherry Turkle says that people turn to quizzes to fulfill an irresistible need to quantify  the human condition. “Basically, we’re trying to get a number,” she said. “And people will use a quiz to get  that number. It gives people something to look at, an object to think with.” She adds that people have always loved quizzes, but in the pre-social media days, we primarily took them for ourselves. “Now they’re specifically for performance,” she said. “Part of the point is to share it ... It’s the conflation of who you are and  who thinks you’re okay.”  
 So when you’re making quizzes for your audience, you’re giving them an opportunity to learn something interesting about themselves and a chance to start a conversation with their friends. It’s hard to say that  about a lot of other forms of content.  
 => Utilise des quizz pourque les gens puissent partager quelque chose d'intéressant les concernant (qu'ils sont de bons consommateurs de MIC, ou de fruits, ou qu'ils connaissent bien la culture CMR)
