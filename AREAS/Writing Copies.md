@@ -90,8 +90,7 @@ Here are a few headlines that deliver complete messages:
 “Caught Soon Enough, Early Tooth Decay Can Actually Be Repaired by Colgate!”  
 “Hitachi Chiller-Heater Cuts Cooling and Heating Costs Up to 50%”  
 “Allstate—with accident insurance, they guarantee your car insurance rates won’t go up because of an accident.”  
-Ogilvy recommends that you include the selling promise and the brand name in the headline. Many effective  
-headlines don’t include the product name. But put it in if you suspect most of your prospects won’t bother to read the copy underneath. For instance, having the product name in the headline or subhead in a half-page  newspaper ad for health offers typically boosts response.  
+Ogilvy recommends that you include the selling promise and the brand name in the headline. Many effective headlines don’t include the product name. But put it in if you suspect most of your prospects won’t bother to read the copy underneath. For instance, having the product name in the headline or subhead in a half-page  newspaper ad for health offers typically boosts response.  
 
 ## 4. Drawing the Reader into the Body Copy  
 **Certain product categories—liquor, soft drinks, and fashion, for example—can be sold with an attractive photo,  a powerful headline, and a minimum of words.** 

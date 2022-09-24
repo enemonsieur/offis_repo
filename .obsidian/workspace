@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Awesome Content Creation/CONTENT MARKETING.md",
+            "file": "AREAS/Writing Copies.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Awesome Content Creation/CONTENT MARKETING.md",
+                "file": "AREAS/Writing Copies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "19972880425e333b",
   "lastOpenFiles": [
+    "PROJECTS/Awesome Content Creation/CONTENT MARKETING.md",
     "PROJECTS/Awesome Content Creation/Content plan Sustain focus.md",
     "AREAS/grey matters/UL - Japanese.md",
     "AREAS/grey matters/Work in Progress.md",
@@ -121,7 +122,6 @@
     "PROJECTS/Awesome Content Creation/Videos Tiktok.md",
     "PROJECTS/220801_1 Design Stress inducing Task.md",
     "AREAS/OFFIS/fNIRS analysis.md",
-    "AREAS/Les Confiotes/Innovations Confiotes.md",
-    "AREAS/Les Confiotes/Tâches Confiotes.md"
+    "AREAS/Les Confiotes/Innovations Confiotes.md"
   ]
 }
