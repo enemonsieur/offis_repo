@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fNIRS",
+                "query": "Useful",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +61,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 258.5007801055908,
-    "collapsed": true
+    "width": 258.5007801055908
   },
   "right": {
     "id": "554efaf4754e9155",
@@ -114,10 +114,10 @@
   },
   "active": "316fce38699cd2ff",
   "lastOpenFiles": [
-    "PROJECTS/Awesome Content Creation/Videos Tiktok.md",
-    "PROJECTS/Awesome Content Creation/Content plan Sustain focus.md",
-    "PROJECTS/Awesome Content Creation/CONTENT MARKETING.md",
     "AREAS/Writing Copies.md",
+    "PROJECTS/Awesome Content Creation/Content plan Sustain focus.md",
+    "PROJECTS/Awesome Content Creation/Videos Tiktok.md",
+    "PROJECTS/Awesome Content Creation/CONTENT MARKETING.md",
     "AREAS/grey matters/UL - Japanese.md",
     "AREAS/grey matters/Work in Progress.md",
     "AREAS/grey matters/ADHD research.md",
