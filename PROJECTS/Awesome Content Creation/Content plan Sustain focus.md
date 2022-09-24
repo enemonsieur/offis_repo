@@ -22,10 +22,10 @@
 **12. How do I keep my self focus for 3 hours straight when I have ADHD?**
 13. Story: How Chris Bailey discovered the secret of hyperfocus
 14. How do you plan your day when you cant keep any form of schedule?
-	1. The easiest planning method
-15. Can meditation makes me more focus?
-16. How much does meditation increase focus?
-17. Study say, 20% break per day is a must for productivity
+	**1. The easiest planning method**
+15. Can meditation make me more focus?
+**16. How much does meditation increase focus?**
+**17. Study say, 20% break per day is a must for productivity**
 	1. https://alifeofproductivity.com/for-optimal-productivity-be-on-break-for-20-25-of-the-workday/
 18. AMRAP tips for productivity
 	1. https://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/
@@ -38,21 +38,22 @@
 22. Does Lofi Music helps you study?
 **23. Here's how to find The perfect study-music for you**
 	1. Starting way early is the go to method for ADHD  -ex with my presentation 
-24. You cant just wake up and work hard. You need to build work capacity
-25. Meme: People before they try deep work/Ultralearning/ Deliberate Practice
+24. You can't just wake up and work hard. You need to build work capacity
+25. **Meme**: People before they try deep work/Ultralearning/ Deliberate Practice
 Yeah I work 10 hours everyday
 People after they try Deep Work/Deliberate Practice = I just got. 2 hours. (pan pan) Deep Work. (Fall asleep)
 Or: People after 2h of deliberate Practice = Sleep deeply. or Walk out of laptop trembling
-26. Me forcing myselt to meditate because it helps my stupid productivity:
+**26. Me forcing myselt to meditate because it helps my stupid productivity:**
 	1. Sit on the floor, Mad (boude), respire fort., couché (haaaah)
-27. Me before my coffee/out of the zone: (Put a pomodoro) Ok. time for a break... (2 minutes are done) FUCK!!
+27. **Me before my coffee/out of the zone:** (Put a pomodoro) Ok. time for a break... (2 minutes are done) FUCK!! 
+28. Normal brains: Let's go for a 30min... Time passes.
 		1. Me after my coffee/in the zone: (Put a pomodoro) Time for a break ( Fuck!! Everything is dark) (Look at the clock FUUCK midnight)
-28. Can black people swim
-29. How do you loose fat - Train analogiq
-30. Circle of productivity. Short film - finish back getting back on day 1. Better habits
-31. Stop starting 100%
+29. Can black people swim
+30. How do you loose fat - Train analogiq
+31. Circle of productivity. Short film - finish back getting back on day 1. Better habits
+32. Stop starting 100%
 	1. One of the biggest mistake I made in my learning journey whether it was learning a new skill like graphic design or learning to code, was to go all in directly. I'd create a 30 day plan, list my ressources, and get to owrk 4 5 hours a day. Once I was learning character animation and I remember spending 5 hours the first days, may be 3ish the second. And then black out. I'd just miss more and more day, and a "valid" excuse would come, and I'd dish it out. But the reality is that, I felt... disgusted  by 
-32. The worst error I made to deep work on my projects. 
+33. The worst error I made to deep work on my projects. 
 	1. If doing online course, working on book app, thesis, Basically if you need serious hours of uninterrupted focus to do something that's hard and imprevisible
 	2. Start by the  rest. 
 		1. Rest aren't leisure activity. ACtive rest is stopping at 5pm. Reading a book that's not addictive. Calling family, doing nothing. Meditating. Doing the activities that energize you. Going to the gym. And how ever you feel like you didn't work enough, still do them
