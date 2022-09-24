@@ -375,3 +375,4 @@ You might predict that people would pass along the most memorable ideas—the on
 keep spreading.  
 “You’d expect people to be most enthusiastic spreading ideas that they themselves are excited about,”  
 said researcher Dr. Emily Falk of the University of Michigan. “But our research suggests that’s not the whole  story. Thinking about what appeals to others may be even more important.”
+
