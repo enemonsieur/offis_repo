@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PROJECTS/Awesome Content Creation/Content plan Sustain focus.md",
+            "file": "AREAS/Writing Copies.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Useful",
+                "query": "Japan",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Awesome Content Creation/Content plan Sustain focus.md",
+                "file": "AREAS/Writing Copies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,8 @@
   },
   "active": "316fce38699cd2ff",
   "lastOpenFiles": [
-    "AREAS/Writing Copies.md",
     "PROJECTS/Awesome Content Creation/Content plan Sustain focus.md",
+    "AREAS/Writing Copies.md",
     "PROJECTS/Awesome Content Creation/Videos Tiktok.md",
     "PROJECTS/Awesome Content Creation/CONTENT MARKETING.md",
     "AREAS/grey matters/UL - Japanese.md",
