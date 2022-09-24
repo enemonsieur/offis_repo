@@ -6,22 +6,20 @@
 		### Tip #6 – Listen to your internal clock
 1. **- Idea: How to sleep at the exact same times always? So that you'll focus more**
 	1. How do you keep a consistent sleep schedule?
-2. If you  can't stop using social media when you work, these 10 tips will help you. 
+2. If you can't stop using social media when you work, these 10 tips will help you. 
 3. What happens when you stop managing your time but also manage your attention?
-4. Story of how I studied 8hours+/day for a month (what it takes)
 5. You'll never focus double digits hours until your remove those 7 things
-6. 5 Things to do before starting online courses (if you want to finish it)
-7. The easiest study tip you'll ever learn: 
+6. 5 Things to do before starting online courses (if you want to finish it) 5 reasons why you never finish your online classes/Howto actually finish your online class
+**7. The easiest study tip you'll ever learn:** 
 	1. Test yourself just before classes. Testing increases retention, and direct learning towards the point you don't know. Repetitive
 8. If you wanna read book longer, don't speed read. 
 	1. Lack context. It makes reading boring, you'll forget a lot of things, and you wont create a mental representation of the scenes
 9. Are you left or right brain? What do you mean its not a thing? In fact...
 	**Novelty-Routinization Theory by Dr. Goldberg**
-10. Story: What's the #1 trait of high achieving scientists and entrepreneurs?
+**10. Story: What's the #1 trait of high achieving scientists and entrepreneurs?**
 	1. lot of stories of Johnny, Einstein, Marie Curie, Jack Ma
 	2.  [[Focus High achievers]]
-11. How to design an Online-study plan
-12. How do I keep my self focus for 3 hours straight when I have ADHD?
+**12. How do I keep my self focus for 3 hours straight when I have ADHD?**
 13. Story: How Chris Bailey discovered the secret of hyperfocus
 14. How do you plan your day when you cant keep any form of schedule?
 	1. The easiest planning method
