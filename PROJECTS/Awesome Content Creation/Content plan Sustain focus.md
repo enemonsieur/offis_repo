@@ -46,16 +46,17 @@ Or: People after 2h of deliberate Practice = Sleep deeply. or Walk out of laptop
 **26. Me forcing myselt to meditate because it helps my stupid productivity:**
 	1. Sit on the floor, Mad (boude), respire fort., couché (haaaah)
 27. **Me before my coffee/out of the zone:** (Put a pomodoro) Ok. time for a break... (2 minutes are done) FUCK!! 
-28. Normal brains: Let's go for a 30min... Time passes.
+28. Normal brains: 30min... work for a while... Should bedone by now.. 00:02... good. Let's go for a 30min... Time passes. Ok, I should be done by now... 25:59 You gotta be fucking kidding me
 		1. Me after my coffee/in the zone: (Put a pomodoro) Time for a break ( Fuck!! Everything is dark) (Look at the clock FUUCK midnight)
-29. Can black people swim
-30. How do you loose fat - Train analogiq
+2. My younger self always fidgeting, struggling with grades and focus discovering ADHD(RickandMOrthy)
+**29. Can black people swim**
+30. How do you loose fat - Train analogy
 31. Circle of productivity. Short film - finish back getting back on day 1. Better habits
 32. Stop starting 100%
 	1. One of the biggest mistake I made in my learning journey whether it was learning a new skill like graphic design or learning to code, was to go all in directly. I'd create a 30 day plan, list my ressources, and get to owrk 4 5 hours a day. Once I was learning character animation and I remember spending 5 hours the first days, may be 3ish the second. And then black out. I'd just miss more and more day, and a "valid" excuse would come, and I'd dish it out. But the reality is that, I felt... disgusted  by 
 33. The worst error I made to deep work on my projects. 
 	1. If doing online course, working on book app, thesis, Basically if you need serious hours of uninterrupted focus to do something that's hard and imprevisible
-	2. Start by the  rest. 
+	**2. Start by the  rest.** The biggest reason why you can't deep work. FOrget hownew deepwork is mentaly excrutiating. nothingto do with actual work
 		1. Rest aren't leisure activity. ACtive rest is stopping at 5pm. Reading a book that's not addictive. Calling family, doing nothing. Meditating. Doing the activities that energize you. Going to the gym. And how ever you feel like you didn't work enough, still do them
 
 RESSOURCES:
