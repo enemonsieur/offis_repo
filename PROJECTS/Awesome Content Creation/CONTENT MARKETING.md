@@ -253,7 +253,7 @@ Quelque chose qui résoud un problème d'anne Ndame: Comment distinguer un produ
 Research by the company AgoraPulse found that the most-shared posts on Facebook also had some element of inspiration in them, indicated by keywords like:  
 **Give**: Offers, discounts, deals, or contests that can benefit a wide audience.  
 **Advice**: Tips, especially about problems that everyone encounters. Examples are how to lose weight or how to choose a college.  
-Warning: Posts about dangers that could affect anyone in your audience.  
+**Warning**: Posts about dangers that could affect anyone in your audience.  
 Inspire: Inspirational quotes. Love them or hate them, they work.  
 Unite: Posts that highlight a danger, an evil, an enemy, a cause, or a personal or community need.  
 And while we’re at it, the research also showed content behaviors that shut down social sharing (don’t do these!):  
@@ -270,15 +270,13 @@ Asking for Likes
  6. A lot of lists + Infographics
 The BuzzSumo research of 100 million posts also showed that you double your chances that people will share your content if it includes a list or an infographic. It makes sense. Both list posts and infographics add an element of intrigue and fun while still promising quick answers. Because of their skimmable format, they satisfy our curiosity quickly in an information-dense environment.  
 Bonus tip: A list article with the number 10 in the headline is the best number for social transmission,  
-scoring four times the social shares as the next nearest number in the study. After the number 10, list  
-headlines with an odd-number get shared 20 percent more than even-numbered posts.13  
+scoring four times the social shares as the next nearest number in the study. After the number 10, list headlines with an odd-number get shared 20 percent more than even-numbered posts.13  
 
 => Crée un maximum de Listes (avec 10, ou bien nombres impairs) avec des Infographics (ca double le taux de partage)
 
 
 
-I thought this would make a provocative blog post and I had some fun with the headline: “Why 100,000  
-People Unfollowed Me on Twitter.” But it was also a very helpful post that answered a lot of questions people  had about this strange behavior.  Here are the total social sharing statistics (Twitter, Facebook, LinkedIn and Google+) for the post:  
+I thought this would make a provocative blog post and I had some fun with the headline: “Why 100,000 People Unfollowed Me on Twitter.” But it was also a very helpful post that answered a lot of questions people  had about this strange behavior.  Here are the total social sharing statistics (Twitter, Facebook, LinkedIn and Google+) for the post:  
 Month of Publication Total Number of Shares  
 April 2013 378  
 September 2013 654  
