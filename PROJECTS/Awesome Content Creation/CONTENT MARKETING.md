@@ -366,17 +366,12 @@ trust you and the request, you’ll almost certainly earn a comment and a share 
 19. Tap into FOMO  
 Many people are obsessed with being constantly connected to the web due to a Fear of Missing Out (or  
 FOMO). Tapping into this fear can also get people to click and share.  
-Here’s an example of FOMO in action:19 Marc and Angel Chernoff have an incredible blog at  
-www.marcandangel.com. They publish inspiring content that regularly spreads across social media,  
-garnering thousands if not hundreds of thousands of social shares. One of the most fascinating pieces they’ve  
-written is a post called “30 Things to Stop Doing to Yourself” that received more than 500,000 Likes, 20,000  
-tweets, and several thousand shares on other social networks.
+Here’s an example of FOMO in action:19 Marc and Angel Chernoff have an incredible blog at www.marcandangel.com. They publish inspiring content that regularly spreads across social media,  garnering thousands if not hundreds of thousands of social shares. One of the most fascinating pieces they’ve written is a post called “30 Things to Stop Doing to Yourself” that received more than 500,000 Likes, 20,000 tweets, and several thousand shares on other social networks.
 => Use stop, avoid, arrêtez de, évitez de consommer ces 5 aliments pour perdre du poids
 
 20. Help readers spread ideas to help others.  
-Here’s an insight from my favorite newspaper, The New York Times :20 In an attempt to understand what’s  buzzworthy, neuroscientists scanned the brains of people while they were hearing about new ideas. Then, as  these people told others about what they had heard, the scientists observed which ideas spread and which  didn’t.  
-You might predict that people would pass along the most memorable ideas—the ones that light up the  
-brain regions associated with memories. But that’s not what happened. The best predictors of buzz were in  the brain regions associated with social cognition—thoughts about other people. If those regions lit up when  something was heard, people were more likely to talk about the idea enthusiastically, and the idea would  
+Here’s an insight from my favorite newspaper, The New York Times :20 In an attempt to understand what’s  buzzworthy, neuroscientists scanned the brains of people while they were hearing about new ideas. Then, as  these people told others about what they had heard, the scientists observed which ideas spread and which didn’t.  
+You might predict that people would pass along the most memorable ideas—the ones that light up the  brain regions associated with memories. But that’s not what happened. The best predictors of buzz were in  the brain regions associated with social cognition—thoughts about other people. If those regions lit up when  something was heard, people were more likely to talk about the idea enthusiastically, and the idea would  
 keep spreading.  
 “You’d expect people to be most enthusiastic spreading ideas that they themselves are excited about,”  
 said researcher Dr. Emily Falk of the University of Michigan. “But our research suggests that’s not the whole  story. Thinking about what appeals to others may be even more important.”
