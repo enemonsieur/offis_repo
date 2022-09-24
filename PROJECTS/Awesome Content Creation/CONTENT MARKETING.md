@@ -146,26 +146,21 @@ To define ourselves to others. **Nearly 70 percent of participants said they sha
 people a better sense of who they are and what they care about.** One respondent said, “I try to share information that will reinforce the image I’d like to present—thoughtful, reasoned, kind, interested, and passionate about certain things.”  
 => what kind of content will reinforce the image of Anne Ndame? (Look at her interest)
 
-To grow and nourish relationships. About 80 percent of participants share information online  
-because it **lets them stay connected to people they may not otherwise stay in touch with**. A little over 70 percent share content to **help connect them to new people who share common interests.**  
+To grow and nourish relationships. About 80 percent of participants share information online because it **lets them stay connected to people they may not otherwise stay in touch with**. A little over 70 percent share content to **help connect them to new people who share common interests.**  
 Self-fulfillment. 
 => Comment créer du contenu que Anne Ndame About 70 percent of participants share content because it allows them to feel more involved in the world. The act of getting positive feedback on shares makes people feel valued.  
 => Quel contenu que Anne Ndame va partager la fera se sentir plus importante ? Quel contenu elle partage génère le plus de likes?
 
-To get the word out about causes and brands. More than 80 percent of participants said they  
-share content to rally others around a cause, company, or idea they believe in.
+To get the word out about causes and brands. More than 80 percent of participants said they  share content to **rally others around a cause, company, or idea they believe in.**
 => Quelle cause la ralie ? A Quelle idée est ce qu'elle croit? Made In Cameroon, développement. 
 
 As you read this list, it probably occurs to you that sharing content is a meaningful act, a very personal,  
 intimate, and important gesture. It’s not at all trivial.  
-The decision to share content is often a sign of a relationship. A relationship with the source, a relationshipwith a network...even a relationship between the person and the content! Igniting content is a symbol of  kindness and caring and a reflection of who we are.  
+The decision to share content is often a sign of a relationship. A relationship with the source, a relationshipwith a network...even **a relationship between the person and the content!** Igniting content is a symbol of  kindness and caring and a reflection of who we are.  
 Pretty deep stuff.  
 
 One of my blog readers recently sent me this note:  
-**“Your blog has become part of my morning routine. I start my day with a cup of coffee and your latest  
-blog post! I almost always share your posts with my friends because I feel like I know you. Your  
-perspective aligns with my business values and I feel good about sharing your thoughts with others  
-... and even with family members**.”  
+**“Your blog has become part of my morning routine. I start my day with a cup of coffee and your latest blog post! I almost always share your posts with my friends because I feel like I know you. Your perspective aligns with my business values and I feel good about sharing your thoughts with others  ... and even with family members**.”  
 
 There is a lot of rich insight in this brief message:  
 My content has connected to her on an emotional level, and I’ve become part of the fabric of her life.  
