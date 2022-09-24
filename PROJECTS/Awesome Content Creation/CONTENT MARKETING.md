@@ -335,29 +335,23 @@ accessing your site via a mobile device? You may be surprised! Make sure your si
 => Redynamise la page Facebook et WA
 
 ### 11. Concentrate on brand new research and ideas.  
-Remember that many of your readers share content because of the intrinsic value of helping others. Focusing  
-your content on new insights from research, quotes from experts, and exciting new ideas will appeal to this psychological aspect of sharing.  
-This is also a source of rich content creation ideas. When you see a particularly compelling piece of  
-research, quote it, provide proper links and attribution, and then give it your own spin:
-This is also a source of rich content creation ideas. When you see a particularly compelling piece of  
-research, quote it, provide proper links and attribution, and then give it your own spin:  
+Remember that many of your readers share content because of the intrinsic value of helping others. Focusing  your content on new insights from research, quotes from experts, and exciting new ideas will appeal to this psychological aspect of sharing.  
+This is also a source of rich content creation ideas. When you see a particularly compelling piece of research, quote it, provide proper links and attribution, and then give it your own spin:
+This is also a source of rich content creation ideas. When you see a particularly compelling piece of  research, quote it, provide proper links and attribution, and then give it your own spin:  
 What did you learn from this new research?  
 What new ideas did this enable?  
 Was the research done correctly, or is there a problem with the methodology you need to highlight?  
 How can the research be practically applied to problems in your industry?  
 What surprised you? What doesn’t make sense? How does the research provide a new world view?  
-All of these personal spins on data can make compelling original content highly valued by your most  
-passionate audience members.
+All of these personal spins on data can make compelling original content highly valued by your most  passionate audience members.
 => Demande à Nelson Essiane et l'autre là des ressources sur l'avancement du made in Cameroon
 
   
 ## 18. ENCOURAGE COMMENTS.  
-People who care enough to leave comments on the content you publish are also highly likely to share it with  
-their networks. If they spend the time to leave an opinion on your work, they want the world to know it, too!  
+People who care enough to leave comments on the content you publish are also highly likely to share it with  their networks. If they spend the time to leave an opinion on your work, they want the world to know it, too!  
 To the extent that you can encourage comments, you’re encouraging social sharing.  
 Here are some easy ways to encourage people to comment:  
-End your post with a question. People hate an open-ended post and are more likely to close the loop by  
-answering your question in a comment.  
+End your post with a question. People hate an open-ended post and are more likely to close the loop by  answering your question in a comment.  
 Ask specifically for comments. In Chapter 7, I cover the importance of comments and social proof, but  
 prime the pump by asking a few friends and work colleagues to leave a comment. Comments spur  
 comments. People feel better about leaving their views when they see they’re not standing all alone in  
