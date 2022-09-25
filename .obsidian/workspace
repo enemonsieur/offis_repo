@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AREAS/Les Confiotes/Innovations Confiotes.md",
+            "file": "PROJECTS/Awesome Content Creation/Content plan Sustain focus.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREAS/Les Confiotes/Innovations Confiotes.md",
+                "file": "PROJECTS/Awesome Content Creation/Content plan Sustain focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "316fce38699cd2ff",
   "lastOpenFiles": [
-    "AREAS/Les Confiotes/Work In Progres - Confiotes.md",
-    "AREAS/Les Confiotes/Innovations Confiotes.md",
-    "AREAS/Les Confiotes/MVP etiquette confiotes.md",
-    "AREAS/Les Confiotes/Tâches Confiotes.md",
-    "AREAS/Writing Copies.md",
-    "AREAS/grey matters/ADHD research.md",
-    "PROJECTS/Awesome Content Creation/Content plan Sustain focus.md",
     "PROJECTS/Awesome Content Creation/Videos Tiktok.md",
-    "PROJECTS/Awesome Content Creation/CONTENT MARKETING.md",
-    "AREAS/grey matters/UL - Japanese.md"
+    "AREAS/grey matters/Work in Progress.md",
+    "AREAS/grey matters/Threads Twitter.md",
+    "AREAS/grey matters/UL - Japanese.md",
+    "AREAS/grey matters/Building a second brain - Tiago Forte.md",
+    "AREAS/Learning Machine Learning/220620_1_BCI class.md",
+    "AREAS/grey matters/ADHD research.md",
+    "AREAS/Les Confiotes/Innovations Confiotes.md",
+    "AREAS/Les Confiotes/Work In Progres - Confiotes.md",
+    "AREAS/Les Confiotes/MVP etiquette confiotes.md"
   ]
 }

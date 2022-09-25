@@ -58,6 +58,7 @@ Or: People after 2h of deliberate Practice = Sleep deeply. or Walk out of laptop
 	1. If doing online course, working on book app, thesis, Basically if you need serious hours of uninterrupted focus to do something that's hard and imprevisible
 	**2. Start by the  rest.** The biggest reason why you can't deep work. FOrget hownew deepwork is mentaly excrutiating. nothingto do with actual work
 		1. Rest aren't leisure activity. ACtive rest is stopping at 5pm. Reading a book that's not addictive. Calling family, doing nothing. Meditating. Doing the activities that energize you. Going to the gym. And how ever you feel like you didn't work enough, still do them
+34. short: Everytime I'm trying to study: - Ranger. Weird noise - Notifications Angeleyes Lucas Striike
 
 
 
